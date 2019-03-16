@@ -12,6 +12,16 @@ const fs = require('fs');
 
 const jsctags = require('../');
 
+const EXCMDS = ['number', 'pattern'];
+
+const options = {
+  excmd: 'pattern'
+};
+
+if (argv.excmd && EXCMDS.indexOf(argv.excmd) >= 0) {
+  options.excmd = argv.excmd;
+}
+
 const dir = (function () {
   if (argv.dir) {
     return path.resolve(argv.dir);
@@ -54,8 +64,8 @@ const file = (function () {
   });
 })();
 
-const outputTags = function (tags) {
-  const ctags = flatten(jsctags.ctags(tags));
+const outputTags = function (tags, options) {
+  const ctags = flatten(jsctags.ctags(tags, options));
   console.log(ctags.join(''));
 };
 
@@ -81,7 +91,7 @@ const onResults = function (err, results) {
 
   tags.tagfile = results.tagfile;
 
-  fn(tags);
+  fn(tags, options);
 };
 
 const parse = function (ctx, fn) {

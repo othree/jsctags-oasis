@@ -19,14 +19,20 @@ const SPECIAL_FIELDS = {
   parent: true
 };
 
-const convert = function (tags) {
+const convert = function (tags, options) {
   return tags.map(tag => {
     if (isArray(tag)) {
-      return convert(tag);
+      return convert(tag, options);
     }
 
     const buf = [tag.name, '\t', tags.tagfile, '\t'];
-    buf.push(tag.addr === undefined ? '//' : tag.addr);
+
+    if (options.excmd === 'number') {
+      buf.push(tag.lineno === undefined ? '//' : tag.lineno);
+    } else {
+      buf.push(tag.addr === undefined ? '//' : tag.addr);
+    }
+
     const tagfields = [];
 
     Object.keys(tag).forEach(key => {
