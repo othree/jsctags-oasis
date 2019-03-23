@@ -1,6 +1,6 @@
 // Based on defnode.js (https://github.com/sourcegraph/defnode.js)
 
-const walk = require('acorn/dist/walk');
+const walk = require('acorn-walk');
 
 const walkall = require('./walkall');
 
