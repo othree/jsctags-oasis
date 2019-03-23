@@ -1,16 +1,15 @@
 {
-  "name": "jsctags",
-  "version": "5.2.2",
+  "name": "jsctags-oasis",
+  "version": "0.0.1",
   "description": "jsctags generator",
   "keywords": [
     "ctags",
     "jsctags",
     "tern"
   ],
-  "homepage": "https://github.com/ramitos/jsctags",
+  "homepage": "https://github.com/othree/jsctags-oasis",
   "bugs": {
-    "url": "http://github.com/ramitos/jsctags/issues",
-    "email": "mail@sergioramos.me"
+    "url": "https://github.com/othree/jsctags-oasis/issues"
   },
   "license": "MIT",
   "main": "src/parser.js",
