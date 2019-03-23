@@ -1,6 +1,8 @@
-# jsctags
+# jsctags-oasis
 
 [![](https://img.shields.io/travis/ramitos/jsctags.svg)](https://travis-ci.org/ramitos/jsctags) [![](https://img.shields.io/codeclimate/coverage/github/ramitos/jsctags.svg)](https://codeclimate.com/github/ramitos/jsctags/coverage) [![](https://img.shields.io/npm/v/jsctags.svg)](https://www.npmjs.com/package/jsctags) [![](https://img.shields.io/david/ramitos/jsctags.svg)](https://david-dm.org/ramitos/jsctags) [![](https://img.shields.io/codeclimate/github/ramitos/jsctags.svg)](https://codeclimate.com/github/ramitos/jsctags) [![](https://img.shields.io/npm/l/jsctags.svg)](https://www.npmjs.com/package/jsctags)
+
+[WIP] A forked project base on jsctags. Try to align the behavior of ctags as much as possible.
 
 jsctags generator using [tern](https://github.com/marijnh/tern)
 
@@ -9,14 +11,14 @@ jsctags generator using [tern](https://github.com/marijnh/tern)
 For access to the binary:
 
 ```sh
-npm install -g git+https://github.com/ramitos/jsctags.git
+npm install -g jsctags-oasis
 ```
 
 Otherwise, add to your project's package.json under dependencies or
 dev-dependencies:
 
 ```json
-"jsctags": "git://github.com/ramitos/jsctags.git"
+"jsctags": "jsctags-oasis"
 ```
 
 ## usage
