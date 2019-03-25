@@ -15,10 +15,10 @@ const jsctags = require('../');
 program
   .version('0.0.1')
   .usage('[options] <file ...>')
-  .option('-f', 'Output ctags format.')
-  .option('--find <value>', 'Find?')
-  .option('--file <value>', 'File to generate tag file.')
-  .option('--dir <value>', 'Dir to generate tag file.')
+  .option('--json', 'Output json format.')
+  .option('--find <pattern>', 'Use pattern to find file and generate tag file.')
+  .option('--file <file>', 'File to generate tag file.')
+  .option('--dir <dir>', 'Dir to generate tag file.')
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .parse(process.argv);
 
@@ -78,7 +78,7 @@ const onResults = function (err, results) {
     throw err;
   }
 
-  const fn = program.F ? outputTags : outputJSON;
+  const fn = program.json ? outputJSON : outputTags;
 
   const tags = results.filter(res => {
     if (res instanceof Error) {

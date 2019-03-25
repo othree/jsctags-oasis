@@ -38,34 +38,34 @@ async.forEachLimit(
     async.parallel(
       [
         async.apply(run, {
-          cmd: f.name,
+          cmd: format('--json %s', f.name),
           filename: f.filename,
           ext: '.json'
         }),
         async.apply(run, {
-          cmd: format('--file %s', f.name),
+          cmd: format('--json --file %s', f.name),
           filename: f.filename,
           ext: '.json',
           stdin: true
         }),
         async.apply(run, {
-          cmd: format('--find %s', f.name),
+          cmd: format('--json --find %s', f.name),
           filename: f.filename,
           ext: '.json'
         }),
         async.apply(run, {
-          cmd: format('%s -f', f.name),
+          cmd: format('%s', f.name),
           filename: f.filename,
           ext: '.tags'
         }),
         async.apply(run, {
-          cmd: format('--file %s -f', f.name),
+          cmd: format('--file %s', f.name),
           filename: f.filename,
           ext: '.tags',
           stdin: true
         }),
         async.apply(run, {
-          cmd: format('--find %s -f', f.name),
+          cmd: format('--find %s', f.name),
           filename: f.filename,
           ext: '.tags'
         })
@@ -85,20 +85,20 @@ async.forEachLimit(
     async.series([
       async.apply(run, {
         name: '~all~ -f',
-        cmd: format('%s -f', names.join(' ')),
+        cmd: format('%s', names.join(' ')),
         ext: '.tags'
       }),
       async.apply(run, {
         name: '~all~',
-        cmd: format('%s', names.join(' ')),
+        cmd: format('--json %s', names.join(' ')),
         ext: '.json'
       }),
       async.apply(run, {
-        cmd: '--find test/cases/*.js --find test/cases/*.jsx -f',
+        cmd: '--find test/cases/*.js --find test/cases/*.jsx',
         ext: '.tags'
       }),
       async.apply(run, {
-        cmd: '--find test/cases/*.js --find test/cases/*.jsx',
+        cmd: '--json --find test/cases/*.js --find test/cases/*.jsx',
         ext: '.json'
       })
     ]);
