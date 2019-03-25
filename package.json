@@ -35,6 +35,7 @@
     "acorn-walk": "^6.1.1",
     "async": "^2.6.1",
     "collect-stream": "^1.2.1",
+    "commander": "^2.19.0",
     "deepmerge": "^2.1.1",
     "force-array": "^3.1.0",
     "glob": "^7.1.2",

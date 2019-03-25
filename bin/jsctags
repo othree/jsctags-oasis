@@ -2,7 +2,7 @@
 
 const format = require('util').format;
 const forceArray = require('force-array');
-const argv = require('optimist').argv;
+const program = require('commander');
 const path = require('path');
 const glob = require('glob');
 const collect = require('collect-stream');
@@ -12,42 +12,42 @@ const fs = require('fs');
 
 const jsctags = require('../');
 
-const EXCMDS = ['number', 'pattern'];
-
-const options = {
-  excmd: 'pattern'
-};
-
-if (argv.excmd && EXCMDS.indexOf(argv.excmd) >= 0) {
-  options.excmd = argv.excmd;
-}
+program
+  .version('0.0.1')
+  .usage('[options] <file ...>')
+  .option('-f', 'Output ctags format.')
+  .option('--find <value>', 'Find?')
+  .option('--file <value>', 'File to generate tag file.')
+  .option('--dir <value>', 'Dir to generate tag file.')
+  .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
+  .parse(process.argv);
 
 const dir = (function () {
-  if (argv.dir) {
-    return path.resolve(argv.dir);
+  if (program.dir) {
+    return path.resolve(program.dir);
   }
 
-  if (argv.file) {
-    return path.dirname(argv.file);
+  if (program.file) {
+    return path.dirname(program.file);
   }
 
-  if (argv._.length) {
-    return path.dirname(argv._[0]);
+  if (program.args.length) {
+    return path.dirname(program.args[0]);
   }
 
   return '///null';
 })();
 
 const file = (function () {
-  if (argv.file) {
-    return path.resolve(process.cwd(), argv.file);
+  if (program.file) {
+    return path.resolve(process.cwd(), program.file);
   }
 
-  if (!argv._.length && !argv.find) {
+  if (!program.args.length && !program.find) {
     return format('///null/%s', Math.floor(Math.random() * 100));
   }
 
-  const find = forceArray(argv.find);
+  const find = forceArray(program.find);
   const files = find.length ?
     find.reduce((files, pattern) => {
       return files.concat(
@@ -57,7 +57,7 @@ const file = (function () {
         })
       );
     }, []) :
-    argv._;
+    program.args;
 
   return files.map(file => {
     return path.resolve(process.cwd(), file);
@@ -78,7 +78,7 @@ const onResults = function (err, results) {
     throw err;
   }
 
-  const fn = argv.f ? outputTags : outputJSON;
+  const fn = program.F ? outputTags : outputJSON;
 
   const tags = results.filter(res => {
     if (res instanceof Error) {
@@ -91,7 +91,7 @@ const onResults = function (err, results) {
 
   tags.tagfile = results.tagfile;
 
-  fn(tags, options);
+  fn(tags, program);
 };
 
 const parse = function (ctx, fn) {
@@ -154,4 +154,4 @@ const fromFiles = function () {
   );
 };
 
-(!argv._.length && !argv.find ? fromStdin : fromFiles)();
+(!program.args.length && !program.find ? fromStdin : fromFiles)();
