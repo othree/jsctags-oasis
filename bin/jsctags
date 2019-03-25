@@ -20,7 +20,15 @@ program
   .option('--file <file>', 'File to generate tag file.')
   .option('--dir <dir>', 'Dir to generate tag file.')
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
+  .option('-n, --excmd=number', 'Equivalent to --excmd=number.')
+  .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
   .parse(process.argv);
+
+if (program['excmd=number']) {
+  program.excmd = 'number';
+} else if (program['excmd=pattern']) {
+  program.excmd = 'pattern';
+}
 
 const dir = (function () {
   if (program.dir) {
