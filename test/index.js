@@ -88,11 +88,11 @@ async.forEachLimit(
         cmd: format('-f - %s', names.join(' ')),
         ext: '.tags'
       }),
-      // async.apply(run, {
-        // name: '~all~',
-        // cmd: format('-f - --json %s', names.join(' ')),
-        // ext: '.json'
-      // }),
+      async.apply(run, {
+        name: '~all~',
+        cmd: format('-f - --json %s', names.join(' ')),
+        ext: '.json'
+      }),
       async.apply(run, {
         cmd: '-f - --find test/cases/*.js --find test/cases/*.jsx',
         ext: '.tags'

@@ -115,10 +115,12 @@ module.exports = function (ctx) {
       cwd: process.cwd()
     });
 
+    /*
     if (t.stdin) {
       child.stdin.write(read(t.filename));
       child.stdin.end();
     }
+    */
 
     async.parallel(
       {
