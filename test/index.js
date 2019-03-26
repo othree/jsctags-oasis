@@ -38,34 +38,34 @@ async.forEachLimit(
     async.parallel(
       [
         async.apply(run, {
-          cmd: format('--json %s', f.name),
+          cmd: format('-f - --json %s', f.name),
           filename: f.filename,
           ext: '.json'
         }),
         async.apply(run, {
-          cmd: format('--json --file %s', f.name),
+          cmd: format('-f - --json --file %s', f.name),
           filename: f.filename,
           ext: '.json',
           stdin: true
         }),
         async.apply(run, {
-          cmd: format('--json --find %s', f.name),
+          cmd: format('-f - --json --find %s', f.name),
           filename: f.filename,
           ext: '.json'
         }),
         async.apply(run, {
-          cmd: format('%s', f.name),
+          cmd: format('-f - %s', f.name),
           filename: f.filename,
           ext: '.tags'
         }),
         async.apply(run, {
-          cmd: format('--file %s', f.name),
+          cmd: format('-f - --file %s', f.name),
           filename: f.filename,
           ext: '.tags',
           stdin: true
         }),
         async.apply(run, {
-          cmd: format('--find %s', f.name),
+          cmd: format('-f - --find %s', f.name),
           filename: f.filename,
           ext: '.tags'
         })
@@ -85,20 +85,20 @@ async.forEachLimit(
     async.series([
       async.apply(run, {
         name: '~all~ -f',
-        cmd: format('%s', names.join(' ')),
+        cmd: format('-f - %s', names.join(' ')),
+        ext: '.tags'
+      }),
+      // async.apply(run, {
+        // name: '~all~',
+        // cmd: format('-f - --json %s', names.join(' ')),
+        // ext: '.json'
+      // }),
+      async.apply(run, {
+        cmd: '-f - --find test/cases/*.js --find test/cases/*.jsx',
         ext: '.tags'
       }),
       async.apply(run, {
-        name: '~all~',
-        cmd: format('--json %s', names.join(' ')),
-        ext: '.json'
-      }),
-      async.apply(run, {
-        cmd: '--find test/cases/*.js --find test/cases/*.jsx',
-        ext: '.tags'
-      }),
-      async.apply(run, {
-        cmd: '--json --find test/cases/*.js --find test/cases/*.jsx',
+        cmd: '-f - --json --find test/cases/*.js --find test/cases/*.jsx',
         ext: '.json'
       })
     ]);

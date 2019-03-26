@@ -22,6 +22,7 @@ program
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .option('-n, --excmd=number', 'Equivalent to --excmd=number.')
   .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
+  .option('-f <file>', 'Use the name specified by tagfile for the tag file. Default is "tags"', null, 'tags')
   .parse(process.argv);
 
 if (program['excmd=number']) {
@@ -29,6 +30,8 @@ if (program['excmd=number']) {
 } else if (program['excmd=pattern']) {
   program.excmd = 'pattern';
 }
+
+const outputStream = program.F === '-' ? process.stdout : fs.createWriteStream(program.F);
 
 const dir = (function () {
   if (program.dir) {
@@ -74,11 +77,11 @@ const file = (function () {
 
 const outputTags = function (tags, options) {
   const ctags = flatten(jsctags.ctags(tags, options));
-  console.log(ctags.join(''));
+  outputStream.write(ctags.join(''));
 };
 
 const outputJSON = function (tags) {
-  console.log(JSON.stringify(flatten(forceArray(tags)), null, 2));
+  outputStream.write(JSON.stringify(flatten(forceArray(tags)), null, 2));
 };
 
 const onResults = function (err, results) {
