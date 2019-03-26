@@ -12,11 +12,16 @@ const fs = require('fs');
 
 const jsctags = require('../');
 
+const collection = (val, memo) => {
+  memo.push(val);
+  return memo;
+};
+
 program
   .version('0.0.1')
   .usage('[options] <file ...>')
   .option('--json', 'Output json format.')
-  .option('--find <pattern>', 'Use pattern to find file and generate tag file.')
+  .option('--find <pattern>', 'Use pattern to find file and generate tag file.', collection, [])
   .option('--file <file>', 'File to generate tag file.')
   .option('--dir <dir>', 'Dir to generate tag file.')
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
@@ -78,10 +83,12 @@ const file = (function () {
 const outputTags = function (tags, options) {
   const ctags = flatten(jsctags.ctags(tags, options));
   outputStream.write(ctags.join(''));
+  outputStream.end();
 };
 
 const outputJSON = function (tags) {
   outputStream.write(JSON.stringify(flatten(forceArray(tags)), null, 2));
+  outputStream.end();
 };
 
 const onResults = function (err, results) {
