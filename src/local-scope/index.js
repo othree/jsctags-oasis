@@ -7,7 +7,6 @@ const isUndefined = require('lodash.isundefined');
 const get = require('lodash.get');
 const walk = require('acorn-walk');
 const format = require('util').format;
-const forceArray = require('force-array');
 const infer = require('tern/lib/infer');
 
 const defnode = require('./defnode');
@@ -169,7 +168,7 @@ const postCondenseReach = function (server, options, state) {
       state.types[path].data
     );
 
-    forceArray(av.types).forEach(type => {
+    av.types.forEach(type => {
       visitScope(state, type, path);
     });
 

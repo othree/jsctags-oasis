@@ -1,6 +1,5 @@
 const assert = require('assert');
 const deepEqual = require('assert-diff').deepEqual;
-const forceArray = require('force-array');
 const cp = require('child_process');
 const clc = require('cli-color');
 const collect = require('collect-stream');
@@ -13,8 +12,8 @@ const async = require('async');
 const fs = require('fs');
 const md5 = require('md5');
 
-const read = function (filenames) {
-  return forceArray(filenames)
+const read = function (filename) {
+  return [filename]
     .map(filename => {
       return fs.readFileSync(filename, 'utf-8');
     })

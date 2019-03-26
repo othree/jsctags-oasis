@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 
 const format = require('util').format;
-const forceArray = require('force-array');
 const program = require('commander');
 const path = require('path');
 const glob = require('glob');
@@ -63,7 +62,7 @@ const file = (function () {
     return format('///null/%s', Math.floor(Math.random() * 100));
   }
 
-  const find = forceArray(program.find);
+  const find = program.find;
   const files = find.length ?
     find.reduce((files, pattern) => {
       return files.concat(
@@ -87,7 +86,7 @@ const outputTags = function (tags, options) {
 };
 
 const outputJSON = function (tags) {
-  outputStream.write(JSON.stringify(flatten(forceArray(tags)), null, 2));
+  outputStream.write(JSON.stringify(flatten(tags), null, 2));
   outputStream.end();
 };
 
