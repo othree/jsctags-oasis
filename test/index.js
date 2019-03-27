@@ -43,29 +43,7 @@ async.forEachLimit(
           ext: '.json'
         }),
         async.apply(run, {
-          cmd: format('-f - --json --file %s', f.name),
-          filename: f.filename,
-          ext: '.json',
-          stdin: true
-        }),
-        async.apply(run, {
-          cmd: format('-f - --json --find %s', f.name),
-          filename: f.filename,
-          ext: '.json'
-        }),
-        async.apply(run, {
           cmd: format('-f - %s', f.name),
-          filename: f.filename,
-          ext: '.tags'
-        }),
-        async.apply(run, {
-          cmd: format('-f - --file %s', f.name),
-          filename: f.filename,
-          ext: '.tags',
-          stdin: true
-        }),
-        async.apply(run, {
-          cmd: format('-f - --find %s', f.name),
           filename: f.filename,
           ext: '.tags'
         })
@@ -91,14 +69,6 @@ async.forEachLimit(
       async.apply(run, {
         name: '~all~',
         cmd: format('-f - --json %s', names.join(' ')),
-        ext: '.json'
-      }),
-      async.apply(run, {
-        cmd: '-f - --find test/cases/*.js --find test/cases/*.jsx',
-        ext: '.tags'
-      }),
-      async.apply(run, {
-        cmd: '-f - --json --find test/cases/*.js --find test/cases/*.jsx',
         ext: '.json'
       })
     ]);
