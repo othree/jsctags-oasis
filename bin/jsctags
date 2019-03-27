@@ -22,7 +22,7 @@ program
   .option('--json', 'Output json format.')
   .option('--find <pattern>', 'Use pattern to find file and generate tag file.', collection, [])
   .option('--file <file>', 'File to generate tag file.')
-  .option('--dir <dir>', 'Dir to generate tag file.')
+  .option('-p <path>', 'Use path as the default directory for each supplied source file')
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .option('-n, --excmd=number', 'Equivalent to --excmd=number.')
   .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
@@ -38,8 +38,8 @@ if (program['excmd=number']) {
 const outputStream = program.F === '-' ? process.stdout : fs.createWriteStream(program.F);
 
 const dir = (function () {
-  if (program.dir) {
-    return path.resolve(program.dir);
+  if (program.P) {
+    return path.resolve(program.P);
   }
 
   if (program.file) {
