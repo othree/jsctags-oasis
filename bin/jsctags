@@ -19,20 +19,26 @@ const collection = (val, memo) => {
 program
   .version('0.0.1')
   .usage('[options] <file ...>')
-  .option('--json', 'Output json format.')
-  .option('--find <pattern>', 'Use pattern to find file and generate tag file.', collection, [])
-  .option('--file <file>', 'File to generate tag file.')
   .option('-p <path>', 'Use path as the default directory for each supplied source file')
-  .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .option('-n, --excmd=number', 'Equivalent to --excmd=number.')
   .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
+  .option('-R, --recurse=yes', 'Equivalent to --recurse=yes.')
   .option('-f <file>', 'Use the name specified by tagfile for the tag file. Default is "tags"', null, 'tags')
+  .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
+  .option('--file <file>', 'File to generate tag file.')
+  .option('--find <pattern>', 'Use pattern to find file and generate tag file.', collection, [])
+  .option('--json', 'Output json format.')
+  .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
   .parse(process.argv);
 
 if (program['excmd=number']) {
   program.excmd = 'number';
 } else if (program['excmd=pattern']) {
   program.excmd = 'pattern';
+}
+
+if (!program.recurse && program['recurse=yes']) {
+  program.recurse = 'yes';
 }
 
 const outputStream = program.F === '-' ? process.stdout : fs.createWriteStream(program.F);
