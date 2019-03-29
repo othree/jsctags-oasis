@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-const format = require('util').format;
 const program = require('commander');
 const path = require('path');
 const glob = require('glob');
@@ -25,11 +24,14 @@ program
   .option('-R, --recurse=yes', 'Equivalent to --recurse=yes.')
   .option('-f <file>', 'Use the name specified by tagfile for the tag file. Default is "tags"', null, 'tags')
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
-  .option('--file <file>', 'File to generate tag file.')
-  .option('--find <pattern>', 'Use pattern to find file and generate tag file.', collection, [])
   .option('--json', 'Output json format.')
   .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
   .parse(process.argv);
+
+if (!program.args.length) {
+  console.log('jactags: No files specified. Try "jsctags --help".');
+  process.exit(1);
+}
 
 if (program['excmd=number']) {
   program.excmd = 'number';
@@ -37,7 +39,7 @@ if (program['excmd=number']) {
   program.excmd = 'pattern';
 }
 
-if (!program.recurse && program['recurse=yes']) {
+if (program['recurse=yes']) {
   program.recurse = 'yes';
 }
 
@@ -60,17 +62,11 @@ const dir = (function () {
 })();
 
 const file = (function () {
-  if (program.file) {
-    return path.resolve(process.cwd(), program.file);
-  }
-
-  if (!program.args.length && !program.find) {
-    return format('///null/%s', Math.floor(Math.random() * 100));
-  }
-
-  const find = program.find;
+  const find = program.args;
   const files = find.length ?
-    find.reduce((files, pattern) => {
+    find.reduce((files, file) => {
+      const pattern = program.recurse === 'yes' ? file + '/**/*.{js,jsx}' : file;
+
       return files.concat(
         glob.sync(pattern, {
           nosort: true,

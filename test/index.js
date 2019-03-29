@@ -63,12 +63,12 @@ async.forEachLimit(
     async.series([
       async.apply(run, {
         name: '~all~ -f',
-        cmd: format('-f - %s', names.join(' ')),
+        cmd: format('-f - -R %s', 'test/cases/'),
         ext: '.tags'
       }),
       async.apply(run, {
         name: '~all~',
-        cmd: format('-f - --json %s', names.join(' ')),
+        cmd: format('-f - --json -R %s', 'test/cases/'),
         ext: '.json'
       })
     ]);
