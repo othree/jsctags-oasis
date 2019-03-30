@@ -47,18 +47,10 @@ const outputStream = program.F === '-' ? process.stdout : fs.createWriteStream(p
 
 const dir = (function () {
   if (program.P) {
-    return path.resolve(program.P);
+    return path.dirname(path.resolve(program.P));
   }
 
-  if (program.file) {
-    return path.dirname(program.file);
-  }
-
-  if (program.args.length) {
-    return path.dirname(program.args[0]);
-  }
-
-  return '///null';
+  return process.cwd();
 })();
 
 const file = (function () {
