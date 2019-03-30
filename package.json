@@ -1,6 +1,6 @@
 {
   "name": "jsctags-oasis",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "jsctags generator",
   "keywords": [
     "ctags",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ramitos/jsctags.git"
+    "url": "git://github.com/othree/jsctags-oasis"
   },
   "scripts": {
     "test": "NODE_ENV=test nyc node test",
