@@ -62,10 +62,10 @@ const dir = (function () {
 })();
 
 const file = (function () {
-  const find = program.args;
-  const files = find.length ?
-    find.reduce((files, file) => {
-      const pattern = program.recurse === 'yes' ? file + '/**/*.{js,jsx}' : file;
+  const inputs = program.args;
+  const files = program.recurse === 'yes' ?
+    inputs.reduce((files, file) => {
+      const pattern = file + '/**/*.{js,jsx}';
 
       return files.concat(
         glob.sync(pattern, {
@@ -74,7 +74,7 @@ const file = (function () {
         })
       );
     }, []) :
-    program.args;
+    inputs;
 
   return files.map(file => {
     return path.resolve(process.cwd(), file);
