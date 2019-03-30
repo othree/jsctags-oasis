@@ -70,7 +70,12 @@ async.forEachLimit(
         name: '~all~',
         cmd: format('-f - --json -R %s', 'test/cases/'),
         ext: '.json'
-      })
+      }),
+      async.apply(run, {
+        name: '~all~ -f --exclude',
+        cmd: format('-f - -R --exclude=test/clean.js --exclude=test/index.js --exclude=test/run.js %s', 'test/'),
+        ext: '.tags'
+      }),
     ]);
   }
 );

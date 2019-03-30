@@ -23,6 +23,7 @@ program
   .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
   .option('-R, --recurse=yes', 'Equivalent to --recurse=yes.')
   .option('-f <file>', 'Use the name specified by tagfile for the tag file. Default is "tags"', null, 'tags')
+  .option('--exclude <pattern>', 'Add pattern to a list of excluded files and directories.', collection, [])
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .option('--json', 'Output json format.')
   .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
@@ -62,7 +63,8 @@ const file = (function () {
       return files.concat(
         glob.sync(pattern, {
           nosort: true,
-          silent: true
+          silent: true,
+          ignore: program.exclude
         })
       );
     }, []) :
