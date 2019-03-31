@@ -29,11 +29,6 @@ program
   .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
   .parse(process.argv);
 
-if (!program.args.length) {
-  console.log('jactags: No files specified. Try "jsctags --help".');
-  process.exit(1);
-}
-
 if (program['excmd=number']) {
   program.excmd = 'number';
 } else if (program['excmd=pattern']) {
@@ -42,6 +37,15 @@ if (program['excmd=number']) {
 
 if (program['recurse=yes']) {
   program.recurse = 'yes';
+}
+
+if (program.recurse === 'yes' && !program.args.length) {
+  program.args.push('./');
+}
+
+if (!program.args.length) {
+  console.log('jsctags: No files specified. Try "jsctags --help".');
+  process.exit(1);
 }
 
 const outputStream = program.F === '-' ? process.stdout : fs.createWriteStream(program.F);

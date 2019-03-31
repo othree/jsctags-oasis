@@ -111,7 +111,7 @@ const logErr = function (fn) {
 module.exports = function (ctx) {
   return function (t, fn) {
     const child = cp.spawn(ctx.bin, t.cmd.split(/\s/), {
-      cwd: process.cwd()
+      cwd: t.cwd || process.cwd()
     });
 
     /*

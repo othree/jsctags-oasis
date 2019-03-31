@@ -62,20 +62,26 @@ async.forEachLimit(
 
     async.series([
       async.apply(run, {
-        name: '~all~ -f',
+        name: '-f - -R test/cases/',
         cmd: format('-f - -R %s', 'test/cases/'),
         ext: '.tags'
       }),
       async.apply(run, {
-        name: '~all~',
+        name: '-f - --json -R test/cases/',
         cmd: format('-f - --json -R %s', 'test/cases/'),
         ext: '.json'
       }),
       async.apply(run, {
-        name: '~all~ -f --exclude',
+        name: '-f - -R test/ --exclude=...',
         cmd: format('-f - -R --exclude=test/clean.js --exclude=test/index.js --exclude=test/run.js %s', 'test/'),
         ext: '.tags'
       }),
+      async.apply(run, {
+        name: '-f - -R',
+        cwd: path.resolve('test/cases/'),
+        cmd: '-f - -R',
+        ext: '.tags'
+      })
     ]);
   }
 );
