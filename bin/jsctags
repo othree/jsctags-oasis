@@ -27,6 +27,7 @@ program
   .option('--exclude <pattern>', 'Add pattern to a list of excluded files and directories.', collection, [])
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .option('--json', 'Output json format.')
+  .option('--map <map>', 'Controls how file names are mapped to JavaScript language.', '.js.jsx')
   .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
   .parse(process.argv);
 
@@ -63,11 +64,13 @@ const dir = (function () {
   return process.cwd();
 })();
 
+const extGlob = program.map.replace(/^\./, '').replace(/\./g, ',');
+
 const file = (function () {
   const inputs = program.args;
   const files = program.recurse === 'yes' ?
     inputs.reduce((files, file) => {
-      const pattern = file + '/**/*.{js,jsx}';
+      const pattern = file + '/**/*.{' + extGlob + '}';
 
       return files.concat(
         glob.sync(pattern, {
