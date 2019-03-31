@@ -18,11 +18,12 @@ const collection = (val, memo) => {
 program
   .version('0.0.1')
   .usage('[options] <file ...>')
-  .option('-p <path>', 'Use path as the default directory for each supplied source file')
+  .option('-f <tagfile>', 'Use the name specified by tagfile for the tag file. Default is "tags"', 'tags')
   .option('-n, --excmd=number', 'Equivalent to --excmd=number.')
+  .option('-o <tagfile>', 'Equivalent to -f tagfile.')
+  .option('-p <path>', 'Use path as the default directory for each supplied source file')
   .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
   .option('-R, --recurse=yes', 'Equivalent to --recurse=yes.')
-  .option('-f <file>', 'Use the name specified by tagfile for the tag file. Default is "tags"', null, 'tags')
   .option('--exclude <pattern>', 'Add pattern to a list of excluded files and directories.', collection, [])
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .option('--json', 'Output json format.')
@@ -33,6 +34,10 @@ if (program['excmd=number']) {
   program.excmd = 'number';
 } else if (program['excmd=pattern']) {
   program.excmd = 'pattern';
+}
+
+if (program.O && program.F === 'tags' && program.rawArgs.indexOf('-f') === -1) {
+  program.F = program.O;
 }
 
 if (program['recurse=yes']) {
