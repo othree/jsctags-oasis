@@ -106,6 +106,13 @@ const postCondenseReach = function (server, options, state) {
     return !isUndefined(get(type, 'props.prototype'));
   };
 
+  const isNoRenameSpecifiedImport = function (av) {
+    const node = av.originNode;
+    const specifier = walk.findNodeAround(node.sourceFile.ast, node.start, t => t === 'ImportSpecifier');
+
+    return (specifier && specifier.node.imported.name === specifier.node.local.name);
+  };
+
   const visitAVal = function (state, av, path) {
     if (av._localScopeCondenseSeen) {
       return;
@@ -128,6 +135,10 @@ const postCondenseReach = function (server, options, state) {
     }
 
     if (seenSpans[span]) {
+      return;
+    }
+  
+    if (isNoRenameSpecifiedImport(av)) {
       return;
     }
 
