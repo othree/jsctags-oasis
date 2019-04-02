@@ -414,6 +414,8 @@ testTryCatchFlow1	__DIR__/hint_ecma5.js	/testTryCatchFlow1/;"	f	lineno:398	type:
 varInTry	__DIR__/hint_ecma5.js	/varInTry/;"	v	lineno:400	namespace:testTryCatchFlow1	type:string
 varInCatch	__DIR__/hint_ecma5.js	/varInCatch/;"	v	lineno:403	namespace:testTryCatchFlow1	type:string
 a	__DIR__/hint_simple.js	/a/;"	v	lineno:6	type:[number]|number
+React	__DIR__/import.js	/React/;"	v	lineno:1
+z	__DIR__/import.js	/z/;"	f	lineno:4	type:void function()
 sup	__DIR__/indirect_class.js	/sup/;"	v	lineno:1
 foo	__DIR__/indirect_class.js	/foo/;"	f	lineno:2	namespace:sup	type:number function()
 makeClass	__DIR__/indirect_class.js	/makeClass/;"	f	lineno:5	type:void function(makeClass.!0)

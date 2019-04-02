@@ -1,0 +1,37 @@
+[
+  {
+    "id": "7c6c7c71-552b-11e9-87b4-57e239e9b15a",
+    "name": "React",
+    "addr": "/React/",
+    "kind": "v",
+    "lineno": 1,
+    "parent": "7c6c7c70-552b-11e9-87b4-57e239e9b15a",
+    "origin": {
+      "!span": "7[0:7]-12[0:12]",
+      "!data": {
+        "isConstructor": false,
+        "scoped": false,
+        "isArg": false,
+        "type": false
+      }
+    },
+    "tagfile": "__DIR__/import.js"
+  },
+  {
+    "id": "7c6c5560-552b-11e9-87b4-57e239e9b15a",
+    "name": "z",
+    "addr": "/z/",
+    "kind": "f",
+    "type": "void function()",
+    "lineno": 4,
+    "origin": {
+      "!span": "55[3:4]-56[3:5]",
+      "!type": "fn()",
+      "!data": {
+        "isConstructor": false,
+        "type": "Function.prototype"
+      }
+    },
+    "tagfile": "__DIR__/import.js"
+  }
+]
