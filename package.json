@@ -1,6 +1,6 @@
 {
   "name": "jsctags-oasis",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "jsctags generator",
   "keywords": [
     "ctags",
