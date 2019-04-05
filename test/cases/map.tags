@@ -1,4 +1,3 @@
-map	__DIR__/map.js	/map/;"	v	lineno:1	type:Map
 key	__DIR__/map.js	/key/;"	v	lineno:18	type:number
+map	__DIR__/map.js	/map/;"	v	lineno:1	type:Map
 value	__DIR__/map.js	/value/;"	v	lineno:18	type:string
-
