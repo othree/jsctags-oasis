@@ -25,7 +25,7 @@ const convert = function (tags, options) {
       return convert(tag, options);
     }
 
-    const buf = [tag.name, '\t', tags.tagfile, '\t'];
+    const buf = [tag.name, '\t', tag.tagfile, '\t'];
 
     if (options.excmd === 'number') {
       buf.push(tag.lineno === undefined ? '//' : tag.lineno);

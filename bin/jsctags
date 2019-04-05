@@ -5,6 +5,7 @@ const path = require('path');
 const glob = require('glob');
 const collect = require('collect-stream');
 const flatten = require('lodash.flatten');
+const sortBy = require('lodash.sortby');
 const async = require('async');
 const fs = require('fs');
 
@@ -29,6 +30,7 @@ program
   .option('--json', 'Output json format.')
   .option('--map <map>', 'Controls how file names are mapped to JavaScript language.', '.js.jsx')
   .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
+  .option('--sort <yes|no>', 'Indicates whether the tag file should be sorted on the tag name', /^(yes|no)$/i, 'yes')
   .parse(process.argv);
 
 if (program['excmd=number']) {
@@ -92,7 +94,8 @@ const file = (function () {
 })();
 
 const outputTags = function (tags, options) {
-  const ctags = flatten(jsctags.ctags(tags, options));
+  const normalizedTags = program.sort === 'yes' ? sortBy(flatten(tags), item => item.name) : flatten(tags);
+  const ctags = flatten(jsctags.ctags(normalizedTags, options));
   outputStream.write(ctags.join(''));
   outputStream.end();
 };
