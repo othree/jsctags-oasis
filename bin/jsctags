@@ -24,7 +24,7 @@ program
   .option('-p <path>', 'Use path as the default directory for each supplied source file')
   .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
   .option('-R, --recurse=yes', 'Equivalent to --recurse=yes.')
-  .option('--exclude <pattern>', 'Add pattern to a list of excluded files and directories.', collection, [])
+  .option('--exclude <pattern>', 'Add pattern to a list of excluded files and directories.', collection, ['node_modules/**/*'])
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
   .option('--json', 'Output json format.')
   .option('--map <map>', 'Controls how file names are mapped to JavaScript language.', '.js.jsx')
@@ -46,7 +46,7 @@ if (program['recurse=yes']) {
 }
 
 if (program.recurse === 'yes' && !program.args.length) {
-  program.args.push('./');
+  program.args.push('.');
 }
 
 if (!program.args.length) {
@@ -70,15 +70,19 @@ const file = (function () {
   const inputs = program.args;
   const files = program.recurse === 'yes' ?
     inputs.reduce((files, file) => {
-      const pattern = file + '/**/*.{' + extGlob + '}';
+      const isdir = fs.lstatSync(file).isDirectory();
 
-      return files.concat(
-        glob.sync(pattern, {
+      if (isdir) {
+        const pattern = path.join(path.relative(process.cwd(), path.resolve(file)), '**/*.{' + extGlob + '}');
+
+        return files.concat(glob.sync(pattern, {
           nosort: true,
           silent: true,
           ignore: program.exclude
-        })
-      );
+        }));
+      }
+
+      return files.concat(file);
     }, []) :
     inputs;
 
