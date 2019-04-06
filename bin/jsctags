@@ -26,7 +26,7 @@ program
   .option('-p <path>', 'Use path as the default directory for each supplied source file')
   .option('-R, --recurse=yes', 'Equivalent to --recurse=yes.')
   .option('--exclude <pattern>', 'Add pattern to a list of excluded files and directories.', collection, ['node_modules/**/*'])
-  .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'pattern')
+  .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'number')
   .option('--json', 'Output json format.')
   .option('--map <map>', 'Controls how file names are mapped to JavaScript language.', '.js.jsx')
   .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
