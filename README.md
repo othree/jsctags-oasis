@@ -25,11 +25,12 @@ Options:
   -p <path>            Use path as the default directory for each supplied source file
   -N, --excmd=pattern  Equivalent to --excmd=pattern.
   -R, --recurse=yes    Equivalent to --recurse=yes.
-  --exclude <pattern>  Add pattern to a list of excluded files and directories. (default: [])
+  --exclude <pattern>  Add pattern to a list of excluded files and directories. (default: ["node_modules/**/*"])
   --excmd <cmd>        Determines the type of EX command used to locate tags in the source file. (default: "pattern")
   --json               Output json format.
   --map <map>          Controls how file names are mapped to JavaScript language. (default: ".js.jsx")
   --recurse <yes|no>   Recurse  into  directories encountered in the list of supplied files. (default: "no")
+  --sort <yes|no>      Indicates whether the tag file should be sorted on the tag name (default: "yes")
   -h, --help           output usage information
 ```
 
