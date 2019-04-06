@@ -43,9 +43,14 @@ async.forEachLimit(
           ext: '.json'
         }),
         async.apply(run, {
-          cmd: format('-f - %s', f.name),
+          cmd: format('-f - --excmd=pattern %s', f.name),
           filename: f.filename,
           ext: '.tags'
+        }),
+        async.apply(run, {
+          cmd: format('-f - %s', f.name),
+          filename: f.filename,
+          ext: '.number.tags'
         })
       ],
       fn
@@ -56,14 +61,10 @@ async.forEachLimit(
       throw err;
     }
 
-    const names = files.map(f => {
-      return f.name;
-    });
-
     async.series([
       async.apply(run, {
-        name: '-f - -R test/cases/',
-        cmd: format('-f - -R %s', 'test/cases/'),
+        name: '-f - --excmd=pattern -R test/cases/',
+        cmd: format('-f - --excmd=pattern -R %s', 'test/cases/'),
         ext: '.tags'
       }),
       async.apply(run, {
@@ -72,14 +73,14 @@ async.forEachLimit(
         ext: '.json'
       }),
       async.apply(run, {
-        name: '-f - -R test/ --exclude=...',
-        cmd: format('-f - -R --exclude=test/clean.js --exclude=test/index.js --exclude=test/run.js %s', 'test/'),
+        name: '-f - --excmd=pattern -R test/ --exclude=...',
+        cmd: format('-f - --excmd=pattern -R --exclude=test/clean.js --exclude=test/index.js --exclude=test/run.js %s', 'test/'),
         ext: '.tags'
       }),
       async.apply(run, {
-        name: '-f - -R',
+        name: '-f - --excmd=pattern -R',
         cwd: path.resolve('test/cases/'),
-        cmd: '-f - -R',
+        cmd: '-f - --excmd=pattern -R',
         ext: '.tags'
       })
     ]);

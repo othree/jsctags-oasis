@@ -1,0 +1,121 @@
+CSS	__DIR__/hint_ecma5.js	183;"	v	lineno:183	namespace:config
+Ctor1	__DIR__/hint_ecma5.js	155;"	f	lineno:155	type:void function()
+Ctor2	__DIR__/hint_ecma5.js	159;"	f	lineno:159	type:void function()
+Foo	__DIR__/hint_ecma5.js	166;"	f	lineno:166	type:void function(bool)
+IDs	__DIR__/hint_ecma5.js	184;"	v	lineno:184	namespace:config.CSS
+a	__DIR__/hint_ecma5.js	8;"	v	lineno:8	type:[number]
+a	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base.foo2	type:number
+a	__DIR__/hint_ecma5.js	156;"	v	lineno:156	namespace:Ctor1.prototype	type:number
+a2	__DIR__/hint_ecma5.js	29;"	v	lineno:29	type:number
+a3	__DIR__/hint_ecma5.js	32;"	v	lineno:32	type:number
+a4	__DIR__/hint_ecma5.js	35;"	v	lineno:35	type:number
+a5	__DIR__/hint_ecma5.js	38;"	v	lineno:38	type:number
+age	__DIR__/hint_ecma5.js	89;"	v	lineno:89	namespace:person	type:number
+age	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:number
+age	__DIR__/hint_ecma5.js	98;"	v	lineno:98	namespace:friend	type:number
+arr1	__DIR__/hint_ecma5.js	206;"	v	lineno:206	type:[bool]
+arr2	__DIR__/hint_ecma5.js	213;"	v	lineno:213	type:[number]
+b	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base.foo2	type:string
+b1	__DIR__/hint_ecma5.js	41;"	v	lineno:41	type:number
+bar	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base	type:number
+bar	__DIR__/hint_ecma5.js	173;"	v	lineno:173	namespace:Foo.prototype	type:number
+base	__DIR__/hint_ecma5.js	119;"	v	lineno:119
+baz	__DIR__/hint_ecma5.js	129;"	v	lineno:129	namespace:base	type:number
+canvas	__DIR__/hint_ecma5.js	186;"	v	lineno:186	namespace:config.CSS.IDs	type:string
+car	__DIR__/hint_ecma5.js	69;"	v	lineno:69	type:string
+changeName	__DIR__/hint_ecma5.js	100;"	f	lineno:100	namespace:personType	type:!this.lastname function(?)
+config	__DIR__/hint_ecma5.js	182;"	v	lineno:182
+container	__DIR__/hint_ecma5.js	185;"	v	lineno:185	namespace:config.CSS.IDs	type:string
+controls	__DIR__/hint_ecma5.js	188;"	v	lineno:188	namespace:config.CSS.IDs	type:string
+empty	__DIR__/hint_ecma5.js	150;"	v	lineno:150
+extend	__DIR__/hint_ecma5.js	144;"	v	lineno:144
+eyecolor	__DIR__/hint_ecma5.js	90;"	v	lineno:90	namespace:person	type:string
+eyecolor	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:string
+eyecolor	__DIR__/hint_ecma5.js	99;"	v	lineno:99	namespace:friend	type:string
+f	__DIR__/hint_ecma5.js	218;"	v	lineno:218
+f	__DIR__/hint_ecma5.js	272;"	v	lineno:272	namespace:timeout
+f	__DIR__/hint_ecma5.js	296;"	v	lineno:296	namespace:testIfControlFlow1
+f2	__DIR__/hint_ecma5.js	220;"	v	lineno:220
+f3	__DIR__/hint_ecma5.js	222;"	v	lineno:222
+firstname	__DIR__/hint_ecma5.js	87;"	v	lineno:87	namespace:person	type:string
+firstname	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:string
+firstname	__DIR__/hint_ecma5.js	96;"	v	lineno:96	namespace:friend	type:string
+foo	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base	type:number
+foo	__DIR__/hint_ecma5.js	176;"	v	lineno:176	type:Foo
+foo2	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base
+friend	__DIR__/hint_ecma5.js	110;"	v	lineno:110	type:personType
+func	__DIR__/hint_ecma5.js	275;"	f	lineno:275	namespace:obj	type:void function()
+gen1	__DIR__/hint_ecma5.js	132;"	v	lineno:132
+gen2	__DIR__/hint_ecma5.js	133;"	v	lineno:133
+globalVar1	__DIR__/hint_ecma5.js	259;"	v	lineno:259	type:number
+i	__DIR__/hint_ecma5.js	360;"	v	lineno:360	type:number
+inCase1	__DIR__/hint_ecma5.js	381;"	v	lineno:381	namespace:testSwitchFlow1	type:string
+inCase2	__DIR__/hint_ecma5.js	385;"	v	lineno:385	namespace:testSwitchFlow1	type:string
+inNestedIf	__DIR__/hint_ecma5.js	303;"	v	lineno:303	namespace:testIfControlFlow1	type:string
+j	__DIR__/hint_ecma5.js	324;"	v	lineno:324	namespace:testForControlFlow1	type:number
+k	__DIR__/hint_ecma5.js	23;"	v	lineno:23	type:number
+kaka	__DIR__/hint_ecma5.js	135;"	v	lineno:135	namespace:gen2	type:number
+l	__DIR__/hint_ecma5.js	26;"	v	lineno:26	type:number
+lastname	__DIR__/hint_ecma5.js	88;"	v	lineno:88	namespace:person	type:string
+lastname	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:string
+lastname	__DIR__/hint_ecma5.js	97;"	v	lineno:97	namespace:friend	type:string
+localVar1InOne	__DIR__/hint_ecma5.js	258;"	v	lineno:258	namespace:one	type:string
+localVarBecomeGlobal	__DIR__/hint_ecma5.js	285;"	v	lineno:285	type:[number]
+m	__DIR__/hint_ecma5.js	20;"	v	lineno:20	type:number
+m	__DIR__/hint_ecma5.js	321;"	v	lineno:321	namespace:testForControlFlow1	type:string
+makeString	__DIR__/hint_ecma5.js	172;"	f	lineno:172	namespace:Foo.prototype	type:string function()
+n	__DIR__/hint_ecma5.js	17;"	v	lineno:17	type:number
+n	__DIR__/hint_ecma5.js	322;"	v	lineno:322	namespace:testForControlFlow1	type:number
+n	__DIR__/hint_ecma5.js	342;"	v	lineno:342	namespace:testWhileLoopFlow1	type:number
+n	__DIR__/hint_ecma5.js	377;"	v	lineno:377	namespace:testSwitchFlow1
+name	__DIR__/hint_ecma5.js	104;"	v	lineno:104	namespace:personType.changeName
+name	__DIR__/hint_ecma5.js	274;"	v	lineno:274	namespace:obj	type:string
+name	__DIR__/hint_ecma5.js	299;"	v	lineno:299	namespace:testIfControlFlow1.f	type:string
+obj	__DIR__/hint_ecma5.js	273;"	v	lineno:273
+one	__DIR__/hint_ecma5.js	254;"	f	lineno:254	type:void function()
+pattern1	__DIR__/hint_ecma5.js	54;"	v	lineno:54	type:regexp
+person	__DIR__/hint_ecma5.js	86;"	v	lineno:86
+person	__DIR__/hint_ecma5.js	256;"	v	lineno:256	namespace:one	type:string
+personType	__DIR__/hint_ecma5.js	95;"	f	lineno:95	type:void function(string, string, number, string)
+player	__DIR__/hint_ecma5.js	187;"	v	lineno:187	namespace:config.CSS.IDs	type:string
+prop1	__DIR__/hint_ecma5.js	//;"	v	namespace:extend	type:string
+prop1	__DIR__/hint_ecma5.js	151;"	v	lineno:151	namespace:empty	type:string
+prop2	__DIR__/hint_ecma5.js	//;"	v	namespace:extend	type:number
+prototype	__DIR__/hint_ecma5.js	156;"	v	lineno:156	namespace:Ctor1
+prototype	__DIR__/hint_ecma5.js	171;"	v	lineno:171	namespace:Foo
+quux	__DIR__/hint_ecma5.js	134;"	v	lineno:134	namespace:gen1	type:number
+reg	__DIR__/hint_ecma5.js	51;"	v	lineno:51	type:regexp
+s1	__DIR__/hint_ecma5.js	72;"	v	lineno:72	type:string
+s2	__DIR__/hint_ecma5.js	75;"	v	lineno:75	type:string
+s3	__DIR__/hint_ecma5.js	78;"	v	lineno:78	type:string
+s4	__DIR__/hint_ecma5.js	81;"	v	lineno:81	type:string
+scope1	__DIR__/hint_ecma5.js	216;"	f	lineno:216	type:void function()
+singleton	__DIR__/hint_ecma5.js	164;"	v	lineno:164
+t	__DIR__/hint_ecma5.js	305;"	v	lineno:305	namespace:testIfControlFlow1
+testBreak	__DIR__/hint_ecma5.js	362;"	v	lineno:362	namespace:testBreakFlow1	type:string
+testBreakFlow1	__DIR__/hint_ecma5.js	359;"	f	lineno:359	type:void function()
+testContinue	__DIR__/hint_ecma5.js	365;"	v	lineno:365	namespace:testBreakFlow1	type:string
+testDoWhileLoopFlow1	__DIR__/hint_ecma5.js	349;"	f	lineno:349	type:void function()
+testForControlFlow1	__DIR__/hint_ecma5.js	317;"	f	lineno:317	type:void function()
+testForInLoopFlow1	__DIR__/hint_ecma5.js	334;"	f	lineno:334	type:void function()
+testIfControlFlow1	__DIR__/hint_ecma5.js	291;"	f	lineno:291	type:void function()
+testSwitchFlow1	__DIR__/hint_ecma5.js	377;"	f	lineno:377	type:void function(?)
+testTryCatchFlow1	__DIR__/hint_ecma5.js	398;"	f	lineno:398	type:void function()
+testWhileLoopFlow1	__DIR__/hint_ecma5.js	341;"	f	lineno:341	type:void function()
+timeout	__DIR__/hint_ecma5.js	272;"	f	lineno:272	namespace:timeout	type:void function(?, ?)
+timeout	__DIR__/hint_ecma5.js	272;"	v	lineno:272
+varInCatch	__DIR__/hint_ecma5.js	403;"	v	lineno:403	namespace:testTryCatchFlow1	type:string
+varInDoWhileLoop	__DIR__/hint_ecma5.js	352;"	v	lineno:352	namespace:testDoWhileLoopFlow1	type:string
+varInForLoop	__DIR__/hint_ecma5.js	323;"	v	lineno:323	namespace:testForControlFlow1	type:string
+varInIf	__DIR__/hint_ecma5.js	294;"	v	lineno:294	namespace:testIfControlFlow1	type:string
+varInNestedForLoop	__DIR__/hint_ecma5.js	325;"	v	lineno:325	namespace:testForControlFlow1	type:number
+varInTry	__DIR__/hint_ecma5.js	400;"	v	lineno:400	namespace:testTryCatchFlow1	type:string
+varInWhileLoop	__DIR__/hint_ecma5.js	344;"	v	lineno:344	namespace:testWhileLoopFlow1	type:string
+x	__DIR__/hint_ecma5.js	3;"	v	lineno:3	type:number
+x	__DIR__/hint_ecma5.js	166;"	v	lineno:166	namespace:Foo	type:boolean
+x	__DIR__/hint_ecma5.js	167;"	v	lineno:167	namespace:foo	type:boolean
+y	__DIR__/hint_ecma5.js	8;"	v	lineno:8	type:[number]
+y	__DIR__/hint_ecma5.js	11;"	v	lineno:11	type:[number]
+y	__DIR__/hint_ecma5.js	168;"	v	lineno:168	namespace:Foo	type:[number]
+years	__DIR__/hint_ecma5.js	201;"	v	lineno:201	type:[number]
+z	__DIR__/hint_ecma5.js	14;"	v	lineno:14	type:number

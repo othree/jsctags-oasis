@@ -1,0 +1,7 @@
+Ctor	__DIR__/indirect_class.js	6;"	f	lineno:6	namespace:makeClass	type:void function()
+Mine	__DIR__/indirect_class.js	11;"	v	lineno:11
+foo	__DIR__/indirect_class.js	2;"	f	lineno:2	namespace:sup	type:number function()
+m	__DIR__/indirect_class.js	8;"	v	lineno:8	namespace:makeClass
+makeClass	__DIR__/indirect_class.js	5;"	f	lineno:5	type:void function(makeClass.!0)
+prototype	__DIR__/indirect_class.js	7;"	v	lineno:7	namespace:makeClass.Ctor
+sup	__DIR__/indirect_class.js	1;"	v	lineno:1

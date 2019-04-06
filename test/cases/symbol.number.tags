@@ -1,0 +1,4 @@
+:my_sym	__DIR__/symbol.js	4;"	v	lineno:4	namespace:obj	type:number
+iterator	__DIR__/symbol.js	8;"	v	lineno:8	namespace:obj.:Symbol	type:string
+mySym	__DIR__/symbol.js	1;"	v	lineno:1
+obj	__DIR__/symbol.js	3;"	v	lineno:3

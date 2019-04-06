@@ -1,0 +1,6 @@
+Obj	__DIR__/arrow.js	11;"	f	lineno:11	type:void function()
+a	__DIR__/arrow.js	1;"	v	lineno:1	namespace:f	type:number
+b	__DIR__/arrow.js	1;"	v	lineno:1	namespace:f	type:boolean
+f	__DIR__/arrow.js	1;"	f	lineno:1	type:f.!ret function(number, Array[bool])
+map	__DIR__/arrow.js	14;"	f	lineno:14	namespace:Obj.prototype	type:[!this.x] function()
+wrap	__DIR__/arrow.js	5;"	f	lineno:5	type:wrap.!ret.!ret function() function()

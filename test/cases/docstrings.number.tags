@@ -1,0 +1,22 @@
+C	__DIR__/docstrings.js	93;"	f	lineno:93	type:void function()
+Quux	__DIR__/docstrings.js	32;"	f	lineno:32	type:void function()
+abc	__DIR__/docstrings.js	26;"	v	lineno:26	type:number
+aha	__DIR__/docstrings.js	64;"	v	lineno:64	type:string
+arr	__DIR__/docstrings.js	57;"	v	lineno:57	type:number
+bar	__DIR__/docstrings.js	82;"	v	lineno:82	namespace:o	type:number
+baz	__DIR__/docstrings.js	40;"	v	lineno:40	type:string
+c	__DIR__/docstrings.js	100;"	v	lineno:100	type:C
+foo	__DIR__/docstrings.js	9;"	v	lineno:9	type:number
+foo	__DIR__/docstrings.js	86;"	v	lineno:86	namespace:o	type:string
+getName	__DIR__/docstrings.js	76;"	f	lineno:76	namespace:o	type:!this.name function()
+makeMonkey	__DIR__/docstrings.js	14;"	f	lineno:14	type:string function()
+method	__DIR__/docstrings.js	95;"	f	lineno:95	namespace:C.prototype	type:number function()
+monkeyAlias	__DIR__/docstrings.js	14;"	f	lineno:14	type:string function()
+monkeyAlias	__DIR__/docstrings.js	18;"	f	lineno:18	type:string function()
+myalias	__DIR__/docstrings.js	4;"	f	lineno:4	type:void function(number)
+name	__DIR__/docstrings.js	78;"	v	lineno:78	namespace:o	type:string
+o	__DIR__/docstrings.js	74;"	v	lineno:74
+oy	__DIR__/docstrings.js	47;"	v	lineno:47	type:number
+prototype	__DIR__/docstrings.js	93;"	v	lineno:93	namespace:C
+something	__DIR__/docstrings.js	97;"	v	lineno:97	namespace:C.prototype	type:number
+xyzzy	__DIR__/docstrings.js	70;"	v	lineno:70	type:boolean

@@ -1,0 +1,24 @@
+:t	__DIR__/promise.js	12;"	v	lineno:12	namespace:p2	type:string
+:t	__DIR__/promise.js	21;"	v	lineno:21	namespace:p3	type:number
+:t	__DIR__/promise.js	30;"	v	lineno:30	namespace:p4	type:number
+:t	__DIR__/promise.js	35;"	v	lineno:35	namespace:arg5	type:number
+:t	__DIR__/promise.js	36;"	v	lineno:36	namespace:p5	type:number
+:t	__DIR__/promise.js	43;"	v	lineno:43	namespace:p6	type:number
+:t	__DIR__/promise.js	49;"	v	lineno:49	namespace:p7	type:number
+:t	__DIR__/promise.js	74;"	v	lineno:74	namespace:Promise	type:number
+:t	__DIR__/promise.js	81;"	v	lineno:81	namespace:myResolve3.arg7	type:number
+arg	__DIR__/promise.js	56;"	v	lineno:56	namespace:myResolve1	type:string
+arg5	__DIR__/promise.js	35;"	v	lineno:35	type:?|number
+arg7	__DIR__/promise.js	73;"	v	lineno:73	namespace:myResolve3	type:?|number
+myResolve1	__DIR__/promise.js	56;"	f	lineno:56	type:Promise function(string)
+myResolve2	__DIR__/promise.js	62;"	f	lineno:62	type:Promise function(string|number)
+myResolve3	__DIR__/promise.js	73;"	f	lineno:73	type:Promise function(?|number)
+p	__DIR__/promise.js	1;"	v	lineno:1	type:Promise
+p2	__DIR__/promise.js	12;"	v	lineno:12	type:Promise
+p3	__DIR__/promise.js	21;"	v	lineno:21	type:Promise
+p4	__DIR__/promise.js	30;"	v	lineno:30	type:Promise
+p5	__DIR__/promise.js	36;"	v	lineno:36	type:Promise
+p6	__DIR__/promise.js	41;"	v	lineno:41	type:Promise
+p7	__DIR__/promise.js	47;"	v	lineno:47	type:Promise
+p8	__DIR__/promise.js	53;"	v	lineno:53	type:Promise
+x	__DIR__/promise.js	3;"	v	lineno:3	namespace:Promise.:t	type:number

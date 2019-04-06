@@ -1,0 +1,3 @@
+buildCopy	__DIR__/copyprops.js	1;"	f	lineno:1	type:? function(buildCopy.!0)
+oo	__DIR__/copyprops.js	2;"	v	lineno:2	namespace:buildCopy
+prop	__DIR__/copyprops.js	3;"	v	lineno:3	namespace:buildCopy

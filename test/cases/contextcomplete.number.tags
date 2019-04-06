@@ -1,0 +1,3 @@
+a	__DIR__/contextcomplete.js	1;"	v	lineno:1	namespace:whoAmI
+i	__DIR__/contextcomplete.js	1;"	v	lineno:1	namespace:whoAmI
+whoAmI	__DIR__/contextcomplete.js	1;"	f	lineno:1	type:void function(?, ?)

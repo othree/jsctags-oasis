@@ -1,0 +1,37 @@
+<i>	__DIR__/jsdoc.js	//;"	v	namespace:closureMap	type:boolean
+Abc	__DIR__/jsdoc.js	26;"	f	lineno:26	type:void function()
+AbcCls	__DIR__/jsdoc.js	31;"	f	lineno:31	type:void function()
+AbcCtor	__DIR__/jsdoc.js	36;"	f	lineno:36	type:void function()
+NonAscïį	__DIR__/jsdoc.js	99;"	f	lineno:99	type:void function()
+a	__DIR__/jsdoc.js	2;"	v	lineno:2	type:Date
+a	__DIR__/jsdoc.js	17;"	v	lineno:17	namespace:foo	type:number
+a	__DIR__/jsdoc.js	45;"	v	lineno:45	namespace:bar	type:number
+a	__DIR__/jsdoc.js	73;"	v	lineno:73	namespace:takesOpt	type:number
+a	__DIR__/jsdoc.js	120;"	v	lineno:120	namespace:functionBogus
+a	__DIR__/jsdoc.js	133;"	v	lineno:133	namespace:unionFunction	type:string
+abc	__DIR__/jsdoc.js	21;"	f	lineno:21	type:void function()
+again	__DIR__/jsdoc.js	112;"	v	lineno:112	type:number
+b	__DIR__/jsdoc.js	17;"	v	lineno:17	namespace:foo	type:string
+b	__DIR__/jsdoc.js	45;"	v	lineno:45	namespace:bar	type:number
+bar	__DIR__/jsdoc.js	45;"	f	lineno:45	type:string function(number, number)
+bogus	__DIR__/jsdoc.js	107;"	v	lineno:107
+c	__DIR__/jsdoc.js	8;"	v	lineno:8
+closureArray	__DIR__/jsdoc.js	65;"	v	lineno:65	type:[string]
+closureMap	__DIR__/jsdoc.js	69;"	v	lineno:69
+foo	__DIR__/jsdoc.js	17;"	f	lineno:17	type:[number] function(number, string)
+functionBogus	__DIR__/jsdoc.js	120;"	f	lineno:120	type:? function(?)
+inst	__DIR__/jsdoc.js	102;"	v	lineno:102	type:NonAscïį
+length	__DIR__/jsdoc.js	99;"	v	lineno:99	namespace:NonAscïį	type:string
+myBitset	__DIR__/jsdoc.js	88;"	v	lineno:88	type:[bool]
+myObj	__DIR__/jsdoc.js	93;"	v	lineno:93
+o	__DIR__/jsdoc.js	49;"	v	lineno:49
+one	__DIR__/jsdoc.js	//;"	v	namespace:myObj	type:boolean
+prop1	__DIR__/jsdoc.js	51;"	v	lineno:51	namespace:o	type:string
+prop2	__DIR__/jsdoc.js	54;"	f	lineno:54	namespace:o	type:number function()
+prop3	__DIR__/jsdoc.js	58;"	f	lineno:58	namespace:o	type:string function()
+takesOpt	__DIR__/jsdoc.js	73;"	f	lineno:73	type:void function(number)
+two	__DIR__/jsdoc.js	//;"	v	namespace:myObj	type:number
+ui	__DIR__/jsdoc.js	140;"	f	lineno:140	type:string function()
+unionFunction	__DIR__/jsdoc.js	133;"	f	lineno:133	type:[?|number] function(string)
+x	__DIR__/jsdoc.js	//;"	v	namespace:c	type:number
+y	__DIR__/jsdoc.js	//;"	v	namespace:c	type:[string]

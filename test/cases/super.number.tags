@@ -1,0 +1,16 @@
+Point2	__DIR__/super.js	7;"	f	lineno:7	type:void function(number, number)
+Point3	__DIR__/super.js	1;"	f	lineno:1	type:void function(number, number, number)
+callSuper	__DIR__/super.js	4;"	f	lineno:4	namespace:Point3.prototype	type:string function()
+foobar	__DIR__/super.js	3;"	f	lineno:3	namespace:Point3.prototype	type:!this.x function()
+getSuperX	__DIR__/super.js	23;"	f	lineno:23	namespace:obj	type:number function()
+hello	__DIR__/super.js	9;"	f	lineno:9	namespace:Point2.prototype	type:string function()
+obj	__DIR__/super.js	20;"	v	lineno:20
+p	__DIR__/super.js	12;"	v	lineno:12	type:Point3
+pro	__DIR__/super.js	18;"	v	lineno:18
+prototype	__DIR__/super.js	1;"	v	lineno:1	namespace:Point3
+prototype	__DIR__/super.js	7;"	v	lineno:7	namespace:Point2
+x	__DIR__/super.js	8;"	v	lineno:8	namespace:Point3	type:number
+x	__DIR__/super.js	18;"	v	lineno:18	namespace:pro	type:number
+x	__DIR__/super.js	22;"	v	lineno:22	namespace:obj	type:string
+y	__DIR__/super.js	8;"	v	lineno:8	namespace:Point3	type:number
+z	__DIR__/super.js	2;"	v	lineno:2	namespace:Point3	type:number

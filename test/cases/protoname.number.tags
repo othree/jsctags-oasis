@@ -1,0 +1,9 @@
+Base	__DIR__/protoname.js	1;"	f	lineno:1	type:void function()
+Base2	__DIR__/protoname.js	15;"	f	lineno:15	type:void function()
+Sub1	__DIR__/protoname.js	7;"	f	lineno:7	type:void function()
+Sub2	__DIR__/protoname.js	11;"	f	lineno:11	type:void function()
+Sub3	__DIR__/protoname.js	17;"	f	lineno:17	type:void function()
+prototype	__DIR__/protoname.js	2;"	v	lineno:2	namespace:Base
+prototype	__DIR__/protoname.js	8;"	v	lineno:8	namespace:Sub1
+prototype	__DIR__/protoname.js	12;"	v	lineno:12	namespace:Sub2
+prototype	__DIR__/protoname.js	18;"	v	lineno:18	namespace:Sub3

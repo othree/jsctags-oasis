@@ -1,0 +1,3 @@
+Type	__DIR__/replace_bogus_prop.js	5;"	f	lineno:5	type:void function()
+foo	__DIR__/replace_bogus_prop.js	6;"	v	lineno:6	namespace:Type.prototype	type:string
+x	__DIR__/replace_bogus_prop.js	1;"	v	lineno:1	type:Type

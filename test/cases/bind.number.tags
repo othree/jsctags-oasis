@@ -1,0 +1,13 @@
+a	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+a	__DIR__/bind.js	7;"	v	lineno:7	namespace:h	type:number
+b	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+c	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+d	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+f	__DIR__/bind.js	1;"	f	lineno:1	type:number function(number, number, number, number)
+g	__DIR__/bind.js	2;"	f	lineno:2	type:number function(number, number)
+h	__DIR__/bind.js	7;"	f	lineno:7	type:h.!ret function(number)
+i	__DIR__/bind.js	8;"	f	lineno:8	type:h.!ret function()
+i	__DIR__/bind.js	12;"	f	lineno:12	namespace:o	type:h.!ret function()
+j	__DIR__/bind.js	15;"	f	lineno:15	type:!this function()
+k	__DIR__/bind.js	16;"	f	lineno:16	type:j.!ret function()
+o	__DIR__/bind.js	12;"	v	lineno:12

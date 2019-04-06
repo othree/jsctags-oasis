@@ -1,0 +1,654 @@
+:my_sym	__DIR__/symbol.js	4;"	v	lineno:4	namespace:obj	type:number
+:t	__DIR__/promise.js	12;"	v	lineno:12	namespace:p2	type:string
+:t	__DIR__/promise.js	21;"	v	lineno:21	namespace:p3	type:number
+:t	__DIR__/promise.js	30;"	v	lineno:30	namespace:p4	type:number
+:t	__DIR__/promise.js	35;"	v	lineno:35	namespace:arg5	type:number
+:t	__DIR__/promise.js	36;"	v	lineno:36	namespace:p5	type:number
+:t	__DIR__/promise.js	43;"	v	lineno:43	namespace:p6	type:number
+:t	__DIR__/promise.js	49;"	v	lineno:49	namespace:p7	type:number
+:t	__DIR__/promise.js	74;"	v	lineno:74	namespace:Promise	type:number
+:t	__DIR__/promise.js	81;"	v	lineno:81	namespace:myResolve3.arg7	type:number
+<i>	__DIR__/cautiouspropagation.js	2;"	v	lineno:2	namespace:grabbag
+<i>	__DIR__/cautiouspropagation.js	9;"	v	lineno:9	namespace:simple	type:string
+<i>	__DIR__/computedprop.js	2;"	v	lineno:2	namespace:x
+<i>	__DIR__/jsdoc.js	//;"	v	namespace:closureMap	type:boolean
+A	__DIR__/new_to_prototype.js	1;"	f	lineno:1	type:void function()
+Abc	__DIR__/jsdoc.js	26;"	f	lineno:26	type:void function()
+AbcCls	__DIR__/jsdoc.js	31;"	f	lineno:31	type:void function()
+AbcCtor	__DIR__/jsdoc.js	36;"	f	lineno:36	type:void function()
+B	__DIR__/new_to_prototype.js	3;"	f	lineno:3	type:void function()
+Bar	__DIR__/autothis.js	1;"	f	lineno:1	type:void function()
+Base	__DIR__/protoname.js	1;"	f	lineno:1	type:void function()
+Base2	__DIR__/protoname.js	15;"	f	lineno:15	type:void function()
+C	__DIR__/docstrings.js	93;"	f	lineno:93	type:void function()
+C	__DIR__/new_to_prototype.js	6;"	f	lineno:6	type:void function()
+CSS	__DIR__/hint_ecma5.js	183;"	v	lineno:183	namespace:config
+Class	__DIR__/empty_overridden_prop.js	1;"	f	lineno:1	type:void function()
+Class	__DIR__/mixin.js	1;"	f	lineno:1	type:void function()
+Ctor	__DIR__/ctorpattern.js	4;"	f	lineno:4	type:Ctor function()
+Ctor	__DIR__/indirect_class.js	6;"	f	lineno:6	namespace:makeClass	type:void function()
+Ctor1	__DIR__/hint_ecma5.js	155;"	f	lineno:155	type:void function()
+Ctor1	__DIR__/objnames.js	1;"	f	lineno:1	type:void function()
+Ctor2	__DIR__/hint_ecma5.js	159;"	f	lineno:159	type:void function()
+Ctor2	__DIR__/objnames.js	4;"	f	lineno:4	type:void function()
+Ext	__DIR__/blowup.js	1;"	v	lineno:1
+F	__DIR__/blowup.js	18;"	f	lineno:18	namespace:Ext.extend	type:void function()
+Foo	__DIR__/es6-features.js	1;"	f	lineno:1	type:void function(?, ?)
+Foo	__DIR__/hint_ecma5.js	166;"	f	lineno:166	type:void function(bool)
+Foo	__DIR__/proto.js	1;"	f	lineno:1	type:void function(bool)
+IDs	__DIR__/hint_ecma5.js	184;"	v	lineno:184	namespace:config.CSS
+Mine	__DIR__/indirect_class.js	11;"	v	lineno:11
+NonAscïį	__DIR__/jsdoc.js	99;"	f	lineno:99	type:void function()
+Obj	__DIR__/arrow.js	11;"	f	lineno:11	type:void function()
+OtherClass	__DIR__/mixin.js	18;"	f	lineno:18	type:void function()
+Point2	__DIR__/class.js	1;"	f	lineno:1	type:void function(number, number)
+Point2	__DIR__/super.js	7;"	f	lineno:7	type:void function(number, number)
+Point3	__DIR__/class.js	18;"	f	lineno:18	type:void function(number, number, number)
+Point3	__DIR__/super.js	1;"	f	lineno:1	type:void function(number, number, number)
+Point4	__DIR__/class.js	13;"	f	lineno:13	type:void function(number, number, number, number)
+Quux	__DIR__/docstrings.js	32;"	f	lineno:32	type:void function()
+React	__DIR__/import.js	1;"	v	lineno:1
+Sub1	__DIR__/protoname.js	7;"	f	lineno:7	type:void function()
+Sub2	__DIR__/protoname.js	11;"	f	lineno:11	type:void function()
+Sub3	__DIR__/protoname.js	17;"	f	lineno:17	type:void function()
+SubEleven	__DIR__/extends.js	31;"	f	lineno:31	type:void function(bool)
+SubOne	__DIR__/extends.js	17;"	f	lineno:17	type:void function(bool)
+SubTwo	__DIR__/extends.js	24;"	f	lineno:24	type:void function(bool)
+Top	__DIR__/extends.js	10;"	f	lineno:10	type:void function()
+Type	__DIR__/replace_bogus_prop.js	5;"	f	lineno:5	type:void function()
+_1	__DIR__/hint-objlit.js	40;"	v	lineno:40	namespace:takes.example	type:string
+_2	__DIR__/hint-objlit.js	43;"	v	lineno:43	namespace:takes.example	type:string
+__extends	__DIR__/extends.js	3;"	f	lineno:3	type:void function(fn(arg: bool)
+a	__DIR__/arrow.js	1;"	v	lineno:1	namespace:f	type:number
+a	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+a	__DIR__/bind.js	7;"	v	lineno:7	namespace:h	type:number
+a	__DIR__/block_scope.js	1;"	v	lineno:1	namespace:x	type:string
+a	__DIR__/builtins.js	4;"	v	lineno:4	type:[number]
+a	__DIR__/computedprop.js	2;"	v	lineno:2	namespace:x.<i>	type:number
+a	__DIR__/computedprop.js	6;"	v	lineno:6	namespace:obj	type:string
+a	__DIR__/contextcomplete.js	1;"	v	lineno:1	namespace:whoAmI
+a	__DIR__/destructure.js	1;"	v	lineno:1	type:number
+a	__DIR__/effects.js	13;"	v	lineno:13	namespace:setD	type:number
+a	__DIR__/es6-features.js	26;"	v	lineno:26	type:number
+a	__DIR__/findref.js	1;"	v	lineno:1	namespace:hello
+a	__DIR__/findref.js	38;"	v	lineno:38	type:foo
+a	__DIR__/for_of.js	5;"	v	lineno:5	namespace:hello	type:number
+a	__DIR__/for_of.js	15;"	v	lineno:15	type:number
+a	__DIR__/hint_ecma5.js	8;"	v	lineno:8	type:[number]
+a	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base.foo2	type:number
+a	__DIR__/hint_ecma5.js	156;"	v	lineno:156	namespace:Ctor1.prototype	type:number
+a	__DIR__/hint_simple.js	6;"	v	lineno:6	type:[number]|number
+a	__DIR__/jsdoc.js	2;"	v	lineno:2	type:Date
+a	__DIR__/jsdoc.js	17;"	v	lineno:17	namespace:foo	type:number
+a	__DIR__/jsdoc.js	45;"	v	lineno:45	namespace:bar	type:number
+a	__DIR__/jsdoc.js	73;"	v	lineno:73	namespace:takesOpt	type:number
+a	__DIR__/jsdoc.js	120;"	v	lineno:120	namespace:functionBogus
+a	__DIR__/jsdoc.js	133;"	v	lineno:133	namespace:unionFunction	type:string
+a	__DIR__/merge.js	1;"	v	lineno:1	namespace:sum
+a	__DIR__/new_array.js	1;"	v	lineno:1	type:[string]
+a	__DIR__/objectlit.js	6;"	v	lineno:6	namespace:foo	type:boolean
+a	__DIR__/objnames.js	2;"	v	lineno:2	namespace:Ctor1.prototype	type:number
+a	__DIR__/objnames.js	6;"	v	lineno:6	namespace:singleton	type:number
+a	__DIR__/template.js	6;"	v	lineno:6	namespace:build	type:number
+a	__DIR__/react.jsx	1;"	v	lineno:1	type:boolean
+a2	__DIR__/hint_ecma5.js	29;"	v	lineno:29	type:number
+a3	__DIR__/hint_ecma5.js	32;"	v	lineno:32	type:number
+a4	__DIR__/hint_ecma5.js	35;"	v	lineno:35	type:number
+a5	__DIR__/hint_ecma5.js	38;"	v	lineno:38	type:number
+aa	__DIR__/react.jsx	20;"	v	lineno:20
+abc	__DIR__/cautiouspropagation.js	3;"	v	lineno:3	namespace:grabbag.<i>	type:number
+abc	__DIR__/docstrings.js	26;"	v	lineno:26	type:number
+abc	__DIR__/fn_arguments.js	1;"	f	lineno:1	type:number function()
+abc	__DIR__/jsdoc.js	21;"	f	lineno:21	type:void function()
+again	__DIR__/jsdoc.js	112;"	v	lineno:112	type:number
+age	__DIR__/hint-objlit.js	5;"	f	lineno:5	type:number function(?)
+age	__DIR__/hint_ecma5.js	89;"	v	lineno:89	namespace:person	type:number
+age	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:number
+age	__DIR__/hint_ecma5.js	98;"	v	lineno:98	namespace:friend	type:number
+ages	__DIR__/hint-objlit.js	6;"	f	lineno:6	type:[number] function(Array[person)
+aha	__DIR__/docstrings.js	64;"	v	lineno:64	type:string
+another	__DIR__/finddef.js	23;"	f	lineno:23	type:void function(?)
+arg	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne	type:boolean
+arg	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+arg	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+arg	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo	type:boolean
+arg	__DIR__/extends.js	32;"	v	lineno:32	namespace:SubEleven.prototype.constructor	type:boolean
+arg	__DIR__/extends.js	32;"	v	lineno:32	namespace:SubEleven	type:boolean
+arg	__DIR__/finddef.js	23;"	v	lineno:23	namespace:another
+arg	__DIR__/promise.js	56;"	v	lineno:56	namespace:myResolve1	type:string
+arg5	__DIR__/promise.js	35;"	v	lineno:35	type:?|number
+arg7	__DIR__/promise.js	73;"	v	lineno:73	namespace:myResolve3	type:?|number
+argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubEleven	type:boolean
+argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne	type:boolean
+argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubEleven.prototype.constructor	type:boolean
+argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+argTwo	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+argTwo	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo	type:boolean
+argh	__DIR__/class.js	15;"	f	lineno:15	namespace:Point4.prototype	type:number function()
+arguments	__DIR__/arguments.js	1;"	v	lineno:1	type:number
+arguments	__DIR__/fn_arguments.js	1;"	v	lineno:1	namespace:abc	type:[number]
+arr	__DIR__/docstrings.js	57;"	v	lineno:57	type:number
+arr	__DIR__/simple_generic.js	1;"	v	lineno:1	namespace:last	type:[number]|[string]
+arr	__DIR__/simple_generic.js	6;"	v	lineno:6	namespace:map	type:[number]
+arr	__DIR__/react.jsx	29;"	v	lineno:29	type:[bool]
+arr1	__DIR__/hint_ecma5.js	206;"	v	lineno:206	type:[bool]
+arr2	__DIR__/hint_ecma5.js	213;"	v	lineno:213	type:[number]
+b	__DIR__/arrow.js	1;"	v	lineno:1	namespace:f	type:boolean
+b	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+b	__DIR__/computedprop.js	2;"	v	lineno:2	namespace:x.<i>	type:number
+b	__DIR__/computedprop.js	6;"	v	lineno:6	namespace:obj	type:string
+b	__DIR__/effects.js	3;"	v	lineno:3	type:[bool]
+b	__DIR__/es6-features.js	16;"	v	lineno:16	namespace:y	type:boolean
+b	__DIR__/es6-features.js	26;"	v	lineno:26	type:number
+b	__DIR__/findref.js	1;"	v	lineno:1	namespace:hello
+b	__DIR__/findref.js	39;"	v	lineno:39	type:bar
+b	__DIR__/for_of.js	5;"	v	lineno:5	namespace:hello	type:boolean
+b	__DIR__/for_of.js	15;"	v	lineno:15	type:boolean
+b	__DIR__/hint-objlit.js	13;"	v	lineno:13	namespace:age.person
+b	__DIR__/hint-objlit.js	42;"	v	lineno:42	namespace:takes.example
+b	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base.foo2	type:string
+b	__DIR__/jsdoc.js	17;"	v	lineno:17	namespace:foo	type:string
+b	__DIR__/jsdoc.js	45;"	v	lineno:45	namespace:bar	type:number
+b	__DIR__/new_array.js	5;"	v	lineno:5	type:[bool]
+b	__DIR__/objectlit.js	12;"	v	lineno:12	namespace:baz	type:string
+b	__DIR__/objnames.js	6;"	v	lineno:6	namespace:singleton	type:number
+b	__DIR__/template.js	6;"	v	lineno:6	namespace:build	type:string
+b1	__DIR__/hint_ecma5.js	41;"	v	lineno:41	type:number
+bar	__DIR__/docstrings.js	82;"	v	lineno:82	namespace:o	type:number
+bar	__DIR__/finddef.js	30;"	f	lineno:30	namespace:foo.prototype	type:void function()
+bar	__DIR__/findref.js	31;"	f	lineno:31	type:void function()
+bar	__DIR__/hint-objlit.js	21;"	v	lineno:21	namespace:example	type:boolean
+bar	__DIR__/hint-objlit.js	47;"	v	lineno:47	namespace:takes.example
+bar	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base	type:number
+bar	__DIR__/hint_ecma5.js	173;"	v	lineno:173	namespace:Foo.prototype	type:number
+bar	__DIR__/jsdoc.js	45;"	f	lineno:45	type:string function(number, number)
+bar	__DIR__/object_create.js	1;"	v	lineno:1	namespace:base	type:number
+bar	__DIR__/objectlit.js	1;"	v	lineno:1	type:number
+bar	__DIR__/order_of_definition.js	15;"	v	lineno:15	namespace:foo
+bar	__DIR__/proto.js	9;"	v	lineno:9	namespace:Foo.prototype	type:number
+bar	__DIR__/simple.js	10;"	v	lineno:10	namespace:x	type:number
+base	__DIR__/hint_ecma5.js	119;"	v	lineno:119
+base	__DIR__/object_create.js	1;"	v	lineno:1
+baz	__DIR__/docstrings.js	40;"	v	lineno:40	type:string
+baz	__DIR__/hint_ecma5.js	129;"	v	lineno:129	namespace:base	type:number
+baz	__DIR__/object_create.js	5;"	v	lineno:5	namespace:base	type:number
+baz	__DIR__/objectlit.js	10;"	v	lineno:10
+baz	__DIR__/order_of_definition.js	9;"	v	lineno:9
+bb	__DIR__/react.jsx	20;"	v	lineno:20	type:boolean
+blah	__DIR__/finddef.js	1;"	f	lineno:1	type:void function()
+blah	__DIR__/hint-objlit.js	1;"	v	lineno:1	namespace:poison	type:number
+bogus	__DIR__/jsdoc.js	107;"	v	lineno:107
+born	__DIR__/hint-objlit.js	3;"	v	lineno:3	namespace:age.person	type:number
+born	__DIR__/hint-objlit.js	3;"	v	lineno:3	namespace:person	type:number
+bug	__DIR__/order_of_definition.js	9;"	f	lineno:9	namespace:baz	type:void function(baz.bug.!0)
+build	__DIR__/template.js	6;"	f	lineno:6	type:boolean function(Array[string], number, string)
+buildCopy	__DIR__/copyprops.js	1;"	f	lineno:1	type:? function(buildCopy.!0)
+c	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+c	__DIR__/block_scope.js	5;"	v	lineno:5	namespace:x	type:boolean
+c	__DIR__/destructure.js	4;"	v	lineno:4	type:string
+c	__DIR__/docstrings.js	100;"	v	lineno:100	type:C
+c	__DIR__/effects.js	7;"	v	lineno:7	type:[string|number]
+c	__DIR__/empty_overridden_prop.js	4;"	v	lineno:4	type:Class
+c	__DIR__/findref.js	2;"	v	lineno:2	namespace:hello
+c	__DIR__/jsdoc.js	8;"	v	lineno:8
+c	__DIR__/mixin.js	24;"	v	lineno:24	type:Class
+c	__DIR__/new_array.js	8;"	v	lineno:8	type:[?]
+c	__DIR__/phantom_object.js	9;"	v	lineno:9	namespace:otherMod	type:number
+callSuper	__DIR__/super.js	4;"	f	lineno:4	namespace:Point3.prototype	type:string function()
+canvas	__DIR__/hint_ecma5.js	186;"	v	lineno:186	namespace:config.CSS.IDs	type:string
+car	__DIR__/hint_ecma5.js	69;"	v	lineno:69	type:string
+changeName	__DIR__/hint_ecma5.js	100;"	f	lineno:100	namespace:personType	type:!this.lastname function(?)
+child	__DIR__/extends.js	3;"	f	lineno:3	namespace:__extends	type:void function(bool)
+closureArray	__DIR__/jsdoc.js	65;"	v	lineno:65	type:[string]
+closureMap	__DIR__/jsdoc.js	69;"	v	lineno:69
+config	__DIR__/hint_ecma5.js	182;"	v	lineno:182
+constructor	__DIR__/extends.js	17;"	f	lineno:17	namespace:SubOne.prototype	type:void function(bool)
+constructor	__DIR__/extends.js	24;"	f	lineno:24	namespace:SubTwo.prototype	type:void function(bool)
+constructor	__DIR__/extends.js	31;"	f	lineno:31	namespace:SubEleven.prototype	type:void function(bool)
+container	__DIR__/hint_ecma5.js	185;"	v	lineno:185	namespace:config.CSS.IDs	type:string
+context	__DIR__/generic_each.js	2;"	v	lineno:2	namespace:each	type:string
+controls	__DIR__/hint_ecma5.js	188;"	v	lineno:188	namespace:config.CSS.IDs	type:string
+ctor	__DIR__/extends.js	5;"	f	lineno:5	namespace:__extends	type:void function()
+d	__DIR__/bind.js	1;"	v	lineno:1	namespace:f	type:number
+d	__DIR__/destructure.js	4;"	v	lineno:4	type:boolean
+d	__DIR__/effects.js	12;"	v	lineno:12	type:number
+d	__DIR__/new_array.js	11;"	v	lineno:11	type:[string]
+e	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:boolean
+e	__DIR__/react.jsx	5;"	v	lineno:5	type:boolean
+e1	__DIR__/es6-features.js	30;"	v	lineno:30	type:string
+e3	__DIR__/es6-features.js	30;"	v	lineno:30	type:number
+e_which	__DIR__/browser.js	9;"	v	lineno:9	type:number
+e_which	__DIR__/hint_browser.js	8;"	v	lineno:8
+each	__DIR__/generic_each.js	2;"	f	lineno:2	type:void function(Array[number]|[each.!0.<i>], fn(n: number)
+elf	__DIR__/extends.js	38;"	v	lineno:38	type:SubEleven
+elt	__DIR__/set.js	7;"	v	lineno:7	type:boolean
+empty	__DIR__/hint_ecma5.js	150;"	v	lineno:150
+empty	__DIR__/object_create.js	29;"	v	lineno:29
+example	__DIR__/hint-objlit.js	15;"	v	lineno:15
+example	__DIR__/hint-objlit.js	24;"	v	lineno:24	namespace:takes
+extend	__DIR__/blowup.js	2;"	f	lineno:2	namespace:Ext	type:void function(fn()
+extend	__DIR__/blowup.js	10;"	f	lineno:10	namespace:Ext.extend.subclass	type:void function(?)
+extend	__DIR__/hint_ecma5.js	144;"	v	lineno:144
+extend	__DIR__/object_create.js	23;"	v	lineno:23
+eyecolor	__DIR__/hint_ecma5.js	90;"	v	lineno:90	namespace:person	type:string
+eyecolor	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:string
+eyecolor	__DIR__/hint_ecma5.js	99;"	v	lineno:99	namespace:friend	type:string
+f	__DIR__/arrow.js	1;"	f	lineno:1	type:f.!ret function(number, Array[bool])
+f	__DIR__/bind.js	1;"	f	lineno:1	type:number function(number, number, number, number)
+f	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:number
+f	__DIR__/hint_ecma5.js	218;"	v	lineno:218
+f	__DIR__/hint_ecma5.js	272;"	v	lineno:272	namespace:timeout
+f	__DIR__/hint_ecma5.js	296;"	v	lineno:296	namespace:testIfControlFlow1
+f	__DIR__/infinite-expansion.js	3;"	f	lineno:3	type:void function(f)
+f	__DIR__/simple_generic.js	6;"	f	lineno:6	namespace:map	type:boolean function()
+f2	__DIR__/hint_ecma5.js	220;"	v	lineno:220
+f3	__DIR__/hint_ecma5.js	222;"	v	lineno:222
+firstname	__DIR__/hint_ecma5.js	87;"	v	lineno:87	namespace:person	type:string
+firstname	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:string
+firstname	__DIR__/hint_ecma5.js	96;"	v	lineno:96	namespace:friend	type:string
+fn2	__DIR__/autothis.js	7;"	f	lineno:7	namespace:Bar.prototype	type:void function()
+fn2	__DIR__/autothis.js	11;"	f	lineno:11	namespace:Date.prototype	type:void function()
+fo	__DIR__/hint-objlit.js	28;"	v	lineno:28	namespace:takes.example
+focus	__DIR__/hint-objlit.js	1;"	v	lineno:1	namespace:poison	type:number
+foo	__DIR__/ctorpattern.js	6;"	v	lineno:6	namespace:Ctor	type:number
+foo	__DIR__/destructure.js	8;"	f	lineno:8	type:void function(Array[bool], ?, foo.!2, number)
+foo	__DIR__/docstrings.js	9;"	v	lineno:9	type:number
+foo	__DIR__/docstrings.js	86;"	v	lineno:86	namespace:o	type:string
+foo	__DIR__/finddef.js	7;"	v	lineno:7	namespace:obj.prop2
+foo	__DIR__/finddef.js	29;"	f	lineno:29	type:void function()
+foo	__DIR__/findref.js	22;"	f	lineno:22	type:void function()
+foo	__DIR__/generator.js	1;"	f	lineno:1	type:number function()
+foo	__DIR__/getter.js	3;"	v	lineno:3	namespace:obj	type:string
+foo	__DIR__/global_this.js	1;"	v	lineno:1	type:number
+foo	__DIR__/hint-objlit.js	17;"	v	lineno:17	namespace:example	type:number
+foo	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base	type:number
+foo	__DIR__/hint_ecma5.js	176;"	v	lineno:176	type:Foo
+foo	__DIR__/indirect_class.js	2;"	f	lineno:2	namespace:sup	type:number function()
+foo	__DIR__/jsdoc.js	17;"	f	lineno:17	type:[number] function(number, string)
+foo	__DIR__/object_create.js	1;"	v	lineno:1	namespace:base	type:number
+foo	__DIR__/objectlit.js	3;"	v	lineno:3
+foo	__DIR__/order_of_definition.js	7;"	v	lineno:7
+foo	__DIR__/replace_bogus_prop.js	6;"	v	lineno:6	namespace:Type.prototype	type:string
+foo	__DIR__/simple.js	1;"	v	lineno:1	type:number
+foo	__DIR__/simple.js	9;"	v	lineno:9	namespace:x	type:number
+foo	__DIR__/react.jsx	3;"	v	lineno:3	type:boolean
+foo2	__DIR__/hint_ecma5.js	119;"	v	lineno:119	namespace:base
+fooObj	__DIR__/finddef.js	34;"	v	lineno:34	type:foo
+foobar	__DIR__/class.js	20;"	f	lineno:20	namespace:Point3.prototype	type:boolean function()
+foobar	__DIR__/super.js	3;"	f	lineno:3	namespace:Point3.prototype	type:!this.x function()
+food	__DIR__/hint-objlit.js	19;"	v	lineno:19	namespace:example	type:number
+food	__DIR__/hint-objlit.js	34;"	v	lineno:34	namespace:takes.example
+friend	__DIR__/hint_ecma5.js	110;"	v	lineno:110	type:personType
+func	__DIR__/es6-features.js	15;"	f	lineno:15	namespace:y	type:number function()
+func	__DIR__/hint_ecma5.js	275;"	f	lineno:275	namespace:obj	type:void function()
+func	__DIR__/phantom_object.js	3;"	f	lineno:3	namespace:mod	type:number function()
+functionBogus	__DIR__/jsdoc.js	120;"	f	lineno:120	type:? function(?)
+g	__DIR__/bind.js	2;"	f	lineno:2	type:number function(number, number)
+g	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:string
+g	__DIR__/react.jsx	7;"	v	lineno:7	type:boolean
+g1	__DIR__/generator.js	11;"	f	lineno:11	type:boolean function()
+g2	__DIR__/generator.js	12;"	f	lineno:12	type:boolean function()
+gen1	__DIR__/hint_ecma5.js	132;"	v	lineno:132
+gen1	__DIR__/object_create.js	2;"	v	lineno:2
+gen2	__DIR__/hint_ecma5.js	133;"	v	lineno:133
+gen2	__DIR__/object_create.js	3;"	v	lineno:3
+getName	__DIR__/docstrings.js	76;"	f	lineno:76	namespace:o	type:!this.name function()
+getSuperX	__DIR__/super.js	23;"	f	lineno:23	namespace:obj	type:number function()
+globalVar1	__DIR__/hint_ecma5.js	259;"	v	lineno:259	type:number
+goop	__DIR__/infinite-expansion.js	15;"	f	lineno:15	type:void function(?) function(number)
+grabbag	__DIR__/cautiouspropagation.js	1;"	v	lineno:1
+h	__DIR__/bind.js	7;"	f	lineno:7	type:h.!ret function(number)
+h	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:[number]
+h	__DIR__/react.jsx	8;"	v	lineno:8	type:boolean
+hallo	__DIR__/autothis.js	2;"	f	lineno:2	namespace:Bar.prototype	type:void function()
+hello	__DIR__/empty_overridden_prop.js	2;"	v	lineno:2	namespace:Class.prototype	type:string
+hello	__DIR__/empty_overridden_prop.js	5;"	v	lineno:5	namespace:c
+hello	__DIR__/findref.js	1;"	f	lineno:1	type:void function(?, ?)
+hello	__DIR__/for_of.js	11;"	v	lineno:11
+hello	__DIR__/super.js	9;"	f	lineno:9	namespace:Point2.prototype	type:string function()
+hide	__DIR__/finddef.js	19;"	f	lineno:19	type:void function(?) function()
+href	__DIR__/react.jsx	21;"	v	lineno:21	type:boolean
+i	__DIR__/bind.js	8;"	f	lineno:8	type:h.!ret function()
+i	__DIR__/bind.js	12;"	f	lineno:12	namespace:o	type:h.!ret function()
+i	__DIR__/contextcomplete.js	1;"	v	lineno:1	namespace:whoAmI
+i	__DIR__/destructure.js	20;"	v	lineno:20	type:number
+i	__DIR__/generic_each.js	7;"	v	lineno:7	namespace:each	type:number
+i	__DIR__/hint_ecma5.js	360;"	v	lineno:360	type:number
+i	__DIR__/simple_generic.js	8;"	v	lineno:8	namespace:map	type:number
+i	__DIR__/react.jsx	9;"	v	lineno:9	type:boolean
+inCase1	__DIR__/hint_ecma5.js	381;"	v	lineno:381	namespace:testSwitchFlow1	type:string
+inCase2	__DIR__/hint_ecma5.js	385;"	v	lineno:385	namespace:testSwitchFlow1	type:string
+inNestedIf	__DIR__/hint_ecma5.js	303;"	v	lineno:303	namespace:testIfControlFlow1	type:string
+index	__DIR__/generator.js	2;"	v	lineno:2	namespace:foo	type:number
+init	__DIR__/simple.js	8;"	f	lineno:8	type:void function(x)
+inner	__DIR__/cautiouspropagation.js	5;"	v	lineno:5	type:number
+inst	__DIR__/jsdoc.js	102;"	v	lineno:102	type:NonAscïį
+it	__DIR__/es6-features.js	20;"	f	lineno:20	type:!0 function(?)
+it	__DIR__/generator.js	8;"	v	lineno:8
+iterator	__DIR__/for_of.js	2;"	f	lineno:2	namespace:myIter.:Symbol	type:myIter.:Symbol.iterator.!ret function()
+iterator	__DIR__/generic_each.js	2;"	f	lineno:2	namespace:each	type:void function(each.!0.<i>)
+iterator	__DIR__/symbol.js	8;"	v	lineno:8	namespace:obj.:Symbol	type:string
+j	__DIR__/bind.js	15;"	f	lineno:15	type:!this function()
+j	__DIR__/destructure.js	20;"	v	lineno:20	type:boolean
+j	__DIR__/hint_ecma5.js	324;"	v	lineno:324	namespace:testForControlFlow1	type:number
+j	__DIR__/react.jsx	10;"	v	lineno:10	type:boolean
+jaja	__DIR__/finddef.js	3;"	v	lineno:3	type:number
+k	__DIR__/bind.js	16;"	f	lineno:16	type:j.!ret function()
+k	__DIR__/hint_ecma5.js	23;"	v	lineno:23	type:number
+k	__DIR__/react.jsx	11;"	v	lineno:11	type:boolean
+kaka	__DIR__/hint_ecma5.js	135;"	v	lineno:135	namespace:gen2	type:number
+kaka	__DIR__/object_create.js	7;"	v	lineno:7	namespace:gen2	type:number
+key	__DIR__/extends.js	4;"	v	lineno:4	namespace:__extends
+key	__DIR__/map.js	18;"	v	lineno:18	type:number
+l	__DIR__/destructure.js	21;"	v	lineno:21	type:string
+l	__DIR__/generic_each.js	7;"	v	lineno:7	namespace:each	type:number
+l	__DIR__/hint_ecma5.js	26;"	v	lineno:26	type:number
+l	__DIR__/react.jsx	12;"	v	lineno:12	type:boolean
+last	__DIR__/simple_generic.js	1;"	f	lineno:1	type:!0.<i> function(Array[number]|[string])
+lastname	__DIR__/hint_ecma5.js	88;"	v	lineno:88	namespace:person	type:string
+lastname	__DIR__/hint_ecma5.js	95;"	v	lineno:95	namespace:personType	type:string
+lastname	__DIR__/hint_ecma5.js	97;"	v	lineno:97	namespace:friend	type:string
+left	__DIR__/react.jsx	13;"	v	lineno:13	type:boolean
+length	__DIR__/jsdoc.js	99;"	v	lineno:99	namespace:NonAscïį	type:string
+local	__DIR__/finddef.js	24;"	v	lineno:24	namespace:another	type:number
+localVar1InOne	__DIR__/hint_ecma5.js	258;"	v	lineno:258	namespace:one	type:string
+localVarBecomeGlobal	__DIR__/hint_ecma5.js	285;"	v	lineno:285	type:[number]
+m	__DIR__/destructure.js	21;"	v	lineno:21	type:[string]
+m	__DIR__/hint_ecma5.js	20;"	v	lineno:20	type:number
+m	__DIR__/hint_ecma5.js	321;"	v	lineno:321	namespace:testForControlFlow1	type:string
+m	__DIR__/indirect_class.js	8;"	v	lineno:8	namespace:makeClass
+m	__DIR__/react.jsx	13;"	v	lineno:13	type:boolean
+m1	__DIR__/mixin.js	14;"	f	lineno:14	namespace:Class.prototype	type:void function()
+m1	__DIR__/mixin.js	14;"	f	lineno:14	type:void function()
+m1	__DIR__/mixin.js	14;"	f	lineno:14	namespace:OtherClass.prototype	type:void function()
+m2	__DIR__/mixin.js	16;"	f	lineno:16	type:void function()
+m2	__DIR__/mixin.js	16;"	f	lineno:16	namespace:OtherClass.prototype	type:void function()
+m2	__DIR__/mixin.js	16;"	f	lineno:16	namespace:Class.prototype	type:void function()
+m3	__DIR__/mixin.js	4;"	f	lineno:4	namespace:Class.prototype	type:void function()
+m4	__DIR__/mixin.js	21;"	f	lineno:21	namespace:OtherClass.prototype	type:void function()
+makeClass	__DIR__/indirect_class.js	5;"	f	lineno:5	type:void function(makeClass.!0)
+makeMonkey	__DIR__/docstrings.js	14;"	f	lineno:14	type:string function()
+makeString	__DIR__/hint_ecma5.js	172;"	f	lineno:172	namespace:Foo.prototype	type:string function()
+makeString	__DIR__/proto.js	8;"	f	lineno:8	namespace:Foo.prototype	type:string function()
+map	__DIR__/arrow.js	14;"	f	lineno:14	namespace:Obj.prototype	type:[!this.x] function()
+map	__DIR__/map.js	1;"	v	lineno:1	type:Map
+map	__DIR__/simple_generic.js	6;"	f	lineno:6	type:string|fn() -> bool) -> [?] function(Array[number], fn()
+method	__DIR__/docstrings.js	95;"	f	lineno:95	namespace:C.prototype	type:number function()
+method	__DIR__/es6-features.js	7;"	f	lineno:7	namespace:Foo.prototype	type:void function()
+method	__DIR__/objectlit.js	7;"	f	lineno:7	namespace:foo	type:string function()
+methodA	__DIR__/findref.js	24;"	f	lineno:24	namespace:foo.prototype	type:void function()
+methodB	__DIR__/findref.js	27;"	f	lineno:27	namespace:foo.prototype	type:void function()
+methodB	__DIR__/findref.js	33;"	f	lineno:33	namespace:bar.prototype	type:void function()
+methodEleven	__DIR__/extends.js	34;"	f	lineno:34	namespace:SubEleven.prototype.constructor.prototype	type:string function()
+methodEleven	__DIR__/extends.js	34;"	f	lineno:34	namespace:SubEleven.prototype	type:string function()
+methodOne	__DIR__/extends.js	20;"	f	lineno:20	namespace:SubOne.prototype	type:number function()
+methodOne	__DIR__/extends.js	20;"	f	lineno:20	namespace:SubOne.prototype.constructor.prototype	type:number function()
+methodTwo	__DIR__/extends.js	27;"	f	lineno:27	namespace:SubTwo.prototype	type:void function()
+methodTwo	__DIR__/extends.js	27;"	f	lineno:27	namespace:SubTwo.prototype.constructor.prototype	type:void function()
+mixin	__DIR__/mixin.js	7;"	f	lineno:7	type:!0 function(Class.prototype|string)
+mod	__DIR__/phantom_object.js	1;"	v	lineno:1
+monkeyAlias	__DIR__/docstrings.js	14;"	f	lineno:14	type:string function()
+monkeyAlias	__DIR__/docstrings.js	18;"	f	lineno:18	type:string function()
+myBitset	__DIR__/jsdoc.js	88;"	v	lineno:88	type:[bool]
+myIter	__DIR__/for_of.js	1;"	v	lineno:1
+myObj	__DIR__/jsdoc.js	93;"	v	lineno:93
+myResolve1	__DIR__/promise.js	56;"	f	lineno:56	type:Promise function(string)
+myResolve2	__DIR__/promise.js	62;"	f	lineno:62	type:Promise function(string|number)
+myResolve3	__DIR__/promise.js	73;"	f	lineno:73	type:Promise function(?|number)
+mySym	__DIR__/symbol.js	1;"	v	lineno:1
+myalias	__DIR__/docstrings.js	4;"	f	lineno:4	type:void function(number)
+n	__DIR__/destructure.js	32;"	v	lineno:32	type:string
+n	__DIR__/es6-features.js	20;"	v	lineno:20	namespace:it
+n	__DIR__/hint-objlit.js	11;"	v	lineno:11	namespace:age.person
+n	__DIR__/hint_ecma5.js	17;"	v	lineno:17	type:number
+n	__DIR__/hint_ecma5.js	322;"	v	lineno:322	namespace:testForControlFlow1	type:number
+n	__DIR__/hint_ecma5.js	342;"	v	lineno:342	namespace:testWhileLoopFlow1	type:number
+n	__DIR__/hint_ecma5.js	377;"	v	lineno:377	namespace:testSwitchFlow1
+n	__DIR__/infinite-expansion.js	3;"	f	lineno:3	namespace:f	type:void function(f)
+n	__DIR__/infinite-expansion.js	15;"	v	lineno:15	namespace:goop	type:number
+n	__DIR__/react.jsx	14;"	v	lineno:14	type:boolean
+name	__DIR__/docstrings.js	78;"	v	lineno:78	namespace:o	type:string
+name	__DIR__/hint-objlit.js	3;"	v	lineno:3	namespace:person	type:string
+name	__DIR__/hint-objlit.js	3;"	v	lineno:3	namespace:age.person	type:string
+name	__DIR__/hint_ecma5.js	104;"	v	lineno:104	namespace:personType.changeName
+name	__DIR__/hint_ecma5.js	274;"	v	lineno:274	namespace:obj	type:string
+name	__DIR__/hint_ecma5.js	299;"	v	lineno:299	namespace:testIfControlFlow1.f	type:string
+newElt	__DIR__/browser.js	5;"	v	lineno:5	type:Element
+newElt	__DIR__/hint_browser.js	5;"	v	lineno:5	type:Element
+next	__DIR__/generator.js	//;"	f	namespace:it	type:it.next.!ret function()
+noise	__DIR__/hint-objlit.js	41;"	v	lineno:41	namespace:takes.example	type:number
+nothing	__DIR__/hint-objlit.js	1;"	v	lineno:1	namespace:poison	type:number
+num	__DIR__/builtins.js	26;"	v	lineno:26	type:number
+o	__DIR__/bind.js	12;"	v	lineno:12
+o	__DIR__/blowup.js	10;"	v	lineno:10	namespace:Ext.extend.subclass.extend
+o	__DIR__/defineProperty.js	1;"	v	lineno:1
+o	__DIR__/destructure.js	32;"	v	lineno:32	type:boolean
+o	__DIR__/docstrings.js	74;"	v	lineno:74
+o	__DIR__/jsdoc.js	49;"	v	lineno:49
+o	__DIR__/react.jsx	15;"	v	lineno:15	type:boolean
+o2	__DIR__/defineProperty.js	17;"	v	lineno:17
+obj	__DIR__/computedprop.js	6;"	v	lineno:6
+obj	__DIR__/finddef.js	5;"	v	lineno:5
+obj	__DIR__/findref.js	10;"	v	lineno:10
+obj	__DIR__/generic_each.js	2;"	v	lineno:2	namespace:each	type:[each.!0.<i>]
+obj	__DIR__/getter.js	1;"	v	lineno:1
+obj	__DIR__/hint_ecma5.js	273;"	v	lineno:273
+obj	__DIR__/super.js	20;"	v	lineno:20
+obj	__DIR__/symbol.js	3;"	v	lineno:3
+oc	__DIR__/mixin.js	31;"	v	lineno:31	type:OtherClass
+one	__DIR__/extends.js	38;"	v	lineno:38	type:SubOne
+one	__DIR__/hint_ecma5.js	254;"	f	lineno:254	type:void function()
+one	__DIR__/jsdoc.js	//;"	v	namespace:myObj	type:boolean
+oo	__DIR__/copyprops.js	2;"	v	lineno:2	namespace:buildCopy
+origin	__DIR__/class.js	10;"	f	lineno:10	namespace:Point2	type:Point2 function()
+otherMod	__DIR__/phantom_object.js	7;"	v	lineno:7
+out	__DIR__/destructure.js	28;"	v	lineno:28
+out	__DIR__/generator.js	2;"	v	lineno:2	namespace:foo	type:string
+oy	__DIR__/docstrings.js	47;"	v	lineno:47	type:number
+p	__DIR__/promise.js	1;"	v	lineno:1	type:Promise
+p	__DIR__/super.js	12;"	v	lineno:12	type:Point3
+p	__DIR__/react.jsx	16;"	v	lineno:16	type:boolean
+p1	__DIR__/class.js	23;"	v	lineno:23	type:Point2
+p2	__DIR__/class.js	26;"	v	lineno:26	type:Point2
+p2	__DIR__/promise.js	12;"	v	lineno:12	type:Promise
+p3	__DIR__/class.js	32;"	v	lineno:32	type:Point3
+p3	__DIR__/promise.js	21;"	v	lineno:21	type:Promise
+p4	__DIR__/class.js	37;"	v	lineno:37	type:Point4
+p4	__DIR__/promise.js	30;"	v	lineno:30	type:Promise
+p5	__DIR__/promise.js	36;"	v	lineno:36	type:Promise
+p6	__DIR__/promise.js	41;"	v	lineno:41	type:Promise
+p7	__DIR__/promise.js	47;"	v	lineno:47	type:Promise
+p8	__DIR__/promise.js	53;"	v	lineno:53	type:Promise
+parent	__DIR__/extends.js	3;"	f	lineno:3	namespace:__extends	type:void function(bool)
+pattern1	__DIR__/hint_ecma5.js	54;"	v	lineno:54	type:regexp
+person	__DIR__/hint-objlit.js	3;"	v	lineno:3
+person	__DIR__/hint-objlit.js	5;"	v	lineno:5	namespace:age
+person	__DIR__/hint_ecma5.js	86;"	v	lineno:86
+person	__DIR__/hint_ecma5.js	256;"	v	lineno:256	namespace:one	type:string
+personType	__DIR__/hint_ecma5.js	95;"	f	lineno:95	type:void function(string, string, number, string)
+persons	__DIR__/hint-objlit.js	6;"	v	lineno:6	namespace:ages	type:[person, person]|[ages.!0.<i>]
+player	__DIR__/hint_ecma5.js	187;"	v	lineno:187	namespace:config.CSS.IDs	type:string
+plus	__DIR__/class.js	3;"	f	lineno:3	namespace:Point2.prototype	type:Point2 function(+Point2)
+poison	__DIR__/hint-objlit.js	1;"	v	lineno:1
+post	__DIR__/react.jsx	18;"	v	lineno:18	type:boolean
+pre	__DIR__/react.jsx	19;"	v	lineno:19	type:string
+pre2	__DIR__/react.jsx	19;"	v	lineno:19	type:string
+pro	__DIR__/super.js	18;"	v	lineno:18
+prop	__DIR__/copyprops.js	3;"	v	lineno:3	namespace:buildCopy
+prop	__DIR__/destructure.js	29;"	v	lineno:29	namespace:out	type:number
+prop1	__DIR__/defineProperty.js	4;"	v	lineno:4	namespace:o	type:string
+prop1	__DIR__/defineProperty.js	19;"	v	lineno:19	namespace:o2	type:number
+prop1	__DIR__/finddef.js	6;"	v	lineno:6	namespace:obj	type:number
+prop1	__DIR__/hint_ecma5.js	//;"	v	namespace:extend	type:string
+prop1	__DIR__/hint_ecma5.js	151;"	v	lineno:151	namespace:empty	type:string
+prop1	__DIR__/jsdoc.js	51;"	v	lineno:51	namespace:o	type:string
+prop1	__DIR__/object_create.js	//;"	v	namespace:extend	type:string
+prop1	__DIR__/object_create.js	30;"	v	lineno:30	namespace:empty	type:string
+prop2	__DIR__/defineProperty.js	8;"	v	lineno:8	namespace:o	type:number
+prop2	__DIR__/defineProperty.js	19;"	v	lineno:19	namespace:o2	type:boolean
+prop2	__DIR__/destructure.js	29;"	v	lineno:29	namespace:out	type:boolean
+prop2	__DIR__/finddef.js	7;"	f	lineno:7	namespace:obj	type:void function(?)
+prop2	__DIR__/hint_ecma5.js	//;"	v	namespace:extend	type:number
+prop2	__DIR__/jsdoc.js	54;"	f	lineno:54	namespace:o	type:number function()
+prop3	__DIR__/finddef.js	10;"	v	lineno:10	namespace:obj	type:string
+prop3	__DIR__/jsdoc.js	58;"	f	lineno:58	namespace:o	type:string function()
+prop_A	__DIR__/new_to_prototype.js	2;"	v	lineno:2	namespace:A.prototype	type:number
+prop_B	__DIR__/new_to_prototype.js	5;"	v	lineno:5	namespace:B.prototype	type:number
+prop_C	__DIR__/new_to_prototype.js	8;"	v	lineno:8	namespace:C.prototype	type:number
+prototype	__DIR__/blowup.js	8;"	v	lineno:8	namespace:Ext.extend.subclass
+prototype	__DIR__/blowup.js	19;"	v	lineno:19	namespace:Ext.extend.F
+prototype	__DIR__/class.js	1;"	v	lineno:1	namespace:Point2
+prototype	__DIR__/class.js	13;"	v	lineno:13	namespace:Point4
+prototype	__DIR__/class.js	18;"	v	lineno:18	namespace:Point3
+prototype	__DIR__/docstrings.js	93;"	v	lineno:93	namespace:C
+prototype	__DIR__/es6-features.js	1;"	v	lineno:1	namespace:Foo
+prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubTwo.prototype.constructor
+prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubEleven
+prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubTwo
+prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubOne
+prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubEleven.prototype.constructor
+prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubOne.prototype.constructor
+prototype	__DIR__/finddef.js	29;"	v	lineno:29	namespace:foo
+prototype	__DIR__/findref.js	22;"	v	lineno:22	namespace:foo
+prototype	__DIR__/findref.js	31;"	v	lineno:31	namespace:bar
+prototype	__DIR__/hint_ecma5.js	156;"	v	lineno:156	namespace:Ctor1
+prototype	__DIR__/hint_ecma5.js	171;"	v	lineno:171	namespace:Foo
+prototype	__DIR__/indirect_class.js	7;"	v	lineno:7	namespace:makeClass.Ctor
+prototype	__DIR__/infinite-expansion.js	4;"	v	lineno:4	namespace:f.n
+prototype	__DIR__/mixin.js	2;"	v	lineno:2	namespace:Class
+prototype	__DIR__/mixin.js	19;"	v	lineno:19	namespace:OtherClass
+prototype	__DIR__/new_to_prototype.js	4;"	v	lineno:4	namespace:B
+prototype	__DIR__/new_to_prototype.js	7;"	v	lineno:7	namespace:C
+prototype	__DIR__/objnames.js	2;"	v	lineno:2	namespace:Ctor1
+prototype	__DIR__/proto.js	7;"	v	lineno:7	namespace:Foo
+prototype	__DIR__/protoname.js	2;"	v	lineno:2	namespace:Base
+prototype	__DIR__/protoname.js	8;"	v	lineno:8	namespace:Sub1
+prototype	__DIR__/protoname.js	12;"	v	lineno:12	namespace:Sub2
+prototype	__DIR__/protoname.js	18;"	v	lineno:18	namespace:Sub3
+prototype	__DIR__/super.js	1;"	v	lineno:1	namespace:Point3
+prototype	__DIR__/super.js	7;"	v	lineno:7	namespace:Point2
+pt	__DIR__/class.js	3;"	v	lineno:3	namespace:Point2.prototype.plus	type:Point2
+q	__DIR__/react.jsx	17;"	v	lineno:17	type:boolean
+quux	__DIR__/class.js	9;"	f	lineno:9	namespace:Point2.prototype	type:number function()
+quux	__DIR__/hint_ecma5.js	134;"	v	lineno:134	namespace:gen1	type:number
+quux	__DIR__/object_create.js	6;"	v	lineno:6	namespace:gen1	type:number
+r	__DIR__/react.jsx	18;"	v	lineno:18	type:boolean
+reg	__DIR__/hint_ecma5.js	51;"	v	lineno:51	type:regexp
+res	__DIR__/simple_generic.js	7;"	v	lineno:7	namespace:map	type:[bool]
+s	__DIR__/react.jsx	19;"	v	lineno:19	type:boolean
+s1	__DIR__/hint_ecma5.js	72;"	v	lineno:72	type:string
+s2	__DIR__/hint_ecma5.js	75;"	v	lineno:75	type:string
+s3	__DIR__/hint_ecma5.js	78;"	v	lineno:78	type:string
+s4	__DIR__/hint_ecma5.js	81;"	v	lineno:81	type:string
+scope1	__DIR__/hint_ecma5.js	216;"	f	lineno:216	type:void function()
+set	__DIR__/set.js	1;"	v	lineno:1	type:Set
+setD	__DIR__/effects.js	13;"	f	lineno:13	type:void function(number)
+simple	__DIR__/cautiouspropagation.js	8;"	v	lineno:8
+singleton	__DIR__/hint_ecma5.js	164;"	v	lineno:164
+singleton	__DIR__/objnames.js	6;"	v	lineno:6
+something	__DIR__/docstrings.js	97;"	v	lineno:97	namespace:C.prototype	type:number
+strs	__DIR__/template.js	6;"	v	lineno:6	namespace:build	type:[string]
+subclass	__DIR__/blowup.js	14;"	f	lineno:14	namespace:Ext.extend	type:void function()
+sum	__DIR__/merge.js	1;"	f	lineno:1	type:number function(?)
+sup	__DIR__/indirect_class.js	1;"	v	lineno:1
+superclass	__DIR__/blowup.js	14;"	f	lineno:14	namespace:Ext.extend	type:void function()
+t	__DIR__/hint_ecma5.js	305;"	v	lineno:305	namespace:testIfControlFlow1
+t	__DIR__/react.jsx	20;"	v	lineno:20	type:boolean
+takes	__DIR__/hint-objlit.js	24;"	f	lineno:24	type:!0 function(?)
+takesOpt	__DIR__/jsdoc.js	73;"	f	lineno:73	type:void function(number)
+test	__DIR__/react.jsx	7;"	v	lineno:7	type:boolean
+testBreak	__DIR__/hint_ecma5.js	362;"	v	lineno:362	namespace:testBreakFlow1	type:string
+testBreakFlow1	__DIR__/hint_ecma5.js	359;"	f	lineno:359	type:void function()
+testContinue	__DIR__/hint_ecma5.js	365;"	v	lineno:365	namespace:testBreakFlow1	type:string
+testDoWhileLoopFlow1	__DIR__/hint_ecma5.js	349;"	f	lineno:349	type:void function()
+testForControlFlow1	__DIR__/hint_ecma5.js	317;"	f	lineno:317	type:void function()
+testForInLoopFlow1	__DIR__/hint_ecma5.js	334;"	f	lineno:334	type:void function()
+testIfControlFlow1	__DIR__/hint_ecma5.js	291;"	f	lineno:291	type:void function()
+testSwitchFlow1	__DIR__/hint_ecma5.js	377;"	f	lineno:377	type:void function(?)
+testTryCatchFlow1	__DIR__/hint_ecma5.js	398;"	f	lineno:398	type:void function()
+testWhileLoopFlow1	__DIR__/hint_ecma5.js	341;"	f	lineno:341	type:void function()
+timeout	__DIR__/hint_ecma5.js	272;"	f	lineno:272	namespace:timeout	type:void function(?, ?)
+timeout	__DIR__/hint_ecma5.js	272;"	v	lineno:272
+topMethod	__DIR__/extends.js	12;"	f	lineno:12	namespace:Top.prototype	type:string function()
+topStatic	__DIR__/extends.js	13;"	v	lineno:13	namespace:Top	type:number
+topStatic	__DIR__/extends.js	//;"	v	namespace:SubEleven	type:number
+topStatic	__DIR__/extends.js	//;"	v	namespace:SubTwo.prototype.constructor	type:number
+topStatic	__DIR__/extends.js	//;"	v	namespace:SubOne	type:number
+topStatic	__DIR__/extends.js	//;"	v	namespace:SubEleven.prototype.constructor	type:number
+topStatic	__DIR__/extends.js	//;"	v	namespace:SubTwo	type:number
+topStatic	__DIR__/extends.js	//;"	v	namespace:SubOne.prototype.constructor	type:number
+two	__DIR__/extends.js	38;"	v	lineno:38	type:SubTwo
+two	__DIR__/jsdoc.js	//;"	v	namespace:myObj	type:number
+u	__DIR__/class.js	14;"	v	lineno:14	namespace:Point4	type:number
+u	__DIR__/react.jsx	21;"	v	lineno:21	type:boolean
+ui	__DIR__/jsdoc.js	140;"	f	lineno:140	type:string function()
+unionFunction	__DIR__/jsdoc.js	133;"	f	lineno:133	type:[?|number] function(string)
+v	__DIR__/react.jsx	22;"	v	lineno:22	type:boolean
+value	__DIR__/map.js	18;"	v	lineno:18	type:string
+varInCatch	__DIR__/hint_ecma5.js	403;"	v	lineno:403	namespace:testTryCatchFlow1	type:string
+varInDoWhileLoop	__DIR__/hint_ecma5.js	352;"	v	lineno:352	namespace:testDoWhileLoopFlow1	type:string
+varInForLoop	__DIR__/hint_ecma5.js	323;"	v	lineno:323	namespace:testForControlFlow1	type:string
+varInIf	__DIR__/hint_ecma5.js	294;"	v	lineno:294	namespace:testIfControlFlow1	type:string
+varInNestedForLoop	__DIR__/hint_ecma5.js	325;"	v	lineno:325	namespace:testForControlFlow1	type:number
+varInTry	__DIR__/hint_ecma5.js	400;"	v	lineno:400	namespace:testTryCatchFlow1	type:string
+varInWhileLoop	__DIR__/hint_ecma5.js	344;"	v	lineno:344	namespace:testWhileLoopFlow1	type:string
+w	__DIR__/react.jsx	24;"	v	lineno:24	type:boolean
+whoAmI	__DIR__/contextcomplete.js	1;"	f	lineno:1	type:void function(?, ?)
+wrap	__DIR__/arrow.js	5;"	f	lineno:5	type:wrap.!ret.!ret function() function()
+x	__DIR__/array_holes.js	1;"	v	lineno:1	type:[string]
+x	__DIR__/block_scope.js	1;"	f	lineno:1	type:void function(string)
+x	__DIR__/builtins.js	1;"	v	lineno:1	type:number
+x	__DIR__/class.js	2;"	v	lineno:2	namespace:Point4	type:number
+x	__DIR__/class.js	2;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
+x	__DIR__/class.js	2;"	v	lineno:2	namespace:Point2	type:number
+x	__DIR__/class.js	19;"	v	lineno:19	namespace:Point3	type:number
+x	__DIR__/computedprop.js	1;"	v	lineno:1
+x	__DIR__/es6-features.js	9;"	v	lineno:9	namespace:Foo.prototype	type:string
+x	__DIR__/findref.js	11;"	v	lineno:11	namespace:obj	type:number
+x	__DIR__/hint_ecma5.js	3;"	v	lineno:3	type:number
+x	__DIR__/hint_ecma5.js	166;"	v	lineno:166	namespace:Foo	type:boolean
+x	__DIR__/hint_ecma5.js	167;"	v	lineno:167	namespace:foo	type:boolean
+x	__DIR__/infinite-expansion.js	10;"	v	lineno:10	type:[x]
+x	__DIR__/jsdoc.js	//;"	v	namespace:c	type:number
+x	__DIR__/merge.js	6;"	v	lineno:6	namespace:sum.a	type:number
+x	__DIR__/order_of_definition.js	10;"	f	lineno:10	namespace:baz.bug	type:void function()
+x	__DIR__/plus.js	1;"	v	lineno:1	type:number
+x	__DIR__/promise.js	3;"	v	lineno:3	namespace:Promise.:t	type:number
+x	__DIR__/proto.js	1;"	v	lineno:1	namespace:Foo	type:boolean
+x	__DIR__/proto.js	2;"	v	lineno:2	namespace:z	type:boolean
+x	__DIR__/replace_bogus_prop.js	1;"	v	lineno:1	type:Type
+x	__DIR__/simple.js	6;"	v	lineno:6
+x	__DIR__/super.js	8;"	v	lineno:8	namespace:Point3	type:number
+x	__DIR__/super.js	18;"	v	lineno:18	namespace:pro	type:number
+x	__DIR__/super.js	22;"	v	lineno:22	namespace:obj	type:string
+x	__DIR__/template.js	2;"	v	lineno:2	type:number
+x	__DIR__/react.jsx	23;"	v	lineno:23	type:boolean
+xx	__DIR__/class.js	8;"	v	lineno:8	namespace:Point2.prototype	type:number
+xyzzy	__DIR__/docstrings.js	70;"	v	lineno:70	type:boolean
+y	__DIR__/array_holes.js	3;"	v	lineno:3	type:string
+y	__DIR__/class.js	2;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
+y	__DIR__/class.js	2;"	v	lineno:2	namespace:Point4	type:number
+y	__DIR__/class.js	2;"	v	lineno:2	namespace:Point2	type:number
+y	__DIR__/class.js	19;"	v	lineno:19	namespace:Point3	type:number
+y	__DIR__/es6-features.js	14;"	v	lineno:14
+y	__DIR__/findref.js	13;"	v	lineno:13	namespace:obj	type:number
+y	__DIR__/hint_ecma5.js	8;"	v	lineno:8	type:[number]
+y	__DIR__/hint_ecma5.js	11;"	v	lineno:11	type:[number]
+y	__DIR__/hint_ecma5.js	168;"	v	lineno:168	namespace:Foo	type:[number]
+y	__DIR__/jsdoc.js	//;"	v	namespace:c	type:[string]
+y	__DIR__/merge.js	6;"	v	lineno:6	namespace:sum.a	type:number
+y	__DIR__/plus.js	2;"	v	lineno:2	type:string
+y	__DIR__/proto.js	3;"	v	lineno:3	namespace:Foo	type:[number]
+y	__DIR__/super.js	8;"	v	lineno:8	namespace:Point3	type:number
+y	__DIR__/react.jsx	25;"	v	lineno:25	type:boolean
+years	__DIR__/hint_ecma5.js	201;"	v	lineno:201	type:[number]
+z	__DIR__/array_holes.js	3;"	v	lineno:3	type:string
+z	__DIR__/class.js	19;"	v	lineno:19	namespace:Point3	type:number
+z	__DIR__/class.js	19;"	v	lineno:19	namespace:Point4	type:number
+z	__DIR__/findref.js	17;"	v	lineno:17	namespace:obj	type:string
+z	__DIR__/hint_ecma5.js	14;"	v	lineno:14	type:number
+z	__DIR__/import.js	4;"	f	lineno:4	type:void function()
+z	__DIR__/proto.js	12;"	v	lineno:12	type:Foo
+z	__DIR__/super.js	2;"	v	lineno:2	namespace:Point3	type:number
+z	__DIR__/react.jsx	26;"	v	lineno:26	type:boolean
+ç	__DIR__/react.jsx	27;"	v	lineno:27	type:boolean

@@ -1,0 +1,15 @@
+another	__DIR__/finddef.js	23;"	f	lineno:23	type:void function(?)
+arg	__DIR__/finddef.js	23;"	v	lineno:23	namespace:another
+bar	__DIR__/finddef.js	30;"	f	lineno:30	namespace:foo.prototype	type:void function()
+blah	__DIR__/finddef.js	1;"	f	lineno:1	type:void function()
+foo	__DIR__/finddef.js	7;"	v	lineno:7	namespace:obj.prop2
+foo	__DIR__/finddef.js	29;"	f	lineno:29	type:void function()
+fooObj	__DIR__/finddef.js	34;"	v	lineno:34	type:foo
+hide	__DIR__/finddef.js	19;"	f	lineno:19	type:void function(?) function()
+jaja	__DIR__/finddef.js	3;"	v	lineno:3	type:number
+local	__DIR__/finddef.js	24;"	v	lineno:24	namespace:another	type:number
+obj	__DIR__/finddef.js	5;"	v	lineno:5
+prop1	__DIR__/finddef.js	6;"	v	lineno:6	namespace:obj	type:number
+prop2	__DIR__/finddef.js	7;"	f	lineno:7	namespace:obj	type:void function(?)
+prop3	__DIR__/finddef.js	10;"	v	lineno:10	namespace:obj	type:string
+prototype	__DIR__/finddef.js	29;"	v	lineno:29	namespace:foo

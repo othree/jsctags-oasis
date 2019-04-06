@@ -1,0 +1,6 @@
+o	__DIR__/defineProperty.js	1;"	v	lineno:1
+o2	__DIR__/defineProperty.js	17;"	v	lineno:17
+prop1	__DIR__/defineProperty.js	4;"	v	lineno:4	namespace:o	type:string
+prop1	__DIR__/defineProperty.js	19;"	v	lineno:19	namespace:o2	type:number
+prop2	__DIR__/defineProperty.js	8;"	v	lineno:8	namespace:o	type:number
+prop2	__DIR__/defineProperty.js	19;"	v	lineno:19	namespace:o2	type:boolean
