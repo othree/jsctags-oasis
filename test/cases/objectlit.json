@@ -1,8 +1,8 @@
 [
   {
-    "id": "b8e9a0c0-5908-11e9-9aae-35a23e1de9cd",
+    "id": "cb56a820-593a-11e9-9510-777d5627dd05",
     "name": "bar",
-    "addr": "/var bar/",
+    "addr": "/^var bar/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
-    "id": "b8e9c7d0-5908-11e9-9aae-35a23e1de9cd",
+    "id": "cb56cf30-593a-11e9-9510-777d5627dd05",
     "name": "foo",
-    "addr": "/var foo/",
+    "addr": "/^var foo/",
     "kind": "v",
     "lineno": 3,
     "origin": {
@@ -32,14 +32,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
-    "id": "b8e9c7d1-5908-11e9-9aae-35a23e1de9cd",
+    "id": "cb56cf31-593a-11e9-9510-777d5627dd05",
     "name": "a",
-    "addr": "/  a/",
+    "addr": "/^  a/",
     "kind": "v",
     "type": "boolean",
     "lineno": 6,
     "namespace": "foo",
-    "parent": "b8e9c7d0-5908-11e9-9aae-35a23e1de9cd",
+    "parent": "cb56cf30-593a-11e9-9510-777d5627dd05",
     "origin": {
       "!span": "60[5:2]-61[5:3]",
       "!type": "bool",
@@ -51,14 +51,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
-    "id": "b8e9c7d2-5908-11e9-9aae-35a23e1de9cd",
+    "id": "cb56cf32-593a-11e9-9510-777d5627dd05",
     "name": "method",
-    "addr": "/  method/",
+    "addr": "/^  method/",
     "kind": "f",
     "type": "string function()",
     "lineno": 7,
     "namespace": "foo",
-    "parent": "b8e9c7d0-5908-11e9-9aae-35a23e1de9cd",
+    "parent": "cb56cf30-593a-11e9-9510-777d5627dd05",
     "origin": {
       "!span": "71[6:2]-77[6:8]",
       "!type": "fn() -> string",
@@ -70,9 +70,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
-    "id": "b8e9c7d3-5908-11e9-9aae-35a23e1de9cd",
+    "id": "cb56f640-593a-11e9-9510-777d5627dd05",
     "name": "baz",
-    "addr": "/var baz/",
+    "addr": "/^var baz/",
     "kind": "v",
     "lineno": 10,
     "origin": {
@@ -84,14 +84,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
-    "id": "b8e9c7d4-5908-11e9-9aae-35a23e1de9cd",
+    "id": "cb56f641-593a-11e9-9510-777d5627dd05",
     "name": "b",
-    "addr": "/  b/",
+    "addr": "/^  b/",
     "kind": "v",
     "type": "string",
     "lineno": 12,
     "namespace": "baz",
-    "parent": "b8e9c7d3-5908-11e9-9aae-35a23e1de9cd",
+    "parent": "cb56f640-593a-11e9-9510-777d5627dd05",
     "origin": {
       "!span": "132[11:2]-133[11:3]",
       "!type": "string",

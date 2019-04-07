@@ -1,8 +1,8 @@
 [
   {
-    "id": "b46725e0-5908-11e9-9e1b-1588ae2644e7",
+    "id": "c72189f0-593a-11e9-ae0e-fbed80bf77ba",
     "name": "Class",
-    "addr": "/function Class/",
+    "addr": "/^function Class/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -17,14 +17,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
   },
   {
-    "id": "b4674cf1-5908-11e9-9e1b-1588ae2644e7",
+    "id": "c721d811-593a-11e9-ae0e-fbed80bf77ba",
     "name": "hello",
-    "addr": "/Class\\.prototype\\.hello/",
+    "addr": "/^Class\\.prototype\\.hello/",
     "kind": "v",
     "type": "string",
     "lineno": 2,
     "namespace": "Class.prototype",
-    "parent": "b4674cf0-5908-11e9-9e1b-1588ae2644e7",
+    "parent": "c721d810-593a-11e9-ae0e-fbed80bf77ba",
     "origin": {
       "!span": "36[1:16]-41[1:21]",
       "!type": "string",
@@ -36,9 +36,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
   },
   {
-    "id": "b4674cf2-5908-11e9-9e1b-1588ae2644e7",
+    "id": "c721d812-593a-11e9-ae0e-fbed80bf77ba",
     "name": "c",
-    "addr": "/var c/",
+    "addr": "/^var c/",
     "kind": "v",
     "type": "Class",
     "lineno": 4,
@@ -53,13 +53,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
   },
   {
-    "id": "b4674cf3-5908-11e9-9e1b-1588ae2644e7",
+    "id": "c721d813-593a-11e9-ae0e-fbed80bf77ba",
     "name": "hello",
-    "addr": "/c\\.hello/",
+    "addr": "/^c\\.hello/",
     "kind": "v",
     "lineno": 5,
     "namespace": "c",
-    "parent": "b4674cf2-5908-11e9-9e1b-1588ae2644e7",
+    "parent": "c721d812-593a-11e9-ae0e-fbed80bf77ba",
     "origin": {
       "!span": "76[4:2]-81[4:7]",
       "!data": {

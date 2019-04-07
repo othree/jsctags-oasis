@@ -1,8 +1,8 @@
 [
   {
-    "id": "b20fc860-5908-11e9-a704-2774ff2de374",
+    "id": "c4ac9250-593a-11e9-82a8-53c88cb9498d",
     "name": "x",
-    "addr": "/function x/",
+    "addr": "/^function x/",
     "kind": "f",
     "type": "void function(string)",
     "lineno": 1,
@@ -17,14 +17,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js"
   },
   {
-    "id": "b2101680-5908-11e9-a704-2774ff2de374",
+    "id": "c4ace070-593a-11e9-82a8-53c88cb9498d",
     "name": "a",
-    "addr": "/function x\\(a/",
+    "addr": "/^function x\\(a/",
     "kind": "v",
     "type": "string",
     "lineno": 1,
     "namespace": "x",
-    "parent": "b20fc860-5908-11e9-a704-2774ff2de374",
+    "parent": "c4ac9250-593a-11e9-82a8-53c88cb9498d",
     "origin": {
       "!span": "11[0:11]-12[0:12]",
       "!type": "string",
@@ -38,14 +38,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js"
   },
   {
-    "id": "b2101681-5908-11e9-a704-2774ff2de374",
+    "id": "c4ace071-593a-11e9-82a8-53c88cb9498d",
     "name": "c",
-    "addr": "/    var c/",
+    "addr": "/^    var c/",
     "kind": "v",
     "type": "boolean",
     "lineno": 5,
     "namespace": "x",
-    "parent": "b20fc860-5908-11e9-a704-2774ff2de374",
+    "parent": "c4ac9250-593a-11e9-82a8-53c88cb9498d",
     "origin": {
       "!span": "57[4:8]-58[4:9]",
       "!type": "bool",

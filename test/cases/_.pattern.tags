@@ -1,654 +1,654 @@
-:my_sym	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/  \[mySym/;"	v	lineno:4	namespace:obj	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p2 = new Promise\(function\(acc\) \{ acc\("hi"\); \}/;"	v	lineno:12	namespace:p2	type:string
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p3 = Promise\.resolve\(10/;"	v	lineno:21	namespace:p3	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p4 = Promise\.resolve\(Promise\.resolve\(10\)/;"	v	lineno:30	namespace:p4	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var arg5 = 1 < 2 \? Promise\.resolve\(10/;"	v	lineno:35	namespace:arg5	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p5 = Promise\.resolve\(arg5/;"	v	lineno:36	namespace:p5	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/\}\)\.then\(function\(value\) \{/;"	v	lineno:43	namespace:p6	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/\}\)\.then\(function\(value\) \{/;"	v	lineno:49	namespace:p7	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/  return Promise\.resolve\(arg7/;"	v	lineno:74	namespace:Promise	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/myResolve3\(Promise\.resolve\(4/;"	v	lineno:81	namespace:myResolve3.arg7	type:number
-<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/grabbag\[foo\(\)/;"	v	lineno:2	namespace:grabbag
-<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/simple\[foo\(\)/;"	v	lineno:9	namespace:simple	type:string
-<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/x\[foo\(\)/;"	v	lineno:2	namespace:x
+:my_sym	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/^  \[mySym/;"	v	lineno:4	namespace:obj	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p2 = new Promise\(function\(acc\) \{ acc\("hi"\); \}/;"	v	lineno:12	namespace:p2	type:string
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p3 = Promise\.resolve\(10/;"	v	lineno:21	namespace:p3	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p4 = Promise\.resolve\(Promise\.resolve\(10\)/;"	v	lineno:30	namespace:p4	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var arg5 = 1 < 2 \? Promise\.resolve\(10/;"	v	lineno:35	namespace:arg5	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p5 = Promise\.resolve\(arg5/;"	v	lineno:36	namespace:p5	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^\}\)\.then\(function\(value\) \{/;"	v	lineno:43	namespace:p6	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^\}\)\.then\(function\(value\) \{/;"	v	lineno:49	namespace:p7	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^  return Promise\.resolve\(arg7/;"	v	lineno:74	namespace:Promise	type:number
+:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^myResolve3\(Promise\.resolve\(4/;"	v	lineno:81	namespace:myResolve3.arg7	type:number
+<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/^grabbag\[foo\(\)/;"	v	lineno:2	namespace:grabbag
+<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/^simple\[foo\(\)/;"	v	lineno:9	namespace:simple	type:string
+<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/^x\[foo\(\)/;"	v	lineno:2	namespace:x
 <i>	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:closureMap	type:boolean
-A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/function A/;"	f	lineno:1	type:void function()
-Abc	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var Abc/;"	f	lineno:26	type:void function()
-AbcCls	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var AbcCls/;"	f	lineno:31	type:void function()
-AbcCtor	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var AbcCtor/;"	f	lineno:36	type:void function()
-B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/function B/;"	f	lineno:3	type:void function()
-Bar	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/function Bar/;"	f	lineno:1	type:void function()
-Base	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/function Base/;"	f	lineno:1	type:void function()
-Base2	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/function Base2/;"	f	lineno:15	type:void function()
-C	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/class C/;"	f	lineno:93	type:void function()
-C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/function C/;"	f	lineno:6	type:void function()
-CSS	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  CSS/;"	v	lineno:183	namespace:config
-Class	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/function Class/;"	f	lineno:1	type:void function()
-Class	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function Class/;"	f	lineno:1	type:void function()
-Ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js	/function Ctor/;"	f	lineno:4	type:Ctor function()
-Ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/  function Ctor/;"	f	lineno:6	namespace:makeClass	type:void function()
-Ctor1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Ctor1/;"	f	lineno:155	type:void function()
-Ctor1	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/function Ctor1/;"	f	lineno:1	type:void function()
-Ctor2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Ctor2/;"	f	lineno:159	type:void function()
-Ctor2	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/function Ctor2/;"	f	lineno:4	type:void function()
-Ext	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/var Ext/;"	v	lineno:1
-F	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  var F/;"	f	lineno:18	namespace:Ext.extend	type:void function()
-Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/class Foo/;"	f	lineno:1	type:void function(?, ?)
-Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Foo/;"	f	lineno:166	type:void function(bool)
-Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/function Foo/;"	f	lineno:1	type:void function(bool)
-IDs	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    IDs/;"	v	lineno:184	namespace:config.CSS
-Mine	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/var Mine/;"	v	lineno:11
-NonAscïį	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function NonAscïį/;"	f	lineno:99	type:void function()
-Obj	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/function Obj/;"	f	lineno:11	type:void function()
-OtherClass	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function OtherClass/;"	f	lineno:18	type:void function()
-Point2	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/class Point2/;"	f	lineno:1	type:void function(number, number)
-Point2	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point2/;"	f	lineno:7	type:void function(number, number)
-Point3	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/var Point3/;"	f	lineno:18	type:void function(number, number, number)
-Point3	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point3/;"	f	lineno:1	type:void function(number, number, number)
-Point4	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/class Point4/;"	f	lineno:13	type:void function(number, number, number, number)
-Quux	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/function Quux/;"	f	lineno:32	type:void function()
-React	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/import React/;"	v	lineno:1
-Sub1	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/function Sub1/;"	f	lineno:7	type:void function()
-Sub2	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/function Sub2/;"	f	lineno:11	type:void function()
-Sub3	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/function Sub3/;"	f	lineno:17	type:void function()
-SubEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubEleven/;"	f	lineno:31	type:void function(bool)
-SubOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubOne/;"	f	lineno:17	type:void function(bool)
-SubTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubTwo/;"	f	lineno:24	type:void function(bool)
-Top	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var Top/;"	f	lineno:10	type:void function()
-Type	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/function Type/;"	f	lineno:5	type:void function()
-_1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  _1/;"	v	lineno:40	namespace:takes.example	type:string
-_2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  _2/;"	v	lineno:43	namespace:takes.example	type:string
-__extends	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var __extends/;"	f	lineno:3	type:void function(fn(arg: bool)
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/let f = \(a/;"	v	lineno:1	namespace:f	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a/;"	v	lineno:1	namespace:f	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function h\(a/;"	v	lineno:7	namespace:h	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js	/function x\(a/;"	v	lineno:1	namespace:x	type:string
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js	/var a/;"	v	lineno:4	type:[number]
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/x\[foo\(\)\] = \{a/;"	v	lineno:2	namespace:x.<i>	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/var obj = \{a/;"	v	lineno:6	namespace:obj	type:string
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js	/function whoAmI\(a/;"	v	lineno:1	namespace:whoAmI
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/let \[a/;"	v	lineno:1	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/function setD\(a/;"	v	lineno:13	namespace:setD	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[a/;"	v	lineno:26	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/function hello\(a/;"	v	lineno:1	namespace:hello
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/var a/;"	v	lineno:38	type:foo
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/        return \{value: \{a/;"	v	lineno:5	namespace:hello	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/for \(var \{a/;"	v	lineno:15	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a/;"	v	lineno:8	type:[number]
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar: 20, foo2: \{ a/;"	v	lineno:119	namespace:base.foo2	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/Ctor1\.prototype = \{a/;"	v	lineno:156	namespace:Ctor1.prototype	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_simple.js	/var a/;"	v	lineno:6	type:[number]|number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var a/;"	v	lineno:2	type:Date
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function foo\(a/;"	v	lineno:17	namespace:foo	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var bar = function\(a/;"	v	lineno:45	namespace:bar	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function takesOpt\(a/;"	v	lineno:73	namespace:takesOpt	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function functionBogus\(a/;"	v	lineno:120	namespace:functionBogus
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function unionFunction\(a/;"	v	lineno:133	namespace:unionFunction	type:string
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/function sum\(a/;"	v	lineno:1	namespace:sum
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var a/;"	v	lineno:1	type:[string]
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/  a/;"	v	lineno:6	namespace:foo	type:boolean
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/Ctor1\.prototype = \{a/;"	v	lineno:2	namespace:Ctor1.prototype	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/var singleton = \{a/;"	v	lineno:6	namespace:singleton	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build\(strs, a/;"	v	lineno:6	namespace:build	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var a/;"	v	lineno:1	type:boolean
-a2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a2/;"	v	lineno:29	type:number
-a3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a3/;"	v	lineno:32	type:number
-a4	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a4/;"	v	lineno:35	type:number
-a5	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a5/;"	v	lineno:38	type:number
-aa	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var t = <A aa/;"	v	lineno:20
-abc	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/grabbag\[bar\(\)\] = \{abc/;"	v	lineno:3	namespace:grabbag.<i>	type:number
-abc	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var abc/;"	v	lineno:26	type:number
-abc	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/function abc/;"	f	lineno:1	type:number function()
-abc	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var abc/;"	f	lineno:21	type:void function()
-again	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var again/;"	v	lineno:112	type:number
-age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/function age/;"	f	lineno:5	type:number function(?)
-age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.age/;"	v	lineno:89	namespace:person	type:number
-age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname, lastname, age/;"	v	lineno:95	namespace:personType	type:number
-age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.age/;"	v	lineno:98	namespace:friend	type:number
-ages	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/function ages/;"	f	lineno:6	type:[number] function(Array[person)
-aha	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var aha/;"	v	lineno:64	type:string
-another	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function another/;"	f	lineno:23	type:void function(?)
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven.prototype.constructor	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function another\(arg/;"	v	lineno:23	namespace:another
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/function myResolve1\(arg/;"	v	lineno:56	namespace:myResolve1	type:string
-arg5	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var arg5/;"	v	lineno:35	type:?|number
-arg7	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/function myResolve3\(arg7/;"	v	lineno:73	namespace:myResolve3	type:?|number
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven	type:boolean
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne	type:boolean
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven.prototype.constructor	type:boolean
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
-argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
-argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo	type:boolean
-argh	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  argh/;"	f	lineno:15	namespace:Point4.prototype	type:number function()
-arguments	/Users/othree/os-projects/jsctags-oasis/test/cases/arguments.js	/var arguments/;"	v	lineno:1	type:number
-arguments	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/function abc\(\) \{/;"	v	lineno:1	namespace:abc	type:[number]
-arr	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var arr/;"	v	lineno:57	type:number
-arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function last\(arr/;"	v	lineno:1	namespace:last	type:[number]|[string]
-arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function map\(arr/;"	v	lineno:6	namespace:map	type:[number]
-arr	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var arr/;"	v	lineno:29	type:[bool]
-arr1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var arr1/;"	v	lineno:206	type:[bool]
-arr2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var arr2/;"	v	lineno:213	type:[number]
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/let f = \(a, \[b/;"	v	lineno:1	namespace:f	type:boolean
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a, b/;"	v	lineno:1	namespace:f	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/x\[foo\(\)\] = \{a: 10, b/;"	v	lineno:2	namespace:x.<i>	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/var obj = \{a: "bar", b/;"	v	lineno:6	namespace:obj	type:string
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/var b/;"	v	lineno:3	type:[bool]
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  get b/;"	v	lineno:16	namespace:y	type:boolean
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[a, b/;"	v	lineno:26	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/function hello\(a, b/;"	v	lineno:1	namespace:hello
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/var b/;"	v	lineno:39	type:bar
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/        return \{value: \{a: 1, b/;"	v	lineno:5	namespace:hello	type:boolean
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/for \(var \{a, b/;"	v	lineno:15	type:boolean
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/ages\(\[\{b/;"	v	lineno:13	namespace:age.person
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  b/;"	v	lineno:42	namespace:takes.example
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar: 20, foo2: \{ a: 10, b/;"	v	lineno:119	namespace:base.foo2	type:string
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function foo\(a, b/;"	v	lineno:17	namespace:foo	type:string
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var bar = function\(a, b/;"	v	lineno:45	namespace:bar	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var b/;"	v	lineno:5	type:[bool]
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/  b/;"	v	lineno:12	namespace:baz	type:string
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/var singleton = \{a: 10, b/;"	v	lineno:6	namespace:singleton	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build\(strs, a, b/;"	v	lineno:6	namespace:build	type:string
-b1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var b1/;"	v	lineno:41	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  'bar'/;"	v	lineno:82	namespace:o	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  bar/;"	f	lineno:30	namespace:foo.prototype	type:void function()
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/class bar/;"	f	lineno:31	type:void function()
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  bar/;"	v	lineno:21	namespace:example	type:boolean
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  bar/;"	v	lineno:47	namespace:takes.example
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar/;"	v	lineno:119	namespace:base	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  bar/;"	v	lineno:173	namespace:Foo.prototype	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var bar/;"	f	lineno:45	type:string function(number, number)
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var base = \{foo: 10, bar/;"	v	lineno:1	namespace:base	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/var bar/;"	v	lineno:1	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/foo\.bar/;"	v	lineno:15	namespace:foo
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  bar/;"	v	lineno:9	namespace:Foo.prototype	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/  v\.bar/;"	v	lineno:10	namespace:x	type:number
-base	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base/;"	v	lineno:119
-base	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var base/;"	v	lineno:1
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var baz/;"	v	lineno:40	type:string
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/base\.baz/;"	v	lineno:129	namespace:base	type:number
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/base\.baz/;"	v	lineno:5	namespace:base	type:number
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/var baz/;"	v	lineno:10
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/var baz/;"	v	lineno:9
-bb	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var t = <A aa=\{aa\.bb\.cc\} bb/;"	v	lineno:20	type:boolean
-blah	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function blah/;"	f	lineno:1	type:void function()
-blah	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var poison = \{focus: 1, blah/;"	v	lineno:1	namespace:poison	type:number
-bogus	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var bogus/;"	v	lineno:107
-born	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var person = \{name: "harry", born/;"	v	lineno:3	namespace:age.person	type:number
-born	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var person = \{name: "harry", born/;"	v	lineno:3	namespace:person	type:number
-bug	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/var baz = \{bug/;"	f	lineno:9	namespace:baz	type:void function(baz.bug.!0)
-build	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build/;"	f	lineno:6	type:boolean function(Array[string], number, string)
-buildCopy	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/function buildCopy/;"	f	lineno:1	type:? function(buildCopy.!0)
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a, b, c/;"	v	lineno:1	namespace:f	type:number
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js	/    var c/;"	v	lineno:5	namespace:x	type:boolean
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/let \{c/;"	v	lineno:4	type:string
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var c/;"	v	lineno:100	type:C
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/var c/;"	v	lineno:7	type:[string|number]
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/var c/;"	v	lineno:4	type:Class
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/  var c/;"	v	lineno:2	namespace:hello
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var c/;"	v	lineno:8
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/let c/;"	v	lineno:24	type:Class
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var c/;"	v	lineno:8	type:[?]
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/otherMod\.c/;"	v	lineno:9	namespace:otherMod	type:number
-callSuper	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  callSuper/;"	f	lineno:4	namespace:Point3.prototype	type:string function()
-canvas	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      canvas/;"	v	lineno:186	namespace:config.CSS.IDs	type:string
-car	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var car/;"	v	lineno:69	type:string
-changeName	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.changeName/;"	f	lineno:100	namespace:personType	type:!this.lastname function(?)
-child	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var __extends = function\(child/;"	f	lineno:3	namespace:__extends	type:void function(bool)
-closureArray	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var closureArray/;"	v	lineno:65	type:[string]
-closureMap	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var closureMap/;"	v	lineno:69
-config	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/config/;"	v	lineno:182
-constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubOne/;"	f	lineno:17	namespace:SubOne.prototype	type:void function(bool)
-constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubTwo/;"	f	lineno:24	namespace:SubTwo.prototype	type:void function(bool)
-constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubEleven/;"	f	lineno:31	namespace:SubEleven.prototype	type:void function(bool)
-container	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      container/;"	v	lineno:185	namespace:config.CSS.IDs	type:string
-context	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each = function\(obj, iterator, context/;"	v	lineno:2	namespace:each	type:string
-controls	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      controls/;"	v	lineno:188	namespace:config.CSS.IDs	type:string
-ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function ctor/;"	f	lineno:5	namespace:__extends	type:void function()
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a, b, c, d/;"	v	lineno:1	namespace:f	type:number
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/let \{c, d/;"	v	lineno:4	type:boolean
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/var d/;"	v	lineno:12	type:number
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var d/;"	v	lineno:11	type:[string]
-e	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/function foo\(\[e/;"	v	lineno:8	namespace:foo	type:boolean
-e	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var e/;"	v	lineno:5	type:boolean
-e1	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[e1/;"	v	lineno:30	type:string
-e3	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[e1,,e3/;"	v	lineno:30	type:number
-e_which	/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js	/var e_which/;"	v	lineno:9	type:number
-e_which	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_browser.js	/var e_which/;"	v	lineno:8
-each	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each/;"	f	lineno:2	type:void function(Array[number]|[each.!0.<i>], fn(n: number)
-elf	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var top = new Top, one = new SubOne\(true\), two = new SubTwo\(false\), elf/;"	v	lineno:38	type:SubEleven
-elt	/Users/othree/os-projects/jsctags-oasis/test/cases/set.js	/for \(var elt/;"	v	lineno:7	type:boolean
-empty	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var empty/;"	v	lineno:150
-empty	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var empty/;"	v	lineno:29
-example	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var example/;"	v	lineno:15
-example	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/function takes\(example/;"	v	lineno:24	namespace:takes
-extend	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/Ext\.extend/;"	f	lineno:2	namespace:Ext	type:void function(fn()
-extend	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  subclass\.extend/;"	f	lineno:10	namespace:Ext.extend.subclass	type:void function(?)
-extend	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var extend/;"	v	lineno:144
-extend	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var extend/;"	v	lineno:23
-eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.eyecolor/;"	v	lineno:90	namespace:person	type:string
-eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname, lastname, age, eyecolor/;"	v	lineno:95	namespace:personType	type:string
-eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.eyecolor/;"	v	lineno:99	namespace:friend	type:string
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/let f/;"	f	lineno:1	type:f.!ret function(number, Array[bool])
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f/;"	f	lineno:1	type:number function(number, number, number, number)
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/function foo\(\[e\], \{f/;"	v	lineno:8	namespace:foo	type:number
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var f/;"	v	lineno:218
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function timeout\(f/;"	v	lineno:272	namespace:timeout
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var f/;"	v	lineno:296	namespace:testIfControlFlow1
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/var f/;"	f	lineno:3	type:void function(f)
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function map\(arr, f/;"	f	lineno:6	namespace:map	type:boolean function()
-f2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var f2/;"	v	lineno:220
-f3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var f3/;"	v	lineno:222
-firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.firstname/;"	v	lineno:87	namespace:person	type:string
-firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname/;"	v	lineno:95	namespace:personType	type:string
-firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.firstname/;"	v	lineno:96	namespace:friend	type:string
-fn2	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/Bar\.prototype\.fn2/;"	f	lineno:7	namespace:Bar.prototype	type:void function()
-fn2	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/Date\.prototype\.fn2/;"	f	lineno:11	namespace:Date.prototype	type:void function()
-fo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  fo/;"	v	lineno:28	namespace:takes.example
-focus	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var poison = \{focus/;"	v	lineno:1	namespace:poison	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js	/  this\.foo/;"	v	lineno:6	namespace:Ctor	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/function foo/;"	f	lineno:8	type:void function(Array[bool], ?, foo.!2, number)
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var foo/;"	v	lineno:9	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/o\.foo/;"	v	lineno:86	namespace:o	type:string
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  prop2: function\(foo/;"	v	lineno:7	namespace:obj.prop2
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/class foo/;"	f	lineno:29	type:void function()
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/class foo/;"	f	lineno:22	type:void function()
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/function\* foo/;"	f	lineno:1	type:number function()
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/getter.js	/  get foo/;"	v	lineno:3	namespace:obj	type:string
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/global_this.js	/var foo/;"	v	lineno:1	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  foo/;"	v	lineno:17	namespace:example	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo/;"	v	lineno:119	namespace:base	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var foo/;"	v	lineno:176	type:Foo
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/  foo/;"	f	lineno:2	namespace:sup	type:number function()
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function foo/;"	f	lineno:17	type:[number] function(number, string)
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var base = \{foo/;"	v	lineno:1	namespace:base	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/var foo/;"	v	lineno:3
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/var foo/;"	v	lineno:7
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/Type\.prototype\.foo/;"	v	lineno:6	namespace:Type.prototype	type:string
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/var foo/;"	v	lineno:1	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/  v\.foo/;"	v	lineno:9	namespace:x	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var c = <a n:foo/;"	v	lineno:3	type:boolean
-foo2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar: 20, foo2/;"	v	lineno:119	namespace:base
-fooObj	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/var fooObj/;"	v	lineno:34	type:foo
-foobar	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  foobar/;"	f	lineno:20	namespace:Point3.prototype	type:boolean function()
-foobar	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  foobar/;"	f	lineno:3	namespace:Point3.prototype	type:!this.x function()
-food	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  food/;"	v	lineno:19	namespace:example	type:number
-food	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  food/;"	v	lineno:34	namespace:takes.example
-friend	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var friend/;"	v	lineno:110	type:personType
-func	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  func/;"	f	lineno:15	namespace:y	type:number function()
-func	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  func/;"	f	lineno:275	namespace:obj	type:void function()
-func	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/mod\.func/;"	f	lineno:3	namespace:mod	type:number function()
-functionBogus	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function functionBogus/;"	f	lineno:120	type:? function(?)
-g	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var g/;"	f	lineno:2	type:number function(number, number)
-g	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/function foo\(\[e\], \{f=1\}, \{g/;"	v	lineno:8	namespace:foo	type:string
-g	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var g/;"	v	lineno:7	type:boolean
-g1	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/function\* g1/;"	f	lineno:11	type:boolean function()
-g2	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/function\* g2/;"	f	lineno:12	type:boolean function()
-gen1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var gen1/;"	v	lineno:132
-gen1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var gen1/;"	v	lineno:2
-gen2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var gen2/;"	v	lineno:133
-gen2	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var gen2/;"	v	lineno:3
-getName	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  getName/;"	f	lineno:76	namespace:o	type:!this.name function()
-getSuperX	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  getSuperX/;"	f	lineno:23	namespace:obj	type:number function()
-globalVar1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  globalVar1/;"	v	lineno:259	type:number
-goop	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/function goop/;"	f	lineno:15	type:void function(?) function(number)
-grabbag	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/var grabbag/;"	v	lineno:1
-h	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function h/;"	f	lineno:7	type:h.!ret function(number)
-h	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/function foo\(\[e\], \{f=1\}, \{g\}, \.\.\.h/;"	v	lineno:8	namespace:foo	type:[number]
-h	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var h/;"	v	lineno:8	type:boolean
-hallo	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/Bar\.prototype\.hallo/;"	f	lineno:2	namespace:Bar.prototype	type:void function()
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/Class\.prototype\.hello/;"	v	lineno:2	namespace:Class.prototype	type:string
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/c\.hello/;"	v	lineno:5	namespace:c
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/function hello/;"	f	lineno:1	type:void function(?, ?)
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/for \(var hello/;"	v	lineno:11
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  hello/;"	f	lineno:9	namespace:Point2.prototype	type:string function()
-hide	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function hide/;"	f	lineno:19	type:void function(?) function()
-href	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var u = <p>foo <a href/;"	v	lineno:21	type:boolean
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var i/;"	f	lineno:8	type:h.!ret function()
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var o = \{i/;"	f	lineno:12	namespace:o	type:h.!ret function()
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js	/function whoAmI\(a, i/;"	v	lineno:1	namespace:whoAmI
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/let i/;"	v	lineno:20	type:number
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/    for \(var i/;"	v	lineno:7	namespace:each	type:number
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  for \(i/;"	v	lineno:360	type:number
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/  for \(var i/;"	v	lineno:8	namespace:map	type:number
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var i/;"	v	lineno:9	type:boolean
-inCase1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var inCase1/;"	v	lineno:381	namespace:testSwitchFlow1	type:string
-inCase2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var inCase2/;"	v	lineno:385	namespace:testSwitchFlow1	type:string
-inNestedIf	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var inNestedIf/;"	v	lineno:303	namespace:testIfControlFlow1	type:string
-index	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/  var index/;"	v	lineno:2	namespace:foo	type:number
-init	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/function init/;"	f	lineno:8	type:void function(x)
-inner	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/var inner/;"	v	lineno:5	type:number
-inst	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var inst/;"	v	lineno:102	type:NonAscïį
-it	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let it/;"	f	lineno:20	type:!0 function(?)
-it	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/var it/;"	v	lineno:8
-iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/  \[Symbol\.iterator/;"	f	lineno:2	namespace:myIter.:Symbol	type:myIter.:Symbol.iterator.!ret function()
-iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each = function\(obj, iterator/;"	f	lineno:2	namespace:each	type:void function(each.!0.<i>)
-iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/obj\[Symbol\.iterator/;"	v	lineno:8	namespace:obj.:Symbol	type:string
-j	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function j/;"	f	lineno:15	type:!this function()
-j	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/let i, j/;"	v	lineno:20	type:boolean
-j	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    for \(var j/;"	v	lineno:324	namespace:testForControlFlow1	type:number
-j	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var j/;"	v	lineno:10	type:boolean
-jaja	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/var jaja/;"	v	lineno:3	type:number
-k	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var k/;"	f	lineno:16	type:j.!ret function()
-k	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var k/;"	v	lineno:23	type:number
-k	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var k/;"	v	lineno:11	type:boolean
-kaka	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/gen2\.kaka/;"	v	lineno:135	namespace:gen2	type:number
-kaka	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/gen2\.kaka/;"	v	lineno:7	namespace:gen2	type:number
-key	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  for \(var key/;"	v	lineno:4	namespace:__extends
-key	/Users/othree/os-projects/jsctags-oasis/test/cases/map.js	/  ;\[key/;"	v	lineno:18	type:number
-l	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/;\(\{i, j, k: \[l/;"	v	lineno:21	type:string
-l	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/    for \(var i = 0, l/;"	v	lineno:7	namespace:each	type:number
-l	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var l/;"	v	lineno:26	type:number
-l	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var l/;"	v	lineno:12	type:boolean
-last	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function last/;"	f	lineno:1	type:!0.<i> function(Array[number]|[string])
-lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.lastname/;"	v	lineno:88	namespace:person	type:string
-lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname, lastname/;"	v	lineno:95	namespace:personType	type:string
-lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.lastname/;"	v	lineno:97	namespace:friend	type:string
-left	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var m = <LeftRight left/;"	v	lineno:13	type:boolean
-length	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function NonAscïį\(\) \{ this\.length/;"	v	lineno:99	namespace:NonAscïį	type:string
-local	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  var local/;"	v	lineno:24	namespace:another	type:number
-localVar1InOne	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var localVar1InOne/;"	v	lineno:258	namespace:one	type:string
-localVarBecomeGlobal	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  localVarBecomeGlobal/;"	v	lineno:285	type:[number]
-m	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/;\(\{i, j, k: \[l, \.\.\.m/;"	v	lineno:21	type:[string]
-m	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var m/;"	v	lineno:20	type:number
-m	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var m/;"	v	lineno:321	namespace:testForControlFlow1	type:string
-m	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/  for \(var m/;"	v	lineno:8	namespace:makeClass
-m	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var m/;"	v	lineno:13	type:boolean
-m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m1/;"	f	lineno:14	namespace:Class.prototype	type:void function()
-m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m1/;"	f	lineno:14	type:void function()
-m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m1/;"	f	lineno:14	namespace:OtherClass.prototype	type:void function()
-m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m2/;"	f	lineno:16	type:void function()
-m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m2/;"	f	lineno:16	namespace:OtherClass.prototype	type:void function()
-m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m2/;"	f	lineno:16	namespace:Class.prototype	type:void function()
-m3	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/  m3/;"	f	lineno:4	namespace:Class.prototype	type:void function()
-m4	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/  m4/;"	f	lineno:21	namespace:OtherClass.prototype	type:void function()
-makeClass	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/function makeClass/;"	f	lineno:5	type:void function(makeClass.!0)
-makeMonkey	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/function makeMonkey/;"	f	lineno:14	type:string function()
-makeString	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  makeString/;"	f	lineno:172	namespace:Foo.prototype	type:string function()
-makeString	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  makeString/;"	f	lineno:8	namespace:Foo.prototype	type:string function()
-map	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/Obj\.prototype\.map/;"	f	lineno:14	namespace:Obj.prototype	type:[!this.x] function()
-map	/Users/othree/os-projects/jsctags-oasis/test/cases/map.js	/let map/;"	v	lineno:1	type:Map
-map	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function map/;"	f	lineno:6	type:string|fn() -> bool) -> [?] function(Array[number], fn()
-method	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  method/;"	f	lineno:95	namespace:C.prototype	type:number function()
-method	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  method/;"	f	lineno:7	namespace:Foo.prototype	type:void function()
-method	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/  method/;"	f	lineno:7	namespace:foo	type:string function()
-methodA	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/  methodA/;"	f	lineno:24	namespace:foo.prototype	type:void function()
-methodB	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/  methodB/;"	f	lineno:27	namespace:foo.prototype	type:void function()
-methodB	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/  methodB/;"	f	lineno:33	namespace:bar.prototype	type:void function()
-methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype.constructor.prototype	type:string function()
-methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype	type:string function()
-methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype	type:number function()
-methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype.constructor.prototype	type:number function()
-methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype	type:void function()
-methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype.constructor.prototype	type:void function()
-mixin	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function mixin/;"	f	lineno:7	type:!0 function(Class.prototype|string)
-mod	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/var mod/;"	v	lineno:1
-monkeyAlias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/function makeMonkey/;"	f	lineno:14	type:string function()
-monkeyAlias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var monkeyAlias/;"	f	lineno:18	type:string function()
-myBitset	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var myBitset/;"	v	lineno:88	type:[bool]
-myIter	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/var myIter/;"	v	lineno:1
-myObj	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var myObj/;"	v	lineno:93
-myResolve1	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/function myResolve1/;"	f	lineno:56	type:Promise function(string)
-myResolve2	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/function myResolve2/;"	f	lineno:62	type:Promise function(string|number)
-myResolve3	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/function myResolve3/;"	f	lineno:73	type:Promise function(?|number)
-mySym	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/var mySym/;"	v	lineno:1
-myalias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var myalias/;"	f	lineno:4	type:void function(number)
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/var \[n/;"	v	lineno:32	type:string
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let it = function\*\(n/;"	v	lineno:20	namespace:it
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/age\(\{n/;"	v	lineno:11	namespace:age.person
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var n/;"	v	lineno:17	type:number
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  for \(var n/;"	v	lineno:322	namespace:testForControlFlow1	type:number
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var n/;"	v	lineno:342	namespace:testWhileLoopFlow1	type:number
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testSwitchFlow1\(n/;"	v	lineno:377	namespace:testSwitchFlow1
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/var f = function\(n/;"	f	lineno:3	namespace:f	type:void function(f)
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/function goop\(n/;"	v	lineno:15	namespace:goop	type:number
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var n/;"	v	lineno:14	type:boolean
-name	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  name/;"	v	lineno:78	namespace:o	type:string
-name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var person = \{name/;"	v	lineno:3	namespace:person	type:string
-name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var person = \{name/;"	v	lineno:3	namespace:age.person	type:string
-name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  function changeName\(name/;"	v	lineno:104	namespace:personType.changeName
-name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  name/;"	v	lineno:274	namespace:obj	type:string
-name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/          return \{ name/;"	v	lineno:299	namespace:testIfControlFlow1.f	type:string
-newElt	/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js	/var newElt/;"	v	lineno:5	type:Element
-newElt	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_browser.js	/var newElt/;"	v	lineno:5	type:Element
+A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^function A/;"	f	lineno:1	type:void function()
+Abc	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var Abc/;"	f	lineno:26	type:void function()
+AbcCls	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var AbcCls/;"	f	lineno:31	type:void function()
+AbcCtor	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var AbcCtor/;"	f	lineno:36	type:void function()
+B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^function B/;"	f	lineno:3	type:void function()
+Bar	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^function Bar/;"	f	lineno:1	type:void function()
+Base	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^function Base/;"	f	lineno:1	type:void function()
+Base2	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^function Base2/;"	f	lineno:15	type:void function()
+C	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^class C/;"	f	lineno:93	type:void function()
+C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^function C/;"	f	lineno:6	type:void function()
+CSS	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  CSS/;"	v	lineno:183	namespace:config
+Class	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^function Class/;"	f	lineno:1	type:void function()
+Class	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function Class/;"	f	lineno:1	type:void function()
+Ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js	/^function Ctor/;"	f	lineno:4	type:Ctor function()
+Ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  function Ctor/;"	f	lineno:6	namespace:makeClass	type:void function()
+Ctor1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function Ctor1/;"	f	lineno:155	type:void function()
+Ctor1	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^function Ctor1/;"	f	lineno:1	type:void function()
+Ctor2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function Ctor2/;"	f	lineno:159	type:void function()
+Ctor2	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^function Ctor2/;"	f	lineno:4	type:void function()
+Ext	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^var Ext/;"	v	lineno:1
+F	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^  var F/;"	f	lineno:18	namespace:Ext.extend	type:void function()
+Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^class Foo/;"	f	lineno:1	type:void function(?, ?)
+Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function Foo/;"	f	lineno:166	type:void function(bool)
+Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^function Foo/;"	f	lineno:1	type:void function(bool)
+IDs	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    IDs/;"	v	lineno:184	namespace:config.CSS
+Mine	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^var Mine/;"	v	lineno:11
+NonAscïį	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function NonAscïį/;"	f	lineno:99	type:void function()
+Obj	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^function Obj/;"	f	lineno:11	type:void function()
+OtherClass	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function OtherClass/;"	f	lineno:18	type:void function()
+Point2	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point2/;"	f	lineno:1	type:void function(number, number)
+Point2	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^class Point2/;"	f	lineno:7	type:void function(number, number)
+Point3	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var Point3/;"	f	lineno:18	type:void function(number, number, number)
+Point3	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^class Point3/;"	f	lineno:1	type:void function(number, number, number)
+Point4	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point4/;"	f	lineno:13	type:void function(number, number, number, number)
+Quux	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^function Quux/;"	f	lineno:32	type:void function()
+React	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/^import React/;"	v	lineno:1
+Sub1	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^function Sub1/;"	f	lineno:7	type:void function()
+Sub2	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^function Sub2/;"	f	lineno:11	type:void function()
+Sub3	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^function Sub3/;"	f	lineno:17	type:void function()
+SubEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubEleven/;"	f	lineno:31	type:void function(bool)
+SubOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubOne/;"	f	lineno:17	type:void function(bool)
+SubTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubTwo/;"	f	lineno:24	type:void function(bool)
+Top	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var Top/;"	f	lineno:10	type:void function()
+Type	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/^function Type/;"	f	lineno:5	type:void function()
+_1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  _1/;"	v	lineno:40	namespace:takes.example	type:string
+_2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  _2/;"	v	lineno:43	namespace:takes.example	type:string
+__extends	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var __extends/;"	f	lineno:3	type:void function(fn(arg: bool)
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^let f = \(a/;"	v	lineno:1	namespace:f	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a/;"	v	lineno:1	namespace:f	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function h\(a/;"	v	lineno:7	namespace:h	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js	/^function x\(a/;"	v	lineno:1	namespace:x	type:string
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js	/^var a/;"	v	lineno:4	type:[number]
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/^x\[foo\(\)\] = \{a/;"	v	lineno:2	namespace:x.<i>	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/^var obj = \{a/;"	v	lineno:6	namespace:obj	type:string
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js	/^function whoAmI\(a/;"	v	lineno:1	namespace:whoAmI
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let \[a/;"	v	lineno:1	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^function setD\(a/;"	v	lineno:13	namespace:setD	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[a/;"	v	lineno:26	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^function hello\(a/;"	v	lineno:1	namespace:hello
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^var a/;"	v	lineno:38	type:foo
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^        return \{value: \{a/;"	v	lineno:5	namespace:hello	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^for \(var \{a/;"	v	lineno:15	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var a/;"	v	lineno:8	type:[number]
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var base = \{foo: 10, bar: 20, foo2: \{ a/;"	v	lineno:119	namespace:base.foo2	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^Ctor1\.prototype = \{a/;"	v	lineno:156	namespace:Ctor1.prototype	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_simple.js	/^var a/;"	v	lineno:6	type:[number]|number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var a/;"	v	lineno:2	type:Date
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function foo\(a/;"	v	lineno:17	namespace:foo	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bar = function\(a/;"	v	lineno:45	namespace:bar	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function takesOpt\(a/;"	v	lineno:73	namespace:takesOpt	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function functionBogus\(a/;"	v	lineno:120	namespace:functionBogus
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function unionFunction\(a/;"	v	lineno:133	namespace:unionFunction	type:string
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^function sum\(a/;"	v	lineno:1	namespace:sum
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var a/;"	v	lineno:1	type:[string]
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^  a/;"	v	lineno:6	namespace:foo	type:boolean
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^Ctor1\.prototype = \{a/;"	v	lineno:2	namespace:Ctor1.prototype	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^var singleton = \{a/;"	v	lineno:6	namespace:singleton	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/^function build\(strs, a/;"	v	lineno:6	namespace:build	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var a/;"	v	lineno:1	type:boolean
+a2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var a2/;"	v	lineno:29	type:number
+a3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var a3/;"	v	lineno:32	type:number
+a4	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var a4/;"	v	lineno:35	type:number
+a5	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var a5/;"	v	lineno:38	type:number
+aa	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var t = <A aa/;"	v	lineno:20
+abc	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/^grabbag\[bar\(\)\] = \{abc/;"	v	lineno:3	namespace:grabbag.<i>	type:number
+abc	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var abc/;"	v	lineno:26	type:number
+abc	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/^function abc/;"	f	lineno:1	type:number function()
+abc	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var abc/;"	f	lineno:21	type:void function()
+again	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var again/;"	v	lineno:112	type:number
+age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^function age/;"	f	lineno:5	type:number function(?)
+age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^person\.age/;"	v	lineno:89	namespace:person	type:number
+age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function personType\(firstname, lastname, age/;"	v	lineno:95	namespace:personType	type:number
+age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  this\.age/;"	v	lineno:98	namespace:friend	type:number
+ages	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^function ages/;"	f	lineno:6	type:[number] function(Array[person)
+aha	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var aha/;"	v	lineno:64	type:string
+another	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^function another/;"	f	lineno:23	type:void function(?)
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven.prototype.constructor	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^function another\(arg/;"	v	lineno:23	namespace:another
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve1\(arg/;"	v	lineno:56	namespace:myResolve1	type:string
+arg5	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var arg5/;"	v	lineno:35	type:?|number
+arg7	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve3\(arg7/;"	v	lineno:73	namespace:myResolve3	type:?|number
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven	type:boolean
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne	type:boolean
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven.prototype.constructor	type:boolean
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo	type:boolean
+argh	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  argh/;"	f	lineno:15	namespace:Point4.prototype	type:number function()
+arguments	/Users/othree/os-projects/jsctags-oasis/test/cases/arguments.js	/^var arguments/;"	v	lineno:1	type:number
+arguments	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/^function abc\(\) \{/;"	v	lineno:1	namespace:abc	type:[number]
+arr	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var arr/;"	v	lineno:57	type:number
+arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function last\(arr/;"	v	lineno:1	namespace:last	type:[number]|[string]
+arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function map\(arr/;"	v	lineno:6	namespace:map	type:[number]
+arr	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var arr/;"	v	lineno:29	type:[bool]
+arr1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var arr1/;"	v	lineno:206	type:[bool]
+arr2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var arr2/;"	v	lineno:213	type:[number]
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^let f = \(a, \[b/;"	v	lineno:1	namespace:f	type:boolean
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a, b/;"	v	lineno:1	namespace:f	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/^x\[foo\(\)\] = \{a: 10, b/;"	v	lineno:2	namespace:x.<i>	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/^var obj = \{a: "bar", b/;"	v	lineno:6	namespace:obj	type:string
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^var b/;"	v	lineno:3	type:[bool]
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  get b/;"	v	lineno:16	namespace:y	type:boolean
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[a, b/;"	v	lineno:26	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^function hello\(a, b/;"	v	lineno:1	namespace:hello
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^var b/;"	v	lineno:39	type:bar
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^        return \{value: \{a: 1, b/;"	v	lineno:5	namespace:hello	type:boolean
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^for \(var \{a, b/;"	v	lineno:15	type:boolean
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^ages\(\[\{b/;"	v	lineno:13	namespace:age.person
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  b/;"	v	lineno:42	namespace:takes.example
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var base = \{foo: 10, bar: 20, foo2: \{ a: 10, b/;"	v	lineno:119	namespace:base.foo2	type:string
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function foo\(a, b/;"	v	lineno:17	namespace:foo	type:string
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bar = function\(a, b/;"	v	lineno:45	namespace:bar	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var b/;"	v	lineno:5	type:[bool]
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^  b/;"	v	lineno:12	namespace:baz	type:string
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^var singleton = \{a: 10, b/;"	v	lineno:6	namespace:singleton	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/^function build\(strs, a, b/;"	v	lineno:6	namespace:build	type:string
+b1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var b1/;"	v	lineno:41	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^  'bar'/;"	v	lineno:82	namespace:o	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^  bar/;"	f	lineno:30	namespace:foo.prototype	type:void function()
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class bar/;"	f	lineno:31	type:void function()
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  bar/;"	v	lineno:21	namespace:example	type:boolean
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  bar/;"	v	lineno:47	namespace:takes.example
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var base = \{foo: 10, bar/;"	v	lineno:119	namespace:base	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  bar/;"	v	lineno:173	namespace:Foo.prototype	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bar/;"	f	lineno:45	type:string function(number, number)
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var base = \{foo: 10, bar/;"	v	lineno:1	namespace:base	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^var bar/;"	v	lineno:1	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^foo\.bar/;"	v	lineno:15	namespace:foo
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  bar/;"	v	lineno:9	namespace:Foo.prototype	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/^  v\.bar/;"	v	lineno:10	namespace:x	type:number
+base	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var base/;"	v	lineno:119
+base	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var base/;"	v	lineno:1
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var baz/;"	v	lineno:40	type:string
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^base\.baz/;"	v	lineno:129	namespace:base	type:number
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^base\.baz/;"	v	lineno:5	namespace:base	type:number
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^var baz/;"	v	lineno:10
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^var baz/;"	v	lineno:9
+bb	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var t = <A aa=\{aa\.bb\.cc\} bb/;"	v	lineno:20	type:boolean
+blah	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^function blah/;"	f	lineno:1	type:void function()
+blah	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var poison = \{focus: 1, blah/;"	v	lineno:1	namespace:poison	type:number
+bogus	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bogus/;"	v	lineno:107
+born	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var person = \{name: "harry", born/;"	v	lineno:3	namespace:age.person	type:number
+born	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var person = \{name: "harry", born/;"	v	lineno:3	namespace:person	type:number
+bug	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^var baz = \{bug/;"	f	lineno:9	namespace:baz	type:void function(baz.bug.!0)
+build	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/^function build/;"	f	lineno:6	type:boolean function(Array[string], number, string)
+buildCopy	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/^function buildCopy/;"	f	lineno:1	type:? function(buildCopy.!0)
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a, b, c/;"	v	lineno:1	namespace:f	type:number
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js	/^    var c/;"	v	lineno:5	namespace:x	type:boolean
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let \{c/;"	v	lineno:4	type:string
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var c/;"	v	lineno:100	type:C
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^var c/;"	v	lineno:7	type:[string|number]
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^var c/;"	v	lineno:4	type:Class
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  var c/;"	v	lineno:2	namespace:hello
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var c/;"	v	lineno:8
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^let c/;"	v	lineno:24	type:Class
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var c/;"	v	lineno:8	type:[?]
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^otherMod\.c/;"	v	lineno:9	namespace:otherMod	type:number
+callSuper	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  callSuper/;"	f	lineno:4	namespace:Point3.prototype	type:string function()
+canvas	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      canvas/;"	v	lineno:186	namespace:config.CSS.IDs	type:string
+car	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var car/;"	v	lineno:69	type:string
+changeName	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  this\.changeName/;"	f	lineno:100	namespace:personType	type:!this.lastname function(?)
+child	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var __extends = function\(child/;"	f	lineno:3	namespace:__extends	type:void function(bool)
+closureArray	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var closureArray/;"	v	lineno:65	type:[string]
+closureMap	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var closureMap/;"	v	lineno:69
+config	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^config/;"	v	lineno:182
+constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubOne/;"	f	lineno:17	namespace:SubOne.prototype	type:void function(bool)
+constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubTwo/;"	f	lineno:24	namespace:SubTwo.prototype	type:void function(bool)
+constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubEleven/;"	f	lineno:31	namespace:SubEleven.prototype	type:void function(bool)
+container	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      container/;"	v	lineno:185	namespace:config.CSS.IDs	type:string
+context	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/^var each = function\(obj, iterator, context/;"	v	lineno:2	namespace:each	type:string
+controls	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      controls/;"	v	lineno:188	namespace:config.CSS.IDs	type:string
+ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function ctor/;"	f	lineno:5	namespace:__extends	type:void function()
+d	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a, b, c, d/;"	v	lineno:1	namespace:f	type:number
+d	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let \{c, d/;"	v	lineno:4	type:boolean
+d	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^var d/;"	v	lineno:12	type:number
+d	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var d/;"	v	lineno:11	type:[string]
+e	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e/;"	v	lineno:8	namespace:foo	type:boolean
+e	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var e/;"	v	lineno:5	type:boolean
+e1	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[e1/;"	v	lineno:30	type:string
+e3	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[e1,,e3/;"	v	lineno:30	type:number
+e_which	/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js	/^var e_which/;"	v	lineno:9	type:number
+e_which	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_browser.js	/^var e_which/;"	v	lineno:8
+each	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/^var each/;"	f	lineno:2	type:void function(Array[number]|[each.!0.<i>], fn(n: number)
+elf	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var top = new Top, one = new SubOne\(true\), two = new SubTwo\(false\), elf/;"	v	lineno:38	type:SubEleven
+elt	/Users/othree/os-projects/jsctags-oasis/test/cases/set.js	/^for \(var elt/;"	v	lineno:7	type:boolean
+empty	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var empty/;"	v	lineno:150
+empty	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var empty/;"	v	lineno:29
+example	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var example/;"	v	lineno:15
+example	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^function takes\(example/;"	v	lineno:24	namespace:takes
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^Ext\.extend/;"	f	lineno:2	namespace:Ext	type:void function(fn()
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^  subclass\.extend/;"	f	lineno:10	namespace:Ext.extend.subclass	type:void function(?)
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var extend/;"	v	lineno:144
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var extend/;"	v	lineno:23
+eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^person\.eyecolor/;"	v	lineno:90	namespace:person	type:string
+eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function personType\(firstname, lastname, age, eyecolor/;"	v	lineno:95	namespace:personType	type:string
+eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  this\.eyecolor/;"	v	lineno:99	namespace:friend	type:string
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^let f/;"	f	lineno:1	type:f.!ret function(number, Array[bool])
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f/;"	f	lineno:1	type:number function(number, number, number, number)
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e\], \{f/;"	v	lineno:8	namespace:foo	type:number
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var f/;"	v	lineno:218
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function timeout\(f/;"	v	lineno:272	namespace:timeout
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    var f/;"	v	lineno:296	namespace:testIfControlFlow1
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^var f/;"	f	lineno:3	type:void function(f)
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function map\(arr, f/;"	f	lineno:6	namespace:map	type:boolean function()
+f2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var f2/;"	v	lineno:220
+f3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var f3/;"	v	lineno:222
+firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^person\.firstname/;"	v	lineno:87	namespace:person	type:string
+firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function personType\(firstname/;"	v	lineno:95	namespace:personType	type:string
+firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  this\.firstname/;"	v	lineno:96	namespace:friend	type:string
+fn2	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^Bar\.prototype\.fn2/;"	f	lineno:7	namespace:Bar.prototype	type:void function()
+fn2	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^Date\.prototype\.fn2/;"	f	lineno:11	namespace:Date.prototype	type:void function()
+fo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  fo/;"	v	lineno:28	namespace:takes.example
+focus	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var poison = \{focus/;"	v	lineno:1	namespace:poison	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js	/^  this\.foo/;"	v	lineno:6	namespace:Ctor	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo/;"	f	lineno:8	type:void function(Array[bool], ?, foo.!2, number)
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var foo/;"	v	lineno:9	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^o\.foo/;"	v	lineno:86	namespace:o	type:string
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^  prop2: function\(foo/;"	v	lineno:7	namespace:obj.prop2
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^class foo/;"	f	lineno:29	type:void function()
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class foo/;"	f	lineno:22	type:void function()
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^function\* foo/;"	f	lineno:1	type:number function()
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/getter.js	/^  get foo/;"	v	lineno:3	namespace:obj	type:string
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/global_this.js	/^var foo/;"	v	lineno:1	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  foo/;"	v	lineno:17	namespace:example	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var base = \{foo/;"	v	lineno:119	namespace:base	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var foo/;"	v	lineno:176	type:Foo
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  foo/;"	f	lineno:2	namespace:sup	type:number function()
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function foo/;"	f	lineno:17	type:[number] function(number, string)
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var base = \{foo/;"	v	lineno:1	namespace:base	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^var foo/;"	v	lineno:3
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^var foo/;"	v	lineno:7
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/^Type\.prototype\.foo/;"	v	lineno:6	namespace:Type.prototype	type:string
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/^var foo/;"	v	lineno:1	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/^  v\.foo/;"	v	lineno:9	namespace:x	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var c = <a n:foo/;"	v	lineno:3	type:boolean
+foo2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var base = \{foo: 10, bar: 20, foo2/;"	v	lineno:119	namespace:base
+fooObj	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^var fooObj/;"	v	lineno:34	type:foo
+foobar	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  foobar/;"	f	lineno:20	namespace:Point3.prototype	type:boolean function()
+foobar	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  foobar/;"	f	lineno:3	namespace:Point3.prototype	type:!this.x function()
+food	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  food/;"	v	lineno:19	namespace:example	type:number
+food	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  food/;"	v	lineno:34	namespace:takes.example
+friend	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var friend/;"	v	lineno:110	type:personType
+func	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  func/;"	f	lineno:15	namespace:y	type:number function()
+func	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  func/;"	f	lineno:275	namespace:obj	type:void function()
+func	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^mod\.func/;"	f	lineno:3	namespace:mod	type:number function()
+functionBogus	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function functionBogus/;"	f	lineno:120	type:? function(?)
+g	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var g/;"	f	lineno:2	type:number function(number, number)
+g	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e\], \{f=1\}, \{g/;"	v	lineno:8	namespace:foo	type:string
+g	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var g/;"	v	lineno:7	type:boolean
+g1	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^function\* g1/;"	f	lineno:11	type:boolean function()
+g2	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^function\* g2/;"	f	lineno:12	type:boolean function()
+gen1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var gen1/;"	v	lineno:132
+gen1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var gen1/;"	v	lineno:2
+gen2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var gen2/;"	v	lineno:133
+gen2	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var gen2/;"	v	lineno:3
+getName	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^  getName/;"	f	lineno:76	namespace:o	type:!this.name function()
+getSuperX	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  getSuperX/;"	f	lineno:23	namespace:obj	type:number function()
+globalVar1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  globalVar1/;"	v	lineno:259	type:number
+goop	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^function goop/;"	f	lineno:15	type:void function(?) function(number)
+grabbag	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/^var grabbag/;"	v	lineno:1
+h	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function h/;"	f	lineno:7	type:h.!ret function(number)
+h	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e\], \{f=1\}, \{g\}, \.\.\.h/;"	v	lineno:8	namespace:foo	type:[number]
+h	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var h/;"	v	lineno:8	type:boolean
+hallo	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^Bar\.prototype\.hallo/;"	f	lineno:2	namespace:Bar.prototype	type:void function()
+hello	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^Class\.prototype\.hello/;"	v	lineno:2	namespace:Class.prototype	type:string
+hello	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^c\.hello/;"	v	lineno:5	namespace:c
+hello	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^function hello/;"	f	lineno:1	type:void function(?, ?)
+hello	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^for \(var hello/;"	v	lineno:11
+hello	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  hello/;"	f	lineno:9	namespace:Point2.prototype	type:string function()
+hide	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^function hide/;"	f	lineno:19	type:void function(?) function()
+href	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var u = <p>foo <a href/;"	v	lineno:21	type:boolean
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var i/;"	f	lineno:8	type:h.!ret function()
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var o = \{i/;"	f	lineno:12	namespace:o	type:h.!ret function()
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js	/^function whoAmI\(a, i/;"	v	lineno:1	namespace:whoAmI
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let i/;"	v	lineno:20	type:number
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/^    for \(var i/;"	v	lineno:7	namespace:each	type:number
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  for \(i/;"	v	lineno:360	type:number
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^  for \(var i/;"	v	lineno:8	namespace:map	type:number
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var i/;"	v	lineno:9	type:boolean
+inCase1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      var inCase1/;"	v	lineno:381	namespace:testSwitchFlow1	type:string
+inCase2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      var inCase2/;"	v	lineno:385	namespace:testSwitchFlow1	type:string
+inNestedIf	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      var inNestedIf/;"	v	lineno:303	namespace:testIfControlFlow1	type:string
+index	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^  var index/;"	v	lineno:2	namespace:foo	type:number
+init	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/^function init/;"	f	lineno:8	type:void function(x)
+inner	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/^var inner/;"	v	lineno:5	type:number
+inst	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var inst/;"	v	lineno:102	type:NonAscïį
+it	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let it/;"	f	lineno:20	type:!0 function(?)
+it	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^var it/;"	v	lineno:8
+iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^  \[Symbol\.iterator/;"	f	lineno:2	namespace:myIter.:Symbol	type:myIter.:Symbol.iterator.!ret function()
+iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/^var each = function\(obj, iterator/;"	f	lineno:2	namespace:each	type:void function(each.!0.<i>)
+iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/^obj\[Symbol\.iterator/;"	v	lineno:8	namespace:obj.:Symbol	type:string
+j	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function j/;"	f	lineno:15	type:!this function()
+j	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let i, j/;"	v	lineno:20	type:boolean
+j	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    for \(var j/;"	v	lineno:324	namespace:testForControlFlow1	type:number
+j	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var j/;"	v	lineno:10	type:boolean
+jaja	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^var jaja/;"	v	lineno:3	type:number
+k	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var k/;"	f	lineno:16	type:j.!ret function()
+k	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var k/;"	v	lineno:23	type:number
+k	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var k/;"	v	lineno:11	type:boolean
+kaka	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^gen2\.kaka/;"	v	lineno:135	namespace:gen2	type:number
+kaka	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^gen2\.kaka/;"	v	lineno:7	namespace:gen2	type:number
+key	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  for \(var key/;"	v	lineno:4	namespace:__extends
+key	/Users/othree/os-projects/jsctags-oasis/test/cases/map.js	/^  ;\[key/;"	v	lineno:18	type:number
+l	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\(\{i, j, k: \[l/;"	v	lineno:21	type:string
+l	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/^    for \(var i = 0, l/;"	v	lineno:7	namespace:each	type:number
+l	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var l/;"	v	lineno:26	type:number
+l	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var l/;"	v	lineno:12	type:boolean
+last	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function last/;"	f	lineno:1	type:!0.<i> function(Array[number]|[string])
+lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^person\.lastname/;"	v	lineno:88	namespace:person	type:string
+lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function personType\(firstname, lastname/;"	v	lineno:95	namespace:personType	type:string
+lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  this\.lastname/;"	v	lineno:97	namespace:friend	type:string
+left	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var m = <LeftRight left/;"	v	lineno:13	type:boolean
+length	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function NonAscïį\(\) \{ this\.length/;"	v	lineno:99	namespace:NonAscïį	type:string
+local	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^  var local/;"	v	lineno:24	namespace:another	type:number
+localVar1InOne	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  var localVar1InOne/;"	v	lineno:258	namespace:one	type:string
+localVarBecomeGlobal	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  localVarBecomeGlobal/;"	v	lineno:285	type:[number]
+m	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\(\{i, j, k: \[l, \.\.\.m/;"	v	lineno:21	type:[string]
+m	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var m/;"	v	lineno:20	type:number
+m	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  var m/;"	v	lineno:321	namespace:testForControlFlow1	type:string
+m	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  for \(var m/;"	v	lineno:8	namespace:makeClass
+m	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var m/;"	v	lineno:13	type:boolean
+m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function m1/;"	f	lineno:14	namespace:Class.prototype	type:void function()
+m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function m1/;"	f	lineno:14	type:void function()
+m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function m1/;"	f	lineno:14	namespace:OtherClass.prototype	type:void function()
+m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function m2/;"	f	lineno:16	type:void function()
+m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function m2/;"	f	lineno:16	namespace:OtherClass.prototype	type:void function()
+m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function m2/;"	f	lineno:16	namespace:Class.prototype	type:void function()
+m3	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^  m3/;"	f	lineno:4	namespace:Class.prototype	type:void function()
+m4	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^  m4/;"	f	lineno:21	namespace:OtherClass.prototype	type:void function()
+makeClass	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^function makeClass/;"	f	lineno:5	type:void function(makeClass.!0)
+makeMonkey	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^function makeMonkey/;"	f	lineno:14	type:string function()
+makeString	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  makeString/;"	f	lineno:172	namespace:Foo.prototype	type:string function()
+makeString	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  makeString/;"	f	lineno:8	namespace:Foo.prototype	type:string function()
+map	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^Obj\.prototype\.map/;"	f	lineno:14	namespace:Obj.prototype	type:[!this.x] function()
+map	/Users/othree/os-projects/jsctags-oasis/test/cases/map.js	/^let map/;"	v	lineno:1	type:Map
+map	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function map/;"	f	lineno:6	type:string|fn() -> bool) -> [?] function(Array[number], fn()
+method	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^  method/;"	f	lineno:95	namespace:C.prototype	type:number function()
+method	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  method/;"	f	lineno:7	namespace:Foo.prototype	type:void function()
+method	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^  method/;"	f	lineno:7	namespace:foo	type:string function()
+methodA	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  methodA/;"	f	lineno:24	namespace:foo.prototype	type:void function()
+methodB	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  methodB/;"	f	lineno:27	namespace:foo.prototype	type:void function()
+methodB	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  methodB/;"	f	lineno:33	namespace:bar.prototype	type:void function()
+methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype.constructor.prototype	type:string function()
+methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype	type:string function()
+methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype	type:number function()
+methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype.constructor.prototype	type:number function()
+methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype	type:void function()
+methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype.constructor.prototype	type:void function()
+mixin	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^function mixin/;"	f	lineno:7	type:!0 function(Class.prototype|string)
+mod	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^var mod/;"	v	lineno:1
+monkeyAlias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^function makeMonkey/;"	f	lineno:14	type:string function()
+monkeyAlias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var monkeyAlias/;"	f	lineno:18	type:string function()
+myBitset	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var myBitset/;"	v	lineno:88	type:[bool]
+myIter	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^var myIter/;"	v	lineno:1
+myObj	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var myObj/;"	v	lineno:93
+myResolve1	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve1/;"	f	lineno:56	type:Promise function(string)
+myResolve2	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve2/;"	f	lineno:62	type:Promise function(string|number)
+myResolve3	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve3/;"	f	lineno:73	type:Promise function(?|number)
+mySym	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/^var mySym/;"	v	lineno:1
+myalias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var myalias/;"	f	lineno:4	type:void function(number)
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^var \[n/;"	v	lineno:32	type:string
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let it = function\*\(n/;"	v	lineno:20	namespace:it
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^age\(\{n/;"	v	lineno:11	namespace:age.person
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var n/;"	v	lineno:17	type:number
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  for \(var n/;"	v	lineno:322	namespace:testForControlFlow1	type:number
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  var n/;"	v	lineno:342	namespace:testWhileLoopFlow1	type:number
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testSwitchFlow1\(n/;"	v	lineno:377	namespace:testSwitchFlow1
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^var f = function\(n/;"	f	lineno:3	namespace:f	type:void function(f)
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^function goop\(n/;"	v	lineno:15	namespace:goop	type:number
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var n/;"	v	lineno:14	type:boolean
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^  name/;"	v	lineno:78	namespace:o	type:string
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var person = \{name/;"	v	lineno:3	namespace:person	type:string
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var person = \{name/;"	v	lineno:3	namespace:age.person	type:string
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  function changeName\(name/;"	v	lineno:104	namespace:personType.changeName
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  name/;"	v	lineno:274	namespace:obj	type:string
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^          return \{ name/;"	v	lineno:299	namespace:testIfControlFlow1.f	type:string
+newElt	/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js	/^var newElt/;"	v	lineno:5	type:Element
+newElt	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_browser.js	/^var newElt/;"	v	lineno:5	type:Element
 next	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	//;"	f	namespace:it	type:it.next.!ret function()
-noise	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/  noise/;"	v	lineno:41	namespace:takes.example	type:number
-nothing	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var poison = \{focus: 1, blah: 2, nothing/;"	v	lineno:1	namespace:poison	type:number
-num	/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js	/var num/;"	v	lineno:26	type:number
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var o/;"	v	lineno:12
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  subclass\.extend = function\(o/;"	v	lineno:10	namespace:Ext.extend.subclass.extend
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/var o/;"	v	lineno:1
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/var \[n, o/;"	v	lineno:32	type:boolean
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var o/;"	v	lineno:74
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/var o/;"	v	lineno:49
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var o/;"	v	lineno:15	type:boolean
-o2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/var o2/;"	v	lineno:17
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/var obj/;"	v	lineno:6
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/var obj/;"	v	lineno:5
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/var obj/;"	v	lineno:10
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each = function\(obj/;"	v	lineno:2	namespace:each	type:[each.!0.<i>]
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/getter.js	/var obj/;"	v	lineno:1
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var obj/;"	v	lineno:273
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var obj/;"	v	lineno:20
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/var obj/;"	v	lineno:3
-oc	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/let oc/;"	v	lineno:31	type:OtherClass
-one	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var top = new Top, one/;"	v	lineno:38	type:SubOne
-one	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function one/;"	f	lineno:254	type:void function()
+noise	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^  noise/;"	v	lineno:41	namespace:takes.example	type:number
+nothing	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var poison = \{focus: 1, blah: 2, nothing/;"	v	lineno:1	namespace:poison	type:number
+num	/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js	/^var num/;"	v	lineno:26	type:number
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var o/;"	v	lineno:12
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^  subclass\.extend = function\(o/;"	v	lineno:10	namespace:Ext.extend.subclass.extend
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/^var o/;"	v	lineno:1
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^var \[n, o/;"	v	lineno:32	type:boolean
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var o/;"	v	lineno:74
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var o/;"	v	lineno:49
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var o/;"	v	lineno:15	type:boolean
+o2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/^var o2/;"	v	lineno:17
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/^var obj/;"	v	lineno:6
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^var obj/;"	v	lineno:5
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^var obj/;"	v	lineno:10
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/^var each = function\(obj/;"	v	lineno:2	namespace:each	type:[each.!0.<i>]
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/getter.js	/^var obj/;"	v	lineno:1
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var obj/;"	v	lineno:273
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^var obj/;"	v	lineno:20
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/^var obj/;"	v	lineno:3
+oc	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^let oc/;"	v	lineno:31	type:OtherClass
+one	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var top = new Top, one/;"	v	lineno:38	type:SubOne
+one	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function one/;"	f	lineno:254	type:void function()
 one	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:myObj	type:boolean
-oo	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/  var oo/;"	v	lineno:2	namespace:buildCopy
-origin	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  static origin/;"	f	lineno:10	namespace:Point2	type:Point2 function()
-otherMod	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/var otherMod/;"	v	lineno:7
-out	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/var out/;"	v	lineno:28
-out	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/  var index = 0, out/;"	v	lineno:2	namespace:foo	type:string
-oy	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var oy/;"	v	lineno:47	type:number
-p	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p/;"	v	lineno:1	type:Promise
-p	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var p/;"	v	lineno:12	type:Point3
-p	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var p/;"	v	lineno:16	type:boolean
-p1	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/var p1/;"	v	lineno:23	type:Point2
-p2	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/var p2/;"	v	lineno:26	type:Point2
-p2	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p2/;"	v	lineno:12	type:Promise
-p3	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/var p3/;"	v	lineno:32	type:Point3
-p3	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p3/;"	v	lineno:21	type:Promise
-p4	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/var p4/;"	v	lineno:37	type:Point4
-p4	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p4/;"	v	lineno:30	type:Promise
-p5	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p5/;"	v	lineno:36	type:Promise
-p6	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p6/;"	v	lineno:41	type:Promise
-p7	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p7/;"	v	lineno:47	type:Promise
-p8	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/var p8/;"	v	lineno:53	type:Promise
-parent	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var __extends = function\(child, parent/;"	f	lineno:3	namespace:__extends	type:void function(bool)
-pattern1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var pattern1/;"	v	lineno:54	type:regexp
-person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var person/;"	v	lineno:3
-person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/function age\(person/;"	v	lineno:5	namespace:age
-person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var person/;"	v	lineno:86
-person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var person/;"	v	lineno:256	namespace:one	type:string
-personType	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType/;"	f	lineno:95	type:void function(string, string, number, string)
-persons	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/function ages\(persons/;"	v	lineno:6	namespace:ages	type:[person, person]|[ages.!0.<i>]
-player	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      player/;"	v	lineno:187	namespace:config.CSS.IDs	type:string
-plus	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  plus/;"	f	lineno:3	namespace:Point2.prototype	type:Point2 function(+Point2)
-poison	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/var poison/;"	v	lineno:1
-post	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var r = <div \{\.\.\.props\} post/;"	v	lineno:18	type:boolean
-pre	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var s = <div pre/;"	v	lineno:19	type:string
-pre2	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var s = <div pre="leading" pre2/;"	v	lineno:19	type:string
-pro	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var pro/;"	v	lineno:18
-prop	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/  for \(var prop/;"	v	lineno:3	namespace:buildCopy
-prop	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/;\[out\.prop/;"	v	lineno:29	namespace:out	type:number
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperty\(o, "prop1"/;"	v	lineno:4	namespace:o	type:string
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperties\(o2, \{/;"	v	lineno:19	namespace:o2	type:number
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  prop1/;"	v	lineno:6	namespace:obj	type:number
+oo	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/^  var oo/;"	v	lineno:2	namespace:buildCopy
+origin	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  static origin/;"	f	lineno:10	namespace:Point2	type:Point2 function()
+otherMod	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^var otherMod/;"	v	lineno:7
+out	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^var out/;"	v	lineno:28
+out	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^  var index = 0, out/;"	v	lineno:2	namespace:foo	type:string
+oy	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var oy/;"	v	lineno:47	type:number
+p	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p/;"	v	lineno:1	type:Promise
+p	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^var p/;"	v	lineno:12	type:Point3
+p	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var p/;"	v	lineno:16	type:boolean
+p1	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p1/;"	v	lineno:23	type:Point2
+p2	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p2/;"	v	lineno:26	type:Point2
+p2	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p2/;"	v	lineno:12	type:Promise
+p3	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p3/;"	v	lineno:32	type:Point3
+p3	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p3/;"	v	lineno:21	type:Promise
+p4	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p4/;"	v	lineno:37	type:Point4
+p4	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p4/;"	v	lineno:30	type:Promise
+p5	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p5/;"	v	lineno:36	type:Promise
+p6	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p6/;"	v	lineno:41	type:Promise
+p7	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p7/;"	v	lineno:47	type:Promise
+p8	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p8/;"	v	lineno:53	type:Promise
+parent	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var __extends = function\(child, parent/;"	f	lineno:3	namespace:__extends	type:void function(bool)
+pattern1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var pattern1/;"	v	lineno:54	type:regexp
+person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var person/;"	v	lineno:3
+person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^function age\(person/;"	v	lineno:5	namespace:age
+person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var person/;"	v	lineno:86
+person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  var person/;"	v	lineno:256	namespace:one	type:string
+personType	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function personType/;"	f	lineno:95	type:void function(string, string, number, string)
+persons	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^function ages\(persons/;"	v	lineno:6	namespace:ages	type:[person, person]|[ages.!0.<i>]
+player	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      player/;"	v	lineno:187	namespace:config.CSS.IDs	type:string
+plus	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  plus/;"	f	lineno:3	namespace:Point2.prototype	type:Point2 function(+Point2)
+poison	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^var poison/;"	v	lineno:1
+post	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var r = <div \{\.\.\.props\} post/;"	v	lineno:18	type:boolean
+pre	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var s = <div pre/;"	v	lineno:19	type:string
+pre2	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var s = <div pre="leading" pre2/;"	v	lineno:19	type:string
+pro	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^var pro/;"	v	lineno:18
+prop	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/^  for \(var prop/;"	v	lineno:3	namespace:buildCopy
+prop	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\[out\.prop/;"	v	lineno:29	namespace:out	type:number
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/^Object\.defineProperty\(o, "prop1"/;"	v	lineno:4	namespace:o	type:string
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/^Object\.defineProperties\(o2, \{/;"	v	lineno:19	namespace:o2	type:number
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^  prop1/;"	v	lineno:6	namespace:obj	type:number
 prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	//;"	v	namespace:extend	type:string
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/empty\.prop1/;"	v	lineno:151	namespace:empty	type:string
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/  prop1/;"	v	lineno:51	namespace:o	type:string
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^empty\.prop1/;"	v	lineno:151	namespace:empty	type:string
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^  prop1/;"	v	lineno:51	namespace:o	type:string
 prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	//;"	v	namespace:extend	type:string
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/empty\.prop1/;"	v	lineno:30	namespace:empty	type:string
-prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperty\(o, "prop2"/;"	v	lineno:8	namespace:o	type:number
-prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperties\(o2, \{/;"	v	lineno:19	namespace:o2	type:boolean
-prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/;\[out\.prop, out\.prop2/;"	v	lineno:29	namespace:out	type:boolean
-prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  prop2/;"	f	lineno:7	namespace:obj	type:void function(?)
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^empty\.prop1/;"	v	lineno:30	namespace:empty	type:string
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/^Object\.defineProperty\(o, "prop2"/;"	v	lineno:8	namespace:o	type:number
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/^Object\.defineProperties\(o2, \{/;"	v	lineno:19	namespace:o2	type:boolean
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\[out\.prop, out\.prop2/;"	v	lineno:29	namespace:out	type:boolean
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^  prop2/;"	f	lineno:7	namespace:obj	type:void function(?)
 prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	//;"	v	namespace:extend	type:number
-prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/  prop2/;"	f	lineno:54	namespace:o	type:number function()
-prop3	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/obj\.prop3/;"	v	lineno:10	namespace:obj	type:string
-prop3	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/o\.prop3/;"	f	lineno:58	namespace:o	type:string function()
-prop_A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/A\.prototype\.prop_A/;"	v	lineno:2	namespace:A.prototype	type:number
-prop_B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/B\.prototype\.prop_B/;"	v	lineno:5	namespace:B.prototype	type:number
-prop_C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/C\.prototype\.prop_C/;"	v	lineno:8	namespace:C.prototype	type:number
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  subclass\.prototype/;"	v	lineno:8	namespace:Ext.extend.subclass
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  F\.prototype/;"	v	lineno:19	namespace:Ext.extend.F
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/class Point2 \{/;"	v	lineno:1	namespace:Point2
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/class Point4 extends Point3 \{/;"	v	lineno:13	namespace:Point4
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/var Point3 = class extends Point2 \{/;"	v	lineno:18	namespace:Point3
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/class C \{/;"	v	lineno:93	namespace:C
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/class Foo \{/;"	v	lineno:1	namespace:Foo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubTwo.prototype.constructor
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubEleven
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubTwo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubOne
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubEleven.prototype.constructor
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubOne.prototype.constructor
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/class foo \{/;"	v	lineno:29	namespace:foo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/class foo \{/;"	v	lineno:22	namespace:foo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/class bar extends foo \{/;"	v	lineno:31	namespace:bar
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/Ctor1\.prototype/;"	v	lineno:156	namespace:Ctor1
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/Foo\.prototype/;"	v	lineno:171	namespace:Foo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/  Ctor\.prototype/;"	v	lineno:7	namespace:makeClass.Ctor
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/  n\.prototype/;"	v	lineno:4	namespace:f.n
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/Class\.prototype/;"	v	lineno:2	namespace:Class
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/OtherClass\.prototype/;"	v	lineno:19	namespace:OtherClass
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/B\.prototype/;"	v	lineno:4	namespace:B
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/C\.prototype/;"	v	lineno:7	namespace:C
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/Ctor1\.prototype/;"	v	lineno:2	namespace:Ctor1
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/Foo\.prototype/;"	v	lineno:7	namespace:Foo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/Base\.prototype/;"	v	lineno:2	namespace:Base
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/Sub1\.prototype/;"	v	lineno:8	namespace:Sub1
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/Sub2\.prototype/;"	v	lineno:12	namespace:Sub2
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/Sub3\.prototype/;"	v	lineno:18	namespace:Sub3
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point3 extends Point2 \{/;"	v	lineno:1	namespace:Point3
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point2 \{/;"	v	lineno:7	namespace:Point2
-pt	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  plus\(pt/;"	v	lineno:3	namespace:Point2.prototype.plus	type:Point2
-q	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var q/;"	v	lineno:17	type:boolean
-quux	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  quux/;"	f	lineno:9	namespace:Point2.prototype	type:number function()
-quux	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/gen1\.quux/;"	v	lineno:134	namespace:gen1	type:number
-quux	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/gen1\.quux/;"	v	lineno:6	namespace:gen1	type:number
-r	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var r/;"	v	lineno:18	type:boolean
-reg	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var reg/;"	v	lineno:51	type:regexp
-res	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/  var res/;"	v	lineno:7	namespace:map	type:[bool]
-s	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var s/;"	v	lineno:19	type:boolean
-s1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s1/;"	v	lineno:72	type:string
-s2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s2/;"	v	lineno:75	type:string
-s3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s3/;"	v	lineno:78	type:string
-s4	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s4/;"	v	lineno:81	type:string
-scope1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function scope1/;"	f	lineno:216	type:void function()
-set	/Users/othree/os-projects/jsctags-oasis/test/cases/set.js	/let set/;"	v	lineno:1	type:Set
-setD	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/function setD/;"	f	lineno:13	type:void function(number)
-simple	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/var simple/;"	v	lineno:8
-singleton	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var singleton/;"	v	lineno:164
-singleton	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/var singleton/;"	v	lineno:6
-something	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  get something/;"	v	lineno:97	namespace:C.prototype	type:number
-strs	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build\(strs/;"	v	lineno:6	namespace:build	type:[string]
-subclass	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/Ext\.extend = function\(subclass/;"	f	lineno:14	namespace:Ext.extend	type:void function()
-sum	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/function sum/;"	f	lineno:1	type:number function(?)
-sup	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/var sup/;"	v	lineno:1
-superclass	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/Ext\.extend = function\(subclass, superclass/;"	f	lineno:14	namespace:Ext.extend	type:void function()
-t	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var t/;"	v	lineno:305	namespace:testIfControlFlow1
-t	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var t/;"	v	lineno:20	type:boolean
-takes	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/function takes/;"	f	lineno:24	type:!0 function(?)
-takesOpt	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function takesOpt/;"	f	lineno:73	type:void function(number)
-test	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var g = <AbC\-def\\n  test/;"	v	lineno:7	type:boolean
-testBreak	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var testBreak/;"	v	lineno:362	namespace:testBreakFlow1	type:string
-testBreakFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testBreakFlow1/;"	f	lineno:359	type:void function()
-testContinue	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var testContinue/;"	v	lineno:365	namespace:testBreakFlow1	type:string
-testDoWhileLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testDoWhileLoopFlow1/;"	f	lineno:349	type:void function()
-testForControlFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testForControlFlow1/;"	f	lineno:317	type:void function()
-testForInLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testForInLoopFlow1/;"	f	lineno:334	type:void function()
-testIfControlFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testIfControlFlow1/;"	f	lineno:291	type:void function()
-testSwitchFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testSwitchFlow1/;"	f	lineno:377	type:void function(?)
-testTryCatchFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testTryCatchFlow1/;"	f	lineno:398	type:void function()
-testWhileLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testWhileLoopFlow1/;"	f	lineno:341	type:void function()
-timeout	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function timeout\(f, timeout/;"	f	lineno:272	namespace:timeout	type:void function(?, ?)
-timeout	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function timeout/;"	v	lineno:272
-topMethod	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  Top\.prototype\.topMethod/;"	f	lineno:12	namespace:Top.prototype	type:string function()
-topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  Top\.topStatic/;"	v	lineno:13	namespace:Top	type:number
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^  prop2/;"	f	lineno:54	namespace:o	type:number function()
+prop3	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^obj\.prop3/;"	v	lineno:10	namespace:obj	type:string
+prop3	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^o\.prop3/;"	f	lineno:58	namespace:o	type:string function()
+prop_A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^A\.prototype\.prop_A/;"	v	lineno:2	namespace:A.prototype	type:number
+prop_B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^B\.prototype\.prop_B/;"	v	lineno:5	namespace:B.prototype	type:number
+prop_C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^C\.prototype\.prop_C/;"	v	lineno:8	namespace:C.prototype	type:number
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^  subclass\.prototype/;"	v	lineno:8	namespace:Ext.extend.subclass
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^  F\.prototype/;"	v	lineno:19	namespace:Ext.extend.F
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point2 \{/;"	v	lineno:1	namespace:Point2
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point4 extends Point3 \{/;"	v	lineno:13	namespace:Point4
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var Point3 = class extends Point2 \{/;"	v	lineno:18	namespace:Point3
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^class C \{/;"	v	lineno:93	namespace:C
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^class Foo \{/;"	v	lineno:1	namespace:Foo
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubTwo.prototype.constructor
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubEleven
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubTwo
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubOne
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubEleven.prototype.constructor
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubOne.prototype.constructor
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/^class foo \{/;"	v	lineno:29	namespace:foo
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class foo \{/;"	v	lineno:22	namespace:foo
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class bar extends foo \{/;"	v	lineno:31	namespace:bar
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^Ctor1\.prototype/;"	v	lineno:156	namespace:Ctor1
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^Foo\.prototype/;"	v	lineno:171	namespace:Foo
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  Ctor\.prototype/;"	v	lineno:7	namespace:makeClass.Ctor
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^  n\.prototype/;"	v	lineno:4	namespace:f.n
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^Class\.prototype/;"	v	lineno:2	namespace:Class
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/^OtherClass\.prototype/;"	v	lineno:19	namespace:OtherClass
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^B\.prototype/;"	v	lineno:4	namespace:B
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^C\.prototype/;"	v	lineno:7	namespace:C
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^Ctor1\.prototype/;"	v	lineno:2	namespace:Ctor1
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^Foo\.prototype/;"	v	lineno:7	namespace:Foo
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^Base\.prototype/;"	v	lineno:2	namespace:Base
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^Sub1\.prototype/;"	v	lineno:8	namespace:Sub1
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^Sub2\.prototype/;"	v	lineno:12	namespace:Sub2
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js	/^Sub3\.prototype/;"	v	lineno:18	namespace:Sub3
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^class Point3 extends Point2 \{/;"	v	lineno:1	namespace:Point3
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^class Point2 \{/;"	v	lineno:7	namespace:Point2
+pt	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  plus\(pt/;"	v	lineno:3	namespace:Point2.prototype.plus	type:Point2
+q	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var q/;"	v	lineno:17	type:boolean
+quux	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  quux/;"	f	lineno:9	namespace:Point2.prototype	type:number function()
+quux	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^gen1\.quux/;"	v	lineno:134	namespace:gen1	type:number
+quux	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^gen1\.quux/;"	v	lineno:6	namespace:gen1	type:number
+r	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var r/;"	v	lineno:18	type:boolean
+reg	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var reg/;"	v	lineno:51	type:regexp
+res	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^  var res/;"	v	lineno:7	namespace:map	type:[bool]
+s	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var s/;"	v	lineno:19	type:boolean
+s1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var s1/;"	v	lineno:72	type:string
+s2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var s2/;"	v	lineno:75	type:string
+s3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var s3/;"	v	lineno:78	type:string
+s4	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var s4/;"	v	lineno:81	type:string
+scope1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function scope1/;"	f	lineno:216	type:void function()
+set	/Users/othree/os-projects/jsctags-oasis/test/cases/set.js	/^let set/;"	v	lineno:1	type:Set
+setD	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^function setD/;"	f	lineno:13	type:void function(number)
+simple	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/^var simple/;"	v	lineno:8
+singleton	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var singleton/;"	v	lineno:164
+singleton	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^var singleton/;"	v	lineno:6
+something	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^  get something/;"	v	lineno:97	namespace:C.prototype	type:number
+strs	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/^function build\(strs/;"	v	lineno:6	namespace:build	type:[string]
+subclass	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^Ext\.extend = function\(subclass/;"	f	lineno:14	namespace:Ext.extend	type:void function()
+sum	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^function sum/;"	f	lineno:1	type:number function(?)
+sup	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^var sup/;"	v	lineno:1
+superclass	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/^Ext\.extend = function\(subclass, superclass/;"	f	lineno:14	namespace:Ext.extend	type:void function()
+t	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      var t/;"	v	lineno:305	namespace:testIfControlFlow1
+t	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var t/;"	v	lineno:20	type:boolean
+takes	/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js	/^function takes/;"	f	lineno:24	type:!0 function(?)
+takesOpt	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function takesOpt/;"	f	lineno:73	type:void function(number)
+test	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var g = <AbC\-def\\n  test/;"	v	lineno:7	type:boolean
+testBreak	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      var testBreak/;"	v	lineno:362	namespace:testBreakFlow1	type:string
+testBreakFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testBreakFlow1/;"	f	lineno:359	type:void function()
+testContinue	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      var testContinue/;"	v	lineno:365	namespace:testBreakFlow1	type:string
+testDoWhileLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testDoWhileLoopFlow1/;"	f	lineno:349	type:void function()
+testForControlFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testForControlFlow1/;"	f	lineno:317	type:void function()
+testForInLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testForInLoopFlow1/;"	f	lineno:334	type:void function()
+testIfControlFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testIfControlFlow1/;"	f	lineno:291	type:void function()
+testSwitchFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testSwitchFlow1/;"	f	lineno:377	type:void function(?)
+testTryCatchFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testTryCatchFlow1/;"	f	lineno:398	type:void function()
+testWhileLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function testWhileLoopFlow1/;"	f	lineno:341	type:void function()
+timeout	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function timeout\(f, timeout/;"	f	lineno:272	namespace:timeout	type:void function(?, ?)
+timeout	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function timeout/;"	v	lineno:272
+topMethod	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  Top\.prototype\.topMethod/;"	f	lineno:12	namespace:Top.prototype	type:string function()
+topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  Top\.topStatic/;"	v	lineno:13	namespace:Top	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubEleven	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubTwo.prototype.constructor	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubOne	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubEleven.prototype.constructor	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubTwo	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubOne.prototype.constructor	type:number
-two	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var top = new Top, one = new SubOne\(true\), two/;"	v	lineno:38	type:SubTwo
+two	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var top = new Top, one = new SubOne\(true\), two/;"	v	lineno:38	type:SubTwo
 two	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:myObj	type:number
-u	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y, z, u\) \{ super\(x, y, z\); this\.u/;"	v	lineno:14	namespace:Point4	type:number
-u	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var u/;"	v	lineno:21	type:boolean
-ui	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function ui/;"	f	lineno:140	type:string function()
-unionFunction	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/function unionFunction/;"	f	lineno:133	type:[?|number] function(string)
-v	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var v/;"	v	lineno:22	type:boolean
-value	/Users/othree/os-projects/jsctags-oasis/test/cases/map.js	/  ;\[key, value/;"	v	lineno:18	type:string
-varInCatch	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInCatch/;"	v	lineno:403	namespace:testTryCatchFlow1	type:string
-varInDoWhileLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInDoWhileLoop/;"	v	lineno:352	namespace:testDoWhileLoopFlow1	type:string
-varInForLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInForLoop/;"	v	lineno:323	namespace:testForControlFlow1	type:string
-varInIf	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInIf/;"	v	lineno:294	namespace:testIfControlFlow1	type:string
-varInNestedForLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var varInNestedForLoop/;"	v	lineno:325	namespace:testForControlFlow1	type:number
-varInTry	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInTry/;"	v	lineno:400	namespace:testTryCatchFlow1	type:string
-varInWhileLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInWhileLoop/;"	v	lineno:344	namespace:testWhileLoopFlow1	type:string
-w	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var w/;"	v	lineno:24	type:boolean
-whoAmI	/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js	/function whoAmI/;"	f	lineno:1	type:void function(?, ?)
-wrap	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/function wrap/;"	f	lineno:5	type:wrap.!ret.!ret function() function()
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js	/var x/;"	v	lineno:1	type:[string]
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js	/function x/;"	f	lineno:1	type:void function(string)
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js	/var x/;"	v	lineno:1	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point4	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x/;"	v	lineno:19	namespace:Point3	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/var x/;"	v	lineno:1
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  get x/;"	v	lineno:9	namespace:Foo.prototype	type:string
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/  x/;"	v	lineno:11	namespace:obj	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var x/;"	v	lineno:3	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Foo\(x/;"	v	lineno:166	namespace:Foo	type:boolean
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.x/;"	v	lineno:167	namespace:foo	type:boolean
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/var x/;"	v	lineno:10	type:[x]
+u	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y, z, u\) \{ super\(x, y, z\); this\.u/;"	v	lineno:14	namespace:Point4	type:number
+u	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var u/;"	v	lineno:21	type:boolean
+ui	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function ui/;"	f	lineno:140	type:string function()
+unionFunction	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function unionFunction/;"	f	lineno:133	type:[?|number] function(string)
+v	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var v/;"	v	lineno:22	type:boolean
+value	/Users/othree/os-projects/jsctags-oasis/test/cases/map.js	/^  ;\[key, value/;"	v	lineno:18	type:string
+varInCatch	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    var varInCatch/;"	v	lineno:403	namespace:testTryCatchFlow1	type:string
+varInDoWhileLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    var varInDoWhileLoop/;"	v	lineno:352	namespace:testDoWhileLoopFlow1	type:string
+varInForLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    var varInForLoop/;"	v	lineno:323	namespace:testForControlFlow1	type:string
+varInIf	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    var varInIf/;"	v	lineno:294	namespace:testIfControlFlow1	type:string
+varInNestedForLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^      var varInNestedForLoop/;"	v	lineno:325	namespace:testForControlFlow1	type:number
+varInTry	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    var varInTry/;"	v	lineno:400	namespace:testTryCatchFlow1	type:string
+varInWhileLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^    var varInWhileLoop/;"	v	lineno:344	namespace:testWhileLoopFlow1	type:string
+w	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var w/;"	v	lineno:24	type:boolean
+whoAmI	/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js	/^function whoAmI/;"	f	lineno:1	type:void function(?, ?)
+wrap	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^function wrap/;"	f	lineno:5	type:wrap.!ret.!ret function() function()
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js	/^var x/;"	v	lineno:1	type:[string]
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js	/^function x/;"	f	lineno:1	type:void function(string)
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js	/^var x/;"	v	lineno:1	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point4	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x/;"	v	lineno:19	namespace:Point3	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js	/^var x/;"	v	lineno:1
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  get x/;"	v	lineno:9	namespace:Foo.prototype	type:string
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  x/;"	v	lineno:11	namespace:obj	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var x/;"	v	lineno:3	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^function Foo\(x/;"	v	lineno:166	namespace:Foo	type:boolean
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  this\.x/;"	v	lineno:167	namespace:foo	type:boolean
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^var x/;"	v	lineno:10	type:[x]
 x	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:c	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/sum\(\{x/;"	v	lineno:6	namespace:sum.a	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/  function x/;"	f	lineno:10	namespace:baz.bug	type:void function()
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/plus.js	/var x/;"	v	lineno:1	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/  accept\(\{x/;"	v	lineno:3	namespace:Promise.:t	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/function Foo\(x/;"	v	lineno:1	namespace:Foo	type:boolean
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  this\.x/;"	v	lineno:2	namespace:z	type:boolean
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/var x/;"	v	lineno:1	type:Type
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/var x/;"	v	lineno:6
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  constructor\(x, y\) \{ this\.x/;"	v	lineno:8	namespace:Point3	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var pro = \{x/;"	v	lineno:18	namespace:pro	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  x/;"	v	lineno:22	namespace:obj	type:string
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/var x/;"	v	lineno:2	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var x/;"	v	lineno:23	type:boolean
-xx	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  get xx/;"	v	lineno:8	namespace:Point2.prototype	type:number
-xyzzy	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var xyzzy/;"	v	lineno:70	type:boolean
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js	/var \[,, y/;"	v	lineno:3	type:string
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point4	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y/;"	v	lineno:19	namespace:Point3	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/const y/;"	v	lineno:14
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/  y/;"	v	lineno:13	namespace:obj	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a/;"	v	lineno:8	type:[number]
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var y/;"	v	lineno:11	type:[number]
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.y/;"	v	lineno:168	namespace:Foo	type:[number]
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^sum\(\{x/;"	v	lineno:6	namespace:sum.a	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^  function x/;"	f	lineno:10	namespace:baz.bug	type:void function()
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/plus.js	/^var x/;"	v	lineno:1	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^  accept\(\{x/;"	v	lineno:3	namespace:Promise.:t	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^function Foo\(x/;"	v	lineno:1	namespace:Foo	type:boolean
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  this\.x/;"	v	lineno:2	namespace:z	type:boolean
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/^var x/;"	v	lineno:1	type:Type
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/^var x/;"	v	lineno:6
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:8	namespace:Point3	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^var pro = \{x/;"	v	lineno:18	namespace:pro	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  x/;"	v	lineno:22	namespace:obj	type:string
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/^var x/;"	v	lineno:2	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var x/;"	v	lineno:23	type:boolean
+xx	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  get xx/;"	v	lineno:8	namespace:Point2.prototype	type:number
+xyzzy	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/^var xyzzy/;"	v	lineno:70	type:boolean
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js	/^var \[,, y/;"	v	lineno:3	type:string
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point4	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y/;"	v	lineno:19	namespace:Point3	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^const y/;"	v	lineno:14
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  y/;"	v	lineno:13	namespace:obj	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var a/;"	v	lineno:8	type:[number]
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var y/;"	v	lineno:11	type:[number]
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^  this\.y/;"	v	lineno:168	namespace:Foo	type:[number]
 y	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:c	type:[string]
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/sum\(\{x: 10, y/;"	v	lineno:6	namespace:sum.a	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/plus.js	/var y/;"	v	lineno:2	type:string
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  this\.y/;"	v	lineno:3	namespace:Foo	type:[number]
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:8	namespace:Point3	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var y/;"	v	lineno:25	type:boolean
-years	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var years/;"	v	lineno:201	type:[number]
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js	/var \[,, y, z/;"	v	lineno:3	type:string
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y, z/;"	v	lineno:19	namespace:Point3	type:number
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:19	namespace:Point4	type:number
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/obj\.z/;"	v	lineno:17	namespace:obj	type:string
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var z/;"	v	lineno:14	type:number
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/var z/;"	f	lineno:4	type:void function()
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/var z/;"	v	lineno:12	type:Foo
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:2	namespace:Point3	type:number
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var z/;"	v	lineno:26	type:boolean
-ç	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/var ç/;"	v	lineno:27	type:boolean
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^sum\(\{x: 10, y/;"	v	lineno:6	namespace:sum.a	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/plus.js	/^var y/;"	v	lineno:2	type:string
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  this\.y/;"	v	lineno:3	namespace:Foo	type:[number]
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:8	namespace:Point3	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var y/;"	v	lineno:25	type:boolean
+years	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var years/;"	v	lineno:201	type:[number]
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js	/^var \[,, y, z/;"	v	lineno:3	type:string
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y, z/;"	v	lineno:19	namespace:Point3	type:number
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:19	namespace:Point4	type:number
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^obj\.z/;"	v	lineno:17	namespace:obj	type:string
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/^var z/;"	v	lineno:14	type:number
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/^var z/;"	f	lineno:4	type:void function()
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^var z/;"	v	lineno:12	type:Foo
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/^  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:2	namespace:Point3	type:number
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var z/;"	v	lineno:26	type:boolean
+ç	/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx	/^var ç/;"	v	lineno:27	type:boolean

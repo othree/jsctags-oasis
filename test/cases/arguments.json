@@ -1,8 +1,8 @@
 [
   {
-    "id": "b14bdc20-5908-11e9-9e15-43d89d9c4440",
+    "id": "c3dd3460-593a-11e9-b0bc-5335a39928b6",
     "name": "arguments",
-    "addr": "/var arguments/",
+    "addr": "/^var arguments/",
     "kind": "v",
     "type": "number",
     "lineno": 1,

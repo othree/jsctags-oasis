@@ -1,13 +1,13 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a/;"	v	lineno:1	namespace:f	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function h\(a/;"	v	lineno:7	namespace:h	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a, b/;"	v	lineno:1	namespace:f	type:number
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a, b, c/;"	v	lineno:1	namespace:f	type:number
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f\(a, b, c, d/;"	v	lineno:1	namespace:f	type:number
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function f/;"	f	lineno:1	type:number function(number, number, number, number)
-g	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var g/;"	f	lineno:2	type:number function(number, number)
-h	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function h/;"	f	lineno:7	type:h.!ret function(number)
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var i/;"	f	lineno:8	type:h.!ret function()
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var o = \{i/;"	f	lineno:12	namespace:o	type:h.!ret function()
-j	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/function j/;"	f	lineno:15	type:!this function()
-k	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var k/;"	f	lineno:16	type:j.!ret function()
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/var o/;"	v	lineno:12
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a/;"	v	lineno:1	namespace:f	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function h\(a/;"	v	lineno:7	namespace:h	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a, b/;"	v	lineno:1	namespace:f	type:number
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a, b, c/;"	v	lineno:1	namespace:f	type:number
+d	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f\(a, b, c, d/;"	v	lineno:1	namespace:f	type:number
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function f/;"	f	lineno:1	type:number function(number, number, number, number)
+g	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var g/;"	f	lineno:2	type:number function(number, number)
+h	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function h/;"	f	lineno:7	type:h.!ret function(number)
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var i/;"	f	lineno:8	type:h.!ret function()
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var o = \{i/;"	f	lineno:12	namespace:o	type:h.!ret function()
+j	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^function j/;"	f	lineno:15	type:!this function()
+k	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var k/;"	f	lineno:16	type:j.!ret function()
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js	/^var o/;"	v	lineno:12

@@ -1,13 +1,13 @@
-Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/class Foo/;"	f	lineno:1	type:void function(?, ?)
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[a/;"	v	lineno:26	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  get b/;"	v	lineno:16	namespace:y	type:boolean
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[a, b/;"	v	lineno:26	type:number
-e1	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[e1/;"	v	lineno:30	type:string
-e3	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let \[e1,,e3/;"	v	lineno:30	type:number
-func	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  func/;"	f	lineno:15	namespace:y	type:number function()
-it	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let it/;"	f	lineno:20	type:!0 function(?)
-method	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  method/;"	f	lineno:7	namespace:Foo.prototype	type:void function()
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/let it = function\*\(n/;"	v	lineno:20	namespace:it
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/class Foo \{/;"	v	lineno:1	namespace:Foo
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/  get x/;"	v	lineno:9	namespace:Foo.prototype	type:string
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/const y/;"	v	lineno:14
+Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^class Foo/;"	f	lineno:1	type:void function(?, ?)
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[a/;"	v	lineno:26	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  get b/;"	v	lineno:16	namespace:y	type:boolean
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[a, b/;"	v	lineno:26	type:number
+e1	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[e1/;"	v	lineno:30	type:string
+e3	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let \[e1,,e3/;"	v	lineno:30	type:number
+func	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  func/;"	f	lineno:15	namespace:y	type:number function()
+it	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let it/;"	f	lineno:20	type:!0 function(?)
+method	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  method/;"	f	lineno:7	namespace:Foo.prototype	type:void function()
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^let it = function\*\(n/;"	v	lineno:20	namespace:it
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^class Foo \{/;"	v	lineno:1	namespace:Foo
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^  get x/;"	v	lineno:9	namespace:Foo.prototype	type:string
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js	/^const y/;"	v	lineno:14

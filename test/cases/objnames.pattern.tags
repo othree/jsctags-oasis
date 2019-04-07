@@ -1,7 +1,7 @@
-Ctor1	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/function Ctor1/;"	f	lineno:1	type:void function()
-Ctor2	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/function Ctor2/;"	f	lineno:4	type:void function()
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/Ctor1\.prototype = \{a/;"	v	lineno:2	namespace:Ctor1.prototype	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/var singleton = \{a/;"	v	lineno:6	namespace:singleton	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/var singleton = \{a: 10, b/;"	v	lineno:6	namespace:singleton	type:number
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/Ctor1\.prototype/;"	v	lineno:2	namespace:Ctor1
-singleton	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/var singleton/;"	v	lineno:6
+Ctor1	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^function Ctor1/;"	f	lineno:1	type:void function()
+Ctor2	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^function Ctor2/;"	f	lineno:4	type:void function()
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^Ctor1\.prototype = \{a/;"	v	lineno:2	namespace:Ctor1.prototype	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^var singleton = \{a/;"	v	lineno:6	namespace:singleton	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^var singleton = \{a: 10, b/;"	v	lineno:6	namespace:singleton	type:number
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^Ctor1\.prototype/;"	v	lineno:2	namespace:Ctor1
+singleton	/Users/othree/os-projects/jsctags-oasis/test/cases/objnames.js	/^var singleton/;"	v	lineno:6

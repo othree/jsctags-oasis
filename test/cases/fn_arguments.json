@@ -1,8 +1,8 @@
 [
   {
-    "id": "b56200a0-5908-11e9-8bdb-49ab3f8e2a11",
+    "id": "c7fca7b0-593a-11e9-9dee-4311bf48ab67",
     "name": "abc",
-    "addr": "/function abc/",
+    "addr": "/^function abc/",
     "kind": "f",
     "type": "number function()",
     "lineno": 1,
@@ -17,14 +17,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js"
   },
   {
-    "id": "b562eb00-5908-11e9-8bdb-49ab3f8e2a11",
+    "id": "c7fccec0-593a-11e9-9dee-4311bf48ab67",
     "name": "arguments",
-    "addr": "/function abc\\(\\) \\{/",
+    "addr": "/^function abc\\(\\) \\{/",
     "kind": "v",
     "type": "[number]",
     "lineno": 1,
     "namespace": "abc",
-    "parent": "b56200a0-5908-11e9-8bdb-49ab3f8e2a11",
+    "parent": "c7fca7b0-593a-11e9-9dee-4311bf48ab67",
     "origin": {
       "!span": "0[0:0]-41[2:1]",
       "!type": "[number]",

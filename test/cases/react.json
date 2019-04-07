@@ -1,8 +1,8 @@
 [
   {
-    "id": "ba414180-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb8f740-593a-11e9-b68d-2d47675ed350",
     "name": "a",
-    "addr": "/var a/",
+    "addr": "/^var a/",
     "kind": "v",
     "type": "boolean",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a7-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e67-593a-11e9-b68d-2d47675ed350",
     "name": "foo",
-    "addr": "/var c = <a n:foo/",
+    "addr": "/^var c = <a n:foo/",
     "kind": "v",
     "type": "boolean",
     "lineno": 3,
@@ -34,9 +34,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416890-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e50-593a-11e9-b68d-2d47675ed350",
     "name": "e",
-    "addr": "/var e/",
+    "addr": "/^var e/",
     "kind": "v",
     "type": "boolean",
     "lineno": 5,
@@ -51,9 +51,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa0-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e68-593a-11e9-b68d-2d47675ed350",
     "name": "test",
-    "addr": "/var g = <AbC\\-def\\\\n  test/",
+    "addr": "/^var g = <AbC\\-def\\\\n  test/",
     "kind": "v",
     "type": "boolean",
     "lineno": 7,
@@ -68,9 +68,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416891-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e51-593a-11e9-b68d-2d47675ed350",
     "name": "g",
-    "addr": "/var g/",
+    "addr": "/^var g/",
     "kind": "v",
     "type": "boolean",
     "lineno": 7,
@@ -85,9 +85,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416892-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e52-593a-11e9-b68d-2d47675ed350",
     "name": "h",
-    "addr": "/var h/",
+    "addr": "/^var h/",
     "kind": "v",
     "type": "boolean",
     "lineno": 8,
@@ -102,9 +102,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416893-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e53-593a-11e9-b68d-2d47675ed350",
     "name": "i",
-    "addr": "/var i/",
+    "addr": "/^var i/",
     "kind": "v",
     "type": "boolean",
     "lineno": 9,
@@ -119,9 +119,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416894-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e54-593a-11e9-b68d-2d47675ed350",
     "name": "j",
-    "addr": "/var j/",
+    "addr": "/^var j/",
     "kind": "v",
     "type": "boolean",
     "lineno": 10,
@@ -136,9 +136,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416895-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e55-593a-11e9-b68d-2d47675ed350",
     "name": "k",
-    "addr": "/var k/",
+    "addr": "/^var k/",
     "kind": "v",
     "type": "boolean",
     "lineno": 11,
@@ -153,9 +153,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416896-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e56-593a-11e9-b68d-2d47675ed350",
     "name": "l",
-    "addr": "/var l/",
+    "addr": "/^var l/",
     "kind": "v",
     "type": "boolean",
     "lineno": 12,
@@ -170,9 +170,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416897-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e57-593a-11e9-b68d-2d47675ed350",
     "name": "m",
-    "addr": "/var m/",
+    "addr": "/^var m/",
     "kind": "v",
     "type": "boolean",
     "lineno": 13,
@@ -187,9 +187,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa1-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e69-593a-11e9-b68d-2d47675ed350",
     "name": "left",
-    "addr": "/var m = <LeftRight left/",
+    "addr": "/^var m = <LeftRight left/",
     "kind": "v",
     "type": "boolean",
     "lineno": 13,
@@ -204,9 +204,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416898-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e58-593a-11e9-b68d-2d47675ed350",
     "name": "n",
-    "addr": "/var n/",
+    "addr": "/^var n/",
     "kind": "v",
     "type": "boolean",
     "lineno": 14,
@@ -221,9 +221,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba416899-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e59-593a-11e9-b68d-2d47675ed350",
     "name": "o",
-    "addr": "/var o/",
+    "addr": "/^var o/",
     "kind": "v",
     "type": "boolean",
     "lineno": 15,
@@ -238,9 +238,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba41689a-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e5a-593a-11e9-b68d-2d47675ed350",
     "name": "p",
-    "addr": "/var p/",
+    "addr": "/^var p/",
     "kind": "v",
     "type": "boolean",
     "lineno": 16,
@@ -255,9 +255,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba41689b-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e5b-593a-11e9-b68d-2d47675ed350",
     "name": "q",
-    "addr": "/var q/",
+    "addr": "/^var q/",
     "kind": "v",
     "type": "boolean",
     "lineno": 17,
@@ -272,9 +272,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba41689c-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e5c-593a-11e9-b68d-2d47675ed350",
     "name": "r",
-    "addr": "/var r/",
+    "addr": "/^var r/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
@@ -289,9 +289,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa2-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e6a-593a-11e9-b68d-2d47675ed350",
     "name": "post",
-    "addr": "/var r = <div \\{\\.\\.\\.props\\} post/",
+    "addr": "/^var r = <div \\{\\.\\.\\.props\\} post/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
@@ -306,9 +306,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa4-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e6c-593a-11e9-b68d-2d47675ed350",
     "name": "pre2",
-    "addr": "/var s = <div pre=\"leading\" pre2/",
+    "addr": "/^var s = <div pre=\"leading\" pre2/",
     "kind": "v",
     "type": "string",
     "lineno": 19,
@@ -323,9 +323,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa3-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e6b-593a-11e9-b68d-2d47675ed350",
     "name": "pre",
-    "addr": "/var s = <div pre/",
+    "addr": "/^var s = <div pre/",
     "kind": "v",
     "type": "string",
     "lineno": 19,
@@ -340,9 +340,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba41689d-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e5d-593a-11e9-b68d-2d47675ed350",
     "name": "s",
-    "addr": "/var s/",
+    "addr": "/^var s/",
     "kind": "v",
     "type": "boolean",
     "lineno": 19,
@@ -357,9 +357,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa5-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e6d-593a-11e9-b68d-2d47675ed350",
     "name": "aa",
-    "addr": "/var t = <A aa/",
+    "addr": "/^var t = <A aa/",
     "kind": "v",
     "lineno": 20,
     "origin": {
@@ -372,9 +372,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa6-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e6e-593a-11e9-b68d-2d47675ed350",
     "name": "bb",
-    "addr": "/var t = <A aa=\\{aa\\.bb\\.cc\\} bb/",
+    "addr": "/^var t = <A aa=\\{aa\\.bb\\.cc\\} bb/",
     "kind": "v",
     "type": "boolean",
     "lineno": 20,
@@ -389,9 +389,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba41689e-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e5e-593a-11e9-b68d-2d47675ed350",
     "name": "t",
-    "addr": "/var t/",
+    "addr": "/^var t/",
     "kind": "v",
     "type": "boolean",
     "lineno": 20,
@@ -406,9 +406,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba418fa7-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e6f-593a-11e9-b68d-2d47675ed350",
     "name": "href",
-    "addr": "/var u = <p>foo <a href/",
+    "addr": "/^var u = <p>foo <a href/",
     "kind": "v",
     "type": "boolean",
     "lineno": 21,
@@ -423,9 +423,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba41689f-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e5f-593a-11e9-b68d-2d47675ed350",
     "name": "u",
-    "addr": "/var u/",
+    "addr": "/^var u/",
     "kind": "v",
     "type": "boolean",
     "lineno": 21,
@@ -440,9 +440,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a0-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e60-593a-11e9-b68d-2d47675ed350",
     "name": "v",
-    "addr": "/var v/",
+    "addr": "/^var v/",
     "kind": "v",
     "type": "boolean",
     "lineno": 22,
@@ -457,9 +457,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a1-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e61-593a-11e9-b68d-2d47675ed350",
     "name": "x",
-    "addr": "/var x/",
+    "addr": "/^var x/",
     "kind": "v",
     "type": "boolean",
     "lineno": 23,
@@ -474,9 +474,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a2-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e62-593a-11e9-b68d-2d47675ed350",
     "name": "w",
-    "addr": "/var w/",
+    "addr": "/^var w/",
     "kind": "v",
     "type": "boolean",
     "lineno": 24,
@@ -491,9 +491,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a3-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e63-593a-11e9-b68d-2d47675ed350",
     "name": "y",
-    "addr": "/var y/",
+    "addr": "/^var y/",
     "kind": "v",
     "type": "boolean",
     "lineno": 25,
@@ -508,9 +508,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a4-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e64-593a-11e9-b68d-2d47675ed350",
     "name": "z",
-    "addr": "/var z/",
+    "addr": "/^var z/",
     "kind": "v",
     "type": "boolean",
     "lineno": 26,
@@ -525,9 +525,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a5-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e65-593a-11e9-b68d-2d47675ed350",
     "name": "ç",
-    "addr": "/var ç/",
+    "addr": "/^var ç/",
     "kind": "v",
     "type": "boolean",
     "lineno": 27,
@@ -542,9 +542,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
-    "id": "ba4168a6-5908-11e9-bc7e-9d9483536ab5",
+    "id": "ccb91e66-593a-11e9-b68d-2d47675ed350",
     "name": "arr",
-    "addr": "/var arr/",
+    "addr": "/^var arr/",
     "kind": "v",
     "type": "[bool]",
     "lineno": 29,

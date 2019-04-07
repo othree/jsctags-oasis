@@ -1,8 +1,8 @@
 [
   {
-    "id": "ba682a70-5908-11e9-9719-23622dcaeb1c",
+    "id": "cce7f680-593a-11e9-8dc7-bfe597a2cc46",
     "name": "x",
-    "addr": "/var x/",
+    "addr": "/^var x/",
     "kind": "v",
     "type": "Type",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
   },
   {
-    "id": "ba687890-5908-11e9-9719-23622dcaeb1c",
+    "id": "cce81d90-593a-11e9-8dc7-bfe597a2cc46",
     "name": "Type",
-    "addr": "/function Type/",
+    "addr": "/^function Type/",
     "kind": "f",
     "type": "void function()",
     "lineno": 5,
@@ -34,14 +34,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
   },
   {
-    "id": "ba687892-5908-11e9-9719-23622dcaeb1c",
+    "id": "cce844a1-593a-11e9-8dc7-bfe597a2cc46",
     "name": "foo",
-    "addr": "/Type\\.prototype\\.foo/",
+    "addr": "/^Type\\.prototype\\.foo/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "Type.prototype",
-    "parent": "ba687891-5908-11e9-9719-23622dcaeb1c",
+    "parent": "cce844a0-593a-11e9-8dc7-bfe597a2cc46",
     "origin": {
       "!span": "74[5:15]-77[5:18]",
       "!type": "string",

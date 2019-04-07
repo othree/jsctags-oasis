@@ -1,7 +1,7 @@
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/function\* foo/;"	f	lineno:1	type:number function()
-g1	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/function\* g1/;"	f	lineno:11	type:boolean function()
-g2	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/function\* g2/;"	f	lineno:12	type:boolean function()
-index	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/  var index/;"	v	lineno:2	namespace:foo	type:number
-it	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/var it/;"	v	lineno:8
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^function\* foo/;"	f	lineno:1	type:number function()
+g1	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^function\* g1/;"	f	lineno:11	type:boolean function()
+g2	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^function\* g2/;"	f	lineno:12	type:boolean function()
+index	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^  var index/;"	v	lineno:2	namespace:foo	type:number
+it	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^var it/;"	v	lineno:8
 next	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	//;"	f	namespace:it	type:it.next.!ret function()
-out	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/  var index = 0, out/;"	v	lineno:2	namespace:foo	type:string
+out	/Users/othree/os-projects/jsctags-oasis/test/cases/generator.js	/^  var index = 0, out/;"	v	lineno:2	namespace:foo	type:string

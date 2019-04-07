@@ -1,8 +1,8 @@
 [
   {
-    "id": "b63703e0-5908-11e9-9b21-e5c6357e9425",
+    "id": "c8a802e0-593a-11e9-a501-b70b8999ee8b",
     "name": "obj",
-    "addr": "/var obj/",
+    "addr": "/^var obj/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -15,14 +15,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/getter.js"
   },
   {
-    "id": "b6372af0-5908-11e9-9b21-e5c6357e9425",
+    "id": "c8a829f0-593a-11e9-a501-b70b8999ee8b",
     "name": "foo",
-    "addr": "/  get foo/",
+    "addr": "/^  get foo/",
     "kind": "v",
     "type": "string",
     "lineno": 3,
     "namespace": "obj",
-    "parent": "b63703e0-5908-11e9-9b21-e5c6357e9425",
+    "parent": "c8a802e0-593a-11e9-a501-b70b8999ee8b",
     "origin": {
       "!span": "35[2:6]-38[2:9]",
       "!type": "string",

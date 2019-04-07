@@ -1,4 +1,4 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/function sum\(a/;"	v	lineno:1	namespace:sum
-sum	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/function sum/;"	f	lineno:1	type:number function(?)
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/sum\(\{x/;"	v	lineno:6	namespace:sum.a	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/sum\(\{x: 10, y/;"	v	lineno:6	namespace:sum.a	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^function sum\(a/;"	v	lineno:1	namespace:sum
+sum	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^function sum/;"	f	lineno:1	type:number function(?)
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^sum\(\{x/;"	v	lineno:6	namespace:sum.a	type:number
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js	/^sum\(\{x: 10, y/;"	v	lineno:6	namespace:sum.a	type:number

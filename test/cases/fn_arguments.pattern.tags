@@ -1,2 +1,2 @@
-abc	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/function abc/;"	f	lineno:1	type:number function()
-arguments	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/function abc\(\) \{/;"	v	lineno:1	namespace:abc	type:[number]
+abc	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/^function abc/;"	f	lineno:1	type:number function()
+arguments	/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js	/^function abc\(\) \{/;"	v	lineno:1	namespace:abc	type:[number]

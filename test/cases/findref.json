@@ -1,8 +1,8 @@
 [
   {
-    "id": "b5184d70-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d45f30-593a-11e9-9c9a-99e605906da1",
     "name": "hello",
-    "addr": "/function hello/",
+    "addr": "/^function hello/",
     "kind": "f",
     "type": "void function(?, ?)",
     "lineno": 1,
@@ -17,13 +17,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b91-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad51-593a-11e9-9c9a-99e605906da1",
     "name": "b",
-    "addr": "/function hello\\(a, b/",
+    "addr": "/^function hello\\(a, b/",
     "kind": "v",
     "lineno": 1,
     "namespace": "hello",
-    "parent": "b5184d70-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d45f30-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "18[0:18]-19[0:19]",
       "!data": {
@@ -36,13 +36,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b90-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad50-593a-11e9-9c9a-99e605906da1",
     "name": "a",
-    "addr": "/function hello\\(a/",
+    "addr": "/^function hello\\(a/",
     "kind": "v",
     "lineno": 1,
     "namespace": "hello",
-    "parent": "b5184d70-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d45f30-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "15[0:15]-16[0:16]",
       "!data": {
@@ -55,13 +55,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b92-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad52-593a-11e9-9c9a-99e605906da1",
     "name": "c",
-    "addr": "/  var c/",
+    "addr": "/^  var c/",
     "kind": "v",
     "lineno": 2,
     "namespace": "hello",
-    "parent": "b5184d70-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d45f30-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "29[1:6]-30[1:7]",
       "!data": {
@@ -74,9 +74,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b93-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad53-593a-11e9-9c9a-99e605906da1",
     "name": "obj",
-    "addr": "/var obj/",
+    "addr": "/^var obj/",
     "kind": "v",
     "lineno": 10,
     "origin": {
@@ -89,14 +89,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b94-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad54-593a-11e9-9c9a-99e605906da1",
     "name": "x",
-    "addr": "/  x/",
+    "addr": "/^  x/",
     "kind": "v",
     "type": "number",
     "lineno": 11,
     "namespace": "obj",
-    "parent": "b5189b93-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad53-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "158[10:2]-159[10:3]",
       "!type": "number",
@@ -108,14 +108,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b95-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad55-593a-11e9-9c9a-99e605906da1",
     "name": "y",
-    "addr": "/  y/",
+    "addr": "/^  y/",
     "kind": "v",
     "type": "number",
     "lineno": 13,
     "namespace": "obj",
-    "parent": "b5189b93-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad53-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "194[12:2]-195[12:3]",
       "!type": "number",
@@ -127,14 +127,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b96-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad56-593a-11e9-9c9a-99e605906da1",
     "name": "z",
-    "addr": "/obj\\.z/",
+    "addr": "/^obj\\.z/",
     "kind": "v",
     "type": "string",
     "lineno": 17,
     "namespace": "obj",
-    "parent": "b5189b93-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad53-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "220[16:4]-221[16:5]",
       "!type": "string",
@@ -146,9 +146,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b97-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad57-593a-11e9-9c9a-99e605906da1",
     "name": "foo",
-    "addr": "/class foo/",
+    "addr": "/^class foo/",
     "kind": "f",
     "type": "void function()",
     "lineno": 22,
@@ -163,13 +163,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b98-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad58-593a-11e9-9c9a-99e605906da1",
     "name": "prototype",
-    "addr": "/class foo \\{/",
+    "addr": "/^class foo \\{/",
     "kind": "v",
     "lineno": 22,
     "namespace": "foo",
-    "parent": "b5189b97-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad57-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "264[21:0]-360[28:1]",
       "!data": {
@@ -180,14 +180,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b99-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad59-593a-11e9-9c9a-99e605906da1",
     "name": "methodA",
-    "addr": "/  methodA/",
+    "addr": "/^  methodA/",
     "kind": "f",
     "type": "void function()",
     "lineno": 24,
     "namespace": "foo.prototype",
-    "parent": "b5189b98-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad58-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "279[23:2]-286[23:9]",
       "!type": "fn()",
@@ -199,14 +199,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b9a-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad5a-593a-11e9-9c9a-99e605906da1",
     "name": "methodB",
-    "addr": "/  methodB/",
+    "addr": "/^  methodB/",
     "kind": "f",
     "type": "void function()",
     "lineno": 27,
     "namespace": "foo.prototype",
-    "parent": "b5189b98-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad58-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "323[26:2]-330[26:9]",
       "!type": "fn()",
@@ -218,9 +218,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b9b-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad5b-593a-11e9-9c9a-99e605906da1",
     "name": "bar",
-    "addr": "/class bar/",
+    "addr": "/^class bar/",
     "kind": "f",
     "type": "void function()",
     "lineno": 31,
@@ -235,13 +235,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b9c-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad5c-593a-11e9-9c9a-99e605906da1",
     "name": "prototype",
-    "addr": "/class bar extends foo \\{/",
+    "addr": "/^class bar extends foo \\{/",
     "kind": "v",
     "lineno": 31,
     "namespace": "bar",
-    "parent": "b5189b9b-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad5b-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "362[30:0]-426[35:1]",
       "!data": {
@@ -252,14 +252,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b5189b9d-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad5d-593a-11e9-9c9a-99e605906da1",
     "name": "methodB",
-    "addr": "/  methodB/",
+    "addr": "/^  methodB/",
     "kind": "f",
     "type": "void function()",
     "lineno": 33,
     "namespace": "bar.prototype",
-    "parent": "b5189b9c-5908-11e9-9529-d5ff5d705339",
+    "parent": "c7d4ad5c-593a-11e9-9c9a-99e605906da1",
     "origin": {
       "!span": "389[32:2]-396[32:9]",
       "!type": "fn()",
@@ -271,9 +271,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b518c2a0-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad5e-593a-11e9-9c9a-99e605906da1",
     "name": "a",
-    "addr": "/var a/",
+    "addr": "/^var a/",
     "kind": "v",
     "type": "foo",
     "lineno": 38,
@@ -288,9 +288,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
   },
   {
-    "id": "b518c2a1-5908-11e9-9529-d5ff5d705339",
+    "id": "c7d4ad5f-593a-11e9-9c9a-99e605906da1",
     "name": "b",
-    "addr": "/var b/",
+    "addr": "/^var b/",
     "kind": "v",
     "type": "bar",
     "lineno": 39,

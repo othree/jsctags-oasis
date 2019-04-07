@@ -1,8 +1,8 @@
 [
   {
-    "id": "b32bbfb0-5908-11e9-84f1-19a3d0dd3f51",
+    "id": "c5d55ae0-593a-11e9-b9b1-cfed58832313",
     "name": "x",
-    "addr": "/var x/",
+    "addr": "/^var x/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -15,13 +15,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
-    "id": "b32be6c0-5908-11e9-84f1-19a3d0dd3f51",
+    "id": "c5d581f0-593a-11e9-b9b1-cfed58832313",
     "name": "<i>",
-    "addr": "/x\\[foo\\(\\)/",
+    "addr": "/^x\\[foo\\(\\)/",
     "kind": "v",
     "lineno": 2,
     "namespace": "x",
-    "parent": "b32bbfb0-5908-11e9-84f1-19a3d0dd3f51",
+    "parent": "c5d55ae0-593a-11e9-b9b1-cfed58832313",
     "origin": {
       "!span": "14[1:2]-19[1:7]",
       "!data": {
@@ -32,14 +32,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
-    "id": "b32c0dd0-5908-11e9-84f1-19a3d0dd3f51",
+    "id": "c5d5a900-593a-11e9-b9b1-cfed58832313",
     "name": "a",
-    "addr": "/x\\[foo\\(\\)\\] = \\{a/",
+    "addr": "/^x\\[foo\\(\\)\\] = \\{a/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
     "namespace": "x.<i>",
-    "parent": "b32be6c0-5908-11e9-84f1-19a3d0dd3f51",
+    "parent": "c5d581f0-593a-11e9-b9b1-cfed58832313",
     "origin": {
       "!span": "24[1:12]-25[1:13]",
       "!type": "number",
@@ -51,14 +51,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
-    "id": "b32c0dd1-5908-11e9-84f1-19a3d0dd3f51",
+    "id": "c5d5a901-593a-11e9-b9b1-cfed58832313",
     "name": "b",
-    "addr": "/x\\[foo\\(\\)\\] = \\{a: 10, b/",
+    "addr": "/^x\\[foo\\(\\)\\] = \\{a: 10, b/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
     "namespace": "x.<i>",
-    "parent": "b32be6c0-5908-11e9-84f1-19a3d0dd3f51",
+    "parent": "c5d581f0-593a-11e9-b9b1-cfed58832313",
     "origin": {
       "!span": "31[1:19]-32[1:20]",
       "!type": "number",
@@ -70,9 +70,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
-    "id": "b32c0dd2-5908-11e9-84f1-19a3d0dd3f51",
+    "id": "c5d5a902-593a-11e9-b9b1-cfed58832313",
     "name": "obj",
-    "addr": "/var obj/",
+    "addr": "/^var obj/",
     "kind": "v",
     "lineno": 6,
     "origin": {
@@ -85,14 +85,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
-    "id": "b32c0dd3-5908-11e9-84f1-19a3d0dd3f51",
+    "id": "c5d5a903-593a-11e9-b9b1-cfed58832313",
     "name": "a",
-    "addr": "/var obj = \\{a/",
+    "addr": "/^var obj = \\{a/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "obj",
-    "parent": "b32c0dd2-5908-11e9-84f1-19a3d0dd3f51",
+    "parent": "c5d5a902-593a-11e9-b9b1-cfed58832313",
     "origin": {
       "!span": "88[5:11]-89[5:12]",
       "!type": "string",
@@ -104,14 +104,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
-    "id": "b32c0dd4-5908-11e9-84f1-19a3d0dd3f51",
+    "id": "c5d5a904-593a-11e9-b9b1-cfed58832313",
     "name": "b",
-    "addr": "/var obj = \\{a: \"bar\", b/",
+    "addr": "/^var obj = \\{a: \"bar\", b/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "obj",
-    "parent": "b32c0dd2-5908-11e9-84f1-19a3d0dd3f51",
+    "parent": "c5d5a902-593a-11e9-b9b1-cfed58832313",
     "origin": {
       "!span": "98[5:21]-99[5:22]",
       "!type": "string",

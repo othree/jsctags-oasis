@@ -1,8 +1,8 @@
 [
   {
-    "id": "b199d510-5908-11e9-a62f-3792c04336e7",
+    "id": "c43195f0-593a-11e9-ba98-b9e5145fb62c",
     "name": "f",
-    "addr": "/let f/",
+    "addr": "/^let f/",
     "kind": "f",
     "type": "f.!ret function(number, Array[bool])",
     "lineno": 1,
@@ -17,14 +17,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
   },
   {
-    "id": "b19a2330-5908-11e9-a62f-3792c04336e7",
+    "id": "c431e410-593a-11e9-ba98-b9e5145fb62c",
     "name": "a",
-    "addr": "/let f = \\(a/",
+    "addr": "/^let f = \\(a/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
     "namespace": "f",
-    "parent": "b199d510-5908-11e9-a62f-3792c04336e7",
+    "parent": "c43195f0-593a-11e9-ba98-b9e5145fb62c",
     "origin": {
       "!span": "9[0:9]-10[0:10]",
       "!type": "number",
@@ -38,14 +38,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
   },
   {
-    "id": "b19a2331-5908-11e9-a62f-3792c04336e7",
+    "id": "c431e411-593a-11e9-ba98-b9e5145fb62c",
     "name": "b",
-    "addr": "/let f = \\(a, \\[b/",
+    "addr": "/^let f = \\(a, \\[b/",
     "kind": "v",
     "type": "boolean",
     "lineno": 1,
     "namespace": "f",
-    "parent": "b199d510-5908-11e9-a62f-3792c04336e7",
+    "parent": "c43195f0-593a-11e9-ba98-b9e5145fb62c",
     "origin": {
       "!span": "13[0:13]-14[0:14]",
       "!type": "bool",
@@ -59,9 +59,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
   },
   {
-    "id": "b19a2332-5908-11e9-a62f-3792c04336e7",
+    "id": "c431e412-593a-11e9-ba98-b9e5145fb62c",
     "name": "wrap",
-    "addr": "/function wrap/",
+    "addr": "/^function wrap/",
     "kind": "f",
     "type": "wrap.!ret.!ret function() function()",
     "lineno": 5,
@@ -76,9 +76,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
   },
   {
-    "id": "b19a2333-5908-11e9-a62f-3792c04336e7",
+    "id": "c431e413-593a-11e9-ba98-b9e5145fb62c",
     "name": "Obj",
-    "addr": "/function Obj/",
+    "addr": "/^function Obj/",
     "kind": "f",
     "type": "void function()",
     "lineno": 11,
@@ -93,14 +93,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
   },
   {
-    "id": "b19a2335-5908-11e9-a62f-3792c04336e7",
+    "id": "c431e415-593a-11e9-ba98-b9e5145fb62c",
     "name": "map",
-    "addr": "/Obj\\.prototype\\.map/",
+    "addr": "/^Obj\\.prototype\\.map/",
     "kind": "f",
     "type": "[!this.x] function()",
     "lineno": 14,
     "namespace": "Obj.prototype",
-    "parent": "b19a2334-5908-11e9-a62f-3792c04336e7",
+    "parent": "c431e414-593a-11e9-ba98-b9e5145fb62c",
     "origin": {
       "!span": "247[13:14]-250[13:17]",
       "!type": "fn() -> [!this.x]",

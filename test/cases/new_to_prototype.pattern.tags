@@ -1,8 +1,8 @@
-A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/function A/;"	f	lineno:1	type:void function()
-B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/function B/;"	f	lineno:3	type:void function()
-C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/function C/;"	f	lineno:6	type:void function()
-prop_A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/A\.prototype\.prop_A/;"	v	lineno:2	namespace:A.prototype	type:number
-prop_B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/B\.prototype\.prop_B/;"	v	lineno:5	namespace:B.prototype	type:number
-prop_C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/C\.prototype\.prop_C/;"	v	lineno:8	namespace:C.prototype	type:number
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/B\.prototype/;"	v	lineno:4	namespace:B
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/C\.prototype/;"	v	lineno:7	namespace:C
+A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^function A/;"	f	lineno:1	type:void function()
+B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^function B/;"	f	lineno:3	type:void function()
+C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^function C/;"	f	lineno:6	type:void function()
+prop_A	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^A\.prototype\.prop_A/;"	v	lineno:2	namespace:A.prototype	type:number
+prop_B	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^B\.prototype\.prop_B/;"	v	lineno:5	namespace:B.prototype	type:number
+prop_C	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^C\.prototype\.prop_C/;"	v	lineno:8	namespace:C.prototype	type:number
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^B\.prototype/;"	v	lineno:4	namespace:B
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js	/^C\.prototype/;"	v	lineno:7	namespace:C

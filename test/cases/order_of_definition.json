@@ -1,8 +1,8 @@
 [
   {
-    "id": "b944e020-5908-11e9-a96f-4bc6f1756b11",
+    "id": "cbaf0150-593a-11e9-9a3a-21f7949ce6f9",
     "name": "foo",
-    "addr": "/var foo/",
+    "addr": "/^var foo/",
     "kind": "v",
     "lineno": 7,
     "origin": {
@@ -15,9 +15,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
   },
   {
-    "id": "b9450731-5908-11e9-a96f-4bc6f1756b11",
+    "id": "cbaf2861-593a-11e9-9a3a-21f7949ce6f9",
     "name": "baz",
-    "addr": "/var baz/",
+    "addr": "/^var baz/",
     "kind": "v",
     "lineno": 9,
     "origin": {
@@ -30,14 +30,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
   },
   {
-    "id": "b9450732-5908-11e9-a96f-4bc6f1756b11",
+    "id": "cbaf2862-593a-11e9-9a3a-21f7949ce6f9",
     "name": "bug",
-    "addr": "/var baz = \\{bug/",
+    "addr": "/^var baz = \\{bug/",
     "kind": "f",
     "type": "void function(baz.bug.!0)",
     "lineno": 9,
     "namespace": "baz",
-    "parent": "b9450731-5908-11e9-a96f-4bc6f1756b11",
+    "parent": "cbaf2861-593a-11e9-9a3a-21f7949ce6f9",
     "origin": {
       "!span": "95[8:11]-98[8:14]",
       "!type": "fn(o: baz.bug.!0)",
@@ -49,14 +49,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
   },
   {
-    "id": "b9452e40-5908-11e9-a96f-4bc6f1756b11",
+    "id": "cbaf2863-593a-11e9-9a3a-21f7949ce6f9",
     "name": "x",
-    "addr": "/  function x/",
+    "addr": "/^  function x/",
     "kind": "f",
     "type": "void function()",
     "lineno": 10,
     "namespace": "baz.bug",
-    "parent": "b9450732-5908-11e9-a96f-4bc6f1756b11",
+    "parent": "cbaf2862-593a-11e9-9a3a-21f7949ce6f9",
     "origin": {
       "!span": "125[9:11]-126[9:12]",
       "!type": "fn()",
@@ -70,13 +70,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
   },
   {
-    "id": "b9450730-5908-11e9-a96f-4bc6f1756b11",
+    "id": "cbaf2860-593a-11e9-9a3a-21f7949ce6f9",
     "name": "bar",
-    "addr": "/foo\\.bar/",
+    "addr": "/^foo\\.bar/",
     "kind": "v",
     "lineno": 15,
     "namespace": "foo",
-    "parent": "b944e020-5908-11e9-a96f-4bc6f1756b11",
+    "parent": "cbaf0150-593a-11e9-9a3a-21f7949ce6f9",
     "origin": {
       "!span": "192[14:4]-195[14:7]",
       "!data": {

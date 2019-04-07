@@ -1,8 +1,8 @@
 [
   {
-    "id": "ba16fd30-5908-11e9-9901-95c72e021588",
+    "id": "cc8d5360-593a-11e9-9b27-c5b6695b8988",
     "name": "Base",
-    "addr": "/function Base/",
+    "addr": "/^function Base/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -17,13 +17,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba172440-5908-11e9-9901-95c72e021588",
+    "id": "cc8d7a70-593a-11e9-9b27-c5b6695b8988",
     "name": "prototype",
-    "addr": "/Base\\.prototype/",
+    "addr": "/^Base\\.prototype/",
     "kind": "v",
     "lineno": 2,
     "namespace": "Base",
-    "parent": "ba16fd30-5908-11e9-9901-95c72e021588",
+    "parent": "cc8d5360-593a-11e9-9b27-c5b6695b8988",
     "origin": {
       "!span": "24[1:5]-33[1:14]",
       "!data": {
@@ -36,9 +36,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba174b50-5908-11e9-9901-95c72e021588",
+    "id": "cc8da180-593a-11e9-9b27-c5b6695b8988",
     "name": "Sub1",
-    "addr": "/function Sub1/",
+    "addr": "/^function Sub1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 7,
@@ -53,13 +53,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba174b51-5908-11e9-9901-95c72e021588",
+    "id": "cc8da181-593a-11e9-9b27-c5b6695b8988",
     "name": "prototype",
-    "addr": "/Sub1\\.prototype/",
+    "addr": "/^Sub1\\.prototype/",
     "kind": "v",
     "lineno": 8,
     "namespace": "Sub1",
-    "parent": "ba174b50-5908-11e9-9901-95c72e021588",
+    "parent": "cc8da180-593a-11e9-9b27-c5b6695b8988",
     "origin": {
       "!span": "120[7:5]-129[7:14]",
       "!data": {
@@ -72,9 +72,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba174b52-5908-11e9-9901-95c72e021588",
+    "id": "cc8da182-593a-11e9-9b27-c5b6695b8988",
     "name": "Sub2",
-    "addr": "/function Sub2/",
+    "addr": "/^function Sub2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 11,
@@ -89,13 +89,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba174b53-5908-11e9-9901-95c72e021588",
+    "id": "cc8da183-593a-11e9-9b27-c5b6695b8988",
     "name": "prototype",
-    "addr": "/Sub2\\.prototype/",
+    "addr": "/^Sub2\\.prototype/",
     "kind": "v",
     "lineno": 12,
     "namespace": "Sub2",
-    "parent": "ba174b52-5908-11e9-9901-95c72e021588",
+    "parent": "cc8da182-593a-11e9-9b27-c5b6695b8988",
     "origin": {
       "!span": "190[11:5]-199[11:14]",
       "!data": {
@@ -108,9 +108,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba174b54-5908-11e9-9901-95c72e021588",
+    "id": "cc8da184-593a-11e9-9b27-c5b6695b8988",
     "name": "Base2",
-    "addr": "/function Base2/",
+    "addr": "/^function Base2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 15,
@@ -125,9 +125,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba174b55-5908-11e9-9901-95c72e021588",
+    "id": "cc8da185-593a-11e9-9b27-c5b6695b8988",
     "name": "Sub3",
-    "addr": "/function Sub3/",
+    "addr": "/^function Sub3/",
     "kind": "f",
     "type": "void function()",
     "lineno": 17,
@@ -142,13 +142,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
-    "id": "ba174b56-5908-11e9-9901-95c72e021588",
+    "id": "cc8da186-593a-11e9-9b27-c5b6695b8988",
     "name": "prototype",
-    "addr": "/Sub3\\.prototype/",
+    "addr": "/^Sub3\\.prototype/",
     "kind": "v",
     "lineno": 18,
     "namespace": "Sub3",
-    "parent": "ba174b55-5908-11e9-9901-95c72e021588",
+    "parent": "cc8da185-593a-11e9-9b27-c5b6695b8988",
     "origin": {
       "!span": "300[17:5]-309[17:14]",
       "!data": {

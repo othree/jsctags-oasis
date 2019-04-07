@@ -1,8 +1,8 @@
 [
   {
-    "id": "b4ede210-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a97ea0-593a-11e9-8106-6db4e8274f0b",
     "name": "blah",
-    "addr": "/function blah/",
+    "addr": "/^function blah/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee3030-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc0-593a-11e9-8106-6db4e8274f0b",
     "name": "jaja",
-    "addr": "/var jaja/",
+    "addr": "/^var jaja/",
     "kind": "v",
     "type": "number",
     "lineno": 3,
@@ -34,9 +34,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee3031-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc1-593a-11e9-8106-6db4e8274f0b",
     "name": "obj",
-    "addr": "/var obj/",
+    "addr": "/^var obj/",
     "kind": "v",
     "lineno": 5,
     "origin": {
@@ -49,14 +49,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee3032-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc2-593a-11e9-8106-6db4e8274f0b",
     "name": "prop1",
-    "addr": "/  prop1/",
+    "addr": "/^  prop1/",
     "kind": "v",
     "type": "number",
     "lineno": 6,
     "namespace": "obj",
-    "parent": "b4ee3031-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9ccc1-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "50[5:2]-55[5:7]",
       "!type": "number",
@@ -68,14 +68,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee3033-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc3-593a-11e9-8106-6db4e8274f0b",
     "name": "prop2",
-    "addr": "/  prop2/",
+    "addr": "/^  prop2/",
     "kind": "f",
     "type": "void function(?)",
     "lineno": 7,
     "namespace": "obj",
-    "parent": "b4ee3031-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9ccc1-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "63[6:2]-68[6:7]",
       "!type": "fn(foo: ?)",
@@ -87,13 +87,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5740-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc4-593a-11e9-8106-6db4e8274f0b",
     "name": "foo",
-    "addr": "/  prop2: function\\(foo/",
+    "addr": "/^  prop2: function\\(foo/",
     "kind": "v",
     "lineno": 7,
     "namespace": "obj.prop2",
-    "parent": "b4ee3033-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9ccc3-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "79[6:18]-82[6:21]",
       "!data": {
@@ -106,14 +106,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5741-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc5-593a-11e9-8106-6db4e8274f0b",
     "name": "prop3",
-    "addr": "/obj\\.prop3/",
+    "addr": "/^obj\\.prop3/",
     "kind": "v",
     "type": "string",
     "lineno": 10,
     "namespace": "obj",
-    "parent": "b4ee3031-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9ccc1-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "95[9:4]-100[9:9]",
       "!type": "string",
@@ -125,9 +125,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5742-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc6-593a-11e9-8106-6db4e8274f0b",
     "name": "hide",
-    "addr": "/function hide/",
+    "addr": "/^function hide/",
     "kind": "f",
     "type": "void function(?) function()",
     "lineno": 19,
@@ -142,9 +142,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5743-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc7-593a-11e9-8106-6db4e8274f0b",
     "name": "another",
-    "addr": "/function another/",
+    "addr": "/^function another/",
     "kind": "f",
     "type": "void function(?)",
     "lineno": 23,
@@ -159,13 +159,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5744-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc8-593a-11e9-8106-6db4e8274f0b",
     "name": "arg",
-    "addr": "/function another\\(arg/",
+    "addr": "/^function another\\(arg/",
     "kind": "v",
     "lineno": 23,
     "namespace": "another",
-    "parent": "b4ee5743-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9ccc7-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "311[22:17]-314[22:20]",
       "!data": {
@@ -178,14 +178,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5745-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccc9-593a-11e9-8106-6db4e8274f0b",
     "name": "local",
-    "addr": "/  var local/",
+    "addr": "/^  var local/",
     "kind": "v",
     "type": "number",
     "lineno": 24,
     "namespace": "another",
-    "parent": "b4ee5743-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9ccc7-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "324[23:6]-329[23:11]",
       "!type": "number",
@@ -199,9 +199,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5746-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9ccca-593a-11e9-8106-6db4e8274f0b",
     "name": "foo",
-    "addr": "/class foo/",
+    "addr": "/^class foo/",
     "kind": "f",
     "type": "void function()",
     "lineno": 29,
@@ -216,13 +216,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5747-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9cccb-593a-11e9-8106-6db4e8274f0b",
     "name": "prototype",
-    "addr": "/class foo \\{/",
+    "addr": "/^class foo \\{/",
     "kind": "v",
     "lineno": 29,
     "namespace": "foo",
-    "parent": "b4ee5746-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9ccca-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "377[28:0]-417[31:1]",
       "!data": {
@@ -233,14 +233,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5748-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9cccc-593a-11e9-8106-6db4e8274f0b",
     "name": "bar",
-    "addr": "/  bar/",
+    "addr": "/^  bar/",
     "kind": "f",
     "type": "void function()",
     "lineno": 30,
     "namespace": "foo.prototype",
-    "parent": "b4ee5747-5908-11e9-9d7a-e3a26511aaa6",
+    "parent": "c7a9cccb-593a-11e9-8106-6db4e8274f0b",
     "origin": {
       "!span": "391[29:2]-394[29:5]",
       "!type": "fn()",
@@ -252,9 +252,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
   },
   {
-    "id": "b4ee5749-5908-11e9-9d7a-e3a26511aaa6",
+    "id": "c7a9cccd-593a-11e9-8106-6db4e8274f0b",
     "name": "fooObj",
-    "addr": "/var fooObj/",
+    "addr": "/^var fooObj/",
     "kind": "v",
     "type": "foo",
     "lineno": 34,

@@ -1,8 +1,8 @@
 [
   {
-    "id": "bb46a390-5908-11e9-be7a-7d9833e906a5",
+    "id": "cdc8e0a0-593a-11e9-a1a2-310974bd8c6c",
     "name": "mySym",
-    "addr": "/var mySym/",
+    "addr": "/^var mySym/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -15,9 +15,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
   },
   {
-    "id": "bb46f1b0-5908-11e9-be7a-7d9833e906a5",
+    "id": "cdc92ec0-593a-11e9-a1a2-310974bd8c6c",
     "name": "obj",
-    "addr": "/var obj/",
+    "addr": "/^var obj/",
     "kind": "v",
     "lineno": 3,
     "origin": {
@@ -30,14 +30,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
   },
   {
-    "id": "bb46f1b1-5908-11e9-be7a-7d9833e906a5",
+    "id": "cdc92ec1-593a-11e9-a1a2-310974bd8c6c",
     "name": ":my_sym",
-    "addr": "/  \\[mySym/",
+    "addr": "/^  \\[mySym/",
     "kind": "v",
     "type": "number",
     "lineno": 4,
     "namespace": "obj",
-    "parent": "bb46f1b0-5908-11e9-be7a-7d9833e906a5",
+    "parent": "cdc92ec0-593a-11e9-a1a2-310974bd8c6c",
     "origin": {
       "!span": "45[3:3]-50[3:8]",
       "!type": "number",
@@ -49,14 +49,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
   },
   {
-    "id": "bb4718c1-5908-11e9-be7a-7d9833e906a5",
+    "id": "cdc92ec3-593a-11e9-a1a2-310974bd8c6c",
     "name": "iterator",
-    "addr": "/obj\\[Symbol\\.iterator/",
+    "addr": "/^obj\\[Symbol\\.iterator/",
     "kind": "v",
     "type": "string",
     "lineno": 8,
     "namespace": "obj.:Symbol",
-    "parent": "bb4718c0-5908-11e9-be7a-7d9833e906a5",
+    "parent": "cdc92ec2-593a-11e9-a1a2-310974bd8c6c",
     "origin": {
       "!span": "85[7:4]-100[7:19]",
       "!type": "string",

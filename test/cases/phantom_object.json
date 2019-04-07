@@ -1,8 +1,8 @@
 [
   {
-    "id": "b971e390-5908-11e9-b04c-c57b26c95b7d",
+    "id": "cbdd3d40-593a-11e9-8fe9-4bd68950891e",
     "name": "mod",
-    "addr": "/var mod/",
+    "addr": "/^var mod/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -14,14 +14,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js"
   },
   {
-    "id": "b97231b0-5908-11e9-b04c-c57b26c95b7d",
+    "id": "cbdd8b60-593a-11e9-8fe9-4bd68950891e",
     "name": "func",
-    "addr": "/mod\\.func/",
+    "addr": "/^mod\\.func/",
     "kind": "f",
     "type": "number function()",
     "lineno": 3,
     "namespace": "mod",
-    "parent": "b971e390-5908-11e9-b04c-c57b26c95b7d",
+    "parent": "cbdd3d40-593a-11e9-8fe9-4bd68950891e",
     "origin": {
       "!span": "31[2:4]-35[2:8]",
       "!type": "fn() -> number",
@@ -33,9 +33,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js"
   },
   {
-    "id": "b97231b1-5908-11e9-b04c-c57b26c95b7d",
+    "id": "cbdd8b61-593a-11e9-8fe9-4bd68950891e",
     "name": "otherMod",
-    "addr": "/var otherMod/",
+    "addr": "/^var otherMod/",
     "kind": "v",
     "lineno": 7,
     "origin": {
@@ -47,14 +47,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js"
   },
   {
-    "id": "b97231b2-5908-11e9-b04c-c57b26c95b7d",
+    "id": "cbdd8b62-593a-11e9-8fe9-4bd68950891e",
     "name": "c",
-    "addr": "/otherMod\\.c/",
+    "addr": "/^otherMod\\.c/",
     "kind": "v",
     "type": "number",
     "lineno": 9,
     "namespace": "otherMod",
-    "parent": "b97231b1-5908-11e9-b04c-c57b26c95b7d",
+    "parent": "cbdd8b61-593a-11e9-8fe9-4bd68950891e",
     "origin": {
       "!span": "148[8:9]-149[8:10]",
       "!type": "number",

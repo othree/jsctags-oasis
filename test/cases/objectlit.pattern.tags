@@ -1,6 +1,6 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/  a/;"	v	lineno:6	namespace:foo	type:boolean
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/  b/;"	v	lineno:12	namespace:baz	type:string
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/var bar/;"	v	lineno:1	type:number
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/var baz/;"	v	lineno:10
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/var foo/;"	v	lineno:3
-method	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/  method/;"	f	lineno:7	namespace:foo	type:string function()
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^  a/;"	v	lineno:6	namespace:foo	type:boolean
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^  b/;"	v	lineno:12	namespace:baz	type:string
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^var bar/;"	v	lineno:1	type:number
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^var baz/;"	v	lineno:10
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^var foo/;"	v	lineno:3
+method	/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js	/^  method/;"	f	lineno:7	namespace:foo	type:string function()

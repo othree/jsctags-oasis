@@ -1,8 +1,8 @@
 [
   {
-    "id": "b3531dd0-5908-11e9-ab20-2b51bfeb9c58",
+    "id": "c5ffc640-593a-11e9-9a19-af5b52c59f26",
     "name": "whoAmI",
-    "addr": "/function whoAmI/",
+    "addr": "/^function whoAmI/",
     "kind": "f",
     "type": "void function(?, ?)",
     "lineno": 1,
@@ -17,13 +17,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
   },
   {
-    "id": "b35344e0-5908-11e9-ab20-2b51bfeb9c58",
+    "id": "c6001460-593a-11e9-9a19-af5b52c59f26",
     "name": "a",
-    "addr": "/function whoAmI\\(a/",
+    "addr": "/^function whoAmI\\(a/",
     "kind": "v",
     "lineno": 1,
     "namespace": "whoAmI",
-    "parent": "b3531dd0-5908-11e9-ab20-2b51bfeb9c58",
+    "parent": "c5ffc640-593a-11e9-9a19-af5b52c59f26",
     "origin": {
       "!span": "16[0:16]-17[0:17]",
       "!data": {
@@ -36,13 +36,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
   },
   {
-    "id": "b35344e1-5908-11e9-ab20-2b51bfeb9c58",
+    "id": "c6001461-593a-11e9-9a19-af5b52c59f26",
     "name": "i",
-    "addr": "/function whoAmI\\(a, i/",
+    "addr": "/^function whoAmI\\(a, i/",
     "kind": "v",
     "lineno": 1,
     "namespace": "whoAmI",
-    "parent": "b3531dd0-5908-11e9-ab20-2b51bfeb9c58",
+    "parent": "c5ffc640-593a-11e9-9a19-af5b52c59f26",
     "origin": {
       "!span": "19[0:19]-20[0:20]",
       "!data": {

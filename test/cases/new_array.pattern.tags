@@ -1,4 +1,4 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var a/;"	v	lineno:1	type:[string]
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var b/;"	v	lineno:5	type:[bool]
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var c/;"	v	lineno:8	type:[?]
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/var d/;"	v	lineno:11	type:[string]
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var a/;"	v	lineno:1	type:[string]
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var b/;"	v	lineno:5	type:[bool]
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var c/;"	v	lineno:8	type:[?]
+d	/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js	/^var d/;"	v	lineno:11	type:[string]

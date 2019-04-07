@@ -1,11 +1,11 @@
 [
   {
-    "id": "b74147f1-5908-11e9-8574-9f6c0344a4f4",
+    "id": "c9a68721-593a-11e9-9549-ff30df2ab152",
     "name": "React",
-    "addr": "/import React/",
+    "addr": "/^import React/",
     "kind": "v",
     "lineno": 1,
-    "parent": "b74147f0-5908-11e9-8574-9f6c0344a4f4",
+    "parent": "c9a68720-593a-11e9-9549-ff30df2ab152",
     "origin": {
       "!span": "7[0:7]-12[0:12]",
       "!data": {
@@ -18,9 +18,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/import.js"
   },
   {
-    "id": "b74120e0-5908-11e9-8574-9f6c0344a4f4",
+    "id": "c9a66010-593a-11e9-9549-ff30df2ab152",
     "name": "z",
-    "addr": "/var z/",
+    "addr": "/^var z/",
     "kind": "f",
     "type": "void function()",
     "lineno": 4,

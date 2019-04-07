@@ -1,8 +1,8 @@
 [
   {
-    "id": "b8969ec0-5908-11e9-9477-4dc671831e84",
+    "id": "caff8770-593a-11e9-b412-f325d82a18e5",
     "name": "A",
-    "addr": "/function A/",
+    "addr": "/^function A/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -17,14 +17,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
-    "id": "b896c5d1-5908-11e9-9477-4dc671831e84",
+    "id": "caffd591-593a-11e9-b412-f325d82a18e5",
     "name": "prop_A",
-    "addr": "/A\\.prototype\\.prop_A/",
+    "addr": "/^A\\.prototype\\.prop_A/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
     "namespace": "A.prototype",
-    "parent": "b896c5d0-5908-11e9-9477-4dc671831e84",
+    "parent": "caffd590-593a-11e9-b412-f325d82a18e5",
     "origin": {
       "!span": "28[1:12]-34[1:18]",
       "!type": "number",
@@ -36,9 +36,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
-    "id": "b896c5d2-5908-11e9-9477-4dc671831e84",
+    "id": "caffd592-593a-11e9-b412-f325d82a18e5",
     "name": "B",
-    "addr": "/function B/",
+    "addr": "/^function B/",
     "kind": "f",
     "type": "void function()",
     "lineno": 3,
@@ -53,13 +53,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
-    "id": "b896c5d3-5908-11e9-9477-4dc671831e84",
+    "id": "caffd593-593a-11e9-b412-f325d82a18e5",
     "name": "prototype",
-    "addr": "/B\\.prototype/",
+    "addr": "/^B\\.prototype/",
     "kind": "v",
     "lineno": 4,
     "namespace": "B",
-    "parent": "b896c5d2-5908-11e9-9477-4dc671831e84",
+    "parent": "caffd592-593a-11e9-b412-f325d82a18e5",
     "origin": {
       "!span": "58[3:2]-67[3:11]",
       "!data": {
@@ -70,14 +70,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
-    "id": "b896c5d4-5908-11e9-9477-4dc671831e84",
+    "id": "cafffca0-593a-11e9-b412-f325d82a18e5",
     "name": "prop_B",
-    "addr": "/B\\.prototype\\.prop_B/",
+    "addr": "/^B\\.prototype\\.prop_B/",
     "kind": "v",
     "type": "number",
     "lineno": 5,
     "namespace": "B.prototype",
-    "parent": "b896c5d3-5908-11e9-9477-4dc671831e84",
+    "parent": "caffd593-593a-11e9-b412-f325d82a18e5",
     "origin": {
       "!span": "89[4:12]-95[4:18]",
       "!type": "number",
@@ -89,9 +89,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
-    "id": "b896c5d5-5908-11e9-9477-4dc671831e84",
+    "id": "cafffca1-593a-11e9-b412-f325d82a18e5",
     "name": "C",
-    "addr": "/function C/",
+    "addr": "/^function C/",
     "kind": "f",
     "type": "void function()",
     "lineno": 6,
@@ -106,13 +106,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
-    "id": "b896ece0-5908-11e9-9477-4dc671831e84",
+    "id": "cafffca2-593a-11e9-b412-f325d82a18e5",
     "name": "prototype",
-    "addr": "/C\\.prototype/",
+    "addr": "/^C\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "C",
-    "parent": "b896c5d5-5908-11e9-9477-4dc671831e84",
+    "parent": "cafffca1-593a-11e9-b412-f325d82a18e5",
     "origin": {
       "!span": "119[6:2]-128[6:11]",
       "!data": {
@@ -123,14 +123,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
-    "id": "b896ece1-5908-11e9-9477-4dc671831e84",
+    "id": "cafffca3-593a-11e9-b412-f325d82a18e5",
     "name": "prop_C",
-    "addr": "/C\\.prototype\\.prop_C/",
+    "addr": "/^C\\.prototype\\.prop_C/",
     "kind": "v",
     "type": "number",
     "lineno": 8,
     "namespace": "C.prototype",
-    "parent": "b896ece0-5908-11e9-9477-4dc671831e84",
+    "parent": "cafffca2-593a-11e9-b412-f325d82a18e5",
     "origin": {
       "!span": "150[7:12]-156[7:18]",
       "!type": "number",

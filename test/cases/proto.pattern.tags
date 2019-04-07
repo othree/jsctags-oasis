@@ -1,8 +1,8 @@
-Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/function Foo/;"	f	lineno:1	type:void function(bool)
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  bar/;"	v	lineno:9	namespace:Foo.prototype	type:number
-makeString	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  makeString/;"	f	lineno:8	namespace:Foo.prototype	type:string function()
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/Foo\.prototype/;"	v	lineno:7	namespace:Foo
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/function Foo\(x/;"	v	lineno:1	namespace:Foo	type:boolean
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  this\.x/;"	v	lineno:2	namespace:z	type:boolean
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/  this\.y/;"	v	lineno:3	namespace:Foo	type:[number]
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/var z/;"	v	lineno:12	type:Foo
+Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^function Foo/;"	f	lineno:1	type:void function(bool)
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  bar/;"	v	lineno:9	namespace:Foo.prototype	type:number
+makeString	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  makeString/;"	f	lineno:8	namespace:Foo.prototype	type:string function()
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^Foo\.prototype/;"	v	lineno:7	namespace:Foo
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^function Foo\(x/;"	v	lineno:1	namespace:Foo	type:boolean
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  this\.x/;"	v	lineno:2	namespace:z	type:boolean
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^  this\.y/;"	v	lineno:3	namespace:Foo	type:[number]
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/proto.js	/^var z/;"	v	lineno:12	type:Foo

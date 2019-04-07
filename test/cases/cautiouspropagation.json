@@ -1,8 +1,8 @@
 [
   {
-    "id": "b2d9f630-5908-11e9-b70b-734095b37754",
+    "id": "c57f4ba0-593a-11e9-8fd9-b7cade4dc58f",
     "name": "grabbag",
-    "addr": "/var grabbag/",
+    "addr": "/^var grabbag/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -15,13 +15,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
-    "id": "b2da1d40-5908-11e9-b70b-734095b37754",
+    "id": "c57f72b0-593a-11e9-8fd9-b7cade4dc58f",
     "name": "<i>",
-    "addr": "/grabbag\\[foo\\(\\)/",
+    "addr": "/^grabbag\\[foo\\(\\)/",
     "kind": "v",
     "lineno": 2,
     "namespace": "grabbag",
-    "parent": "b2d9f630-5908-11e9-b70b-734095b37754",
+    "parent": "c57f4ba0-593a-11e9-8fd9-b7cade4dc58f",
     "origin": {
       "!span": "26[1:8]-31[1:13]",
       "!data": {
@@ -33,14 +33,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
-    "id": "b2da4450-5908-11e9-b70b-734095b37754",
+    "id": "c57f72b1-593a-11e9-8fd9-b7cade4dc58f",
     "name": "abc",
-    "addr": "/grabbag\\[bar\\(\\)\\] = \\{abc/",
+    "addr": "/^grabbag\\[bar\\(\\)\\] = \\{abc/",
     "kind": "v",
     "type": "number",
     "lineno": 3,
     "namespace": "grabbag.<i>",
-    "parent": "b2da1d40-5908-11e9-b70b-734095b37754",
+    "parent": "c57f72b0-593a-11e9-8fd9-b7cade4dc58f",
     "origin": {
       "!span": "59[2:18]-62[2:21]",
       "!type": "number",
@@ -54,9 +54,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
-    "id": "b2da4451-5908-11e9-b70b-734095b37754",
+    "id": "c57f72b2-593a-11e9-8fd9-b7cade4dc58f",
     "name": "inner",
-    "addr": "/var inner/",
+    "addr": "/^var inner/",
     "kind": "v",
     "type": "number",
     "lineno": 5,
@@ -71,9 +71,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
-    "id": "b2da4452-5908-11e9-b70b-734095b37754",
+    "id": "c57f72b3-593a-11e9-8fd9-b7cade4dc58f",
     "name": "simple",
-    "addr": "/var simple/",
+    "addr": "/^var simple/",
     "kind": "v",
     "lineno": 8,
     "origin": {
@@ -86,14 +86,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
-    "id": "b2da4453-5908-11e9-b70b-734095b37754",
+    "id": "c57f72b4-593a-11e9-8fd9-b7cade4dc58f",
     "name": "<i>",
-    "addr": "/simple\\[foo\\(\\)/",
+    "addr": "/^simple\\[foo\\(\\)/",
     "kind": "v",
     "type": "string",
     "lineno": 9,
     "namespace": "simple",
-    "parent": "b2da4452-5908-11e9-b70b-734095b37754",
+    "parent": "c57f72b3-593a-11e9-8fd9-b7cade4dc58f",
     "origin": {
       "!span": "175[8:7]-180[8:12]",
       "!type": "string",

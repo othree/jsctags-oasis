@@ -1,8 +1,8 @@
 [
   {
-    "id": "b99aa140-5908-11e9-834a-fd02106ec588",
+    "id": "cc090830-593a-11e9-951c-6fc50a356e34",
     "name": "x",
-    "addr": "/var x/",
+    "addr": "/^var x/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/plus.js"
   },
   {
-    "id": "b99ac850-5908-11e9-834a-fd02106ec588",
+    "id": "cc095650-593a-11e9-951c-6fc50a356e34",
     "name": "y",
-    "addr": "/var y/",
+    "addr": "/^var y/",
     "kind": "v",
     "type": "string",
     "lineno": 2,

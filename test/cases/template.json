@@ -1,8 +1,8 @@
 [
   {
-    "id": "bb70c0d0-5908-11e9-a176-2b03a9611e0d",
+    "id": "cdf45d70-593a-11e9-8297-738b559b7b2e",
     "name": "x",
-    "addr": "/var x/",
+    "addr": "/^var x/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
-    "id": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
+    "id": "cdf4ab90-593a-11e9-8297-738b559b7b2e",
     "name": "build",
-    "addr": "/function build/",
+    "addr": "/^function build/",
     "kind": "f",
     "type": "boolean function(Array[string], number, string)",
     "lineno": 6,
@@ -34,14 +34,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
-    "id": "bb713600-5908-11e9-a176-2b03a9611e0d",
+    "id": "cdf4ab91-593a-11e9-8297-738b559b7b2e",
     "name": "a",
-    "addr": "/function build\\(strs, a/",
+    "addr": "/^function build\\(strs, a/",
     "kind": "v",
     "type": "number",
     "lineno": 6,
     "namespace": "build",
-    "parent": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
+    "parent": "cdf4ab90-593a-11e9-8297-738b559b7b2e",
     "origin": {
       "!span": "87[5:21]-88[5:22]",
       "!type": "number",
@@ -55,14 +55,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
-    "id": "bb713601-5908-11e9-a176-2b03a9611e0d",
+    "id": "cdf4ab92-593a-11e9-8297-738b559b7b2e",
     "name": "b",
-    "addr": "/function build\\(strs, a, b/",
+    "addr": "/^function build\\(strs, a, b/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "build",
-    "parent": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
+    "parent": "cdf4ab90-593a-11e9-8297-738b559b7b2e",
     "origin": {
       "!span": "90[5:24]-91[5:25]",
       "!type": "string",
@@ -76,14 +76,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
-    "id": "bb713602-5908-11e9-a176-2b03a9611e0d",
+    "id": "cdf4ab93-593a-11e9-8297-738b559b7b2e",
     "name": "strs",
-    "addr": "/function build\\(strs/",
+    "addr": "/^function build\\(strs/",
     "kind": "v",
     "type": "[string]",
     "lineno": 6,
     "namespace": "build",
-    "parent": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
+    "parent": "cdf4ab90-593a-11e9-8297-738b559b7b2e",
     "origin": {
       "!span": "81[5:15]-85[5:19]",
       "!type": "[string]",

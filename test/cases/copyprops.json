@@ -1,8 +1,8 @@
 [
   {
-    "id": "b37a7bf0-5908-11e9-bcc9-3b1df43b0a36",
+    "id": "c6292030-593a-11e9-8857-7f46114dc20c",
     "name": "buildCopy",
-    "addr": "/function buildCopy/",
+    "addr": "/^function buildCopy/",
     "kind": "f",
     "type": "? function(buildCopy.!0)",
     "lineno": 1,
@@ -17,13 +17,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js"
   },
   {
-    "id": "b37aa300-5908-11e9-bcc9-3b1df43b0a36",
+    "id": "c6296e50-593a-11e9-8857-7f46114dc20c",
     "name": "oo",
-    "addr": "/  var oo/",
+    "addr": "/^  var oo/",
     "kind": "v",
     "lineno": 2,
     "namespace": "buildCopy",
-    "parent": "b37a7bf0-5908-11e9-bcc9-3b1df43b0a36",
+    "parent": "c6292030-593a-11e9-8857-7f46114dc20c",
     "origin": {
       "!span": "30[1:6]-32[1:8]",
       "!data": {
@@ -36,13 +36,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js"
   },
   {
-    "id": "b37aa301-5908-11e9-bcc9-3b1df43b0a36",
+    "id": "c6296e51-593a-11e9-8857-7f46114dc20c",
     "name": "prop",
-    "addr": "/  for \\(var prop/",
+    "addr": "/^  for \\(var prop/",
     "kind": "v",
     "lineno": 3,
     "namespace": "buildCopy",
-    "parent": "b37a7bf0-5908-11e9-bcc9-3b1df43b0a36",
+    "parent": "c6292030-593a-11e9-8857-7f46114dc20c",
     "origin": {
       "!span": "50[2:11]-54[2:15]",
       "!data": {

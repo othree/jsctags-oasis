@@ -1,7 +1,7 @@
-arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function last\(arr/;"	v	lineno:1	namespace:last	type:[number]|[string]
-arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function map\(arr/;"	v	lineno:6	namespace:map	type:[number]
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function map\(arr, f/;"	f	lineno:6	namespace:map	type:boolean function()
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/  for \(var i/;"	v	lineno:8	namespace:map	type:number
-last	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function last/;"	f	lineno:1	type:!0.<i> function(Array[number]|[string])
-map	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/function map/;"	f	lineno:6	type:string|fn() -> bool) -> [?] function(Array[number], fn()
-res	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/  var res/;"	v	lineno:7	namespace:map	type:[bool]
+arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function last\(arr/;"	v	lineno:1	namespace:last	type:[number]|[string]
+arr	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function map\(arr/;"	v	lineno:6	namespace:map	type:[number]
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function map\(arr, f/;"	f	lineno:6	namespace:map	type:boolean function()
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^  for \(var i/;"	v	lineno:8	namespace:map	type:number
+last	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function last/;"	f	lineno:1	type:!0.<i> function(Array[number]|[string])
+map	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^function map/;"	f	lineno:6	type:string|fn() -> bool) -> [?] function(Array[number], fn()
+res	/Users/othree/os-projects/jsctags-oasis/test/cases/simple_generic.js	/^  var res/;"	v	lineno:7	namespace:map	type:[bool]

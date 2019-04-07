@@ -1,8 +1,8 @@
 [
   {
-    "id": "b1c0e511-5908-11e9-a98e-999ee7585836",
+    "id": "c45b3e00-593a-11e9-a5e5-3de8e58f0500",
     "name": "Bar",
-    "addr": "/function Bar/",
+    "addr": "/^function Bar/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -17,14 +17,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
   },
   {
-    "id": "b1c0e513-5908-11e9-a98e-999ee7585836",
+    "id": "c45b3e02-593a-11e9-a5e5-3de8e58f0500",
     "name": "hallo",
-    "addr": "/Bar\\.prototype\\.hallo/",
+    "addr": "/^Bar\\.prototype\\.hallo/",
     "kind": "f",
     "type": "void function()",
     "lineno": 2,
     "namespace": "Bar.prototype",
-    "parent": "b1c0e512-5908-11e9-a98e-999ee7585836",
+    "parent": "c45b3e01-593a-11e9-a5e5-3de8e58f0500",
     "origin": {
       "!span": "49[1:14]-54[1:19]",
       "!type": "fn()",
@@ -36,14 +36,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
   },
   {
-    "id": "b1c10c20-5908-11e9-a98e-999ee7585836",
+    "id": "c45b3e03-593a-11e9-a5e5-3de8e58f0500",
     "name": "fn2",
-    "addr": "/Bar\\.prototype\\.fn2/",
+    "addr": "/^Bar\\.prototype\\.fn2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 7,
     "namespace": "Bar.prototype",
-    "parent": "b1c0e512-5908-11e9-a98e-999ee7585836",
+    "parent": "c45b3e01-593a-11e9-a5e5-3de8e58f0500",
     "origin": {
       "!span": "128[6:14]-131[6:17]",
       "!type": "fn()",
@@ -57,14 +57,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
   },
   {
-    "id": "b1c0e510-5908-11e9-a98e-999ee7585836",
+    "id": "c45b16f1-593a-11e9-a5e5-3de8e58f0500",
     "name": "fn2",
-    "addr": "/Date\\.prototype\\.fn2/",
+    "addr": "/^Date\\.prototype\\.fn2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 11,
     "namespace": "Date.prototype",
-    "parent": "b1c0be01-5908-11e9-a98e-999ee7585836",
+    "parent": "c45b16f0-593a-11e9-a5e5-3de8e58f0500",
     "origin": {
       "!span": "183[10:15]-186[10:18]",
       "!type": "fn()",

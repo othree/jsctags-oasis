@@ -1,8 +1,8 @@
 [
   {
-    "id": "bb1ef750-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9c5260-593a-11e9-a59c-6b01e0988cef",
     "name": "Point3",
-    "addr": "/class Point3/",
+    "addr": "/^class Point3/",
     "kind": "f",
     "type": "void function(number, number, number)",
     "lineno": 1,
@@ -17,13 +17,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4570-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9c7970-593a-11e9-a59c-6b01e0988cef",
     "name": "prototype",
-    "addr": "/class Point3 extends Point2 \\{/",
+    "addr": "/^class Point3 extends Point2 \\{/",
     "kind": "v",
     "lineno": 1,
     "namespace": "Point3",
-    "parent": "bb1ef750-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9c5260-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "0[0:0]-150[4:1]",
       "!data": {
@@ -34,14 +34,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4573-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca082-593a-11e9-a59c-6b01e0988cef",
     "name": "z",
-    "addr": "/  constructor\\(x, y, z\\) \\{ super\\(x, y\\); this\\.z/",
+    "addr": "/^  constructor\\(x, y, z\\) \\{ super\\(x, y\\); this\\.z/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
     "namespace": "Point3",
-    "parent": "bb1ef750-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9c5260-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "73[1:43]-74[1:44]",
       "!type": "number",
@@ -53,14 +53,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4571-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca080-593a-11e9-a59c-6b01e0988cef",
     "name": "foobar",
-    "addr": "/  foobar/",
+    "addr": "/^  foobar/",
     "kind": "f",
     "type": "!this.x function()",
     "lineno": 3,
     "namespace": "Point3.prototype",
-    "parent": "bb1f4570-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9c7970-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "83[2:2]-89[2:8]",
       "!type": "fn() -> !this.x",
@@ -72,14 +72,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4572-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca081-593a-11e9-a59c-6b01e0988cef",
     "name": "callSuper",
-    "addr": "/  callSuper/",
+    "addr": "/^  callSuper/",
     "kind": "f",
     "type": "string function()",
     "lineno": 4,
     "namespace": "Point3.prototype",
-    "parent": "bb1f4570-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9c7970-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "112[3:2]-121[3:11]",
       "!type": "fn() -> string",
@@ -91,13 +91,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4577-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca086-593a-11e9-a59c-6b01e0988cef",
     "name": "prototype",
-    "addr": "/class Point2 \\{/",
+    "addr": "/^class Point2 \\{/",
     "kind": "v",
     "lineno": 7,
     "namespace": "Point2",
-    "parent": "bb1f4576-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9ca085-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "152[6:0]-244[9:1]",
       "!data": {
@@ -108,9 +108,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4576-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca085-593a-11e9-a59c-6b01e0988cef",
     "name": "Point2",
-    "addr": "/class Point2/",
+    "addr": "/^class Point2/",
     "kind": "f",
     "type": "void function(number, number)",
     "lineno": 7,
@@ -125,14 +125,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4575-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca084-593a-11e9-a59c-6b01e0988cef",
     "name": "y",
-    "addr": "/  constructor\\(x, y\\) \\{ this\\.x = x; this\\.y/",
+    "addr": "/^  constructor\\(x, y\\) \\{ this\\.x = x; this\\.y/",
     "kind": "v",
     "type": "number",
     "lineno": 8,
     "namespace": "Point3",
-    "parent": "bb1ef750-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9c5260-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "206[7:39]-207[7:40]",
       "!type": "number",
@@ -144,14 +144,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4574-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca083-593a-11e9-a59c-6b01e0988cef",
     "name": "x",
-    "addr": "/  constructor\\(x, y\\) \\{ this\\.x/",
+    "addr": "/^  constructor\\(x, y\\) \\{ this\\.x/",
     "kind": "v",
     "type": "number",
     "lineno": 8,
     "namespace": "Point3",
-    "parent": "bb1ef750-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9c5260-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "194[7:27]-195[7:28]",
       "!type": "number",
@@ -163,14 +163,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4578-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca087-593a-11e9-a59c-6b01e0988cef",
     "name": "hello",
-    "addr": "/  hello/",
+    "addr": "/^  hello/",
     "kind": "f",
     "type": "string function()",
     "lineno": 9,
     "namespace": "Point2.prototype",
-    "parent": "bb1f4577-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9ca086-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "216[8:2]-221[8:7]",
       "!type": "fn() -> string",
@@ -182,9 +182,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f4579-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca088-593a-11e9-a59c-6b01e0988cef",
     "name": "p",
-    "addr": "/var p/",
+    "addr": "/^var p/",
     "kind": "v",
     "type": "Point3",
     "lineno": 12,
@@ -199,9 +199,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f457a-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca089-593a-11e9-a59c-6b01e0988cef",
     "name": "pro",
-    "addr": "/var pro/",
+    "addr": "/^var pro/",
     "kind": "v",
     "lineno": 18,
     "origin": {
@@ -214,14 +214,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f457b-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca08a-593a-11e9-a59c-6b01e0988cef",
     "name": "x",
-    "addr": "/var pro = \\{x/",
+    "addr": "/^var pro = \\{x/",
     "kind": "v",
     "type": "number",
     "lineno": 18,
     "namespace": "pro",
-    "parent": "bb1f457a-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9ca089-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "369[17:11]-370[17:12]",
       "!type": "number",
@@ -233,9 +233,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f457c-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca08b-593a-11e9-a59c-6b01e0988cef",
     "name": "obj",
-    "addr": "/var obj/",
+    "addr": "/^var obj/",
     "kind": "v",
     "lineno": 20,
     "origin": {
@@ -248,14 +248,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f457d-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca08c-593a-11e9-a59c-6b01e0988cef",
     "name": "x",
-    "addr": "/  x/",
+    "addr": "/^  x/",
     "kind": "v",
     "type": "string",
     "lineno": 22,
     "namespace": "obj",
-    "parent": "bb1f457c-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9ca08b-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "409[21:2]-410[21:3]",
       "!type": "string",
@@ -267,14 +267,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/super.js"
   },
   {
-    "id": "bb1f6c80-5908-11e9-82bb-eb8cc067f6ef",
+    "id": "cd9ca08d-593a-11e9-a59c-6b01e0988cef",
     "name": "getSuperX",
-    "addr": "/  getSuperX/",
+    "addr": "/^  getSuperX/",
     "kind": "f",
     "type": "number function()",
     "lineno": 23,
     "namespace": "obj",
-    "parent": "bb1f457c-5908-11e9-82bb-eb8cc067f6ef",
+    "parent": "cd9ca08b-593a-11e9-a59c-6b01e0988cef",
     "origin": {
       "!span": "424[22:2]-433[22:11]",
       "!type": "fn() -> number",

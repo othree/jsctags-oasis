@@ -1,47 +1,47 @@
-SubEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubEleven/;"	f	lineno:31	type:void function(bool)
-SubOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubOne/;"	f	lineno:17	type:void function(bool)
-SubTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubTwo/;"	f	lineno:24	type:void function(bool)
-Top	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var Top/;"	f	lineno:10	type:void function()
-__extends	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var __extends/;"	f	lineno:3	type:void function(fn(arg: bool)
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven.prototype.constructor	type:boolean
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven	type:boolean
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven	type:boolean
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne	type:boolean
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven.prototype.constructor	type:boolean
-argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
-argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
-argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo	type:boolean
-child	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var __extends = function\(child/;"	f	lineno:3	namespace:__extends	type:void function(bool)
-constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubOne/;"	f	lineno:17	namespace:SubOne.prototype	type:void function(bool)
-constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubTwo/;"	f	lineno:24	namespace:SubTwo.prototype	type:void function(bool)
-constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var SubEleven/;"	f	lineno:31	namespace:SubEleven.prototype	type:void function(bool)
-ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  function ctor/;"	f	lineno:5	namespace:__extends	type:void function()
-elf	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var top = new Top, one = new SubOne\(true\), two = new SubTwo\(false\), elf/;"	v	lineno:38	type:SubEleven
-key	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  for \(var key/;"	v	lineno:4	namespace:__extends
-methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype.constructor.prototype	type:string function()
-methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype	type:string function()
-methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype	type:number function()
-methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype.constructor.prototype	type:number function()
-methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype	type:void function()
-methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype.constructor.prototype	type:void function()
-one	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var top = new Top, one/;"	v	lineno:38	type:SubOne
-parent	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var __extends = function\(child, parent/;"	f	lineno:3	namespace:__extends	type:void function(bool)
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubTwo.prototype.constructor
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubEleven
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubTwo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubOne
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubEleven.prototype.constructor
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  child\.prototype/;"	v	lineno:7	namespace:SubOne.prototype.constructor
-topMethod	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  Top\.prototype\.topMethod/;"	f	lineno:12	namespace:Top.prototype	type:string function()
-topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/  Top\.topStatic/;"	v	lineno:13	namespace:Top	type:number
+SubEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubEleven/;"	f	lineno:31	type:void function(bool)
+SubOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubOne/;"	f	lineno:17	type:void function(bool)
+SubTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubTwo/;"	f	lineno:24	type:void function(bool)
+Top	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var Top/;"	f	lineno:10	type:void function()
+__extends	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var __extends/;"	f	lineno:3	type:void function(fn(arg: bool)
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg/;"	v	lineno:25	namespace:SubTwo	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven.prototype.constructor	type:boolean
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubEleven\(arg/;"	v	lineno:32	namespace:SubEleven	type:boolean
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven	type:boolean
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne	type:boolean
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubEleven.prototype.constructor	type:boolean
+argOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubOne\(arg\) \{ this\.argOne/;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+argTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function SubTwo\(arg\) \{ this\.argTwo/;"	v	lineno:25	namespace:SubTwo	type:boolean
+child	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var __extends = function\(child/;"	f	lineno:3	namespace:__extends	type:void function(bool)
+constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubOne/;"	f	lineno:17	namespace:SubOne.prototype	type:void function(bool)
+constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubTwo/;"	f	lineno:24	namespace:SubTwo.prototype	type:void function(bool)
+constructor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var SubEleven/;"	f	lineno:31	namespace:SubEleven.prototype	type:void function(bool)
+ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  function ctor/;"	f	lineno:5	namespace:__extends	type:void function()
+elf	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var top = new Top, one = new SubOne\(true\), two = new SubTwo\(false\), elf/;"	v	lineno:38	type:SubEleven
+key	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  for \(var key/;"	v	lineno:4	namespace:__extends
+methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype.constructor.prototype	type:string function()
+methodEleven	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubEleven\.prototype\.methodEleven/;"	f	lineno:34	namespace:SubEleven.prototype	type:string function()
+methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype	type:number function()
+methodOne	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubOne\.prototype\.methodOne/;"	f	lineno:20	namespace:SubOne.prototype.constructor.prototype	type:number function()
+methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype	type:void function()
+methodTwo	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  SubTwo\.prototype\.methodTwo/;"	f	lineno:27	namespace:SubTwo.prototype.constructor.prototype	type:void function()
+one	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var top = new Top, one/;"	v	lineno:38	type:SubOne
+parent	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var __extends = function\(child, parent/;"	f	lineno:3	namespace:__extends	type:void function(bool)
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubTwo.prototype.constructor
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubEleven
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubTwo
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubOne
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubEleven.prototype.constructor
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  child\.prototype/;"	v	lineno:7	namespace:SubOne.prototype.constructor
+topMethod	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  Top\.prototype\.topMethod/;"	f	lineno:12	namespace:Top.prototype	type:string function()
+topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^  Top\.topStatic/;"	v	lineno:13	namespace:Top	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubEleven	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubTwo.prototype.constructor	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubOne	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubEleven.prototype.constructor	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubTwo	type:number
 topStatic	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	//;"	v	namespace:SubOne.prototype.constructor	type:number
-two	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/var top = new Top, one = new SubOne\(true\), two/;"	v	lineno:38	type:SubTwo
+two	/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js	/^var top = new Top, one = new SubOne\(true\), two/;"	v	lineno:38	type:SubTwo

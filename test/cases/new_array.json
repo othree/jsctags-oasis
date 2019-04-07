@@ -1,8 +1,8 @@
 [
   {
-    "id": "b86b7010-5908-11e9-bf0e-65db5cfe0eb5",
+    "id": "cad59140-593a-11e9-a1be-f71ce08608ec",
     "name": "a",
-    "addr": "/var a/",
+    "addr": "/^var a/",
     "kind": "v",
     "type": "[string]",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js"
   },
   {
-    "id": "b86b9720-5908-11e9-bf0e-65db5cfe0eb5",
+    "id": "cad5b850-593a-11e9-a1be-f71ce08608ec",
     "name": "b",
-    "addr": "/var b/",
+    "addr": "/^var b/",
     "kind": "v",
     "type": "[bool]",
     "lineno": 5,
@@ -34,9 +34,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js"
   },
   {
-    "id": "b86b9721-5908-11e9-bf0e-65db5cfe0eb5",
+    "id": "cad5df60-593a-11e9-a1be-f71ce08608ec",
     "name": "c",
-    "addr": "/var c/",
+    "addr": "/^var c/",
     "kind": "v",
     "type": "[?]",
     "lineno": 8,
@@ -51,9 +51,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_array.js"
   },
   {
-    "id": "b86b9722-5908-11e9-bf0e-65db5cfe0eb5",
+    "id": "cad5df61-593a-11e9-a1be-f71ce08608ec",
     "name": "d",
-    "addr": "/var d/",
+    "addr": "/^var d/",
     "kind": "v",
     "type": "[string]",
     "lineno": 11,

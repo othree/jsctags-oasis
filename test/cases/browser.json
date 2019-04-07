@@ -1,8 +1,8 @@
 [
   {
-    "id": "b2605960-5908-11e9-a0a7-17e0386d6b07",
+    "id": "c5022c60-593a-11e9-b25c-b1de7486355a",
     "name": "newElt",
-    "addr": "/var newElt/",
+    "addr": "/^var newElt/",
     "kind": "v",
     "type": "Element",
     "lineno": 5,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js"
   },
   {
-    "id": "b260a780-5908-11e9-a0a7-17e0386d6b07",
+    "id": "c5025370-593a-11e9-b25c-b1de7486355a",
     "name": "e_which",
-    "addr": "/var e_which/",
+    "addr": "/^var e_which/",
     "kind": "v",
     "type": "number",
     "lineno": 9,

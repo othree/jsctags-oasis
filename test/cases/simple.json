@@ -1,8 +1,8 @@
 [
   {
-    "id": "babe39b0-5908-11e9-a503-c9978e3a1bb6",
+    "id": "cd418830-593a-11e9-93d8-f9d5d0e8c1f5",
     "name": "foo",
-    "addr": "/var foo/",
+    "addr": "/^var foo/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
-    "id": "babe60c0-5908-11e9-a503-c9978e3a1bb6",
+    "id": "cd41af40-593a-11e9-93d8-f9d5d0e8c1f5",
     "name": "x",
-    "addr": "/var x/",
+    "addr": "/^var x/",
     "kind": "v",
     "lineno": 6,
     "origin": {
@@ -32,9 +32,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
-    "id": "babe60c3-5908-11e9-a503-c9978e3a1bb6",
+    "id": "cd41d651-593a-11e9-93d8-f9d5d0e8c1f5",
     "name": "init",
-    "addr": "/function init/",
+    "addr": "/^function init/",
     "kind": "f",
     "type": "void function(x)",
     "lineno": 8,
@@ -49,14 +49,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
-    "id": "babe60c1-5908-11e9-a503-c9978e3a1bb6",
+    "id": "cd41af41-593a-11e9-93d8-f9d5d0e8c1f5",
     "name": "foo",
-    "addr": "/  v\\.foo/",
+    "addr": "/^  v\\.foo/",
     "kind": "v",
     "type": "number",
     "lineno": 9,
     "namespace": "x",
-    "parent": "babe60c0-5908-11e9-a503-c9978e3a1bb6",
+    "parent": "cd41af40-593a-11e9-93d8-f9d5d0e8c1f5",
     "origin": {
       "!span": "96[8:4]-99[8:7]",
       "!type": "number",
@@ -68,14 +68,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
-    "id": "babe60c2-5908-11e9-a503-c9978e3a1bb6",
+    "id": "cd41d650-593a-11e9-93d8-f9d5d0e8c1f5",
     "name": "bar",
-    "addr": "/  v\\.bar/",
+    "addr": "/^  v\\.bar/",
     "kind": "v",
     "type": "number",
     "lineno": 10,
     "namespace": "x",
-    "parent": "babe60c0-5908-11e9-a503-c9978e3a1bb6",
+    "parent": "cd41af40-593a-11e9-93d8-f9d5d0e8c1f5",
     "origin": {
       "!span": "110[9:4]-113[9:7]",
       "!type": "number",

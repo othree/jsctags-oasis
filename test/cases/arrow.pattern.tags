@@ -1,6 +1,6 @@
-Obj	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/function Obj/;"	f	lineno:11	type:void function()
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/let f = \(a/;"	v	lineno:1	namespace:f	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/let f = \(a, \[b/;"	v	lineno:1	namespace:f	type:boolean
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/let f/;"	f	lineno:1	type:f.!ret function(number, Array[bool])
-map	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/Obj\.prototype\.map/;"	f	lineno:14	namespace:Obj.prototype	type:[!this.x] function()
-wrap	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/function wrap/;"	f	lineno:5	type:wrap.!ret.!ret function() function()
+Obj	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^function Obj/;"	f	lineno:11	type:void function()
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^let f = \(a/;"	v	lineno:1	namespace:f	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^let f = \(a, \[b/;"	v	lineno:1	namespace:f	type:boolean
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^let f/;"	f	lineno:1	type:f.!ret function(number, Array[bool])
+map	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^Obj\.prototype\.map/;"	f	lineno:14	namespace:Obj.prototype	type:[!this.x] function()
+wrap	/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js	/^function wrap/;"	f	lineno:5	type:wrap.!ret.!ret function() function()

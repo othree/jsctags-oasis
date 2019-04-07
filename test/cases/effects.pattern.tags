@@ -1,5 +1,5 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/function setD\(a/;"	v	lineno:13	namespace:setD	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/var b/;"	v	lineno:3	type:[bool]
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/var c/;"	v	lineno:7	type:[string|number]
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/var d/;"	v	lineno:12	type:number
-setD	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/function setD/;"	f	lineno:13	type:void function(number)
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^function setD\(a/;"	v	lineno:13	namespace:setD	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^var b/;"	v	lineno:3	type:[bool]
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^var c/;"	v	lineno:7	type:[string|number]
+d	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^var d/;"	v	lineno:12	type:number
+setD	/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js	/^function setD/;"	f	lineno:13	type:void function(number)

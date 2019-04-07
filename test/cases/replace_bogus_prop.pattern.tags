@@ -1,3 +1,3 @@
-Type	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/function Type/;"	f	lineno:5	type:void function()
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/Type\.prototype\.foo/;"	v	lineno:6	namespace:Type.prototype	type:string
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/var x/;"	v	lineno:1	type:Type
+Type	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/^function Type/;"	f	lineno:5	type:void function()
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/^Type\.prototype\.foo/;"	v	lineno:6	namespace:Type.prototype	type:string
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js	/^var x/;"	v	lineno:1	type:Type

@@ -1,12 +1,12 @@
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var base = \{foo: 10, bar/;"	v	lineno:1	namespace:base	type:number
-base	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var base/;"	v	lineno:1
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/base\.baz/;"	v	lineno:5	namespace:base	type:number
-empty	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var empty/;"	v	lineno:29
-extend	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var extend/;"	v	lineno:23
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var base = \{foo/;"	v	lineno:1	namespace:base	type:number
-gen1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var gen1/;"	v	lineno:2
-gen2	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/var gen2/;"	v	lineno:3
-kaka	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/gen2\.kaka/;"	v	lineno:7	namespace:gen2	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var base = \{foo: 10, bar/;"	v	lineno:1	namespace:base	type:number
+base	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var base/;"	v	lineno:1
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^base\.baz/;"	v	lineno:5	namespace:base	type:number
+empty	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var empty/;"	v	lineno:29
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var extend/;"	v	lineno:23
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var base = \{foo/;"	v	lineno:1	namespace:base	type:number
+gen1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var gen1/;"	v	lineno:2
+gen2	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^var gen2/;"	v	lineno:3
+kaka	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^gen2\.kaka/;"	v	lineno:7	namespace:gen2	type:number
 prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	//;"	v	namespace:extend	type:string
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/empty\.prop1/;"	v	lineno:30	namespace:empty	type:string
-quux	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/gen1\.quux/;"	v	lineno:6	namespace:gen1	type:number
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^empty\.prop1/;"	v	lineno:30	namespace:empty	type:string
+quux	/Users/othree/os-projects/jsctags-oasis/test/cases/object_create.js	/^gen1\.quux/;"	v	lineno:6	namespace:gen1	type:number

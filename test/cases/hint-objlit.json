@@ -1,8 +1,8 @@
 [
   {
-    "id": "b6910ac0-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc1650-593a-11e9-afe9-4fe73f179030",
     "name": "poison",
-    "addr": "/var poison/",
+    "addr": "/^var poison/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -15,14 +15,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69131d0-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc3d60-593a-11e9-afe9-4fe73f179030",
     "name": "focus",
-    "addr": "/var poison = \\{focus/",
+    "addr": "/^var poison = \\{focus/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
     "namespace": "poison",
-    "parent": "b6910ac0-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc1650-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "14[0:14]-19[0:19]",
       "!type": "number",
@@ -34,14 +34,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69131d2-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc3d62-593a-11e9-afe9-4fe73f179030",
     "name": "nothing",
-    "addr": "/var poison = \\{focus: 1, blah: 2, nothing/",
+    "addr": "/^var poison = \\{focus: 1, blah: 2, nothing/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
     "namespace": "poison",
-    "parent": "b6910ac0-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc1650-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "33[0:33]-40[0:40]",
       "!type": "number",
@@ -53,14 +53,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69131d1-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc3d61-593a-11e9-afe9-4fe73f179030",
     "name": "blah",
-    "addr": "/var poison = \\{focus: 1, blah/",
+    "addr": "/^var poison = \\{focus: 1, blah/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
     "namespace": "poison",
-    "parent": "b6910ac0-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc1650-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "24[0:24]-28[0:28]",
       "!type": "number",
@@ -72,14 +72,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69131d4-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc3d64-593a-11e9-afe9-4fe73f179030",
     "name": "name",
-    "addr": "/var person = \\{name/",
+    "addr": "/^var person = \\{name/",
     "kind": "v",
     "type": "string",
     "lineno": 3,
     "namespace": "person",
-    "parent": "b69131d3-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc3d63-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "61[2:14]-65[2:18]",
       "!type": "string",
@@ -91,9 +91,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69131d3-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc3d63-593a-11e9-afe9-4fe73f179030",
     "name": "person",
-    "addr": "/var person/",
+    "addr": "/^var person/",
     "kind": "v",
     "lineno": 3,
     "origin": {
@@ -106,14 +106,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e1-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6471-593a-11e9-afe9-4fe73f179030",
     "name": "born",
-    "addr": "/var person = \\{name: \"harry\", born/",
+    "addr": "/^var person = \\{name: \"harry\", born/",
     "kind": "v",
     "type": "number",
     "lineno": 3,
     "namespace": "age.person",
-    "parent": "b69158e0-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6470-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "76[2:29]-80[2:33]",
       "!type": "number",
@@ -127,14 +127,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e2-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6472-593a-11e9-afe9-4fe73f179030",
     "name": "name",
-    "addr": "/var person = \\{name/",
+    "addr": "/^var person = \\{name/",
     "kind": "v",
     "type": "string",
     "lineno": 3,
     "namespace": "age.person",
-    "parent": "b69158e0-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6470-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "61[2:14]-65[2:18]",
       "!type": "string",
@@ -148,14 +148,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69131d5-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc3d65-593a-11e9-afe9-4fe73f179030",
     "name": "born",
-    "addr": "/var person = \\{name: \"harry\", born/",
+    "addr": "/^var person = \\{name: \"harry\", born/",
     "kind": "v",
     "type": "number",
     "lineno": 3,
     "namespace": "person",
-    "parent": "b69131d3-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc3d63-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "76[2:29]-80[2:33]",
       "!type": "number",
@@ -167,9 +167,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69131d6-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc3d66-593a-11e9-afe9-4fe73f179030",
     "name": "age",
-    "addr": "/function age/",
+    "addr": "/^function age/",
     "kind": "f",
     "type": "number function(?)",
     "lineno": 5,
@@ -184,13 +184,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e0-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6470-593a-11e9-afe9-4fe73f179030",
     "name": "person",
-    "addr": "/function age\\(person/",
+    "addr": "/^function age\\(person/",
     "kind": "v",
     "lineno": 5,
     "namespace": "age",
-    "parent": "b69131d6-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc3d66-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "103[4:13]-109[4:19]",
       "!data": {
@@ -203,14 +203,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e6-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6476-593a-11e9-afe9-4fe73f179030",
     "name": "persons",
-    "addr": "/function ages\\(persons/",
+    "addr": "/^function ages\\(persons/",
     "kind": "v",
     "type": "[person, person]|[ages.!0.<i>]",
     "lineno": 6,
     "namespace": "ages",
-    "parent": "b69158e5-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6475-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "155[5:14]-162[5:21]",
       "!type": "[person, person]|[ages.!0.<i>]",
@@ -224,9 +224,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e5-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6475-593a-11e9-afe9-4fe73f179030",
     "name": "ages",
-    "addr": "/function ages/",
+    "addr": "/^function ages/",
     "kind": "f",
     "type": "[number] function(Array[person)",
     "lineno": 6,
@@ -241,13 +241,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e3-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6473-593a-11e9-afe9-4fe73f179030",
     "name": "n",
-    "addr": "/age\\(\\{n/",
+    "addr": "/^age\\(\\{n/",
     "kind": "v",
     "lineno": 11,
     "namespace": "age.person",
-    "parent": "b69158e0-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6470-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "235[10:5]-236[10:6]",
       "!data": {
@@ -260,13 +260,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e4-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6474-593a-11e9-afe9-4fe73f179030",
     "name": "b",
-    "addr": "/ages\\(\\[\\{b/",
+    "addr": "/^ages\\(\\[\\{b/",
     "kind": "v",
     "lineno": 13,
     "namespace": "age.person",
-    "parent": "b69158e0-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6470-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "254[12:7]-255[12:8]",
       "!data": {
@@ -279,9 +279,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e7-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6477-593a-11e9-afe9-4fe73f179030",
     "name": "example",
-    "addr": "/var example/",
+    "addr": "/^var example/",
     "kind": "v",
     "lineno": 15,
     "origin": {
@@ -294,14 +294,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e8-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6478-593a-11e9-afe9-4fe73f179030",
     "name": "foo",
-    "addr": "/  foo/",
+    "addr": "/^  foo/",
     "kind": "v",
     "type": "number",
     "lineno": 17,
     "namespace": "example",
-    "parent": "b69158e7-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6477-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "297[16:2]-300[16:5]",
       "!type": "number",
@@ -313,14 +313,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158e9-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6479-593a-11e9-afe9-4fe73f179030",
     "name": "food",
-    "addr": "/  food/",
+    "addr": "/^  food/",
     "kind": "v",
     "type": "number",
     "lineno": 19,
     "namespace": "example",
-    "parent": "b69158e7-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6477-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "322[18:2]-326[18:6]",
       "!type": "number",
@@ -332,14 +332,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158ea-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc647a-593a-11e9-afe9-4fe73f179030",
     "name": "bar",
-    "addr": "/  bar/",
+    "addr": "/^  bar/",
     "kind": "v",
     "type": "boolean",
     "lineno": 21,
     "namespace": "example",
-    "parent": "b69158e7-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc6477-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "347[20:2]-350[20:5]",
       "!type": "bool",
@@ -351,9 +351,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158eb-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc647b-593a-11e9-afe9-4fe73f179030",
     "name": "takes",
-    "addr": "/function takes/",
+    "addr": "/^function takes/",
     "kind": "f",
     "type": "!0 function(?)",
     "lineno": 24,
@@ -368,13 +368,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "name": "example",
-    "addr": "/function takes\\(example/",
+    "addr": "/^function takes\\(example/",
     "kind": "v",
     "lineno": 24,
     "namespace": "takes",
-    "parent": "b69158eb-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647b-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "376[23:15]-383[23:22]",
       "!data": {
@@ -387,13 +387,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b6917ff0-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc647d-593a-11e9-afe9-4fe73f179030",
     "name": "fo",
-    "addr": "/  fo/",
+    "addr": "/^  fo/",
     "kind": "v",
     "lineno": 28,
     "namespace": "takes.example",
-    "parent": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "432[27:2]-434[27:4]",
       "!data": {
@@ -406,13 +406,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b6917ff4-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6481-593a-11e9-afe9-4fe73f179030",
     "name": "food",
-    "addr": "/  food/",
+    "addr": "/^  food/",
     "kind": "v",
     "lineno": 34,
     "namespace": "takes.example",
-    "parent": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "583[33:2]-587[33:6]",
       "!data": {
@@ -425,14 +425,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b6917ff1-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc647e-593a-11e9-afe9-4fe73f179030",
     "name": "_1",
-    "addr": "/  _1/",
+    "addr": "/^  _1/",
     "kind": "v",
     "type": "string",
     "lineno": 40,
     "namespace": "takes.example",
-    "parent": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "739[39:2]-741[39:4]",
       "!type": "string",
@@ -446,14 +446,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b6917ff5-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6482-593a-11e9-afe9-4fe73f179030",
     "name": "noise",
-    "addr": "/  noise/",
+    "addr": "/^  noise/",
     "kind": "v",
     "type": "number",
     "lineno": 41,
     "namespace": "takes.example",
-    "parent": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "845[40:2]-850[40:7]",
       "!type": "number",
@@ -467,13 +467,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b6917ff6-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc8b80-593a-11e9-afe9-4fe73f179030",
     "name": "b",
-    "addr": "/  b/",
+    "addr": "/^  b/",
     "kind": "v",
     "lineno": 42,
     "namespace": "takes.example",
-    "parent": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "858[41:2]-859[41:3]",
       "!data": {
@@ -486,14 +486,14 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b6917ff2-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc647f-593a-11e9-afe9-4fe73f179030",
     "name": "_2",
-    "addr": "/  _2/",
+    "addr": "/^  _2/",
     "kind": "v",
     "type": "string",
     "lineno": 43,
     "namespace": "takes.example",
-    "parent": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "870[42:2]-872[42:4]",
       "!type": "string",
@@ -507,13 +507,13 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
   },
   {
-    "id": "b6917ff3-5908-11e9-84be-31d82a662b37",
+    "id": "c8fc6480-593a-11e9-afe9-4fe73f179030",
     "name": "bar",
-    "addr": "/  bar/",
+    "addr": "/^  bar/",
     "kind": "v",
     "lineno": 47,
     "namespace": "takes.example",
-    "parent": "b69158ec-5908-11e9-84be-31d82a662b37",
+    "parent": "c8fc647c-593a-11e9-afe9-4fe73f179030",
     "origin": {
       "!span": "988[46:2]-991[46:5]",
       "!data": {

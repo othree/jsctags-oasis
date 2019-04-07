@@ -1,2 +1,2 @@
-React	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/import React/;"	v	lineno:1
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/var z/;"	f	lineno:4	type:void function()
+React	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/^import React/;"	v	lineno:1
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/import.js	/^var z/;"	f	lineno:4	type:void function()

@@ -1,12 +1,12 @@
 [
   {
-    "id": "b71a5f00-5908-11e9-8d41-4f8363c0dc9e",
+    "id": "c97c69e0-593a-11e9-9b2d-755f61bf3311",
     "name": "a",
-    "addr": "/var a/",
+    "addr": "/^var a/",
     "kind": "v",
     "type": "[number]|number",
     "lineno": 6,
-    "parent": "b71a37f0-5908-11e9-8d41-4f8363c0dc9e",
+    "parent": "c97c42d0-593a-11e9-9b2d-755f61bf3311",
     "origin": {
       "!span": "134[5:4]-135[5:5]",
       "!type": "[number]|number",

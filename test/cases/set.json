@@ -1,8 +1,8 @@
 [
   {
-    "id": "ba94dfc0-5908-11e9-9c4d-af8896e9c1d2",
+    "id": "cd165980-593a-11e9-bd06-2d42584ae2c2",
     "name": "set",
-    "addr": "/let set/",
+    "addr": "/^let set/",
     "kind": "v",
     "type": "Set",
     "lineno": 1,
@@ -17,9 +17,9 @@
     "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/set.js"
   },
   {
-    "id": "ba9506d0-5908-11e9-9c4d-af8896e9c1d2",
+    "id": "cd168090-593a-11e9-bd06-2d42584ae2c2",
     "name": "elt",
-    "addr": "/for \\(var elt/",
+    "addr": "/^for \\(var elt/",
     "kind": "v",
     "type": "boolean",
     "lineno": 7,
