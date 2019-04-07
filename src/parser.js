@@ -303,7 +303,7 @@ Parser.prototype.addr = function (node) {
     .split(/\n/)
     .shift()
     .replace(MATCHES.addr, '\\$&');
-  const str = new RegExp(regexp).toString();
+  const str = new RegExp(`^${regexp}`).toString();
 
   return str;
 };
