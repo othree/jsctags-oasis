@@ -1,7 +1,8 @@
 [
   {
+    "id": "b3f0e470-5908-11e9-82ad-4d4068d8da0a",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/let \\[a/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f13291-5908-11e9-82ad-4d4068d8da0a",
     "name": "d",
-    "addr": "/d/",
+    "addr": "/let \\{c, d/",
     "kind": "v",
     "type": "boolean",
     "lineno": 4,
@@ -29,11 +31,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f13290-5908-11e9-82ad-4d4068d8da0a",
     "name": "c",
-    "addr": "/c/",
+    "addr": "/let \\{c/",
     "kind": "v",
     "type": "string",
     "lineno": 4,
@@ -45,11 +48,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f13292-5908-11e9-82ad-4d4068d8da0a",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/function foo/",
     "kind": "f",
     "type": "void function(Array[bool], ?, foo.!2, number)",
     "lineno": 8,
@@ -61,15 +65,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f13293-5908-11e9-82ad-4d4068d8da0a",
     "name": "e",
-    "addr": "/e/",
+    "addr": "/function foo\\(\\[e/",
     "kind": "v",
     "type": "boolean",
     "lineno": 8,
     "namespace": "foo",
+    "parent": "b3f13292-5908-11e9-82ad-4d4068d8da0a",
     "origin": {
       "!span": "105[7:14]-106[7:15]",
       "!type": "bool",
@@ -80,15 +86,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a0-5908-11e9-82ad-4d4068d8da0a",
     "name": "f",
-    "addr": "/f/",
+    "addr": "/function foo\\(\\[e\\], \\{f/",
     "kind": "v",
     "type": "number",
     "lineno": 8,
     "namespace": "foo",
+    "parent": "b3f13292-5908-11e9-82ad-4d4068d8da0a",
     "origin": {
       "!span": "110[7:19]-111[7:20]",
       "!type": "number",
@@ -99,15 +107,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a1-5908-11e9-82ad-4d4068d8da0a",
     "name": "g",
-    "addr": "/g/",
+    "addr": "/function foo\\(\\[e\\], \\{f=1\\}, \\{g/",
     "kind": "v",
     "type": "string",
     "lineno": 8,
     "namespace": "foo",
+    "parent": "b3f13292-5908-11e9-82ad-4d4068d8da0a",
     "origin": {
       "!span": "117[7:26]-118[7:27]",
       "!type": "string",
@@ -118,15 +128,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a2-5908-11e9-82ad-4d4068d8da0a",
     "name": "h",
-    "addr": "/h/",
+    "addr": "/function foo\\(\\[e\\], \\{f=1\\}, \\{g\\}, \\.\\.\\.h/",
     "kind": "v",
     "type": "[number]",
     "lineno": 8,
     "namespace": "foo",
+    "parent": "b3f13292-5908-11e9-82ad-4d4068d8da0a",
     "origin": {
       "!span": "124[7:33]-125[7:34]",
       "!type": "[number]",
@@ -137,11 +149,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a3-5908-11e9-82ad-4d4068d8da0a",
     "name": "i",
-    "addr": "/i/",
+    "addr": "/let i/",
     "kind": "v",
     "type": "number",
     "lineno": 20,
@@ -153,11 +166,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a4-5908-11e9-82ad-4d4068d8da0a",
     "name": "j",
-    "addr": "/j/",
+    "addr": "/let i, j/",
     "kind": "v",
     "type": "boolean",
     "lineno": 20,
@@ -169,11 +183,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159aa-5908-11e9-82ad-4d4068d8da0a",
     "name": "l",
-    "addr": "/l/",
+    "addr": "/;\\(\\{i, j, k: \\[l/",
     "kind": "v",
     "type": "string",
     "lineno": 21,
@@ -185,11 +200,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159ab-5908-11e9-82ad-4d4068d8da0a",
     "name": "m",
-    "addr": "/m/",
+    "addr": "/;\\(\\{i, j, k: \\[l, \\.\\.\\.m/",
     "kind": "v",
     "type": "[string]",
     "lineno": 21,
@@ -201,11 +217,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a5-5908-11e9-82ad-4d4068d8da0a",
     "name": "out",
-    "addr": "/out/",
+    "addr": "/var out/",
     "kind": "v",
     "lineno": 28,
     "origin": {
@@ -215,15 +232,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a6-5908-11e9-82ad-4d4068d8da0a",
     "name": "prop",
-    "addr": "/prop/",
+    "addr": "/;\\[out\\.prop/",
     "kind": "v",
     "type": "number",
     "lineno": 29,
     "namespace": "out",
+    "parent": "b3f159a5-5908-11e9-82ad-4d4068d8da0a",
     "origin": {
       "!span": "418[28:6]-422[28:10]",
       "!type": "number",
@@ -232,15 +251,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a7-5908-11e9-82ad-4d4068d8da0a",
     "name": "prop2",
-    "addr": "/prop2/",
+    "addr": "/;\\[out\\.prop, out\\.prop2/",
     "kind": "v",
     "type": "boolean",
     "lineno": 29,
     "namespace": "out",
+    "parent": "b3f159a5-5908-11e9-82ad-4d4068d8da0a",
     "origin": {
       "!span": "428[28:16]-433[28:21]",
       "!type": "bool",
@@ -249,11 +270,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a8-5908-11e9-82ad-4d4068d8da0a",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/var \\[n/",
     "kind": "v",
     "type": "string",
     "lineno": 32,
@@ -265,11 +287,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   },
   {
+    "id": "b3f159a9-5908-11e9-82ad-4d4068d8da0a",
     "name": "o",
-    "addr": "/o/",
+    "addr": "/var \\[n, o/",
     "kind": "v",
     "type": "boolean",
     "lineno": 32,
@@ -281,6 +304,6 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/destructure.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
   }
 ]

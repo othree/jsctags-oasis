@@ -1,7 +1,8 @@
 [
   {
+    "id": "b60c9880-5908-11e9-96a7-bfaf22a9d6ca",
     "name": "each",
-    "addr": "/each/",
+    "addr": "/var each/",
     "kind": "f",
     "type": "void function(Array[number]|[each.!0.<i>], fn(n: number)",
     "lineno": 2,
@@ -13,15 +14,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/generic_each.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js"
   },
   {
+    "id": "b60ce6a0-5908-11e9-96a7-bfaf22a9d6ca",
     "name": "context",
-    "addr": "/context/",
+    "addr": "/var each = function\\(obj, iterator, context/",
     "kind": "v",
     "type": "string",
     "lineno": 2,
     "namespace": "each",
+    "parent": "b60c9880-5908-11e9-96a7-bfaf22a9d6ca",
     "origin": {
       "!span": "75[1:35]-82[1:42]",
       "!type": "+String",
@@ -32,15 +35,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/generic_each.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js"
   },
   {
+    "id": "b60ce6a2-5908-11e9-96a7-bfaf22a9d6ca",
     "name": "iterator",
-    "addr": "/iterator/",
+    "addr": "/var each = function\\(obj, iterator/",
     "kind": "f",
     "type": "void function(each.!0.<i>)",
     "lineno": 2,
     "namespace": "each",
+    "parent": "b60c9880-5908-11e9-96a7-bfaf22a9d6ca",
     "origin": {
       "!span": "65[1:25]-73[1:33]",
       "!type": "fn(o: each.!0.<i>)",
@@ -51,15 +56,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/generic_each.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js"
   },
   {
+    "id": "b60ce6a4-5908-11e9-96a7-bfaf22a9d6ca",
     "name": "obj",
-    "addr": "/obj/",
+    "addr": "/var each = function\\(obj/",
     "kind": "v",
     "type": "[each.!0.<i>]",
     "lineno": 2,
     "namespace": "each",
+    "parent": "b60c9880-5908-11e9-96a7-bfaf22a9d6ca",
     "origin": {
       "!span": "60[1:20]-63[1:23]",
       "!type": "[each.!0.<i>]",
@@ -70,15 +77,17 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/generic_each.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js"
   },
   {
+    "id": "b60ce6a1-5908-11e9-96a7-bfaf22a9d6ca",
     "name": "i",
-    "addr": "/i/",
+    "addr": "/    for \\(var i/",
     "kind": "v",
     "type": "number",
     "lineno": 7,
     "namespace": "each",
+    "parent": "b60c9880-5908-11e9-96a7-bfaf22a9d6ca",
     "origin": {
       "!span": "281[6:13]-282[6:14]",
       "!type": "number",
@@ -89,15 +98,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/generic_each.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js"
   },
   {
+    "id": "b60ce6a3-5908-11e9-96a7-bfaf22a9d6ca",
     "name": "l",
-    "addr": "/l/",
+    "addr": "/    for \\(var i = 0, l/",
     "kind": "v",
     "type": "number",
     "lineno": 7,
     "namespace": "each",
+    "parent": "b60c9880-5908-11e9-96a7-bfaf22a9d6ca",
     "origin": {
       "!span": "288[6:20]-289[6:21]",
       "!type": "number",
@@ -108,6 +119,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/generic_each.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js"
   }
 ]

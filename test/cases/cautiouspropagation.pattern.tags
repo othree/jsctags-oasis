@@ -1,0 +1,6 @@
+<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/grabbag\[foo\(\)/;"	v	lineno:2	namespace:grabbag
+<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/simple\[foo\(\)/;"	v	lineno:9	namespace:simple	type:string
+abc	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/grabbag\[bar\(\)\] = \{abc/;"	v	lineno:3	namespace:grabbag.<i>	type:number
+grabbag	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/var grabbag/;"	v	lineno:1
+inner	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/var inner/;"	v	lineno:5	type:number
+simple	/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js	/var simple/;"	v	lineno:8

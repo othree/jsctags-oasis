@@ -45,7 +45,7 @@ async.forEachLimit(
         async.apply(run, {
           cmd: format('-f - --excmd=pattern %s', f.name),
           filename: f.filename,
-          ext: '.tags'
+          ext: '.pattern.tags'
         }),
         async.apply(run, {
           cmd: format('-f - %s', f.name),
@@ -65,7 +65,7 @@ async.forEachLimit(
       async.apply(run, {
         name: '-f - --excmd=pattern -R test/cases/',
         cmd: format('-f - --excmd=pattern -R %s', 'test/cases/'),
-        ext: '.tags'
+        ext: '.pattern.tags'
       }),
       async.apply(run, {
         name: '-f - --json -R test/cases/',
@@ -75,13 +75,13 @@ async.forEachLimit(
       async.apply(run, {
         name: '-f - --excmd=pattern -R test/ --exclude=...',
         cmd: format('-f - --excmd=pattern -R --exclude=test/clean.js --exclude=test/index.js --exclude=test/run.js %s', 'test/'),
-        ext: '.tags'
+        ext: '.pattern.tags'
       }),
       async.apply(run, {
         name: '-f - --excmd=pattern -R',
         cwd: path.resolve('test/cases/'),
         cmd: '-f - --excmd=pattern -R',
-        ext: '.tags'
+        ext: '.pattern.tags'
       })
     ]);
   }

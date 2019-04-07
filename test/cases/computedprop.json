@@ -1,7 +1,8 @@
 [
   {
+    "id": "b32bbfb0-5908-11e9-84f1-19a3d0dd3f51",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -11,14 +12,16 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/computedprop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
+    "id": "b32be6c0-5908-11e9-84f1-19a3d0dd3f51",
     "name": "<i>",
-    "addr": "/foo\\(\\)/",
+    "addr": "/x\\[foo\\(\\)/",
     "kind": "v",
     "lineno": 2,
     "namespace": "x",
+    "parent": "b32bbfb0-5908-11e9-84f1-19a3d0dd3f51",
     "origin": {
       "!span": "14[1:2]-19[1:7]",
       "!data": {
@@ -26,15 +29,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/computedprop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
+    "id": "b32c0dd0-5908-11e9-84f1-19a3d0dd3f51",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/x\\[foo\\(\\)\\] = \\{a/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
     "namespace": "x.<i>",
+    "parent": "b32be6c0-5908-11e9-84f1-19a3d0dd3f51",
     "origin": {
       "!span": "24[1:12]-25[1:13]",
       "!type": "number",
@@ -43,15 +48,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/computedprop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
+    "id": "b32c0dd1-5908-11e9-84f1-19a3d0dd3f51",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/x\\[foo\\(\\)\\] = \\{a: 10, b/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
     "namespace": "x.<i>",
+    "parent": "b32be6c0-5908-11e9-84f1-19a3d0dd3f51",
     "origin": {
       "!span": "31[1:19]-32[1:20]",
       "!type": "number",
@@ -60,11 +67,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/computedprop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
+    "id": "b32c0dd2-5908-11e9-84f1-19a3d0dd3f51",
     "name": "obj",
-    "addr": "/obj/",
+    "addr": "/var obj/",
     "kind": "v",
     "lineno": 6,
     "origin": {
@@ -74,15 +82,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/computedprop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
+    "id": "b32c0dd3-5908-11e9-84f1-19a3d0dd3f51",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/var obj = \\{a/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "obj",
+    "parent": "b32c0dd2-5908-11e9-84f1-19a3d0dd3f51",
     "origin": {
       "!span": "88[5:11]-89[5:12]",
       "!type": "string",
@@ -91,15 +101,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/computedprop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   },
   {
+    "id": "b32c0dd4-5908-11e9-84f1-19a3d0dd3f51",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/var obj = \\{a: \"bar\", b/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "obj",
+    "parent": "b32c0dd2-5908-11e9-84f1-19a3d0dd3f51",
     "origin": {
       "!span": "98[5:21]-99[5:22]",
       "!type": "string",
@@ -108,6 +120,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/computedprop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
   }
 ]

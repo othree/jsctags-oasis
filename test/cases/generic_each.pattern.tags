@@ -1,0 +1,6 @@
+context	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each = function\(obj, iterator, context/;"	v	lineno:2	namespace:each	type:string
+each	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each/;"	f	lineno:2	type:void function(Array[number]|[each.!0.<i>], fn(n: number)
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/    for \(var i/;"	v	lineno:7	namespace:each	type:number
+iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each = function\(obj, iterator/;"	f	lineno:2	namespace:each	type:void function(each.!0.<i>)
+l	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/    for \(var i = 0, l/;"	v	lineno:7	namespace:each	type:number
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/generic_each.js	/var each = function\(obj/;"	v	lineno:2	namespace:each	type:[each.!0.<i>]

@@ -1,0 +1,3 @@
+buildCopy	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/function buildCopy/;"	f	lineno:1	type:? function(buildCopy.!0)
+oo	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/  var oo/;"	v	lineno:2	namespace:buildCopy
+prop	/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js	/  for \(var prop/;"	v	lineno:3	namespace:buildCopy

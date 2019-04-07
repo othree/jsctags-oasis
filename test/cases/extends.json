@@ -1,7 +1,8 @@
 [
   {
+    "id": "b4bbd590-5908-11e9-af31-eb3648529628",
     "name": "__extends",
-    "addr": "/__extends/",
+    "addr": "/var __extends/",
     "kind": "f",
     "type": "void function(fn(arg: bool)",
     "lineno": 3,
@@ -13,15 +14,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b2-5908-11e9-af31-eb3648529628",
     "name": "parent",
-    "addr": "/parent/",
+    "addr": "/var __extends = function\\(child, parent/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 3,
     "namespace": "__extends",
+    "parent": "b4bbd590-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "93[2:32]-99[2:38]",
       "!type": "fn(arg: bool)",
@@ -32,15 +35,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bbfca0-5908-11e9-af31-eb3648529628",
     "name": "child",
-    "addr": "/child/",
+    "addr": "/var __extends = function\\(child/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 3,
     "namespace": "__extends",
+    "parent": "b4bbd590-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "86[2:25]-91[2:30]",
       "!type": "fn(arg: bool)",
@@ -51,14 +56,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b1-5908-11e9-af31-eb3648529628",
     "name": "key",
-    "addr": "/key/",
+    "addr": "/  for \\(var key/",
     "kind": "v",
     "lineno": 4,
     "namespace": "__extends",
+    "parent": "b4bbd590-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "114[3:11]-117[3:14]",
       "!data": {
@@ -68,15 +75,17 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b0-5908-11e9-af31-eb3648529628",
     "name": "ctor",
-    "addr": "/ctor/",
+    "addr": "/  function ctor/",
     "kind": "f",
     "type": "void function()",
     "lineno": 5,
     "namespace": "__extends",
+    "parent": "b4bbd590-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "170[4:11]-174[4:15]",
       "!type": "fn()",
@@ -87,14 +96,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbffc-5908-11e9-af31-eb3648529628",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  child\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "SubTwo.prototype.constructor",
+    "parent": "b4bcbffb-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "252[6:8]-261[6:17]",
       "!data": {
@@ -102,14 +113,16 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce707-5908-11e9-af31-eb3648529628",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  child\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "SubEleven",
+    "parent": "b4bce706-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "252[6:8]-261[6:17]",
       "!data": {
@@ -117,14 +130,16 @@
         "type": "Top"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff9-5908-11e9-af31-eb3648529628",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  child\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "SubTwo",
+    "parent": "b4bcbff8-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "252[6:8]-261[6:17]",
       "!data": {
@@ -132,14 +147,16 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b8-5908-11e9-af31-eb3648529628",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  child\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "SubOne",
+    "parent": "b4bc23b7-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "252[6:8]-261[6:17]",
       "!data": {
@@ -147,14 +164,16 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce70a-5908-11e9-af31-eb3648529628",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  child\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "SubEleven.prototype.constructor",
+    "parent": "b4bce709-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "252[6:8]-261[6:17]",
       "!data": {
@@ -162,14 +181,16 @@
         "type": "Top"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff0-5908-11e9-af31-eb3648529628",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  child\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "SubOne.prototype.constructor",
+    "parent": "b4bc98e0-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "252[6:8]-261[6:17]",
       "!data": {
@@ -177,11 +198,12 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b3-5908-11e9-af31-eb3648529628",
     "name": "Top",
-    "addr": "/Top/",
+    "addr": "/var Top/",
     "kind": "f",
     "type": "void function()",
     "lineno": 10,
@@ -193,15 +215,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b5-5908-11e9-af31-eb3648529628",
     "name": "topMethod",
-    "addr": "/topMethod/",
+    "addr": "/  Top\\.prototype\\.topMethod/",
     "kind": "f",
     "type": "string function()",
     "lineno": 12,
     "namespace": "Top.prototype",
+    "parent": "b4bc23b4-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "340[11:16]-349[11:25]",
       "!type": "fn() -> string",
@@ -210,15 +234,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b6-5908-11e9-af31-eb3648529628",
     "name": "topStatic",
-    "addr": "/topStatic/",
+    "addr": "/  Top\\.topStatic/",
     "kind": "v",
     "type": "number",
     "lineno": 13,
     "namespace": "Top",
+    "parent": "b4bc23b3-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "386[12:6]-395[12:15]",
       "!type": "number",
@@ -227,11 +253,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b7-5908-11e9-af31-eb3648529628",
     "name": "SubOne",
-    "addr": "/SubOne/",
+    "addr": "/var SubOne/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 17,
@@ -243,15 +270,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc98e0-5908-11e9-af31-eb3648529628",
     "name": "constructor",
-    "addr": "/SubOne/",
+    "addr": "/var SubOne/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 17,
     "namespace": "SubOne.prototype",
+    "parent": "b4bc23b8-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "427[16:4]-433[16:10]",
       "!type": "fn(arg: bool)",
@@ -260,15 +289,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff7-5908-11e9-af31-eb3648529628",
     "name": "arg",
-    "addr": "/arg/",
+    "addr": "/  function SubOne\\(arg/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
     "namespace": "SubOne",
+    "parent": "b4bc23b7-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "474[17:18]-477[17:21]",
       "!type": "bool",
@@ -279,15 +310,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bd0e12-5908-11e9-af31-eb3648529628",
     "name": "argOne",
-    "addr": "/argOne/",
+    "addr": "/  function SubOne\\(arg\\) \\{ this\\.argOne/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
     "namespace": "SubEleven",
+    "parent": "b4bce706-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "486[17:30]-492[17:36]",
       "!type": "bool",
@@ -296,15 +329,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff6-5908-11e9-af31-eb3648529628",
     "name": "argOne",
-    "addr": "/argOne/",
+    "addr": "/  function SubOne\\(arg\\) \\{ this\\.argOne/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
     "namespace": "SubOne",
+    "parent": "b4bc23b7-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "486[17:30]-492[17:36]",
       "!type": "bool",
@@ -313,15 +348,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff4-5908-11e9-af31-eb3648529628",
     "name": "arg",
-    "addr": "/arg/",
+    "addr": "/  function SubOne\\(arg/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
     "namespace": "SubOne.prototype.constructor",
+    "parent": "b4bc98e0-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "474[17:18]-477[17:21]",
       "!type": "bool",
@@ -332,15 +369,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce70d-5908-11e9-af31-eb3648529628",
     "name": "argOne",
-    "addr": "/argOne/",
+    "addr": "/  function SubOne\\(arg\\) \\{ this\\.argOne/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
     "namespace": "SubEleven.prototype.constructor",
+    "parent": "b4bce709-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "486[17:30]-492[17:36]",
       "!type": "bool",
@@ -349,15 +388,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff3-5908-11e9-af31-eb3648529628",
     "name": "argOne",
-    "addr": "/argOne/",
+    "addr": "/  function SubOne\\(arg\\) \\{ this\\.argOne/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
     "namespace": "SubOne.prototype.constructor",
+    "parent": "b4bc98e0-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "486[17:30]-492[17:36]",
       "!type": "bool",
@@ -366,15 +407,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bc23b9-5908-11e9-af31-eb3648529628",
     "name": "methodOne",
-    "addr": "/methodOne/",
+    "addr": "/  SubOne\\.prototype\\.methodOne/",
     "kind": "f",
     "type": "number function()",
     "lineno": 20,
     "namespace": "SubOne.prototype",
+    "parent": "b4bc23b8-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "550[19:19]-559[19:28]",
       "!type": "fn() -> number",
@@ -383,15 +426,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff1-5908-11e9-af31-eb3648529628",
     "name": "methodOne",
-    "addr": "/methodOne/",
+    "addr": "/  SubOne\\.prototype\\.methodOne/",
     "kind": "f",
     "type": "number function()",
     "lineno": 20,
     "namespace": "SubOne.prototype.constructor.prototype",
+    "parent": "b4bcbff0-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "550[19:19]-559[19:28]",
       "!type": "fn() -> number",
@@ -400,11 +445,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff8-5908-11e9-af31-eb3648529628",
     "name": "SubTwo",
-    "addr": "/SubTwo/",
+    "addr": "/var SubTwo/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 24,
@@ -416,13 +462,15 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bd0e11-5908-11e9-af31-eb3648529628",
     "name": "topStatic",
     "kind": "v",
     "type": "number",
     "namespace": "SubEleven",
+    "parent": "b4bce706-5908-11e9-af31-eb3648529628",
     "origin": {
       "!type": "number",
       "!data": {
@@ -430,13 +478,15 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce700-5908-11e9-af31-eb3648529628",
     "name": "topStatic",
     "kind": "v",
     "type": "number",
     "namespace": "SubTwo.prototype.constructor",
+    "parent": "b4bcbffb-5908-11e9-af31-eb3648529628",
     "origin": {
       "!type": "number",
       "!data": {
@@ -444,13 +494,15 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff5-5908-11e9-af31-eb3648529628",
     "name": "topStatic",
     "kind": "v",
     "type": "number",
     "namespace": "SubOne",
+    "parent": "b4bc23b7-5908-11e9-af31-eb3648529628",
     "origin": {
       "!type": "number",
       "!data": {
@@ -458,13 +510,15 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce70c-5908-11e9-af31-eb3648529628",
     "name": "topStatic",
     "kind": "v",
     "type": "number",
     "namespace": "SubEleven.prototype.constructor",
+    "parent": "b4bce709-5908-11e9-af31-eb3648529628",
     "origin": {
       "!type": "number",
       "!data": {
@@ -472,13 +526,15 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce703-5908-11e9-af31-eb3648529628",
     "name": "topStatic",
     "kind": "v",
     "type": "number",
     "namespace": "SubTwo",
+    "parent": "b4bcbff8-5908-11e9-af31-eb3648529628",
     "origin": {
       "!type": "number",
       "!data": {
@@ -486,15 +542,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbffb-5908-11e9-af31-eb3648529628",
     "name": "constructor",
-    "addr": "/SubTwo/",
+    "addr": "/var SubTwo/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 24,
     "namespace": "SubTwo.prototype",
+    "parent": "b4bcbff9-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "618[23:4]-624[23:10]",
       "!type": "fn(arg: bool)",
@@ -503,13 +561,15 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbff2-5908-11e9-af31-eb3648529628",
     "name": "topStatic",
     "kind": "v",
     "type": "number",
     "namespace": "SubOne.prototype.constructor",
+    "parent": "b4bc98e0-5908-11e9-af31-eb3648529628",
     "origin": {
       "!type": "number",
       "!data": {
@@ -517,15 +577,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce701-5908-11e9-af31-eb3648529628",
     "name": "argTwo",
-    "addr": "/argTwo/",
+    "addr": "/  function SubTwo\\(arg\\) \\{ this\\.argTwo/",
     "kind": "v",
     "type": "boolean",
     "lineno": 25,
     "namespace": "SubTwo.prototype.constructor",
+    "parent": "b4bcbffb-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "677[24:30]-683[24:36]",
       "!type": "bool",
@@ -534,15 +596,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce704-5908-11e9-af31-eb3648529628",
     "name": "argTwo",
-    "addr": "/argTwo/",
+    "addr": "/  function SubTwo\\(arg\\) \\{ this\\.argTwo/",
     "kind": "v",
     "type": "boolean",
     "lineno": 25,
     "namespace": "SubTwo",
+    "parent": "b4bcbff8-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "677[24:30]-683[24:36]",
       "!type": "bool",
@@ -551,15 +615,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce702-5908-11e9-af31-eb3648529628",
     "name": "arg",
-    "addr": "/arg/",
+    "addr": "/  function SubTwo\\(arg/",
     "kind": "v",
     "type": "boolean",
     "lineno": 25,
     "namespace": "SubTwo.prototype.constructor",
+    "parent": "b4bcbffb-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "665[24:18]-668[24:21]",
       "!type": "bool",
@@ -570,15 +636,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce705-5908-11e9-af31-eb3648529628",
     "name": "arg",
-    "addr": "/arg/",
+    "addr": "/  function SubTwo\\(arg/",
     "kind": "v",
     "type": "boolean",
     "lineno": 25,
     "namespace": "SubTwo",
+    "parent": "b4bcbff8-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "665[24:18]-668[24:21]",
       "!type": "bool",
@@ -589,15 +657,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbffa-5908-11e9-af31-eb3648529628",
     "name": "methodTwo",
-    "addr": "/methodTwo/",
+    "addr": "/  SubTwo\\.prototype\\.methodTwo/",
     "kind": "f",
     "type": "void function()",
     "lineno": 27,
     "namespace": "SubTwo.prototype",
+    "parent": "b4bcbff9-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "741[26:19]-750[26:28]",
       "!type": "fn()",
@@ -606,15 +676,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bcbffd-5908-11e9-af31-eb3648529628",
     "name": "methodTwo",
-    "addr": "/methodTwo/",
+    "addr": "/  SubTwo\\.prototype\\.methodTwo/",
     "kind": "f",
     "type": "void function()",
     "lineno": 27,
     "namespace": "SubTwo.prototype.constructor.prototype",
+    "parent": "b4bcbffc-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "741[26:19]-750[26:28]",
       "!type": "fn()",
@@ -623,11 +695,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce706-5908-11e9-af31-eb3648529628",
     "name": "SubEleven",
-    "addr": "/SubEleven/",
+    "addr": "/var SubEleven/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 31,
@@ -639,15 +712,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce709-5908-11e9-af31-eb3648529628",
     "name": "constructor",
-    "addr": "/SubEleven/",
+    "addr": "/var SubEleven/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 31,
     "namespace": "SubEleven.prototype",
+    "parent": "b4bce707-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "811[30:4]-820[30:13]",
       "!type": "fn(arg: bool)",
@@ -656,15 +731,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bd0e10-5908-11e9-af31-eb3648529628",
     "name": "arg",
-    "addr": "/arg/",
+    "addr": "/  function SubEleven\\(arg/",
     "kind": "v",
     "type": "boolean",
     "lineno": 32,
     "namespace": "SubEleven.prototype.constructor",
+    "parent": "b4bce709-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "864[31:21]-867[31:24]",
       "!type": "bool",
@@ -675,15 +752,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bd0e13-5908-11e9-af31-eb3648529628",
     "name": "arg",
-    "addr": "/arg/",
+    "addr": "/  function SubEleven\\(arg/",
     "kind": "v",
     "type": "boolean",
     "lineno": 32,
     "namespace": "SubEleven",
+    "parent": "b4bce706-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "864[31:21]-867[31:24]",
       "!type": "bool",
@@ -694,15 +773,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce70b-5908-11e9-af31-eb3648529628",
     "name": "methodEleven",
-    "addr": "/methodEleven/",
+    "addr": "/  SubEleven\\.prototype\\.methodEleven/",
     "kind": "f",
     "type": "string function()",
     "lineno": 34,
     "namespace": "SubEleven.prototype.constructor.prototype",
+    "parent": "b4bce70a-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "951[33:22]-963[33:34]",
       "!type": "fn() -> string",
@@ -711,15 +792,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bce708-5908-11e9-af31-eb3648529628",
     "name": "methodEleven",
-    "addr": "/methodEleven/",
+    "addr": "/  SubEleven\\.prototype\\.methodEleven/",
     "kind": "f",
     "type": "string function()",
     "lineno": 34,
     "namespace": "SubEleven.prototype",
+    "parent": "b4bce707-5908-11e9-af31-eb3648529628",
     "origin": {
       "!span": "951[33:22]-963[33:34]",
       "!type": "fn() -> string",
@@ -728,11 +811,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bd0e14-5908-11e9-af31-eb3648529628",
     "name": "one",
-    "addr": "/one/",
+    "addr": "/var top = new Top, one/",
     "kind": "v",
     "type": "SubOne",
     "lineno": 38,
@@ -744,11 +828,12 @@
         "type": "Top"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bd0e15-5908-11e9-af31-eb3648529628",
     "name": "two",
-    "addr": "/two/",
+    "addr": "/var top = new Top, one = new SubOne\\(true\\), two/",
     "kind": "v",
     "type": "SubTwo",
     "lineno": 38,
@@ -760,11 +845,12 @@
         "type": "Top"
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   },
   {
+    "id": "b4bd0e16-5908-11e9-af31-eb3648529628",
     "name": "elf",
-    "addr": "/elf/",
+    "addr": "/var top = new Top, one = new SubOne\\(true\\), two = new SubTwo\\(false\\), elf/",
     "kind": "v",
     "type": "SubEleven",
     "lineno": 38,
@@ -775,6 +861,6 @@
         "isConstructor": false
       }
     },
-    "tagfile": "__DIR__/extends.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
   }
 ]

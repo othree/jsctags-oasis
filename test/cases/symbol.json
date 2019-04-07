@@ -1,7 +1,8 @@
 [
   {
+    "id": "bb46a390-5908-11e9-be7a-7d9833e906a5",
     "name": "mySym",
-    "addr": "/mySym/",
+    "addr": "/var mySym/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -11,11 +12,12 @@
         "type": "Symbol.prototype"
       }
     },
-    "tagfile": "__DIR__/symbol.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
   },
   {
+    "id": "bb46f1b0-5908-11e9-be7a-7d9833e906a5",
     "name": "obj",
-    "addr": "/obj/",
+    "addr": "/var obj/",
     "kind": "v",
     "lineno": 3,
     "origin": {
@@ -25,15 +27,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/symbol.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
   },
   {
+    "id": "bb46f1b1-5908-11e9-be7a-7d9833e906a5",
     "name": ":my_sym",
-    "addr": "/mySym/",
+    "addr": "/  \\[mySym/",
     "kind": "v",
     "type": "number",
     "lineno": 4,
     "namespace": "obj",
+    "parent": "bb46f1b0-5908-11e9-be7a-7d9833e906a5",
     "origin": {
       "!span": "45[3:3]-50[3:8]",
       "!type": "number",
@@ -42,15 +46,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/symbol.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
   },
   {
+    "id": "bb4718c1-5908-11e9-be7a-7d9833e906a5",
     "name": "iterator",
-    "addr": "/Symbol\\.iterator/",
+    "addr": "/obj\\[Symbol\\.iterator/",
     "kind": "v",
     "type": "string",
     "lineno": 8,
     "namespace": "obj.:Symbol",
+    "parent": "bb4718c0-5908-11e9-be7a-7d9833e906a5",
     "origin": {
       "!span": "85[7:4]-100[7:19]",
       "!type": "string",
@@ -59,6 +65,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/symbol.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
   }
 ]

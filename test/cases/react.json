@@ -1,7 +1,8 @@
 [
   {
+    "id": "ba414180-5908-11e9-bc7e-9d9483536ab5",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/var a/",
     "kind": "v",
     "type": "boolean",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a7-5908-11e9-bc7e-9d9483536ab5",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/var c = <a n:foo/",
     "kind": "v",
     "type": "boolean",
     "lineno": 3,
@@ -29,11 +31,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416890-5908-11e9-bc7e-9d9483536ab5",
     "name": "e",
-    "addr": "/e/",
+    "addr": "/var e/",
     "kind": "v",
     "type": "boolean",
     "lineno": 5,
@@ -45,11 +48,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa0-5908-11e9-bc7e-9d9483536ab5",
     "name": "test",
-    "addr": "/test/",
+    "addr": "/var g = <AbC\\-def\\\\n  test/",
     "kind": "v",
     "type": "boolean",
     "lineno": 7,
@@ -61,11 +65,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416891-5908-11e9-bc7e-9d9483536ab5",
     "name": "g",
-    "addr": "/g/",
+    "addr": "/var g/",
     "kind": "v",
     "type": "boolean",
     "lineno": 7,
@@ -77,11 +82,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416892-5908-11e9-bc7e-9d9483536ab5",
     "name": "h",
-    "addr": "/h/",
+    "addr": "/var h/",
     "kind": "v",
     "type": "boolean",
     "lineno": 8,
@@ -93,11 +99,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416893-5908-11e9-bc7e-9d9483536ab5",
     "name": "i",
-    "addr": "/i/",
+    "addr": "/var i/",
     "kind": "v",
     "type": "boolean",
     "lineno": 9,
@@ -109,11 +116,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416894-5908-11e9-bc7e-9d9483536ab5",
     "name": "j",
-    "addr": "/j/",
+    "addr": "/var j/",
     "kind": "v",
     "type": "boolean",
     "lineno": 10,
@@ -125,11 +133,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416895-5908-11e9-bc7e-9d9483536ab5",
     "name": "k",
-    "addr": "/k/",
+    "addr": "/var k/",
     "kind": "v",
     "type": "boolean",
     "lineno": 11,
@@ -141,11 +150,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416896-5908-11e9-bc7e-9d9483536ab5",
     "name": "l",
-    "addr": "/l/",
+    "addr": "/var l/",
     "kind": "v",
     "type": "boolean",
     "lineno": 12,
@@ -157,11 +167,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416897-5908-11e9-bc7e-9d9483536ab5",
     "name": "m",
-    "addr": "/m/",
+    "addr": "/var m/",
     "kind": "v",
     "type": "boolean",
     "lineno": 13,
@@ -173,11 +184,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa1-5908-11e9-bc7e-9d9483536ab5",
     "name": "left",
-    "addr": "/left/",
+    "addr": "/var m = <LeftRight left/",
     "kind": "v",
     "type": "boolean",
     "lineno": 13,
@@ -189,11 +201,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416898-5908-11e9-bc7e-9d9483536ab5",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/var n/",
     "kind": "v",
     "type": "boolean",
     "lineno": 14,
@@ -205,11 +218,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba416899-5908-11e9-bc7e-9d9483536ab5",
     "name": "o",
-    "addr": "/o/",
+    "addr": "/var o/",
     "kind": "v",
     "type": "boolean",
     "lineno": 15,
@@ -221,11 +235,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba41689a-5908-11e9-bc7e-9d9483536ab5",
     "name": "p",
-    "addr": "/p/",
+    "addr": "/var p/",
     "kind": "v",
     "type": "boolean",
     "lineno": 16,
@@ -237,11 +252,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba41689b-5908-11e9-bc7e-9d9483536ab5",
     "name": "q",
-    "addr": "/q/",
+    "addr": "/var q/",
     "kind": "v",
     "type": "boolean",
     "lineno": 17,
@@ -253,11 +269,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba41689c-5908-11e9-bc7e-9d9483536ab5",
     "name": "r",
-    "addr": "/r/",
+    "addr": "/var r/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
@@ -269,11 +286,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa2-5908-11e9-bc7e-9d9483536ab5",
     "name": "post",
-    "addr": "/post/",
+    "addr": "/var r = <div \\{\\.\\.\\.props\\} post/",
     "kind": "v",
     "type": "boolean",
     "lineno": 18,
@@ -285,11 +303,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa4-5908-11e9-bc7e-9d9483536ab5",
     "name": "pre2",
-    "addr": "/pre2/",
+    "addr": "/var s = <div pre=\"leading\" pre2/",
     "kind": "v",
     "type": "string",
     "lineno": 19,
@@ -301,11 +320,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa3-5908-11e9-bc7e-9d9483536ab5",
     "name": "pre",
-    "addr": "/pre/",
+    "addr": "/var s = <div pre/",
     "kind": "v",
     "type": "string",
     "lineno": 19,
@@ -317,11 +337,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba41689d-5908-11e9-bc7e-9d9483536ab5",
     "name": "s",
-    "addr": "/s/",
+    "addr": "/var s/",
     "kind": "v",
     "type": "boolean",
     "lineno": 19,
@@ -333,11 +354,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa5-5908-11e9-bc7e-9d9483536ab5",
     "name": "aa",
-    "addr": "/aa/",
+    "addr": "/var t = <A aa/",
     "kind": "v",
     "lineno": 20,
     "origin": {
@@ -347,11 +369,12 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa6-5908-11e9-bc7e-9d9483536ab5",
     "name": "bb",
-    "addr": "/bb/",
+    "addr": "/var t = <A aa=\\{aa\\.bb\\.cc\\} bb/",
     "kind": "v",
     "type": "boolean",
     "lineno": 20,
@@ -363,11 +386,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba41689e-5908-11e9-bc7e-9d9483536ab5",
     "name": "t",
-    "addr": "/t/",
+    "addr": "/var t/",
     "kind": "v",
     "type": "boolean",
     "lineno": 20,
@@ -379,11 +403,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba418fa7-5908-11e9-bc7e-9d9483536ab5",
     "name": "href",
-    "addr": "/href/",
+    "addr": "/var u = <p>foo <a href/",
     "kind": "v",
     "type": "boolean",
     "lineno": 21,
@@ -395,11 +420,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba41689f-5908-11e9-bc7e-9d9483536ab5",
     "name": "u",
-    "addr": "/u/",
+    "addr": "/var u/",
     "kind": "v",
     "type": "boolean",
     "lineno": 21,
@@ -411,11 +437,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a0-5908-11e9-bc7e-9d9483536ab5",
     "name": "v",
-    "addr": "/v/",
+    "addr": "/var v/",
     "kind": "v",
     "type": "boolean",
     "lineno": 22,
@@ -427,11 +454,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a1-5908-11e9-bc7e-9d9483536ab5",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "type": "boolean",
     "lineno": 23,
@@ -443,11 +471,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a2-5908-11e9-bc7e-9d9483536ab5",
     "name": "w",
-    "addr": "/w/",
+    "addr": "/var w/",
     "kind": "v",
     "type": "boolean",
     "lineno": 24,
@@ -459,11 +488,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a3-5908-11e9-bc7e-9d9483536ab5",
     "name": "y",
-    "addr": "/y/",
+    "addr": "/var y/",
     "kind": "v",
     "type": "boolean",
     "lineno": 25,
@@ -475,11 +505,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a4-5908-11e9-bc7e-9d9483536ab5",
     "name": "z",
-    "addr": "/z/",
+    "addr": "/var z/",
     "kind": "v",
     "type": "boolean",
     "lineno": 26,
@@ -491,11 +522,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a5-5908-11e9-bc7e-9d9483536ab5",
     "name": "ç",
-    "addr": "/ç/",
+    "addr": "/var ç/",
     "kind": "v",
     "type": "boolean",
     "lineno": 27,
@@ -507,11 +539,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   },
   {
+    "id": "ba4168a6-5908-11e9-bc7e-9d9483536ab5",
     "name": "arr",
-    "addr": "/arr/",
+    "addr": "/var arr/",
     "kind": "v",
     "type": "[bool]",
     "lineno": 29,
@@ -523,6 +556,6 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/react.jsx"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b7eb1c80-5908-11e9-a309-5b0fe71faac5",
     "name": "map",
-    "addr": "/map/",
+    "addr": "/let map/",
     "kind": "v",
     "type": "Map",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Map.prototype"
       }
     },
-    "tagfile": "__DIR__/map.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/map.js"
   },
   {
+    "id": "b7eb4390-5908-11e9-a309-5b0fe71faac5",
     "name": "key",
-    "addr": "/key/",
+    "addr": "/  ;\\[key/",
     "kind": "v",
     "type": "number",
     "lineno": 18,
@@ -29,11 +31,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/map.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/map.js"
   },
   {
+    "id": "b7eb4391-5908-11e9-a309-5b0fe71faac5",
     "name": "value",
-    "addr": "/value/",
+    "addr": "/  ;\\[key, value/",
     "kind": "v",
     "type": "string",
     "lineno": 18,
@@ -45,6 +48,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/map.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/map.js"
   }
 ]

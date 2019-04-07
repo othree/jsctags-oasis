@@ -1,7 +1,8 @@
 [
   {
+    "id": "b8e9a0c0-5908-11e9-9aae-35a23e1de9cd",
     "name": "bar",
-    "addr": "/bar/",
+    "addr": "/var bar/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/objectlit.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
+    "id": "b8e9c7d0-5908-11e9-9aae-35a23e1de9cd",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/var foo/",
     "kind": "v",
     "lineno": 3,
     "origin": {
@@ -27,15 +29,17 @@
         "type": "baz"
       }
     },
-    "tagfile": "__DIR__/objectlit.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
+    "id": "b8e9c7d1-5908-11e9-9aae-35a23e1de9cd",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/  a/",
     "kind": "v",
     "type": "boolean",
     "lineno": 6,
     "namespace": "foo",
+    "parent": "b8e9c7d0-5908-11e9-9aae-35a23e1de9cd",
     "origin": {
       "!span": "60[5:2]-61[5:3]",
       "!type": "bool",
@@ -44,15 +48,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/objectlit.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
+    "id": "b8e9c7d2-5908-11e9-9aae-35a23e1de9cd",
     "name": "method",
-    "addr": "/method/",
+    "addr": "/  method/",
     "kind": "f",
     "type": "string function()",
     "lineno": 7,
     "namespace": "foo",
+    "parent": "b8e9c7d0-5908-11e9-9aae-35a23e1de9cd",
     "origin": {
       "!span": "71[6:2]-77[6:8]",
       "!type": "fn() -> string",
@@ -61,11 +67,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/objectlit.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
+    "id": "b8e9c7d3-5908-11e9-9aae-35a23e1de9cd",
     "name": "baz",
-    "addr": "/baz/",
+    "addr": "/var baz/",
     "kind": "v",
     "lineno": 10,
     "origin": {
@@ -74,15 +81,17 @@
         "isConstructor": false
       }
     },
-    "tagfile": "__DIR__/objectlit.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   },
   {
+    "id": "b8e9c7d4-5908-11e9-9aae-35a23e1de9cd",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/  b/",
     "kind": "v",
     "type": "string",
     "lineno": 12,
     "namespace": "baz",
+    "parent": "b8e9c7d3-5908-11e9-9aae-35a23e1de9cd",
     "origin": {
       "!span": "132[11:2]-133[11:3]",
       "!type": "string",
@@ -91,6 +100,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/objectlit.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
   }
 ]

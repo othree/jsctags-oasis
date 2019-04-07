@@ -1,7 +1,8 @@
 [
   {
+    "id": "b76a53c0-5908-11e9-a2f4-57b542e20c5c",
     "name": "sup",
-    "addr": "/sup/",
+    "addr": "/var sup/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -11,15 +12,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/indirect_class.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js"
   },
   {
+    "id": "b76a7ad0-5908-11e9-a2f4-57b542e20c5c",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/  foo/",
     "kind": "f",
     "type": "number function()",
     "lineno": 2,
     "namespace": "sup",
+    "parent": "b76a53c0-5908-11e9-a2f4-57b542e20c5c",
     "origin": {
       "!span": "14[1:2]-17[1:5]",
       "!type": "fn() -> number",
@@ -28,11 +31,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/indirect_class.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js"
   },
   {
+    "id": "b76aa1e0-5908-11e9-a2f4-57b542e20c5c",
     "name": "makeClass",
-    "addr": "/makeClass/",
+    "addr": "/function makeClass/",
     "kind": "f",
     "type": "void function(makeClass.!0)",
     "lineno": 5,
@@ -44,15 +48,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/indirect_class.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js"
   },
   {
+    "id": "b76aa1e1-5908-11e9-a2f4-57b542e20c5c",
     "name": "Ctor",
-    "addr": "/Ctor/",
+    "addr": "/  function Ctor/",
     "kind": "f",
     "type": "void function()",
     "lineno": 6,
     "namespace": "makeClass",
+    "parent": "b76aa1e0-5908-11e9-a2f4-57b542e20c5c",
     "origin": {
       "!span": "89[5:11]-93[5:15]",
       "!type": "fn()",
@@ -63,14 +69,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/indirect_class.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js"
   },
   {
+    "id": "b76aa1e2-5908-11e9-a2f4-57b542e20c5c",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  Ctor\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "makeClass.Ctor",
+    "parent": "b76aa1e1-5908-11e9-a2f4-57b542e20c5c",
     "origin": {
       "!span": "106[6:7]-115[6:16]",
       "!data": {
@@ -80,14 +88,16 @@
         "type": "sup"
       }
     },
-    "tagfile": "__DIR__/indirect_class.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js"
   },
   {
+    "id": "b76aa1e3-5908-11e9-a2f4-57b542e20c5c",
     "name": "m",
-    "addr": "/m/",
+    "addr": "/  for \\(var m/",
     "kind": "v",
     "lineno": 8,
     "namespace": "makeClass",
+    "parent": "b76aa1e0-5908-11e9-a2f4-57b542e20c5c",
     "origin": {
       "!span": "149[7:11]-150[7:12]",
       "!data": {
@@ -97,13 +107,15 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/indirect_class.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js"
   },
   {
+    "id": "b76aa1e5-5908-11e9-a2f4-57b542e20c5c",
     "name": "Mine",
-    "addr": "/Mine/",
+    "addr": "/var Mine/",
     "kind": "v",
     "lineno": 11,
+    "parent": "b76aa1e4-5908-11e9-a2f4-57b542e20c5c",
     "origin": {
       "!span": "202[10:4]-206[10:8]",
       "!data": {
@@ -113,6 +125,6 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/indirect_class.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b3c91120-5908-11e9-b12c-b18f8a346bcb",
     "name": "o",
-    "addr": "/o/",
+    "addr": "/var o/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -11,15 +12,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/defineProperty.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
   },
   {
+    "id": "b3c93830-5908-11e9-b12c-b18f8a346bcb",
     "name": "prop1",
-    "addr": "/\"prop1\"/",
+    "addr": "/Object\\.defineProperty\\(o, \"prop1\"/",
     "kind": "v",
     "type": "string",
     "lineno": 4,
     "namespace": "o",
+    "parent": "b3c91120-5908-11e9-b12c-b18f8a346bcb",
     "origin": {
       "!span": "61[3:25]-68[3:32]",
       "!type": "string",
@@ -28,15 +31,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/defineProperty.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
   },
   {
+    "id": "b3c93831-5908-11e9-b12c-b18f8a346bcb",
     "name": "prop2",
-    "addr": "/\"prop2\"/",
+    "addr": "/Object\\.defineProperty\\(o, \"prop2\"/",
     "kind": "v",
     "type": "number",
     "lineno": 8,
     "namespace": "o",
+    "parent": "b3c91120-5908-11e9-b12c-b18f8a346bcb",
     "origin": {
       "!span": "137[7:25]-144[7:32]",
       "!type": "number",
@@ -45,11 +50,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/defineProperty.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
   },
   {
+    "id": "b3c93832-5908-11e9-b12c-b18f8a346bcb",
     "name": "o2",
-    "addr": "/o2/",
+    "addr": "/var o2/",
     "kind": "v",
     "lineno": 17,
     "origin": {
@@ -59,15 +65,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/defineProperty.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
   },
   {
+    "id": "b3c93833-5908-11e9-b12c-b18f8a346bcb",
     "name": "prop1",
-    "addr": "/\\{/",
+    "addr": "/Object\\.defineProperties\\(o2, \\{/",
     "kind": "v",
     "type": "number",
     "lineno": 19,
     "namespace": "o2",
+    "parent": "b3c93832-5908-11e9-b12c-b18f8a346bcb",
     "origin": {
       "!span": "286[18:28]-354[21:1]",
       "!type": "number",
@@ -76,15 +84,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/defineProperty.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
   },
   {
+    "id": "b3c93834-5908-11e9-b12c-b18f8a346bcb",
     "name": "prop2",
-    "addr": "/\\{/",
+    "addr": "/Object\\.defineProperties\\(o2, \\{/",
     "kind": "v",
     "type": "boolean",
     "lineno": 19,
     "namespace": "o2",
+    "parent": "b3c93832-5908-11e9-b12c-b18f8a346bcb",
     "origin": {
       "!span": "286[18:28]-354[21:1]",
       "!type": "bool",
@@ -93,6 +103,6 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/defineProperty.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b2392250-5908-11e9-8e06-ddffa17374ff",
     "name": "Ext",
-    "addr": "/Ext/",
+    "addr": "/var Ext/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -11,15 +12,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2394960-5908-11e9-8e06-ddffa17374ff",
     "name": "extend",
-    "addr": "/extend/",
+    "addr": "/Ext\\.extend/",
     "kind": "f",
     "type": "void function(fn()",
     "lineno": 2,
     "namespace": "Ext",
+    "parent": "b2392250-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "25[1:4]-31[1:10]",
       "!type": "fn(subclass: fn(), superclass: ?)",
@@ -28,14 +31,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2397075-5908-11e9-8e06-ddffa17374ff",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  subclass\\.prototype/",
     "kind": "v",
     "lineno": 8,
     "namespace": "Ext.extend.subclass",
+    "parent": "b2397072-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "231[7:11]-240[7:20]",
       "!data": {
@@ -44,15 +49,17 @@
         "isArg": false
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2397073-5908-11e9-8e06-ddffa17374ff",
     "name": "extend",
-    "addr": "/extend/",
+    "addr": "/  subclass\\.extend/",
     "kind": "f",
     "type": "void function(?)",
     "lineno": 10,
     "namespace": "Ext.extend.subclass",
+    "parent": "b2397072-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "264[9:11]-270[9:17]",
       "!type": "fn(o: ?)",
@@ -63,14 +70,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2397074-5908-11e9-8e06-ddffa17374ff",
     "name": "o",
-    "addr": "/o/",
+    "addr": "/  subclass\\.extend = function\\(o/",
     "kind": "v",
     "lineno": 10,
     "namespace": "Ext.extend.subclass.extend",
+    "parent": "b2397073-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "282[9:29]-283[9:30]",
       "!data": {
@@ -80,15 +89,17 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2397072-5908-11e9-8e06-ddffa17374ff",
     "name": "subclass",
-    "addr": "/subclass/",
+    "addr": "/Ext\\.extend = function\\(subclass/",
     "kind": "f",
     "type": "void function()",
     "lineno": 14,
     "namespace": "Ext.extend",
+    "parent": "b2394960-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "369[13:22]-377[13:30]",
       "!type": "fn()",
@@ -99,15 +110,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2397076-5908-11e9-8e06-ddffa17374ff",
     "name": "superclass",
-    "addr": "/superclass/",
+    "addr": "/Ext\\.extend = function\\(subclass, superclass/",
     "kind": "f",
     "type": "void function()",
     "lineno": 14,
     "namespace": "Ext.extend",
+    "parent": "b2394960-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "379[13:32]-389[13:42]",
       "!type": "fn()",
@@ -118,15 +131,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2397070-5908-11e9-8e06-ddffa17374ff",
     "name": "F",
-    "addr": "/F/",
+    "addr": "/  var F/",
     "kind": "f",
     "type": "void function()",
     "lineno": 18,
     "namespace": "Ext.extend",
+    "parent": "b2394960-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "489[17:6]-490[17:7]",
       "!type": "fn()",
@@ -137,14 +152,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   },
   {
+    "id": "b2397071-5908-11e9-8e06-ddffa17374ff",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  F\\.prototype/",
     "kind": "v",
     "lineno": 19,
     "namespace": "Ext.extend.F",
+    "parent": "b2397070-5908-11e9-8e06-ddffa17374ff",
     "origin": {
       "!span": "512[18:4]-521[18:13]",
       "!data": {
@@ -153,6 +170,6 @@
         "isArg": false
       }
     },
-    "tagfile": "__DIR__/blowup.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
   }
 ]

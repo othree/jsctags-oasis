@@ -1,0 +1,2 @@
+Ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js	/function Ctor/;"	f	lineno:4	type:Ctor function()
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js	/  this\.foo/;"	v	lineno:6	namespace:Ctor	type:number

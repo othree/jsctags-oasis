@@ -1,0 +1,5 @@
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/  v\.bar/;"	v	lineno:10	namespace:x	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/var foo/;"	v	lineno:1	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/  v\.foo/;"	v	lineno:9	namespace:x	type:number
+init	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/function init/;"	f	lineno:8	type:void function(x)
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js	/var x/;"	v	lineno:6

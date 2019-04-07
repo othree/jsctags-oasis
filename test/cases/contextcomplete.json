@@ -1,7 +1,8 @@
 [
   {
+    "id": "b3531dd0-5908-11e9-ab20-2b51bfeb9c58",
     "name": "whoAmI",
-    "addr": "/whoAmI/",
+    "addr": "/function whoAmI/",
     "kind": "f",
     "type": "void function(?, ?)",
     "lineno": 1,
@@ -13,14 +14,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/contextcomplete.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
   },
   {
+    "id": "b35344e0-5908-11e9-ab20-2b51bfeb9c58",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/function whoAmI\\(a/",
     "kind": "v",
     "lineno": 1,
     "namespace": "whoAmI",
+    "parent": "b3531dd0-5908-11e9-ab20-2b51bfeb9c58",
     "origin": {
       "!span": "16[0:16]-17[0:17]",
       "!data": {
@@ -30,14 +33,16 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/contextcomplete.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
   },
   {
+    "id": "b35344e1-5908-11e9-ab20-2b51bfeb9c58",
     "name": "i",
-    "addr": "/i/",
+    "addr": "/function whoAmI\\(a, i/",
     "kind": "v",
     "lineno": 1,
     "namespace": "whoAmI",
+    "parent": "b3531dd0-5908-11e9-ab20-2b51bfeb9c58",
     "origin": {
       "!span": "19[0:19]-20[0:20]",
       "!data": {
@@ -47,6 +52,6 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/contextcomplete.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
   }
 ]

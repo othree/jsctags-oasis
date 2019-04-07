@@ -1,0 +1,15 @@
+Class	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function Class/;"	f	lineno:1	type:void function()
+OtherClass	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function OtherClass/;"	f	lineno:18	type:void function()
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/let c/;"	v	lineno:24	type:Class
+m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m1/;"	f	lineno:14	namespace:Class.prototype	type:void function()
+m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m1/;"	f	lineno:14	type:void function()
+m1	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m1/;"	f	lineno:14	namespace:OtherClass.prototype	type:void function()
+m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m2/;"	f	lineno:16	type:void function()
+m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m2/;"	f	lineno:16	namespace:OtherClass.prototype	type:void function()
+m2	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function m2/;"	f	lineno:16	namespace:Class.prototype	type:void function()
+m3	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/  m3/;"	f	lineno:4	namespace:Class.prototype	type:void function()
+m4	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/  m4/;"	f	lineno:21	namespace:OtherClass.prototype	type:void function()
+mixin	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/function mixin/;"	f	lineno:7	type:!0 function(Class.prototype|string)
+oc	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/let oc/;"	v	lineno:31	type:OtherClass
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/Class\.prototype/;"	v	lineno:2	namespace:Class
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js	/OtherClass\.prototype/;"	v	lineno:19	namespace:OtherClass

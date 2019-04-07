@@ -1,0 +1,121 @@
+CSS	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  CSS/;"	v	lineno:183	namespace:config
+Ctor1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Ctor1/;"	f	lineno:155	type:void function()
+Ctor2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Ctor2/;"	f	lineno:159	type:void function()
+Foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Foo/;"	f	lineno:166	type:void function(bool)
+IDs	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    IDs/;"	v	lineno:184	namespace:config.CSS
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a/;"	v	lineno:8	type:[number]
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar: 20, foo2: \{ a/;"	v	lineno:119	namespace:base.foo2	type:number
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/Ctor1\.prototype = \{a/;"	v	lineno:156	namespace:Ctor1.prototype	type:number
+a2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a2/;"	v	lineno:29	type:number
+a3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a3/;"	v	lineno:32	type:number
+a4	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a4/;"	v	lineno:35	type:number
+a5	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a5/;"	v	lineno:38	type:number
+age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.age/;"	v	lineno:89	namespace:person	type:number
+age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname, lastname, age/;"	v	lineno:95	namespace:personType	type:number
+age	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.age/;"	v	lineno:98	namespace:friend	type:number
+arr1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var arr1/;"	v	lineno:206	type:[bool]
+arr2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var arr2/;"	v	lineno:213	type:[number]
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar: 20, foo2: \{ a: 10, b/;"	v	lineno:119	namespace:base.foo2	type:string
+b1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var b1/;"	v	lineno:41	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar/;"	v	lineno:119	namespace:base	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  bar/;"	v	lineno:173	namespace:Foo.prototype	type:number
+base	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base/;"	v	lineno:119
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/base\.baz/;"	v	lineno:129	namespace:base	type:number
+canvas	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      canvas/;"	v	lineno:186	namespace:config.CSS.IDs	type:string
+car	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var car/;"	v	lineno:69	type:string
+changeName	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.changeName/;"	f	lineno:100	namespace:personType	type:!this.lastname function(?)
+config	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/config/;"	v	lineno:182
+container	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      container/;"	v	lineno:185	namespace:config.CSS.IDs	type:string
+controls	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      controls/;"	v	lineno:188	namespace:config.CSS.IDs	type:string
+empty	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var empty/;"	v	lineno:150
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var extend/;"	v	lineno:144
+eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.eyecolor/;"	v	lineno:90	namespace:person	type:string
+eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname, lastname, age, eyecolor/;"	v	lineno:95	namespace:personType	type:string
+eyecolor	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.eyecolor/;"	v	lineno:99	namespace:friend	type:string
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var f/;"	v	lineno:218
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function timeout\(f/;"	v	lineno:272	namespace:timeout
+f	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var f/;"	v	lineno:296	namespace:testIfControlFlow1
+f2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var f2/;"	v	lineno:220
+f3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var f3/;"	v	lineno:222
+firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.firstname/;"	v	lineno:87	namespace:person	type:string
+firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname/;"	v	lineno:95	namespace:personType	type:string
+firstname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.firstname/;"	v	lineno:96	namespace:friend	type:string
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo/;"	v	lineno:119	namespace:base	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var foo/;"	v	lineno:176	type:Foo
+foo2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var base = \{foo: 10, bar: 20, foo2/;"	v	lineno:119	namespace:base
+friend	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var friend/;"	v	lineno:110	type:personType
+func	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  func/;"	f	lineno:275	namespace:obj	type:void function()
+gen1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var gen1/;"	v	lineno:132
+gen2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var gen2/;"	v	lineno:133
+globalVar1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  globalVar1/;"	v	lineno:259	type:number
+i	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  for \(i/;"	v	lineno:360	type:number
+inCase1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var inCase1/;"	v	lineno:381	namespace:testSwitchFlow1	type:string
+inCase2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var inCase2/;"	v	lineno:385	namespace:testSwitchFlow1	type:string
+inNestedIf	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var inNestedIf/;"	v	lineno:303	namespace:testIfControlFlow1	type:string
+j	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    for \(var j/;"	v	lineno:324	namespace:testForControlFlow1	type:number
+k	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var k/;"	v	lineno:23	type:number
+kaka	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/gen2\.kaka/;"	v	lineno:135	namespace:gen2	type:number
+l	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var l/;"	v	lineno:26	type:number
+lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/person\.lastname/;"	v	lineno:88	namespace:person	type:string
+lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType\(firstname, lastname/;"	v	lineno:95	namespace:personType	type:string
+lastname	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.lastname/;"	v	lineno:97	namespace:friend	type:string
+localVar1InOne	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var localVar1InOne/;"	v	lineno:258	namespace:one	type:string
+localVarBecomeGlobal	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  localVarBecomeGlobal/;"	v	lineno:285	type:[number]
+m	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var m/;"	v	lineno:20	type:number
+m	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var m/;"	v	lineno:321	namespace:testForControlFlow1	type:string
+makeString	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  makeString/;"	f	lineno:172	namespace:Foo.prototype	type:string function()
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var n/;"	v	lineno:17	type:number
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  for \(var n/;"	v	lineno:322	namespace:testForControlFlow1	type:number
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var n/;"	v	lineno:342	namespace:testWhileLoopFlow1	type:number
+n	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testSwitchFlow1\(n/;"	v	lineno:377	namespace:testSwitchFlow1
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  function changeName\(name/;"	v	lineno:104	namespace:personType.changeName
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  name/;"	v	lineno:274	namespace:obj	type:string
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/          return \{ name/;"	v	lineno:299	namespace:testIfControlFlow1.f	type:string
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var obj/;"	v	lineno:273
+one	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function one/;"	f	lineno:254	type:void function()
+pattern1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var pattern1/;"	v	lineno:54	type:regexp
+person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var person/;"	v	lineno:86
+person	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  var person/;"	v	lineno:256	namespace:one	type:string
+personType	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function personType/;"	f	lineno:95	type:void function(string, string, number, string)
+player	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      player/;"	v	lineno:187	namespace:config.CSS.IDs	type:string
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	//;"	v	namespace:extend	type:string
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/empty\.prop1/;"	v	lineno:151	namespace:empty	type:string
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	//;"	v	namespace:extend	type:number
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/Ctor1\.prototype/;"	v	lineno:156	namespace:Ctor1
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/Foo\.prototype/;"	v	lineno:171	namespace:Foo
+quux	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/gen1\.quux/;"	v	lineno:134	namespace:gen1	type:number
+reg	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var reg/;"	v	lineno:51	type:regexp
+s1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s1/;"	v	lineno:72	type:string
+s2	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s2/;"	v	lineno:75	type:string
+s3	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s3/;"	v	lineno:78	type:string
+s4	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var s4/;"	v	lineno:81	type:string
+scope1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function scope1/;"	f	lineno:216	type:void function()
+singleton	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var singleton/;"	v	lineno:164
+t	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var t/;"	v	lineno:305	namespace:testIfControlFlow1
+testBreak	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var testBreak/;"	v	lineno:362	namespace:testBreakFlow1	type:string
+testBreakFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testBreakFlow1/;"	f	lineno:359	type:void function()
+testContinue	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var testContinue/;"	v	lineno:365	namespace:testBreakFlow1	type:string
+testDoWhileLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testDoWhileLoopFlow1/;"	f	lineno:349	type:void function()
+testForControlFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testForControlFlow1/;"	f	lineno:317	type:void function()
+testForInLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testForInLoopFlow1/;"	f	lineno:334	type:void function()
+testIfControlFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testIfControlFlow1/;"	f	lineno:291	type:void function()
+testSwitchFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testSwitchFlow1/;"	f	lineno:377	type:void function(?)
+testTryCatchFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testTryCatchFlow1/;"	f	lineno:398	type:void function()
+testWhileLoopFlow1	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function testWhileLoopFlow1/;"	f	lineno:341	type:void function()
+timeout	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function timeout\(f, timeout/;"	f	lineno:272	namespace:timeout	type:void function(?, ?)
+timeout	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function timeout/;"	v	lineno:272
+varInCatch	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInCatch/;"	v	lineno:403	namespace:testTryCatchFlow1	type:string
+varInDoWhileLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInDoWhileLoop/;"	v	lineno:352	namespace:testDoWhileLoopFlow1	type:string
+varInForLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInForLoop/;"	v	lineno:323	namespace:testForControlFlow1	type:string
+varInIf	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInIf/;"	v	lineno:294	namespace:testIfControlFlow1	type:string
+varInNestedForLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/      var varInNestedForLoop/;"	v	lineno:325	namespace:testForControlFlow1	type:number
+varInTry	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInTry/;"	v	lineno:400	namespace:testTryCatchFlow1	type:string
+varInWhileLoop	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/    var varInWhileLoop/;"	v	lineno:344	namespace:testWhileLoopFlow1	type:string
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var x/;"	v	lineno:3	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/function Foo\(x/;"	v	lineno:166	namespace:Foo	type:boolean
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.x/;"	v	lineno:167	namespace:foo	type:boolean
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var a/;"	v	lineno:8	type:[number]
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var y/;"	v	lineno:11	type:[number]
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/  this\.y/;"	v	lineno:168	namespace:Foo	type:[number]
+years	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var years/;"	v	lineno:201	type:[number]
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js	/var z/;"	v	lineno:14	type:number

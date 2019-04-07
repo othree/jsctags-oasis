@@ -1,11 +1,11 @@
 [
   {
-    "id": "7c6c7c71-552b-11e9-87b4-57e239e9b15a",
+    "id": "b74147f1-5908-11e9-8574-9f6c0344a4f4",
     "name": "React",
-    "addr": "/React/",
+    "addr": "/import React/",
     "kind": "v",
     "lineno": 1,
-    "parent": "7c6c7c70-552b-11e9-87b4-57e239e9b15a",
+    "parent": "b74147f0-5908-11e9-8574-9f6c0344a4f4",
     "origin": {
       "!span": "7[0:7]-12[0:12]",
       "!data": {
@@ -15,12 +15,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/import.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/import.js"
   },
   {
-    "id": "7c6c5560-552b-11e9-87b4-57e239e9b15a",
+    "id": "b74120e0-5908-11e9-8574-9f6c0344a4f4",
     "name": "z",
-    "addr": "/z/",
+    "addr": "/var z/",
     "kind": "f",
     "type": "void function()",
     "lineno": 4,
@@ -32,6 +32,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/import.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/import.js"
   }
 ]

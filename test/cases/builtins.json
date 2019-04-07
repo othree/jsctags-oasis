@@ -1,7 +1,8 @@
 [
   {
+    "id": "b28853c0-5908-11e9-88ef-3d77f898a428",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/builtins.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js"
   },
   {
+    "id": "b2887ad0-5908-11e9-88ef-3d77f898a428",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/var a/",
     "kind": "v",
     "type": "[number]",
     "lineno": 4,
@@ -29,11 +31,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/builtins.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js"
   },
   {
+    "id": "b2887ad1-5908-11e9-88ef-3d77f898a428",
     "name": "num",
-    "addr": "/num/",
+    "addr": "/var num/",
     "kind": "v",
     "type": "number",
     "lineno": 26,
@@ -45,6 +48,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/builtins.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b7955b60-5908-11e9-b969-abf2f48bdb2d",
     "name": "f",
-    "addr": "/f/",
+    "addr": "/var f/",
     "kind": "f",
     "type": "void function(f)",
     "lineno": 3,
@@ -13,15 +14,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/infinite-expansion.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
   },
   {
+    "id": "b795a980-5908-11e9-b969-abf2f48bdb2d",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/var f = function\\(n/",
     "kind": "f",
     "type": "void function(f)",
     "lineno": 3,
     "namespace": "f",
+    "parent": "b7955b60-5908-11e9-b969-abf2f48bdb2d",
     "origin": {
       "!span": "31[2:17]-32[2:18]",
       "!type": "fn(n: f)",
@@ -32,14 +35,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/infinite-expansion.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
   },
   {
+    "id": "b795d090-5908-11e9-b969-abf2f48bdb2d",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/  n\\.prototype/",
     "kind": "v",
     "lineno": 4,
     "namespace": "f.n",
+    "parent": "b795a980-5908-11e9-b969-abf2f48bdb2d",
     "origin": {
       "!span": "40[3:4]-49[3:13]",
       "!data": {
@@ -49,11 +54,12 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/infinite-expansion.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
   },
   {
+    "id": "b795d091-5908-11e9-b969-abf2f48bdb2d",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "type": "[x]",
     "lineno": 10,
@@ -65,11 +71,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/infinite-expansion.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
   },
   {
+    "id": "b795d092-5908-11e9-b969-abf2f48bdb2d",
     "name": "goop",
-    "addr": "/goop/",
+    "addr": "/function goop/",
     "kind": "f",
     "type": "void function(?) function(number)",
     "lineno": 15,
@@ -81,15 +88,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/infinite-expansion.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
   },
   {
+    "id": "b795d093-5908-11e9-b969-abf2f48bdb2d",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/function goop\\(n/",
     "kind": "v",
     "type": "number",
     "lineno": 15,
     "namespace": "goop",
+    "parent": "b795d092-5908-11e9-b969-abf2f48bdb2d",
     "origin": {
       "!span": "267[14:14]-268[14:15]",
       "!type": "number",
@@ -100,6 +109,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/infinite-expansion.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
   }
 ]

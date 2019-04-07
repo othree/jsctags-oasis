@@ -1,7 +1,8 @@
 [
   {
+    "id": "b3a18bf0-5908-11e9-ac45-67c0b67eb582",
     "name": "Ctor",
-    "addr": "/Ctor/",
+    "addr": "/function Ctor/",
     "kind": "f",
     "type": "Ctor function()",
     "lineno": 4,
@@ -13,15 +14,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/ctorpattern.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js"
   },
   {
+    "id": "b3a1b300-5908-11e9-ac45-67c0b67eb582",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/  this\\.foo/",
     "kind": "v",
     "type": "number",
     "lineno": 6,
     "namespace": "Ctor",
+    "parent": "b3a18bf0-5908-11e9-ac45-67c0b67eb582",
     "origin": {
       "!span": "178[5:7]-181[5:10]",
       "!type": "number",
@@ -30,6 +33,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/ctorpattern.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js"
   }
 ]

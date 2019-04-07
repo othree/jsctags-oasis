@@ -1,0 +1,5 @@
+a	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build\(strs, a/;"	v	lineno:6	namespace:build	type:number
+b	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build\(strs, a, b/;"	v	lineno:6	namespace:build	type:string
+build	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build/;"	f	lineno:6	type:boolean function(Array[string], number, string)
+strs	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/function build\(strs/;"	v	lineno:6	namespace:build	type:[string]
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/template.js	/var x/;"	v	lineno:2	type:number

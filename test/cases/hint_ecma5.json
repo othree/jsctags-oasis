@@ -1,7 +1,8 @@
 [
   {
+    "id": "b6f2d9d0-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "type": "number",
     "lineno": 3,
@@ -13,11 +14,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37630-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "y",
-    "addr": "/a/",
+    "addr": "/var a/",
     "kind": "v",
     "type": "[number]",
     "lineno": 8,
@@ -29,11 +31,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e0-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/var a/",
     "kind": "v",
     "type": "[number]",
     "lineno": 8,
@@ -45,13 +48,15 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f04-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "prop2",
     "kind": "v",
     "type": "number",
     "namespace": "extend",
+    "parent": "b6f34f02-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!type": "number",
       "!data": {
@@ -59,13 +64,15 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f03-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "prop1",
     "kind": "v",
     "type": "string",
     "namespace": "extend",
+    "parent": "b6f34f02-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!type": "string",
       "!data": {
@@ -73,14 +80,16 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3762f-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "y",
-    "addr": "/y/",
+    "addr": "/var y/",
     "kind": "v",
     "type": "[number]",
     "lineno": 11,
+    "parent": "b6f37626-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "206[10:4]-207[10:5]",
       "!type": "[number]",
@@ -91,11 +100,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e1-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "z",
-    "addr": "/z/",
+    "addr": "/var z/",
     "kind": "v",
     "type": "number",
     "lineno": 14,
@@ -107,11 +117,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e2-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/var n/",
     "kind": "v",
     "type": "number",
     "lineno": 17,
@@ -123,11 +134,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e3-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "m",
-    "addr": "/m/",
+    "addr": "/var m/",
     "kind": "v",
     "type": "number",
     "lineno": 20,
@@ -139,11 +151,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e4-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "k",
-    "addr": "/k/",
+    "addr": "/var k/",
     "kind": "v",
     "type": "number",
     "lineno": 23,
@@ -155,11 +168,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e5-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "l",
-    "addr": "/l/",
+    "addr": "/var l/",
     "kind": "v",
     "type": "number",
     "lineno": 26,
@@ -171,11 +185,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e6-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "a2",
-    "addr": "/a2/",
+    "addr": "/var a2/",
     "kind": "v",
     "type": "number",
     "lineno": 29,
@@ -187,11 +202,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e7-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "a3",
-    "addr": "/a3/",
+    "addr": "/var a3/",
     "kind": "v",
     "type": "number",
     "lineno": 32,
@@ -203,11 +219,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e8-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "a4",
-    "addr": "/a4/",
+    "addr": "/var a4/",
     "kind": "v",
     "type": "number",
     "lineno": 35,
@@ -219,11 +236,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300e9-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "a5",
-    "addr": "/a5/",
+    "addr": "/var a5/",
     "kind": "v",
     "type": "number",
     "lineno": 38,
@@ -235,11 +253,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300ea-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "b1",
-    "addr": "/b1/",
+    "addr": "/var b1/",
     "kind": "v",
     "type": "number",
     "lineno": 41,
@@ -251,11 +270,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300eb-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "reg",
-    "addr": "/reg/",
+    "addr": "/var reg/",
     "kind": "v",
     "type": "regexp",
     "lineno": 51,
@@ -267,14 +287,16 @@
         "type": "RegExp.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3762a-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "pattern1",
-    "addr": "/pattern1/",
+    "addr": "/var pattern1/",
     "kind": "v",
     "type": "regexp",
     "lineno": 54,
+    "parent": "b6f37626-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "1394[53:4]-1402[53:12]",
       "!type": "+RegExp",
@@ -285,11 +307,12 @@
         "type": "RegExp.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300ec-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "car",
-    "addr": "/car/",
+    "addr": "/var car/",
     "kind": "v",
     "type": "string",
     "lineno": 69,
@@ -301,11 +324,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300ed-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "s1",
-    "addr": "/s1/",
+    "addr": "/var s1/",
     "kind": "v",
     "type": "string",
     "lineno": 72,
@@ -317,11 +341,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300ee-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "s2",
-    "addr": "/s2/",
+    "addr": "/var s2/",
     "kind": "v",
     "type": "string",
     "lineno": 75,
@@ -333,11 +358,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300ef-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "s3",
-    "addr": "/s3/",
+    "addr": "/var s3/",
     "kind": "v",
     "type": "string",
     "lineno": 78,
@@ -349,11 +375,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300f0-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "s4",
-    "addr": "/s4/",
+    "addr": "/var s4/",
     "kind": "v",
     "type": "string",
     "lineno": 81,
@@ -365,11 +392,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300f1-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "person",
-    "addr": "/person/",
+    "addr": "/var person/",
     "kind": "v",
     "lineno": 86,
     "origin": {
@@ -379,15 +407,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f300f2-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "firstname",
-    "addr": "/firstname/",
+    "addr": "/person\\.firstname/",
     "kind": "v",
     "type": "string",
     "lineno": 87,
     "namespace": "person",
+    "parent": "b6f300f1-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2058[86:7]-2067[86:16]",
       "!type": "string",
@@ -396,15 +426,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f0-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "lastname",
-    "addr": "/lastname/",
+    "addr": "/person\\.lastname/",
     "kind": "v",
     "type": "string",
     "lineno": 88,
     "namespace": "person",
+    "parent": "b6f300f1-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2085[87:7]-2093[87:15]",
       "!type": "string",
@@ -413,15 +445,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f1-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "age",
-    "addr": "/age/",
+    "addr": "/person\\.age/",
     "kind": "v",
     "type": "number",
     "lineno": 89,
     "namespace": "person",
+    "parent": "b6f300f1-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2110[88:7]-2113[88:10]",
       "!type": "number",
@@ -430,15 +464,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f2-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "eyecolor",
-    "addr": "/eyecolor/",
+    "addr": "/person\\.eyecolor/",
     "kind": "v",
     "type": "string",
     "lineno": 90,
     "namespace": "person",
+    "parent": "b6f300f1-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2127[89:7]-2135[89:15]",
       "!type": "string",
@@ -447,15 +483,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f7-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "eyecolor",
-    "addr": "/eyecolor/",
+    "addr": "/function personType\\(firstname, lastname, age, eyecolor/",
     "kind": "v",
     "type": "string",
     "lineno": 95,
     "namespace": "personType",
+    "parent": "b6f327f3-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2355[94:46]-2363[94:54]",
       "!type": "string",
@@ -466,15 +504,17 @@
         "isArg": true
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f6-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "age",
-    "addr": "/age/",
+    "addr": "/function personType\\(firstname, lastname, age/",
     "kind": "v",
     "type": "number",
     "lineno": 95,
     "namespace": "personType",
+    "parent": "b6f327f3-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2350[94:41]-2353[94:44]",
       "!type": "number",
@@ -485,15 +525,17 @@
         "isArg": true
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f4-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "firstname",
-    "addr": "/firstname/",
+    "addr": "/function personType\\(firstname/",
     "kind": "v",
     "type": "string",
     "lineno": 95,
     "namespace": "personType",
+    "parent": "b6f327f3-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2329[94:20]-2338[94:29]",
       "!type": "string",
@@ -504,11 +546,12 @@
         "isArg": true
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f3-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "personType",
-    "addr": "/personType/",
+    "addr": "/function personType/",
     "kind": "f",
     "type": "void function(string, string, number, string)",
     "lineno": 95,
@@ -520,15 +563,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f5-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "lastname",
-    "addr": "/lastname/",
+    "addr": "/function personType\\(firstname, lastname/",
     "kind": "v",
     "type": "string",
     "lineno": 95,
     "namespace": "personType",
+    "parent": "b6f327f3-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2340[94:31]-2348[94:39]",
       "!type": "string",
@@ -539,15 +584,17 @@
         "isArg": true
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327fb-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "firstname",
-    "addr": "/firstname/",
+    "addr": "/  this\\.firstname/",
     "kind": "v",
     "type": "string",
     "lineno": 96,
     "namespace": "friend",
+    "parent": "b6f327fa-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2374[95:7]-2383[95:16]",
       "!type": "string",
@@ -558,15 +605,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327fc-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "lastname",
-    "addr": "/lastname/",
+    "addr": "/  this\\.lastname/",
     "kind": "v",
     "type": "string",
     "lineno": 97,
     "namespace": "friend",
+    "parent": "b6f327fa-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2404[96:7]-2412[96:15]",
       "!type": "string",
@@ -577,15 +626,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327fd-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "age",
-    "addr": "/age/",
+    "addr": "/  this\\.age/",
     "kind": "v",
     "type": "number",
     "lineno": 98,
     "namespace": "friend",
+    "parent": "b6f327fa-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2432[97:7]-2435[97:10]",
       "!type": "number",
@@ -596,15 +647,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327fe-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "eyecolor",
-    "addr": "/eyecolor/",
+    "addr": "/  this\\.eyecolor/",
     "kind": "v",
     "type": "string",
     "lineno": 99,
     "namespace": "friend",
+    "parent": "b6f327fa-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2450[98:7]-2458[98:15]",
       "!type": "string",
@@ -615,15 +668,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f8-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "changeName",
-    "addr": "/changeName/",
+    "addr": "/  this\\.changeName/",
     "kind": "f",
     "type": "!this.lastname function(?)",
     "lineno": 100,
     "namespace": "personType",
+    "parent": "b6f327f3-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2478[99:7]-2488[99:17]",
       "!type": "fn(name: ?) -> !this.lastname",
@@ -632,14 +687,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327f9-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "name",
-    "addr": "/name/",
+    "addr": "/  function changeName\\(name/",
     "kind": "v",
     "lineno": 104,
     "namespace": "personType.changeName",
+    "parent": "b6f327f8-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "2644[103:22]-2648[103:26]",
       "!data": {
@@ -649,11 +706,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327fa-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "friend",
-    "addr": "/friend/",
+    "addr": "/var friend/",
     "kind": "v",
     "type": "personType",
     "lineno": 110,
@@ -665,15 +723,17 @@
         "type": "personType.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32801-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "bar",
-    "addr": "/bar/",
+    "addr": "/var base = \\{foo: 10, bar/",
     "kind": "v",
     "type": "number",
     "lineno": 119,
     "namespace": "base",
+    "parent": "b6f327ff-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3069[118:21]-3072[118:24]",
       "!type": "number",
@@ -682,14 +742,16 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32802-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "foo2",
-    "addr": "/foo2/",
+    "addr": "/var base = \\{foo: 10, bar: 20, foo2/",
     "kind": "v",
     "lineno": 119,
     "namespace": "base",
+    "parent": "b6f327ff-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3078[118:30]-3082[118:34]",
       "!data": {
@@ -697,15 +759,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32803-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/var base = \\{foo: 10, bar: 20, foo2: \\{ a/",
     "kind": "v",
     "type": "number",
     "lineno": 119,
     "namespace": "base.foo2",
+    "parent": "b6f32802-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3086[118:38]-3087[118:39]",
       "!type": "number",
@@ -714,15 +778,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32800-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/var base = \\{foo/",
     "kind": "v",
     "type": "number",
     "lineno": 119,
     "namespace": "base",
+    "parent": "b6f327ff-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3060[118:12]-3063[118:15]",
       "!type": "number",
@@ -731,15 +797,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32804-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/var base = \\{foo: 10, bar: 20, foo2: \\{ a: 10, b/",
     "kind": "v",
     "type": "string",
     "lineno": 119,
     "namespace": "base.foo2",
+    "parent": "b6f32802-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3093[118:45]-3094[118:46]",
       "!type": "string",
@@ -748,11 +816,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f327ff-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "base",
-    "addr": "/base/",
+    "addr": "/var base/",
     "kind": "v",
     "lineno": 119,
     "origin": {
@@ -762,15 +831,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32805-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "baz",
-    "addr": "/baz/",
+    "addr": "/base\\.baz/",
     "kind": "v",
     "type": "number",
     "lineno": 129,
     "namespace": "base",
+    "parent": "b6f327ff-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3399[128:5]-3402[128:8]",
       "!type": "number",
@@ -779,11 +850,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32806-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "gen1",
-    "addr": "/gen1/",
+    "addr": "/var gen1/",
     "kind": "v",
     "lineno": 132,
     "origin": {
@@ -793,11 +865,12 @@
         "type": "base"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f00-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "gen2",
-    "addr": "/gen2/",
+    "addr": "/var gen2/",
     "kind": "v",
     "lineno": 133,
     "origin": {
@@ -806,15 +879,17 @@
         "isConstructor": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f32807-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "quux",
-    "addr": "/quux/",
+    "addr": "/gen1\\.quux/",
     "kind": "v",
     "type": "number",
     "lineno": 134,
     "namespace": "gen1",
+    "parent": "b6f32806-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3509[133:5]-3513[133:9]",
       "!type": "number",
@@ -823,15 +898,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f01-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "kaka",
-    "addr": "/kaka/",
+    "addr": "/gen2\\.kaka/",
     "kind": "v",
     "type": "number",
     "lineno": 135,
     "namespace": "gen2",
+    "parent": "b6f34f00-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "3525[134:5]-3529[134:9]",
       "!type": "number",
@@ -840,11 +917,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f02-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "extend",
-    "addr": "/extend/",
+    "addr": "/var extend/",
     "kind": "v",
     "lineno": 144,
     "origin": {
@@ -854,11 +932,12 @@
         "type": "base"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f05-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "empty",
-    "addr": "/empty/",
+    "addr": "/var empty/",
     "kind": "v",
     "lineno": 150,
     "origin": {
@@ -867,15 +946,17 @@
         "isConstructor": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f06-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "prop1",
-    "addr": "/prop1/",
+    "addr": "/empty\\.prop1/",
     "kind": "v",
     "type": "string",
     "lineno": 151,
     "namespace": "empty",
+    "parent": "b6f34f05-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4225[150:6]-4230[150:11]",
       "!type": "string",
@@ -884,11 +965,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f07-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "Ctor1",
-    "addr": "/Ctor1/",
+    "addr": "/function Ctor1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 155,
@@ -900,15 +982,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f09-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/Ctor1\\.prototype = \\{a/",
     "kind": "v",
     "type": "number",
     "lineno": 156,
     "namespace": "Ctor1.prototype",
+    "parent": "b6f34f08-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4369[155:19]-4370[155:20]",
       "!type": "number",
@@ -917,14 +1001,16 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f08-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/Ctor1\\.prototype/",
     "kind": "v",
     "lineno": 156,
     "namespace": "Ctor1",
+    "parent": "b6f34f07-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4356[155:6]-4365[155:15]",
       "!data": {
@@ -932,11 +1018,12 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f0a-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "Ctor2",
-    "addr": "/Ctor2/",
+    "addr": "/function Ctor2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 159,
@@ -948,13 +1035,15 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3762b-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "singleton",
-    "addr": "/singleton/",
+    "addr": "/var singleton/",
     "kind": "v",
     "lineno": 164,
+    "parent": "b6f37626-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4483[163:4]-4492[163:13]",
       "!data": {
@@ -964,11 +1053,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f0b-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "Foo",
-    "addr": "/Foo/",
+    "addr": "/function Foo/",
     "kind": "f",
     "type": "void function(bool)",
     "lineno": 166,
@@ -980,15 +1070,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f0f-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/function Foo\\(x/",
     "kind": "v",
     "type": "boolean",
     "lineno": 166,
     "namespace": "Foo",
+    "parent": "b6f34f0b-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4535[165:13]-4536[165:14]",
       "!type": "bool",
@@ -999,15 +1091,17 @@
         "isArg": true
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f12-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/  this\\.x/",
     "kind": "v",
     "type": "boolean",
     "lineno": 167,
     "namespace": "foo",
+    "parent": "b6f34f11-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4547[166:7]-4548[166:8]",
       "!type": "bool",
@@ -1018,15 +1112,17 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f10-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "y",
-    "addr": "/y/",
+    "addr": "/  this\\.y/",
     "kind": "v",
     "type": "[number]",
     "lineno": 168,
     "namespace": "Foo",
+    "parent": "b6f34f0b-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4561[167:7]-4562[167:8]",
       "!type": "[number]",
@@ -1035,14 +1131,16 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f0c-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/Foo\\.prototype/",
     "kind": "v",
     "lineno": 171,
     "namespace": "Foo",
+    "parent": "b6f34f0b-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4577[170:4]-4586[170:13]",
       "!data": {
@@ -1050,15 +1148,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f0d-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "makeString",
-    "addr": "/makeString/",
+    "addr": "/  makeString/",
     "kind": "f",
     "type": "string function()",
     "lineno": 172,
     "namespace": "Foo.prototype",
+    "parent": "b6f34f0c-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4593[171:2]-4603[171:12]",
       "!type": "fn() -> string",
@@ -1067,15 +1167,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f0e-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "bar",
-    "addr": "/bar/",
+    "addr": "/  bar/",
     "kind": "v",
     "type": "number",
     "lineno": 173,
     "namespace": "Foo.prototype",
+    "parent": "b6f34f0c-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4636[172:2]-4639[172:5]",
       "!type": "number",
@@ -1084,11 +1186,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f11-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/var foo/",
     "kind": "v",
     "type": "Foo",
     "lineno": 176,
@@ -1100,9 +1203,10 @@
         "type": "Foo.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3761c-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "config",
     "addr": "/config/",
     "kind": "v",
@@ -1114,14 +1218,16 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3761d-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "CSS",
-    "addr": "/CSS/",
+    "addr": "/  CSS/",
     "kind": "v",
     "lineno": 183,
     "namespace": "config",
+    "parent": "b6f3761c-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4838[182:2]-4841[182:5]",
       "!data": {
@@ -1129,14 +1235,16 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3761e-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "IDs",
-    "addr": "/IDs/",
+    "addr": "/    IDs/",
     "kind": "v",
     "lineno": 184,
     "namespace": "config.CSS",
+    "parent": "b6f3761d-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4849[183:4]-4852[183:7]",
       "!data": {
@@ -1144,15 +1252,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3761f-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "container",
-    "addr": "/container/",
+    "addr": "/      container/",
     "kind": "v",
     "type": "string",
     "lineno": 185,
     "namespace": "config.CSS.IDs",
+    "parent": "b6f3761e-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4862[184:6]-4871[184:15]",
       "!type": "string",
@@ -1161,15 +1271,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37620-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "canvas",
-    "addr": "/canvas/",
+    "addr": "/      canvas/",
     "kind": "v",
     "type": "string",
     "lineno": 186,
     "namespace": "config.CSS.IDs",
+    "parent": "b6f3761e-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4901[185:6]-4907[185:12]",
       "!type": "string",
@@ -1178,15 +1290,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37621-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "player",
-    "addr": "/player/",
+    "addr": "/      player/",
     "kind": "v",
     "type": "string",
     "lineno": 187,
     "namespace": "config.CSS.IDs",
+    "parent": "b6f3761e-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4936[186:6]-4942[186:12]",
       "!type": "string",
@@ -1195,15 +1309,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37622-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "controls",
-    "addr": "/controls/",
+    "addr": "/      controls/",
     "kind": "v",
     "type": "string",
     "lineno": 188,
     "namespace": "config.CSS.IDs",
+    "parent": "b6f3761e-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "4965[187:6]-4973[187:14]",
       "!type": "string",
@@ -1212,11 +1328,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f13-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "years",
-    "addr": "/years/",
+    "addr": "/var years/",
     "kind": "v",
     "type": "[number]",
     "lineno": 201,
@@ -1228,11 +1345,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f14-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "arr1",
-    "addr": "/arr1/",
+    "addr": "/var arr1/",
     "kind": "v",
     "type": "[bool]",
     "lineno": 206,
@@ -1244,11 +1362,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f15-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "arr2",
-    "addr": "/arr2/",
+    "addr": "/var arr2/",
     "kind": "v",
     "type": "[number]",
     "lineno": 213,
@@ -1260,11 +1379,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f16-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "scope1",
-    "addr": "/scope1/",
+    "addr": "/function scope1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 216,
@@ -1276,13 +1396,15 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37627-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "f",
-    "addr": "/f/",
+    "addr": "/var f/",
     "kind": "v",
     "lineno": 218,
+    "parent": "b6f37626-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "5685[217:4]-5686[217:5]",
       "!data": {
@@ -1292,13 +1414,15 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37628-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "f2",
-    "addr": "/f2/",
+    "addr": "/var f2/",
     "kind": "v",
     "lineno": 220,
+    "parent": "b6f37626-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "5758[219:4]-5760[219:6]",
       "!data": {
@@ -1308,13 +1432,15 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37629-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "f3",
-    "addr": "/f3/",
+    "addr": "/var f3/",
     "kind": "v",
     "lineno": 222,
+    "parent": "b6f37626-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "5837[221:4]-5839[221:6]",
       "!data": {
@@ -1324,11 +1450,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f17-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "one",
-    "addr": "/one/",
+    "addr": "/function one/",
     "kind": "f",
     "type": "void function()",
     "lineno": 254,
@@ -1340,15 +1467,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f19-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "person",
-    "addr": "/person/",
+    "addr": "/  var person/",
     "kind": "v",
     "type": "string",
     "lineno": 256,
     "namespace": "one",
+    "parent": "b6f34f17-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "6574[255:6]-6580[255:12]",
       "!type": "string",
@@ -1359,15 +1488,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f18-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "localVar1InOne",
-    "addr": "/localVar1InOne/",
+    "addr": "/  var localVar1InOne/",
     "kind": "v",
     "type": "string",
     "lineno": 258,
     "namespace": "one",
+    "parent": "b6f34f17-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "6643[257:6]-6657[257:20]",
       "!type": "string",
@@ -1378,11 +1509,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37623-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "globalVar1",
-    "addr": "/globalVar1/",
+    "addr": "/  globalVar1/",
     "kind": "v",
     "type": "number",
     "lineno": 259,
@@ -1394,14 +1526,16 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3762d-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "f",
-    "addr": "/f/",
+    "addr": "/function timeout\\(f/",
     "kind": "v",
     "lineno": 272,
     "namespace": "timeout",
+    "parent": "b6f3762c-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7061[271:17]-7062[271:18]",
       "!data": {
@@ -1411,15 +1545,17 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3762e-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "timeout",
-    "addr": "/timeout/",
+    "addr": "/function timeout\\(f, timeout/",
     "kind": "f",
     "type": "void function(?, ?)",
     "lineno": 272,
     "namespace": "timeout",
+    "parent": "b6f3762c-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7064[271:20]-7071[271:27]",
       "!type": "fn(f: ?, timeout: ?)",
@@ -1430,13 +1566,15 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3762c-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "timeout",
-    "addr": "/timeout/",
+    "addr": "/function timeout/",
     "kind": "v",
     "lineno": 272,
+    "parent": "b6f37626-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7053[271:9]-7060[271:16]",
       "!data": {
@@ -1446,11 +1584,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f1a-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "obj",
-    "addr": "/obj/",
+    "addr": "/var obj/",
     "kind": "v",
     "lineno": 273,
     "origin": {
@@ -1460,15 +1599,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f1b-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "name",
-    "addr": "/name/",
+    "addr": "/  name/",
     "kind": "v",
     "type": "string",
     "lineno": 274,
     "namespace": "obj",
+    "parent": "b6f34f1a-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7090[273:2]-7094[273:6]",
       "!type": "string",
@@ -1477,15 +1618,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f1c-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "func",
-    "addr": "/func/",
+    "addr": "/  func/",
     "kind": "f",
     "type": "void function()",
     "lineno": 275,
     "namespace": "obj",
+    "parent": "b6f34f1a-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7105[274:2]-7109[274:6]",
       "!type": "fn()",
@@ -1494,11 +1637,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37624-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "localVarBecomeGlobal",
-    "addr": "/localVarBecomeGlobal/",
+    "addr": "/  localVarBecomeGlobal/",
     "kind": "v",
     "type": "[number]",
     "lineno": 285,
@@ -1510,11 +1654,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f1d-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testIfControlFlow1",
-    "addr": "/testIfControlFlow1/",
+    "addr": "/function testIfControlFlow1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 291,
@@ -1526,15 +1671,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f22-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "varInIf",
-    "addr": "/varInIf/",
+    "addr": "/    var varInIf/",
     "kind": "v",
     "type": "string",
     "lineno": 294,
     "namespace": "testIfControlFlow1",
+    "parent": "b6f34f1d-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7523[293:8]-7530[293:15]",
       "!type": "string",
@@ -1545,14 +1692,16 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f1e-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "f",
-    "addr": "/f/",
+    "addr": "/    var f/",
     "kind": "v",
     "lineno": 296,
     "namespace": "testIfControlFlow1",
+    "parent": "b6f34f1d-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7599[295:8]-7600[295:9]",
       "!data": {
@@ -1562,15 +1711,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f1f-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "name",
-    "addr": "/name/",
+    "addr": "/          return \\{ name/",
     "kind": "v",
     "type": "string",
     "lineno": 299,
     "namespace": "testIfControlFlow1.f",
+    "parent": "b6f34f1e-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7727[298:19]-7731[298:23]",
       "!type": "string",
@@ -1581,15 +1732,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f20-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "inNestedIf",
-    "addr": "/inNestedIf/",
+    "addr": "/      var inNestedIf/",
     "kind": "v",
     "type": "string",
     "lineno": 303,
     "namespace": "testIfControlFlow1",
+    "parent": "b6f34f1d-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7828[302:10]-7838[302:20]",
       "!type": "string",
@@ -1600,14 +1753,16 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f21-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "t",
-    "addr": "/t/",
+    "addr": "/      var t/",
     "kind": "v",
     "lineno": 305,
     "namespace": "testIfControlFlow1",
+    "parent": "b6f34f1d-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "7880[304:10]-7881[304:11]",
       "!data": {
@@ -1617,11 +1772,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f23-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testForControlFlow1",
-    "addr": "/testForControlFlow1/",
+    "addr": "/function testForControlFlow1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 317,
@@ -1633,15 +1789,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f25-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "m",
-    "addr": "/m/",
+    "addr": "/  var m/",
     "kind": "v",
     "type": "string",
     "lineno": 321,
     "namespace": "testForControlFlow1",
+    "parent": "b6f34f23-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8302[320:6]-8303[320:7]",
       "!type": "string",
@@ -1652,15 +1810,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f26-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/  for \\(var n/",
     "kind": "v",
     "type": "number",
     "lineno": 322,
     "namespace": "testForControlFlow1",
+    "parent": "b6f34f23-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8325[321:11]-8326[321:12]",
       "!type": "number",
@@ -1671,15 +1831,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f27-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "varInForLoop",
-    "addr": "/varInForLoop/",
+    "addr": "/    var varInForLoop/",
     "kind": "v",
     "type": "string",
     "lineno": 323,
     "namespace": "testForControlFlow1",
+    "parent": "b6f34f23-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8355[322:8]-8367[322:20]",
       "!type": "string",
@@ -1690,15 +1852,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f24-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "j",
-    "addr": "/j/",
+    "addr": "/    for \\(var j/",
     "kind": "v",
     "type": "number",
     "lineno": 324,
     "namespace": "testForControlFlow1",
+    "parent": "b6f34f23-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8391[323:13]-8392[323:14]",
       "!type": "number",
@@ -1709,15 +1873,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f28-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "varInNestedForLoop",
-    "addr": "/varInNestedForLoop/",
+    "addr": "/      var varInNestedForLoop/",
     "kind": "v",
     "type": "number",
     "lineno": 325,
     "namespace": "testForControlFlow1",
+    "parent": "b6f34f23-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8423[324:10]-8441[324:28]",
       "!type": "number",
@@ -1728,11 +1894,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f29-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testForInLoopFlow1",
-    "addr": "/testForInLoopFlow1/",
+    "addr": "/function testForInLoopFlow1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 334,
@@ -1744,11 +1911,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f2a-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testWhileLoopFlow1",
-    "addr": "/testWhileLoopFlow1/",
+    "addr": "/function testWhileLoopFlow1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 341,
@@ -1760,15 +1928,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f2b-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/  var n/",
     "kind": "v",
     "type": "number",
     "lineno": 342,
     "namespace": "testWhileLoopFlow1",
+    "parent": "b6f34f2a-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8733[341:6]-8734[341:7]",
       "!type": "number",
@@ -1779,15 +1949,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f34f2c-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "varInWhileLoop",
-    "addr": "/varInWhileLoop/",
+    "addr": "/    var varInWhileLoop/",
     "kind": "v",
     "type": "string",
     "lineno": 344,
     "namespace": "testWhileLoopFlow1",
+    "parent": "b6f34f2a-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8769[343:8]-8783[343:22]",
       "!type": "string",
@@ -1798,11 +1970,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37610-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testDoWhileLoopFlow1",
-    "addr": "/testDoWhileLoopFlow1/",
+    "addr": "/function testDoWhileLoopFlow1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 349,
@@ -1814,15 +1987,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37611-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "varInDoWhileLoop",
-    "addr": "/varInDoWhileLoop/",
+    "addr": "/    var varInDoWhileLoop/",
     "kind": "v",
     "type": "string",
     "lineno": 352,
     "namespace": "testDoWhileLoopFlow1",
+    "parent": "b6f37610-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "8881[351:8]-8897[351:24]",
       "!type": "string",
@@ -1833,11 +2008,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37612-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testBreakFlow1",
-    "addr": "/testBreakFlow1/",
+    "addr": "/function testBreakFlow1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 359,
@@ -1849,11 +2025,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37625-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "i",
-    "addr": "/i/",
+    "addr": "/  for \\(i/",
     "kind": "v",
     "type": "number",
     "lineno": 360,
@@ -1865,15 +2042,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37613-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testBreak",
-    "addr": "/testBreak/",
+    "addr": "/      var testBreak/",
     "kind": "v",
     "type": "string",
     "lineno": 362,
     "namespace": "testBreakFlow1",
+    "parent": "b6f37612-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "9048[361:10]-9057[361:19]",
       "!type": "string",
@@ -1884,15 +2063,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37614-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testContinue",
-    "addr": "/testContinue/",
+    "addr": "/      var testContinue/",
     "kind": "v",
     "type": "string",
     "lineno": 365,
     "namespace": "testBreakFlow1",
+    "parent": "b6f37612-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "9104[364:10]-9116[364:22]",
       "!type": "string",
@@ -1903,14 +2084,16 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37618-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/function testSwitchFlow1\\(n/",
     "kind": "v",
     "lineno": 377,
     "namespace": "testSwitchFlow1",
+    "parent": "b6f37615-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "9336[376:25]-9337[376:26]",
       "!data": {
@@ -1920,11 +2103,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37615-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testSwitchFlow1",
-    "addr": "/testSwitchFlow1/",
+    "addr": "/function testSwitchFlow1/",
     "kind": "f",
     "type": "void function(?)",
     "lineno": 377,
@@ -1936,15 +2120,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37616-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "inCase1",
-    "addr": "/inCase1/",
+    "addr": "/      var inCase1/",
     "kind": "v",
     "type": "string",
     "lineno": 381,
     "namespace": "testSwitchFlow1",
+    "parent": "b6f37615-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "9378[380:10]-9385[380:17]",
       "!type": "string",
@@ -1955,15 +2141,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37617-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "inCase2",
-    "addr": "/inCase2/",
+    "addr": "/      var inCase2/",
     "kind": "v",
     "type": "string",
     "lineno": 385,
     "namespace": "testSwitchFlow1",
+    "parent": "b6f37615-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "9483[384:10]-9490[384:17]",
       "!type": "string",
@@ -1974,11 +2162,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f37619-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "testTryCatchFlow1",
-    "addr": "/testTryCatchFlow1/",
+    "addr": "/function testTryCatchFlow1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 398,
@@ -1990,15 +2179,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3761b-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "varInTry",
-    "addr": "/varInTry/",
+    "addr": "/    var varInTry/",
     "kind": "v",
     "type": "string",
     "lineno": 400,
     "namespace": "testTryCatchFlow1",
+    "parent": "b6f37619-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "9715[399:8]-9723[399:16]",
       "!type": "string",
@@ -2009,15 +2200,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   },
   {
+    "id": "b6f3761a-5908-11e9-b2ba-c5a42dfa28f8",
     "name": "varInCatch",
-    "addr": "/varInCatch/",
+    "addr": "/    var varInCatch/",
     "kind": "v",
     "type": "string",
     "lineno": 403,
     "namespace": "testTryCatchFlow1",
+    "parent": "b6f37619-5908-11e9-b2ba-c5a42dfa28f8",
     "origin": {
       "!span": "9810[402:8]-9820[402:18]",
       "!type": "string",
@@ -2028,6 +2221,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/hint_ecma5.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_ecma5.js"
   }
 ]

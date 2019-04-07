@@ -1,7 +1,8 @@
 [
   {
+    "id": "b2d9f630-5908-11e9-b70b-734095b37754",
     "name": "grabbag",
-    "addr": "/grabbag/",
+    "addr": "/var grabbag/",
     "kind": "v",
     "lineno": 1,
     "origin": {
@@ -11,14 +12,16 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/cautiouspropagation.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
+    "id": "b2da1d40-5908-11e9-b70b-734095b37754",
     "name": "<i>",
-    "addr": "/foo\\(\\)/",
+    "addr": "/grabbag\\[foo\\(\\)/",
     "kind": "v",
     "lineno": 2,
     "namespace": "grabbag",
+    "parent": "b2d9f630-5908-11e9-b70b-734095b37754",
     "origin": {
       "!span": "26[1:8]-31[1:13]",
       "!data": {
@@ -27,15 +30,17 @@
         "isArg": false
       }
     },
-    "tagfile": "__DIR__/cautiouspropagation.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
+    "id": "b2da4450-5908-11e9-b70b-734095b37754",
     "name": "abc",
-    "addr": "/abc/",
+    "addr": "/grabbag\\[bar\\(\\)\\] = \\{abc/",
     "kind": "v",
     "type": "number",
     "lineno": 3,
     "namespace": "grabbag.<i>",
+    "parent": "b2da1d40-5908-11e9-b70b-734095b37754",
     "origin": {
       "!span": "59[2:18]-62[2:21]",
       "!type": "number",
@@ -46,11 +51,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/cautiouspropagation.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
+    "id": "b2da4451-5908-11e9-b70b-734095b37754",
     "name": "inner",
-    "addr": "/inner/",
+    "addr": "/var inner/",
     "kind": "v",
     "type": "number",
     "lineno": 5,
@@ -62,11 +68,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/cautiouspropagation.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
+    "id": "b2da4452-5908-11e9-b70b-734095b37754",
     "name": "simple",
-    "addr": "/simple/",
+    "addr": "/var simple/",
     "kind": "v",
     "lineno": 8,
     "origin": {
@@ -76,15 +83,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/cautiouspropagation.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   },
   {
+    "id": "b2da4453-5908-11e9-b70b-734095b37754",
     "name": "<i>",
-    "addr": "/foo\\(\\)/",
+    "addr": "/simple\\[foo\\(\\)/",
     "kind": "v",
     "type": "string",
     "lineno": 9,
     "namespace": "simple",
+    "parent": "b2da4452-5908-11e9-b70b-734095b37754",
     "origin": {
       "!span": "175[8:7]-180[8:12]",
       "!type": "string",
@@ -93,6 +102,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/cautiouspropagation.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
   }
 ]

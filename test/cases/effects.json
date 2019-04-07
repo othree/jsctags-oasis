@@ -1,7 +1,8 @@
 [
   {
+    "id": "b4406400-5908-11e9-b3a5-2b4678067f17",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/var b/",
     "kind": "v",
     "type": "[bool]",
     "lineno": 3,
@@ -13,11 +14,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/effects.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js"
   },
   {
+    "id": "b4408b10-5908-11e9-b3a5-2b4678067f17",
     "name": "c",
-    "addr": "/c/",
+    "addr": "/var c/",
     "kind": "v",
     "type": "[string|number]",
     "lineno": 7,
@@ -29,11 +31,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/effects.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js"
   },
   {
+    "id": "b4408b11-5908-11e9-b3a5-2b4678067f17",
     "name": "d",
-    "addr": "/d/",
+    "addr": "/var d/",
     "kind": "v",
     "type": "number",
     "lineno": 12,
@@ -45,11 +48,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/effects.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js"
   },
   {
+    "id": "b4408b12-5908-11e9-b3a5-2b4678067f17",
     "name": "setD",
-    "addr": "/setD/",
+    "addr": "/function setD/",
     "kind": "f",
     "type": "void function(number)",
     "lineno": 13,
@@ -61,15 +65,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/effects.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js"
   },
   {
+    "id": "b4408b13-5908-11e9-b3a5-2b4678067f17",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/function setD\\(a/",
     "kind": "v",
     "type": "number",
     "lineno": 13,
     "namespace": "setD",
+    "parent": "b4408b12-5908-11e9-b3a5-2b4678067f17",
     "origin": {
       "!span": "199[12:14]-200[12:15]",
       "!type": "number",
@@ -80,6 +86,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/effects.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/effects.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b14bdc20-5908-11e9-9e15-43d89d9c4440",
     "name": "arguments",
-    "addr": "/arguments/",
+    "addr": "/var arguments/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -13,6 +14,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/arguments.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arguments.js"
   }
 ]

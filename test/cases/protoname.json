@@ -1,7 +1,8 @@
 [
   {
+    "id": "ba16fd30-5908-11e9-9901-95c72e021588",
     "name": "Base",
-    "addr": "/Base/",
+    "addr": "/function Base/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -13,14 +14,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba172440-5908-11e9-9901-95c72e021588",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/Base\\.prototype/",
     "kind": "v",
     "lineno": 2,
     "namespace": "Base",
+    "parent": "ba16fd30-5908-11e9-9901-95c72e021588",
     "origin": {
       "!span": "24[1:5]-33[1:14]",
       "!data": {
@@ -30,11 +33,12 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba174b50-5908-11e9-9901-95c72e021588",
     "name": "Sub1",
-    "addr": "/Sub1/",
+    "addr": "/function Sub1/",
     "kind": "f",
     "type": "void function()",
     "lineno": 7,
@@ -46,14 +50,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba174b51-5908-11e9-9901-95c72e021588",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/Sub1\\.prototype/",
     "kind": "v",
     "lineno": 8,
     "namespace": "Sub1",
+    "parent": "ba174b50-5908-11e9-9901-95c72e021588",
     "origin": {
       "!span": "120[7:5]-129[7:14]",
       "!data": {
@@ -63,11 +69,12 @@
         "type": "Base.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba174b52-5908-11e9-9901-95c72e021588",
     "name": "Sub2",
-    "addr": "/Sub2/",
+    "addr": "/function Sub2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 11,
@@ -79,14 +86,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba174b53-5908-11e9-9901-95c72e021588",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/Sub2\\.prototype/",
     "kind": "v",
     "lineno": 12,
     "namespace": "Sub2",
+    "parent": "ba174b52-5908-11e9-9901-95c72e021588",
     "origin": {
       "!span": "190[11:5]-199[11:14]",
       "!data": {
@@ -96,11 +105,12 @@
         "type": "Base.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba174b54-5908-11e9-9901-95c72e021588",
     "name": "Base2",
-    "addr": "/Base2/",
+    "addr": "/function Base2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 15,
@@ -112,11 +122,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba174b55-5908-11e9-9901-95c72e021588",
     "name": "Sub3",
-    "addr": "/Sub3/",
+    "addr": "/function Sub3/",
     "kind": "f",
     "type": "void function()",
     "lineno": 17,
@@ -128,14 +139,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   },
   {
+    "id": "ba174b56-5908-11e9-9901-95c72e021588",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/Sub3\\.prototype/",
     "kind": "v",
     "lineno": 18,
     "namespace": "Sub3",
+    "parent": "ba174b55-5908-11e9-9901-95c72e021588",
     "origin": {
       "!span": "300[17:5]-309[17:14]",
       "!data": {
@@ -145,6 +158,6 @@
         "type": "Base2.prototype"
       }
     },
-    "tagfile": "__DIR__/protoname.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/protoname.js"
   }
 ]

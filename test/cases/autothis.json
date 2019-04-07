@@ -1,7 +1,8 @@
 [
   {
+    "id": "b1c0e511-5908-11e9-a98e-999ee7585836",
     "name": "Bar",
-    "addr": "/Bar/",
+    "addr": "/function Bar/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -13,15 +14,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/autothis.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
   },
   {
+    "id": "b1c0e513-5908-11e9-a98e-999ee7585836",
     "name": "hallo",
-    "addr": "/hallo/",
+    "addr": "/Bar\\.prototype\\.hallo/",
     "kind": "f",
     "type": "void function()",
     "lineno": 2,
     "namespace": "Bar.prototype",
+    "parent": "b1c0e512-5908-11e9-a98e-999ee7585836",
     "origin": {
       "!span": "49[1:14]-54[1:19]",
       "!type": "fn()",
@@ -30,15 +33,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/autothis.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
   },
   {
+    "id": "b1c10c20-5908-11e9-a98e-999ee7585836",
     "name": "fn2",
-    "addr": "/fn2/",
+    "addr": "/Bar\\.prototype\\.fn2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 7,
     "namespace": "Bar.prototype",
+    "parent": "b1c0e512-5908-11e9-a98e-999ee7585836",
     "origin": {
       "!span": "128[6:14]-131[6:17]",
       "!type": "fn()",
@@ -49,15 +54,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/autothis.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
   },
   {
+    "id": "b1c0e510-5908-11e9-a98e-999ee7585836",
     "name": "fn2",
-    "addr": "/fn2/",
+    "addr": "/Date\\.prototype\\.fn2/",
     "kind": "f",
     "type": "void function()",
     "lineno": 11,
     "namespace": "Date.prototype",
+    "parent": "b1c0be01-5908-11e9-a98e-999ee7585836",
     "origin": {
       "!span": "183[10:15]-186[10:18]",
       "!type": "fn()",
@@ -66,6 +73,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/autothis.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b9c4e590-5908-11e9-82ce-d3b96e8ea131",
     "name": "p",
-    "addr": "/p/",
+    "addr": "/var p/",
     "kind": "v",
     "type": "Promise",
     "lineno": 1,
@@ -13,15 +14,17 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b7-5908-11e9-82ce-d3b96e8ea131",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/  accept\\(\\{x/",
     "kind": "v",
     "type": "number",
     "lineno": 3,
     "namespace": "Promise.:t",
+    "parent": "b9c533b6-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "85[2:10]-86[2:11]",
       "!type": "number",
@@ -30,15 +33,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca1-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/function\\(acc\\) \\{ acc\\(\"hi\"\\); \\}/",
+    "addr": "/var p2 = new Promise\\(function\\(acc\\) \\{ acc\\(\"hi\"\\); \\}/",
     "kind": "v",
     "type": "string",
     "lineno": 12,
     "namespace": "p2",
+    "parent": "b9c50ca0-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "228[11:21]-256[11:49]",
       "!type": "string",
@@ -49,11 +54,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca0-5908-11e9-82ce-d3b96e8ea131",
     "name": "p2",
-    "addr": "/p2/",
+    "addr": "/var p2/",
     "kind": "v",
     "type": "Promise",
     "lineno": 12,
@@ -65,11 +71,12 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca2-5908-11e9-82ce-d3b96e8ea131",
     "name": "p3",
-    "addr": "/p3/",
+    "addr": "/var p3/",
     "kind": "v",
     "type": "Promise",
     "lineno": 21,
@@ -81,15 +88,17 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca3-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/10/",
+    "addr": "/var p3 = Promise\\.resolve\\(10/",
     "kind": "v",
     "type": "number",
     "lineno": 21,
     "namespace": "p3",
+    "parent": "b9c50ca2-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "429[20:25]-431[20:27]",
       "!type": "number",
@@ -100,11 +109,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca4-5908-11e9-82ce-d3b96e8ea131",
     "name": "p4",
-    "addr": "/p4/",
+    "addr": "/var p4/",
     "kind": "v",
     "type": "Promise",
     "lineno": 30,
@@ -116,15 +126,17 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca5-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/Promise\\.resolve\\(10\\)/",
+    "addr": "/var p4 = Promise\\.resolve\\(Promise\\.resolve\\(10\\)/",
     "kind": "v",
     "type": "number",
     "lineno": 30,
     "namespace": "p4",
+    "parent": "b9c50ca4-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "570[29:25]-589[29:44]",
       "!type": "number",
@@ -135,15 +147,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c55ac0-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/10/",
+    "addr": "/var arg5 = 1 < 2 \\? Promise\\.resolve\\(10/",
     "kind": "v",
     "type": "number",
     "lineno": 35,
     "namespace": "arg5",
+    "parent": "b9c533b9-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "678[34:35]-680[34:37]",
       "!type": "number",
@@ -154,14 +168,16 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b9-5908-11e9-82ce-d3b96e8ea131",
     "name": "arg5",
-    "addr": "/arg5/",
+    "addr": "/var arg5/",
     "kind": "v",
     "type": "?|number",
     "lineno": 35,
+    "parent": "b9c533b8-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "647[34:4]-651[34:8]",
       "!type": "?|number",
@@ -171,11 +187,12 @@
         "isArg": false
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca6-5908-11e9-82ce-d3b96e8ea131",
     "name": "p5",
-    "addr": "/p5/",
+    "addr": "/var p5/",
     "kind": "v",
     "type": "Promise",
     "lineno": 36,
@@ -187,15 +204,17 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca7-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/arg5/",
+    "addr": "/var p5 = Promise\\.resolve\\(arg5/",
     "kind": "v",
     "type": "number",
     "lineno": 36,
     "namespace": "p5",
+    "parent": "b9c50ca6-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "713[35:25]-717[35:29]",
       "!type": "number",
@@ -206,11 +225,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca8-5908-11e9-82ce-d3b96e8ea131",
     "name": "p6",
-    "addr": "/p6/",
+    "addr": "/var p6/",
     "kind": "v",
     "type": "Promise",
     "lineno": 41,
@@ -222,15 +242,17 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50ca9-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/function\\(value\\) \\{/",
+    "addr": "/\\}\\)\\.then\\(function\\(value\\) \\{/",
     "kind": "v",
     "type": "number",
     "lineno": 43,
     "namespace": "p6",
+    "parent": "b9c50ca8-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "870[42:8]-909[44:1]",
       "!type": "number",
@@ -241,11 +263,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50caa-5908-11e9-82ce-d3b96e8ea131",
     "name": "p7",
-    "addr": "/p7/",
+    "addr": "/var p7/",
     "kind": "v",
     "type": "Promise",
     "lineno": 47,
@@ -257,15 +280,17 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50cab-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/function\\(value\\) \\{/",
+    "addr": "/\\}\\)\\.then\\(function\\(value\\) \\{/",
     "kind": "v",
     "type": "number",
     "lineno": 49,
     "namespace": "p7",
+    "parent": "b9c50caa-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "979[48:8]-1018[50:1]",
       "!type": "number",
@@ -276,11 +301,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50cac-5908-11e9-82ce-d3b96e8ea131",
     "name": "p8",
-    "addr": "/p8/",
+    "addr": "/var p8/",
     "kind": "v",
     "type": "Promise",
     "lineno": 53,
@@ -292,15 +318,17 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b0-5908-11e9-82ce-d3b96e8ea131",
     "name": "arg",
-    "addr": "/arg/",
+    "addr": "/function myResolve1\\(arg/",
     "kind": "v",
     "type": "string",
     "lineno": 56,
     "namespace": "myResolve1",
+    "parent": "b9c50cad-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "1086[55:20]-1089[55:23]",
       "!type": "string",
@@ -311,11 +339,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c50cad-5908-11e9-82ce-d3b96e8ea131",
     "name": "myResolve1",
-    "addr": "/myResolve1/",
+    "addr": "/function myResolve1/",
     "kind": "f",
     "type": "Promise function(string)",
     "lineno": 56,
@@ -327,11 +356,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b1-5908-11e9-82ce-d3b96e8ea131",
     "name": "myResolve2",
-    "addr": "/myResolve2/",
+    "addr": "/function myResolve2/",
     "kind": "f",
     "type": "Promise function(string|number)",
     "lineno": 62,
@@ -343,15 +373,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b3-5908-11e9-82ce-d3b96e8ea131",
     "name": "arg7",
-    "addr": "/arg7/",
+    "addr": "/function myResolve3\\(arg7/",
     "kind": "v",
     "type": "?|number",
     "lineno": 73,
     "namespace": "myResolve3",
+    "parent": "b9c533b2-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "1394[72:20]-1398[72:24]",
       "!type": "?|number",
@@ -361,11 +393,12 @@
         "isArg": true
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b2-5908-11e9-82ce-d3b96e8ea131",
     "name": "myResolve3",
-    "addr": "/myResolve3/",
+    "addr": "/function myResolve3/",
     "kind": "f",
     "type": "Promise function(?|number)",
     "lineno": 73,
@@ -377,15 +410,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b6-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/arg7/",
+    "addr": "/  return Promise\\.resolve\\(arg7/",
     "kind": "v",
     "type": "number",
     "lineno": 74,
     "namespace": "Promise",
+    "parent": "b9c533b5-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "1427[73:25]-1431[73:29]",
       "!type": "number",
@@ -394,15 +429,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   },
   {
+    "id": "b9c533b4-5908-11e9-82ce-d3b96e8ea131",
     "name": ":t",
-    "addr": "/4/",
+    "addr": "/myResolve3\\(Promise\\.resolve\\(4/",
     "kind": "v",
     "type": "number",
     "lineno": 81,
     "namespace": "myResolve3.arg7",
+    "parent": "b9c533b3-5908-11e9-82ce-d3b96e8ea131",
     "origin": {
       "!span": "1543[80:27]-1544[80:28]",
       "!type": "number",
@@ -413,6 +450,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/promise.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
   }
 ]

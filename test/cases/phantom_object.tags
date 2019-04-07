@@ -1,4 +1,0 @@
-c	__DIR__/phantom_object.js	/c/;"	v	lineno:9	namespace:otherMod	type:number
-func	__DIR__/phantom_object.js	/func/;"	f	lineno:3	namespace:mod	type:number function()
-mod	__DIR__/phantom_object.js	/mod/;"	v	lineno:1
-otherMod	__DIR__/phantom_object.js	/otherMod/;"	v	lineno:7

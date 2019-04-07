@@ -1,0 +1,4 @@
+:my_sym	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/  \[mySym/;"	v	lineno:4	namespace:obj	type:number
+iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/obj\[Symbol\.iterator/;"	v	lineno:8	namespace:obj.:Symbol	type:string
+mySym	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/var mySym/;"	v	lineno:1
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js	/var obj/;"	v	lineno:3

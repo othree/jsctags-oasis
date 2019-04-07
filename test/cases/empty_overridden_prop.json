@@ -1,7 +1,8 @@
 [
   {
+    "id": "b46725e0-5908-11e9-9e1b-1588ae2644e7",
     "name": "Class",
-    "addr": "/Class/",
+    "addr": "/function Class/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -13,15 +14,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/empty_overridden_prop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
   },
   {
+    "id": "b4674cf1-5908-11e9-9e1b-1588ae2644e7",
     "name": "hello",
-    "addr": "/hello/",
+    "addr": "/Class\\.prototype\\.hello/",
     "kind": "v",
     "type": "string",
     "lineno": 2,
     "namespace": "Class.prototype",
+    "parent": "b4674cf0-5908-11e9-9e1b-1588ae2644e7",
     "origin": {
       "!span": "36[1:16]-41[1:21]",
       "!type": "string",
@@ -30,11 +33,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/empty_overridden_prop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
   },
   {
+    "id": "b4674cf2-5908-11e9-9e1b-1588ae2644e7",
     "name": "c",
-    "addr": "/c/",
+    "addr": "/var c/",
     "kind": "v",
     "type": "Class",
     "lineno": 4,
@@ -46,14 +50,16 @@
         "type": "Class.prototype"
       }
     },
-    "tagfile": "__DIR__/empty_overridden_prop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
   },
   {
+    "id": "b4674cf3-5908-11e9-9e1b-1588ae2644e7",
     "name": "hello",
-    "addr": "/hello/",
+    "addr": "/c\\.hello/",
     "kind": "v",
     "lineno": 5,
     "namespace": "c",
+    "parent": "b4674cf2-5908-11e9-9e1b-1588ae2644e7",
     "origin": {
       "!span": "76[4:2]-81[4:7]",
       "!data": {
@@ -63,6 +69,6 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/empty_overridden_prop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b491b850-5908-11e9-905d-f782a18d1d6a",
     "name": "Foo",
-    "addr": "/Foo/",
+    "addr": "/class Foo/",
     "kind": "f",
     "type": "void function(?, ?)",
     "lineno": 1,
@@ -13,14 +14,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b491df60-5908-11e9-905d-f782a18d1d6a",
     "name": "prototype",
     "addr": "/class Foo \\{/",
     "kind": "v",
     "lineno": 1,
     "namespace": "Foo",
+    "parent": "b491b850-5908-11e9-905d-f782a18d1d6a",
     "origin": {
       "!span": "0[0:0]-158[9:1]",
       "!data": {
@@ -28,15 +31,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b491df61-5908-11e9-905d-f782a18d1d6a",
     "name": "method",
-    "addr": "/method/",
+    "addr": "/  method/",
     "kind": "f",
     "type": "void function()",
     "lineno": 7,
     "namespace": "Foo.prototype",
+    "parent": "b491df60-5908-11e9-905d-f782a18d1d6a",
     "origin": {
       "!span": "79[6:2]-85[6:8]",
       "!type": "fn()",
@@ -45,15 +50,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920670-5908-11e9-905d-f782a18d1d6a",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/  get x/",
     "kind": "v",
     "type": "string",
     "lineno": 9,
     "namespace": "Foo.prototype",
+    "parent": "b491df60-5908-11e9-905d-f782a18d1d6a",
     "origin": {
       "!span": "122[8:6]-123[8:7]",
       "!type": "string",
@@ -62,11 +69,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920671-5908-11e9-905d-f782a18d1d6a",
     "name": "y",
-    "addr": "/y/",
+    "addr": "/const y/",
     "kind": "v",
     "lineno": 14,
     "origin": {
@@ -76,15 +84,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920672-5908-11e9-905d-f782a18d1d6a",
     "name": "func",
-    "addr": "/func/",
+    "addr": "/  func/",
     "kind": "f",
     "type": "number function()",
     "lineno": 15,
     "namespace": "y",
+    "parent": "b4920671-5908-11e9-905d-f782a18d1d6a",
     "origin": {
       "!span": "185[14:2]-189[14:6]",
       "!type": "fn() -> number",
@@ -93,15 +103,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920673-5908-11e9-905d-f782a18d1d6a",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/  get b/",
     "kind": "v",
     "type": "boolean",
     "lineno": 16,
     "namespace": "y",
+    "parent": "b4920671-5908-11e9-905d-f782a18d1d6a",
     "origin": {
       "!span": "213[15:6]-214[15:7]",
       "!type": "bool",
@@ -110,11 +122,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920674-5908-11e9-905d-f782a18d1d6a",
     "name": "it",
-    "addr": "/it/",
+    "addr": "/let it/",
     "kind": "f",
     "type": "!0 function(?)",
     "lineno": 20,
@@ -126,14 +139,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920675-5908-11e9-905d-f782a18d1d6a",
     "name": "n",
-    "addr": "/n/",
+    "addr": "/let it = function\\*\\(n/",
     "kind": "v",
     "lineno": 20,
     "namespace": "it",
+    "parent": "b4920674-5908-11e9-905d-f782a18d1d6a",
     "origin": {
       "!span": "280[19:19]-281[19:20]",
       "!data": {
@@ -143,11 +158,12 @@
         "type": false
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920676-5908-11e9-905d-f782a18d1d6a",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/let \\[a/",
     "kind": "v",
     "type": "number",
     "lineno": 26,
@@ -159,11 +175,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920677-5908-11e9-905d-f782a18d1d6a",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/let \\[a, b/",
     "kind": "v",
     "type": "number",
     "lineno": 26,
@@ -175,11 +192,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920678-5908-11e9-905d-f782a18d1d6a",
     "name": "e1",
-    "addr": "/e1/",
+    "addr": "/let \\[e1/",
     "kind": "v",
     "type": "string",
     "lineno": 30,
@@ -191,11 +209,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   },
   {
+    "id": "b4920679-5908-11e9-905d-f782a18d1d6a",
     "name": "e3",
-    "addr": "/e3/",
+    "addr": "/let \\[e1,,e3/",
     "kind": "v",
     "type": "number",
     "lineno": 30,
@@ -207,6 +226,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/es6-features.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
   }
 ]

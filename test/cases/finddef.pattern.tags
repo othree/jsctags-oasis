@@ -1,0 +1,15 @@
+another	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function another/;"	f	lineno:23	type:void function(?)
+arg	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function another\(arg/;"	v	lineno:23	namespace:another
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  bar/;"	f	lineno:30	namespace:foo.prototype	type:void function()
+blah	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function blah/;"	f	lineno:1	type:void function()
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  prop2: function\(foo/;"	v	lineno:7	namespace:obj.prop2
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/class foo/;"	f	lineno:29	type:void function()
+fooObj	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/var fooObj/;"	v	lineno:34	type:foo
+hide	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/function hide/;"	f	lineno:19	type:void function(?) function()
+jaja	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/var jaja/;"	v	lineno:3	type:number
+local	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  var local/;"	v	lineno:24	namespace:another	type:number
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/var obj/;"	v	lineno:5
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  prop1/;"	v	lineno:6	namespace:obj	type:number
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/  prop2/;"	f	lineno:7	namespace:obj	type:void function(?)
+prop3	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/obj\.prop3/;"	v	lineno:10	namespace:obj	type:string
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js	/class foo \{/;"	v	lineno:29	namespace:foo

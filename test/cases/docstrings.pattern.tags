@@ -1,0 +1,22 @@
+C	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/class C/;"	f	lineno:93	type:void function()
+Quux	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/function Quux/;"	f	lineno:32	type:void function()
+abc	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var abc/;"	v	lineno:26	type:number
+aha	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var aha/;"	v	lineno:64	type:string
+arr	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var arr/;"	v	lineno:57	type:number
+bar	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  'bar'/;"	v	lineno:82	namespace:o	type:number
+baz	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var baz/;"	v	lineno:40	type:string
+c	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var c/;"	v	lineno:100	type:C
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var foo/;"	v	lineno:9	type:number
+foo	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/o\.foo/;"	v	lineno:86	namespace:o	type:string
+getName	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  getName/;"	f	lineno:76	namespace:o	type:!this.name function()
+makeMonkey	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/function makeMonkey/;"	f	lineno:14	type:string function()
+method	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  method/;"	f	lineno:95	namespace:C.prototype	type:number function()
+monkeyAlias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/function makeMonkey/;"	f	lineno:14	type:string function()
+monkeyAlias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var monkeyAlias/;"	f	lineno:18	type:string function()
+myalias	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var myalias/;"	f	lineno:4	type:void function(number)
+name	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  name/;"	v	lineno:78	namespace:o	type:string
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var o/;"	v	lineno:74
+oy	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var oy/;"	v	lineno:47	type:number
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/class C \{/;"	v	lineno:93	namespace:C
+something	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/  get something/;"	v	lineno:97	namespace:C.prototype	type:number
+xyzzy	/Users/othree/os-projects/jsctags-oasis/test/cases/docstrings.js	/var xyzzy/;"	v	lineno:70	type:boolean

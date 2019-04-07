@@ -1,0 +1,9 @@
+Ext	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/var Ext/;"	v	lineno:1
+F	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  var F/;"	f	lineno:18	namespace:Ext.extend	type:void function()
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/Ext\.extend/;"	f	lineno:2	namespace:Ext	type:void function(fn()
+extend	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  subclass\.extend/;"	f	lineno:10	namespace:Ext.extend.subclass	type:void function(?)
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  subclass\.extend = function\(o/;"	v	lineno:10	namespace:Ext.extend.subclass.extend
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  subclass\.prototype/;"	v	lineno:8	namespace:Ext.extend.subclass
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/  F\.prototype/;"	v	lineno:19	namespace:Ext.extend.F
+subclass	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/Ext\.extend = function\(subclass/;"	f	lineno:14	namespace:Ext.extend	type:void function()
+superclass	/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js	/Ext\.extend = function\(subclass, superclass/;"	f	lineno:14	namespace:Ext.extend	type:void function()

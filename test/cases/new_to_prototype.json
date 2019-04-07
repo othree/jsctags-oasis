@@ -1,7 +1,8 @@
 [
   {
+    "id": "b8969ec0-5908-11e9-9477-4dc671831e84",
     "name": "A",
-    "addr": "/A/",
+    "addr": "/function A/",
     "kind": "f",
     "type": "void function()",
     "lineno": 1,
@@ -13,15 +14,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
+    "id": "b896c5d1-5908-11e9-9477-4dc671831e84",
     "name": "prop_A",
-    "addr": "/prop_A/",
+    "addr": "/A\\.prototype\\.prop_A/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
     "namespace": "A.prototype",
+    "parent": "b896c5d0-5908-11e9-9477-4dc671831e84",
     "origin": {
       "!span": "28[1:12]-34[1:18]",
       "!type": "number",
@@ -30,11 +33,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
+    "id": "b896c5d2-5908-11e9-9477-4dc671831e84",
     "name": "B",
-    "addr": "/B/",
+    "addr": "/function B/",
     "kind": "f",
     "type": "void function()",
     "lineno": 3,
@@ -46,14 +50,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
+    "id": "b896c5d3-5908-11e9-9477-4dc671831e84",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/B\\.prototype/",
     "kind": "v",
     "lineno": 4,
     "namespace": "B",
+    "parent": "b896c5d2-5908-11e9-9477-4dc671831e84",
     "origin": {
       "!span": "58[3:2]-67[3:11]",
       "!data": {
@@ -61,15 +67,17 @@
         "type": "A.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
+    "id": "b896c5d4-5908-11e9-9477-4dc671831e84",
     "name": "prop_B",
-    "addr": "/prop_B/",
+    "addr": "/B\\.prototype\\.prop_B/",
     "kind": "v",
     "type": "number",
     "lineno": 5,
     "namespace": "B.prototype",
+    "parent": "b896c5d3-5908-11e9-9477-4dc671831e84",
     "origin": {
       "!span": "89[4:12]-95[4:18]",
       "!type": "number",
@@ -78,11 +86,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
+    "id": "b896c5d5-5908-11e9-9477-4dc671831e84",
     "name": "C",
-    "addr": "/C/",
+    "addr": "/function C/",
     "kind": "f",
     "type": "void function()",
     "lineno": 6,
@@ -94,14 +103,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
+    "id": "b896ece0-5908-11e9-9477-4dc671831e84",
     "name": "prototype",
-    "addr": "/prototype/",
+    "addr": "/C\\.prototype/",
     "kind": "v",
     "lineno": 7,
     "namespace": "C",
+    "parent": "b896c5d5-5908-11e9-9477-4dc671831e84",
     "origin": {
       "!span": "119[6:2]-128[6:11]",
       "!data": {
@@ -109,15 +120,17 @@
         "type": "A.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   },
   {
+    "id": "b896ece1-5908-11e9-9477-4dc671831e84",
     "name": "prop_C",
-    "addr": "/prop_C/",
+    "addr": "/C\\.prototype\\.prop_C/",
     "kind": "v",
     "type": "number",
     "lineno": 8,
     "namespace": "C.prototype",
+    "parent": "b896ece0-5908-11e9-9477-4dc671831e84",
     "origin": {
       "!span": "150[7:12]-156[7:18]",
       "!type": "number",
@@ -126,6 +139,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/new_to_prototype.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "ba682a70-5908-11e9-9719-23622dcaeb1c",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "type": "Type",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Type.prototype"
       }
     },
-    "tagfile": "__DIR__/replace_bogus_prop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
   },
   {
+    "id": "ba687890-5908-11e9-9719-23622dcaeb1c",
     "name": "Type",
-    "addr": "/Type/",
+    "addr": "/function Type/",
     "kind": "f",
     "type": "void function()",
     "lineno": 5,
@@ -29,15 +31,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/replace_bogus_prop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
   },
   {
+    "id": "ba687892-5908-11e9-9719-23622dcaeb1c",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/Type\\.prototype\\.foo/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "Type.prototype",
+    "parent": "ba687891-5908-11e9-9719-23622dcaeb1c",
     "origin": {
       "!span": "74[5:15]-77[5:18]",
       "!type": "string",
@@ -46,6 +50,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/replace_bogus_prop.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
   }
 ]

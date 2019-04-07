@@ -1,7 +1,8 @@
 [
   {
+    "id": "b1718c90-5908-11e9-959e-8ddbff8eb2db",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "type": "[string]",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/array_holes.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js"
   },
   {
+    "id": "b171b3a0-5908-11e9-959e-8ddbff8eb2db",
     "name": "y",
-    "addr": "/y/",
+    "addr": "/var \\[,, y/",
     "kind": "v",
     "type": "string",
     "lineno": 3,
@@ -29,11 +31,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/array_holes.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js"
   },
   {
+    "id": "b171b3a1-5908-11e9-959e-8ddbff8eb2db",
     "name": "z",
-    "addr": "/z/",
+    "addr": "/var \\[,, y, z/",
     "kind": "v",
     "type": "string",
     "lineno": 3,
@@ -45,6 +48,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/array_holes.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js"
   }
 ]

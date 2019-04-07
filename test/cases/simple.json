@@ -1,7 +1,8 @@
 [
   {
+    "id": "babe39b0-5908-11e9-a503-c9978e3a1bb6",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/var foo/",
     "kind": "v",
     "type": "number",
     "lineno": 1,
@@ -13,11 +14,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/simple.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
+    "id": "babe60c0-5908-11e9-a503-c9978e3a1bb6",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "lineno": 6,
     "origin": {
@@ -27,11 +29,12 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/simple.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
+    "id": "babe60c3-5908-11e9-a503-c9978e3a1bb6",
     "name": "init",
-    "addr": "/init/",
+    "addr": "/function init/",
     "kind": "f",
     "type": "void function(x)",
     "lineno": 8,
@@ -43,15 +46,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/simple.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
+    "id": "babe60c1-5908-11e9-a503-c9978e3a1bb6",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/  v\\.foo/",
     "kind": "v",
     "type": "number",
     "lineno": 9,
     "namespace": "x",
+    "parent": "babe60c0-5908-11e9-a503-c9978e3a1bb6",
     "origin": {
       "!span": "96[8:4]-99[8:7]",
       "!type": "number",
@@ -60,15 +65,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/simple.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   },
   {
+    "id": "babe60c2-5908-11e9-a503-c9978e3a1bb6",
     "name": "bar",
-    "addr": "/bar/",
+    "addr": "/  v\\.bar/",
     "kind": "v",
     "type": "number",
     "lineno": 10,
     "namespace": "x",
+    "parent": "babe60c0-5908-11e9-a503-c9978e3a1bb6",
     "origin": {
       "!span": "110[9:4]-113[9:7]",
       "!type": "number",
@@ -77,6 +84,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/simple.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
   }
 ]

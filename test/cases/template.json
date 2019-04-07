@@ -1,7 +1,8 @@
 [
   {
+    "id": "bb70c0d0-5908-11e9-a176-2b03a9611e0d",
     "name": "x",
-    "addr": "/x/",
+    "addr": "/var x/",
     "kind": "v",
     "type": "number",
     "lineno": 2,
@@ -13,11 +14,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/template.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
+    "id": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
     "name": "build",
-    "addr": "/build/",
+    "addr": "/function build/",
     "kind": "f",
     "type": "boolean function(Array[string], number, string)",
     "lineno": 6,
@@ -29,15 +31,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/template.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
+    "id": "bb713600-5908-11e9-a176-2b03a9611e0d",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/function build\\(strs, a/",
     "kind": "v",
     "type": "number",
     "lineno": 6,
     "namespace": "build",
+    "parent": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
     "origin": {
       "!span": "87[5:21]-88[5:22]",
       "!type": "number",
@@ -48,15 +52,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/template.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
+    "id": "bb713601-5908-11e9-a176-2b03a9611e0d",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/function build\\(strs, a, b/",
     "kind": "v",
     "type": "string",
     "lineno": 6,
     "namespace": "build",
+    "parent": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
     "origin": {
       "!span": "90[5:24]-91[5:25]",
       "!type": "string",
@@ -67,15 +73,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/template.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   },
   {
+    "id": "bb713602-5908-11e9-a176-2b03a9611e0d",
     "name": "strs",
-    "addr": "/strs/",
+    "addr": "/function build\\(strs/",
     "kind": "v",
     "type": "[string]",
     "lineno": 6,
     "namespace": "build",
+    "parent": "bb710ef0-5908-11e9-a176-2b03a9611e0d",
     "origin": {
       "!span": "81[5:15]-85[5:19]",
       "!type": "[string]",
@@ -86,6 +94,6 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/template.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
   }
 ]

@@ -1,7 +1,8 @@
 [
   {
+    "id": "b2605960-5908-11e9-a0a7-17e0386d6b07",
     "name": "newElt",
-    "addr": "/newElt/",
+    "addr": "/var newElt/",
     "kind": "v",
     "type": "Element",
     "lineno": 5,
@@ -13,11 +14,12 @@
         "type": "Element.prototype"
       }
     },
-    "tagfile": "__DIR__/browser.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js"
   },
   {
+    "id": "b260a780-5908-11e9-a0a7-17e0386d6b07",
     "name": "e_which",
-    "addr": "/e_which/",
+    "addr": "/var e_which/",
     "kind": "v",
     "type": "number",
     "lineno": 9,
@@ -29,6 +31,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/browser.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js"
   }
 ]

@@ -1,0 +1,16 @@
+Point2	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point2/;"	f	lineno:7	type:void function(number, number)
+Point3	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point3/;"	f	lineno:1	type:void function(number, number, number)
+callSuper	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  callSuper/;"	f	lineno:4	namespace:Point3.prototype	type:string function()
+foobar	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  foobar/;"	f	lineno:3	namespace:Point3.prototype	type:!this.x function()
+getSuperX	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  getSuperX/;"	f	lineno:23	namespace:obj	type:number function()
+hello	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  hello/;"	f	lineno:9	namespace:Point2.prototype	type:string function()
+obj	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var obj/;"	v	lineno:20
+p	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var p/;"	v	lineno:12	type:Point3
+pro	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var pro/;"	v	lineno:18
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point3 extends Point2 \{/;"	v	lineno:1	namespace:Point3
+prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/class Point2 \{/;"	v	lineno:7	namespace:Point2
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  constructor\(x, y\) \{ this\.x/;"	v	lineno:8	namespace:Point3	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/var pro = \{x/;"	v	lineno:18	namespace:pro	type:number
+x	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  x/;"	v	lineno:22	namespace:obj	type:string
+y	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:8	namespace:Point3	type:number
+z	/Users/othree/os-projects/jsctags-oasis/test/cases/super.js	/  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:2	namespace:Point3	type:number

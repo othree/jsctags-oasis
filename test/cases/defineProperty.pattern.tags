@@ -1,0 +1,6 @@
+o	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/var o/;"	v	lineno:1
+o2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/var o2/;"	v	lineno:17
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperty\(o, "prop1"/;"	v	lineno:4	namespace:o	type:string
+prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperties\(o2, \{/;"	v	lineno:19	namespace:o2	type:number
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperty\(o, "prop2"/;"	v	lineno:8	namespace:o	type:number
+prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js	/Object\.defineProperties\(o2, \{/;"	v	lineno:19	namespace:o2	type:boolean

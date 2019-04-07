@@ -1,7 +1,8 @@
 [
   {
+    "id": "b7c08a10-5908-11e9-bbb8-675c6a89958f",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/var a/",
     "kind": "v",
     "type": "Date",
     "lineno": 2,
@@ -13,11 +14,12 @@
         "type": "Date.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0b120-5908-11e9-bbb8-675c6a89958f",
     "name": "c",
-    "addr": "/c/",
+    "addr": "/var c/",
     "kind": "v",
     "lineno": 8,
     "origin": {
@@ -27,15 +29,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d830-5908-11e9-bbb8-675c6a89958f",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/function foo\\(a/",
     "kind": "v",
     "type": "number",
     "lineno": 17,
     "namespace": "foo",
+    "parent": "b7c0b123-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "295[16:13]-296[16:14]",
       "!type": "number",
@@ -46,11 +50,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0b123-5908-11e9-bbb8-675c6a89958f",
     "name": "foo",
-    "addr": "/foo/",
+    "addr": "/function foo/",
     "kind": "f",
     "type": "[number] function(number, string)",
     "lineno": 17,
@@ -62,15 +67,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d831-5908-11e9-bbb8-675c6a89958f",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/function foo\\(a, b/",
     "kind": "v",
     "type": "string",
     "lineno": 17,
     "namespace": "foo",
+    "parent": "b7c0b123-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "298[16:16]-299[16:17]",
       "!type": "string",
@@ -81,11 +88,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d832-5908-11e9-bbb8-675c6a89958f",
     "name": "abc",
-    "addr": "/abc/",
+    "addr": "/var abc/",
     "kind": "f",
     "type": "void function()",
     "lineno": 21,
@@ -97,11 +105,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d833-5908-11e9-bbb8-675c6a89958f",
     "name": "Abc",
-    "addr": "/Abc/",
+    "addr": "/var Abc/",
     "kind": "f",
     "type": "void function()",
     "lineno": 26,
@@ -113,11 +122,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d834-5908-11e9-bbb8-675c6a89958f",
     "name": "AbcCls",
-    "addr": "/AbcCls/",
+    "addr": "/var AbcCls/",
     "kind": "f",
     "type": "void function()",
     "lineno": 31,
@@ -129,11 +139,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d835-5908-11e9-bbb8-675c6a89958f",
     "name": "AbcCtor",
-    "addr": "/AbcCtor/",
+    "addr": "/var AbcCtor/",
     "kind": "f",
     "type": "void function()",
     "lineno": 36,
@@ -145,11 +156,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d836-5908-11e9-bbb8-675c6a89958f",
     "name": "bar",
-    "addr": "/bar/",
+    "addr": "/var bar/",
     "kind": "f",
     "type": "string function(number, number)",
     "lineno": 45,
@@ -161,15 +173,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d838-5908-11e9-bbb8-675c6a89958f",
     "name": "b",
-    "addr": "/b/",
+    "addr": "/var bar = function\\(a, b/",
     "kind": "v",
     "type": "number",
     "lineno": 45,
     "namespace": "bar",
+    "parent": "b7c0d836-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "722[44:22]-723[44:23]",
       "!type": "number",
@@ -180,15 +194,17 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d837-5908-11e9-bbb8-675c6a89958f",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/var bar = function\\(a/",
     "kind": "v",
     "type": "number",
     "lineno": 45,
     "namespace": "bar",
+    "parent": "b7c0d836-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "719[44:19]-720[44:20]",
       "!type": "number",
@@ -199,11 +215,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d839-5908-11e9-bbb8-675c6a89958f",
     "name": "o",
-    "addr": "/o/",
+    "addr": "/var o/",
     "kind": "v",
     "lineno": 49,
     "origin": {
@@ -213,15 +230,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d83a-5908-11e9-bbb8-675c6a89958f",
     "name": "prop1",
-    "addr": "/prop1/",
+    "addr": "/  prop1/",
     "kind": "v",
     "type": "string",
     "lineno": 51,
     "namespace": "o",
+    "parent": "b7c0d839-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "843[50:2]-848[50:7]",
       "!type": "string",
@@ -230,15 +249,17 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d83b-5908-11e9-bbb8-675c6a89958f",
     "name": "prop2",
-    "addr": "/prop2/",
+    "addr": "/  prop2/",
     "kind": "f",
     "type": "number function()",
     "lineno": 54,
     "namespace": "o",
+    "parent": "b7c0d839-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "891[53:2]-896[53:7]",
       "!type": "fn() -> number",
@@ -247,15 +268,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d83c-5908-11e9-bbb8-675c6a89958f",
     "name": "prop3",
-    "addr": "/prop3/",
+    "addr": "/o\\.prop3/",
     "kind": "f",
     "type": "string function()",
     "lineno": 58,
     "namespace": "o",
+    "parent": "b7c0d839-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "963[57:2]-968[57:7]",
       "!type": "fn() -> string",
@@ -264,11 +287,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d83d-5908-11e9-bbb8-675c6a89958f",
     "name": "closureArray",
-    "addr": "/closureArray/",
+    "addr": "/var closureArray/",
     "kind": "v",
     "type": "[string]",
     "lineno": 65,
@@ -280,13 +304,15 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0b121-5908-11e9-bbb8-675c6a89958f",
     "name": "x",
     "kind": "v",
     "type": "number",
     "namespace": "c",
+    "parent": "b7c0b120-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!type": "number",
       "!data": {
@@ -294,13 +320,15 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0b122-5908-11e9-bbb8-675c6a89958f",
     "name": "y",
     "kind": "v",
     "type": "[string]",
     "namespace": "c",
+    "parent": "b7c0b120-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!type": "[string]",
       "!data": {
@@ -308,13 +336,15 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff45-5908-11e9-bbb8-675c6a89958f",
     "name": "two",
     "kind": "v",
     "type": "number",
     "namespace": "myObj",
+    "parent": "b7c0ff43-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!type": "number",
       "!data": {
@@ -322,13 +352,15 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d83f-5908-11e9-bbb8-675c6a89958f",
     "name": "<i>",
     "kind": "v",
     "type": "boolean",
     "namespace": "closureMap",
+    "parent": "b7c0d83e-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!type": "bool",
       "!data": {
@@ -336,13 +368,15 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff44-5908-11e9-bbb8-675c6a89958f",
     "name": "one",
     "kind": "v",
     "type": "boolean",
     "namespace": "myObj",
+    "parent": "b7c0ff43-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!type": "bool",
       "!data": {
@@ -350,11 +384,12 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0d83e-5908-11e9-bbb8-675c6a89958f",
     "name": "closureMap",
-    "addr": "/closureMap/",
+    "addr": "/var closureMap/",
     "kind": "v",
     "lineno": 69,
     "origin": {
@@ -364,15 +399,17 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff41-5908-11e9-bbb8-675c6a89958f",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/function takesOpt\\(a/",
     "kind": "v",
     "type": "number",
     "lineno": 73,
     "namespace": "takesOpt",
+    "parent": "b7c0ff40-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "1323[72:18]-1324[72:19]",
       "!type": "number",
@@ -383,11 +420,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff40-5908-11e9-bbb8-675c6a89958f",
     "name": "takesOpt",
-    "addr": "/takesOpt/",
+    "addr": "/function takesOpt/",
     "kind": "f",
     "type": "void function(number)",
     "lineno": 73,
@@ -399,11 +437,12 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff42-5908-11e9-bbb8-675c6a89958f",
     "name": "myBitset",
-    "addr": "/myBitset/",
+    "addr": "/var myBitset/",
     "kind": "v",
     "type": "[bool]",
     "lineno": 88,
@@ -415,11 +454,12 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff43-5908-11e9-bbb8-675c6a89958f",
     "name": "myObj",
-    "addr": "/myObj/",
+    "addr": "/var myObj/",
     "kind": "v",
     "lineno": 93,
     "origin": {
@@ -429,11 +469,12 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff46-5908-11e9-bbb8-675c6a89958f",
     "name": "NonAscïį",
-    "addr": "/NonAscïį/",
+    "addr": "/function NonAscïį/",
     "kind": "f",
     "type": "void function()",
     "lineno": 99,
@@ -445,15 +486,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff47-5908-11e9-bbb8-675c6a89958f",
     "name": "length",
-    "addr": "/length/",
+    "addr": "/function NonAscïį\\(\\) \\{ this\\.length/",
     "kind": "v",
     "type": "string",
     "lineno": 99,
     "namespace": "NonAscïį",
+    "parent": "b7c0ff46-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "1764[98:27]-1770[98:33]",
       "!type": "string",
@@ -462,11 +505,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff48-5908-11e9-bbb8-675c6a89958f",
     "name": "inst",
-    "addr": "/inst/",
+    "addr": "/var inst/",
     "kind": "v",
     "type": "NonAscïį",
     "lineno": 102,
@@ -478,13 +522,15 @@
         "type": "NonAscïį.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c12653-5908-11e9-bbb8-675c6a89958f",
     "name": "bogus",
-    "addr": "/bogus/",
+    "addr": "/var bogus/",
     "kind": "v",
     "lineno": 107,
+    "parent": "b7c12652-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "1872[106:4]-1877[106:9]",
       "!data": {
@@ -493,11 +539,12 @@
         "isArg": false
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff49-5908-11e9-bbb8-675c6a89958f",
     "name": "again",
-    "addr": "/again/",
+    "addr": "/var again/",
     "kind": "v",
     "type": "number",
     "lineno": 112,
@@ -509,11 +556,12 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff4a-5908-11e9-bbb8-675c6a89958f",
     "name": "functionBogus",
-    "addr": "/functionBogus/",
+    "addr": "/function functionBogus/",
     "kind": "f",
     "type": "? function(?)",
     "lineno": 120,
@@ -525,14 +573,16 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff4b-5908-11e9-bbb8-675c6a89958f",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/function functionBogus\\(a/",
     "kind": "v",
     "lineno": 120,
     "namespace": "functionBogus",
+    "parent": "b7c0ff4a-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "2063[119:23]-2064[119:24]",
       "!data": {
@@ -541,11 +591,12 @@
         "isArg": true
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c0ff4c-5908-11e9-bbb8-675c6a89958f",
     "name": "unionFunction",
-    "addr": "/unionFunction/",
+    "addr": "/function unionFunction/",
     "kind": "f",
     "type": "[?|number] function(string)",
     "lineno": 133,
@@ -557,15 +608,17 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c12650-5908-11e9-bbb8-675c6a89958f",
     "name": "a",
-    "addr": "/a/",
+    "addr": "/function unionFunction\\(a/",
     "kind": "v",
     "type": "string",
     "lineno": 133,
     "namespace": "unionFunction",
+    "parent": "b7c0ff4c-5908-11e9-bbb8-675c6a89958f",
     "origin": {
       "!span": "2315[132:23]-2316[132:24]",
       "!type": "string",
@@ -576,11 +629,12 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   },
   {
+    "id": "b7c12651-5908-11e9-bbb8-675c6a89958f",
     "name": "ui",
-    "addr": "/ui/",
+    "addr": "/function ui/",
     "kind": "f",
     "type": "string function()",
     "lineno": 140,
@@ -592,6 +646,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "__DIR__/jsdoc.js"
+    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
   }
 ]
