@@ -17,6 +17,7 @@ const condense = require('./condenser');
 
 const MATCHES = {
   pos: /^(\d*?)\[\d*?:\d*?\]-(\d*?)\[\d*?:\d*?\]$/,
+  linepos: /^\d*?\[(\d*?):(\d*?)\]-\d*?\[(\d*?):(\d*?)\]$/,
   addr: /[-[\]/{}()*+?.\\^$|]/g,
   fn: /^fn\*?\(/,
   args: /^fn\*?\((.*?)\)/,
@@ -89,6 +90,8 @@ const Parser = function (ctx) {
   this.define = {};
   this.walked = [];
   this.bySpan = {};
+
+  this.contentLines = this.ctx.content.split(/\n/g);
 };
 
 Parser.prototype.parse = function (fn) {
@@ -286,12 +289,16 @@ Parser.prototype.addr = function (node) {
     return;
   }
 
-  const pos = node['!span'].match(MATCHES.pos);
+  const pos = node['!span'].match(MATCHES.linepos);
 
-  const end = pos.pop();
-  const start = pos.pop();
+  const endPos = pos.pop();
+  const endLine = pos.pop();
+  pos.pop();
+  const startLine = pos.pop();
 
-  const blob = this.ctx.content.slice(start, end);
+  const line = this.contentLines[startLine];
+
+  const blob = line.slice(0, startLine === endLine ? endPos : line.length);
   const regexp = blob
     .split(/\n/)
     .shift()
