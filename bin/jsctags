@@ -121,8 +121,6 @@ const onResults = function (err, results) {
     return true;
   });
 
-  tags.tagfile = results.tagfile;
-
   fn(tags, program);
 };
 
@@ -132,9 +130,8 @@ const parse = function (ctx, fn) {
       return fn(err);
     }
 
-    tags.tagfile = ctx.file;
     tags.forEach(tag => {
-      tag.tagfile = ctx.file;
+      tag.tagfile = path.relative(dir, ctx.file);
     });
 
     fn(err, tags);
