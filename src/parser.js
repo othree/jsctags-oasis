@@ -10,7 +10,7 @@ const without = require('lodash.without');
 const get = require('lodash.get');
 const objectHash = require('object-hash');
 const clone = require('lodash.clonedeep');
-const uuid = require('node-uuid');
+const uuidv1 = require('uuid/v1');
 const path = require('path');
 
 const condense = require('./condenser');
@@ -359,7 +359,7 @@ Parser.prototype.onNode = function (name, node, parent) {
   }
 
   const tag = {
-    id: uuid.v1(),
+    id: uuidv1(),
     name,
     addr: this.addr(node),
     kind: this.kind(node),

@@ -50,13 +50,13 @@
     "lodash.isundefined": "^3.0.1",
     "lodash.sortby": "^4.7.0",
     "lodash.without": "^4.4.0",
-    "node-uuid": "^1.4.8",
     "object-hash": "^1.3.0",
     "once": "^1.4.0",
     "optimist": "^0.6.1",
     "tern": "^0.23.0",
     "tern-jsx": "ramitos/tern-jsx#8587d84",
-    "tryor": "^0.1.2"
+    "tryor": "^0.1.2",
+    "uuid": "^3.3.2"
   },
   "devDependencies": {
     "assert-diff": "^1.2.6",
