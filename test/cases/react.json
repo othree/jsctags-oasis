@@ -14,7 +14,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e67-593a-11e9-b68d-2d47675ed350",
@@ -31,7 +31,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e50-593a-11e9-b68d-2d47675ed350",
@@ -48,7 +48,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e68-593a-11e9-b68d-2d47675ed350",
@@ -65,7 +65,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e51-593a-11e9-b68d-2d47675ed350",
@@ -82,7 +82,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e52-593a-11e9-b68d-2d47675ed350",
@@ -99,7 +99,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e53-593a-11e9-b68d-2d47675ed350",
@@ -116,7 +116,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e54-593a-11e9-b68d-2d47675ed350",
@@ -133,7 +133,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e55-593a-11e9-b68d-2d47675ed350",
@@ -150,7 +150,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e56-593a-11e9-b68d-2d47675ed350",
@@ -167,7 +167,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e57-593a-11e9-b68d-2d47675ed350",
@@ -184,7 +184,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e69-593a-11e9-b68d-2d47675ed350",
@@ -201,7 +201,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e58-593a-11e9-b68d-2d47675ed350",
@@ -218,7 +218,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e59-593a-11e9-b68d-2d47675ed350",
@@ -235,7 +235,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e5a-593a-11e9-b68d-2d47675ed350",
@@ -252,7 +252,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e5b-593a-11e9-b68d-2d47675ed350",
@@ -269,7 +269,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e5c-593a-11e9-b68d-2d47675ed350",
@@ -286,7 +286,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e6a-593a-11e9-b68d-2d47675ed350",
@@ -303,7 +303,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e6c-593a-11e9-b68d-2d47675ed350",
@@ -320,7 +320,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e6b-593a-11e9-b68d-2d47675ed350",
@@ -337,7 +337,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e5d-593a-11e9-b68d-2d47675ed350",
@@ -354,7 +354,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e6d-593a-11e9-b68d-2d47675ed350",
@@ -369,7 +369,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e6e-593a-11e9-b68d-2d47675ed350",
@@ -386,7 +386,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e5e-593a-11e9-b68d-2d47675ed350",
@@ -403,7 +403,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e6f-593a-11e9-b68d-2d47675ed350",
@@ -420,7 +420,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e5f-593a-11e9-b68d-2d47675ed350",
@@ -437,7 +437,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e60-593a-11e9-b68d-2d47675ed350",
@@ -454,7 +454,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e61-593a-11e9-b68d-2d47675ed350",
@@ -471,7 +471,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e62-593a-11e9-b68d-2d47675ed350",
@@ -488,7 +488,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e63-593a-11e9-b68d-2d47675ed350",
@@ -505,7 +505,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e64-593a-11e9-b68d-2d47675ed350",
@@ -522,7 +522,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e65-593a-11e9-b68d-2d47675ed350",
@@ -539,7 +539,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   },
   {
     "id": "ccb91e66-593a-11e9-b68d-2d47675ed350",
@@ -556,6 +556,6 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/react.jsx"
+    "tagfile": "__DIR__react.jsx"
   }
 ]

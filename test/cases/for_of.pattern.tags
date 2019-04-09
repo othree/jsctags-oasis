@@ -1,7 +1,7 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^        return \{value: \{a/;"	v	lineno:5	namespace:hello	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^for \(var \{a/;"	v	lineno:15	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^        return \{value: \{a: 1, b/;"	v	lineno:5	namespace:hello	type:boolean
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^for \(var \{a, b/;"	v	lineno:15	type:boolean
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^for \(var hello/;"	v	lineno:11
-iterator	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^  \[Symbol\.iterator/;"	f	lineno:2	namespace:myIter.:Symbol	type:myIter.:Symbol.iterator.!ret function()
-myIter	/Users/othree/os-projects/jsctags-oasis/test/cases/for_of.js	/^var myIter/;"	v	lineno:1
+a	__DIR__for_of.js	/^        return \{value: \{a/;"	v	lineno:5	namespace:hello	type:number
+a	__DIR__for_of.js	/^for \(var \{a/;"	v	lineno:15	type:number
+b	__DIR__for_of.js	/^        return \{value: \{a: 1, b/;"	v	lineno:5	namespace:hello	type:boolean
+b	__DIR__for_of.js	/^for \(var \{a, b/;"	v	lineno:15	type:boolean
+hello	__DIR__for_of.js	/^for \(var hello/;"	v	lineno:11
+iterator	__DIR__for_of.js	/^  \[Symbol\.iterator/;"	f	lineno:2	namespace:myIter.:Symbol	type:myIter.:Symbol.iterator.!ret function()
+myIter	__DIR__for_of.js	/^var myIter/;"	v	lineno:1

@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
+    "tagfile": "__DIR__contextcomplete.js"
   },
   {
     "id": "c6001460-593a-11e9-9a19-af5b52c59f26",
@@ -33,7 +33,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
+    "tagfile": "__DIR__contextcomplete.js"
   },
   {
     "id": "c6001461-593a-11e9-9a19-af5b52c59f26",
@@ -52,6 +52,6 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/contextcomplete.js"
+    "tagfile": "__DIR__contextcomplete.js"
   }
 ]

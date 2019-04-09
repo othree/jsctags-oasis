@@ -1,4 +1,4 @@
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^otherMod\.c/;"	v	lineno:9	namespace:otherMod	type:number
-func	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^mod\.func/;"	f	lineno:3	namespace:mod	type:number function()
-mod	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^var mod/;"	v	lineno:1
-otherMod	/Users/othree/os-projects/jsctags-oasis/test/cases/phantom_object.js	/^var otherMod/;"	v	lineno:7
+c	__DIR__phantom_object.js	/^otherMod\.c/;"	v	lineno:9	namespace:otherMod	type:number
+func	__DIR__phantom_object.js	/^mod\.func/;"	f	lineno:3	namespace:mod	type:number function()
+mod	__DIR__phantom_object.js	/^var mod/;"	v	lineno:1
+otherMod	__DIR__phantom_object.js	/^var otherMod/;"	v	lineno:7

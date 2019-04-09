@@ -1,5 +1,5 @@
-bar	__DIR__/simple.js	10;"	v	lineno:10	namespace:x	type:number
-foo	__DIR__/simple.js	1;"	v	lineno:1	type:number
-foo	__DIR__/simple.js	9;"	v	lineno:9	namespace:x	type:number
-init	__DIR__/simple.js	8;"	f	lineno:8	type:void function(x)
-x	__DIR__/simple.js	6;"	v	lineno:6
+bar	__DIR__simple.js	10;"	v	lineno:10	namespace:x	type:number
+foo	__DIR__simple.js	1;"	v	lineno:1	type:number
+foo	__DIR__simple.js	9;"	v	lineno:9	namespace:x	type:number
+init	__DIR__simple.js	8;"	f	lineno:8	type:void function(x)
+x	__DIR__simple.js	6;"	v	lineno:6

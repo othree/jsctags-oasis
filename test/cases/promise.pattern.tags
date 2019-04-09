@@ -1,24 +1,24 @@
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p2 = new Promise\(function\(acc\) \{ acc\("hi"\); \}/;"	v	lineno:12	namespace:p2	type:string
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p3 = Promise\.resolve\(10/;"	v	lineno:21	namespace:p3	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p4 = Promise\.resolve\(Promise\.resolve\(10\)/;"	v	lineno:30	namespace:p4	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var arg5 = 1 < 2 \? Promise\.resolve\(10/;"	v	lineno:35	namespace:arg5	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p5 = Promise\.resolve\(arg5/;"	v	lineno:36	namespace:p5	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^\}\)\.then\(function\(value\) \{/;"	v	lineno:43	namespace:p6	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^\}\)\.then\(function\(value\) \{/;"	v	lineno:49	namespace:p7	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^  return Promise\.resolve\(arg7/;"	v	lineno:74	namespace:Promise	type:number
-:t	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^myResolve3\(Promise\.resolve\(4/;"	v	lineno:81	namespace:myResolve3.arg7	type:number
-arg	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve1\(arg/;"	v	lineno:56	namespace:myResolve1	type:string
-arg5	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var arg5/;"	v	lineno:35	type:?|number
-arg7	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve3\(arg7/;"	v	lineno:73	namespace:myResolve3	type:?|number
-myResolve1	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve1/;"	f	lineno:56	type:Promise function(string)
-myResolve2	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve2/;"	f	lineno:62	type:Promise function(string|number)
-myResolve3	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^function myResolve3/;"	f	lineno:73	type:Promise function(?|number)
-p	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p/;"	v	lineno:1	type:Promise
-p2	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p2/;"	v	lineno:12	type:Promise
-p3	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p3/;"	v	lineno:21	type:Promise
-p4	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p4/;"	v	lineno:30	type:Promise
-p5	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p5/;"	v	lineno:36	type:Promise
-p6	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p6/;"	v	lineno:41	type:Promise
-p7	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p7/;"	v	lineno:47	type:Promise
-p8	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^var p8/;"	v	lineno:53	type:Promise
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js	/^  accept\(\{x/;"	v	lineno:3	namespace:Promise.:t	type:number
+:t	__DIR__promise.js	/^var p2 = new Promise\(function\(acc\) \{ acc\("hi"\); \}/;"	v	lineno:12	namespace:p2	type:string
+:t	__DIR__promise.js	/^var p3 = Promise\.resolve\(10/;"	v	lineno:21	namespace:p3	type:number
+:t	__DIR__promise.js	/^var p4 = Promise\.resolve\(Promise\.resolve\(10\)/;"	v	lineno:30	namespace:p4	type:number
+:t	__DIR__promise.js	/^var arg5 = 1 < 2 \? Promise\.resolve\(10/;"	v	lineno:35	namespace:arg5	type:number
+:t	__DIR__promise.js	/^var p5 = Promise\.resolve\(arg5/;"	v	lineno:36	namespace:p5	type:number
+:t	__DIR__promise.js	/^\}\)\.then\(function\(value\) \{/;"	v	lineno:43	namespace:p6	type:number
+:t	__DIR__promise.js	/^\}\)\.then\(function\(value\) \{/;"	v	lineno:49	namespace:p7	type:number
+:t	__DIR__promise.js	/^  return Promise\.resolve\(arg7/;"	v	lineno:74	namespace:Promise	type:number
+:t	__DIR__promise.js	/^myResolve3\(Promise\.resolve\(4/;"	v	lineno:81	namespace:myResolve3.arg7	type:number
+arg	__DIR__promise.js	/^function myResolve1\(arg/;"	v	lineno:56	namespace:myResolve1	type:string
+arg5	__DIR__promise.js	/^var arg5/;"	v	lineno:35	type:?|number
+arg7	__DIR__promise.js	/^function myResolve3\(arg7/;"	v	lineno:73	namespace:myResolve3	type:?|number
+myResolve1	__DIR__promise.js	/^function myResolve1/;"	f	lineno:56	type:Promise function(string)
+myResolve2	__DIR__promise.js	/^function myResolve2/;"	f	lineno:62	type:Promise function(string|number)
+myResolve3	__DIR__promise.js	/^function myResolve3/;"	f	lineno:73	type:Promise function(?|number)
+p	__DIR__promise.js	/^var p/;"	v	lineno:1	type:Promise
+p2	__DIR__promise.js	/^var p2/;"	v	lineno:12	type:Promise
+p3	__DIR__promise.js	/^var p3/;"	v	lineno:21	type:Promise
+p4	__DIR__promise.js	/^var p4/;"	v	lineno:30	type:Promise
+p5	__DIR__promise.js	/^var p5/;"	v	lineno:36	type:Promise
+p6	__DIR__promise.js	/^var p6/;"	v	lineno:41	type:Promise
+p7	__DIR__promise.js	/^var p7/;"	v	lineno:47	type:Promise
+p8	__DIR__promise.js	/^var p8/;"	v	lineno:53	type:Promise
+x	__DIR__promise.js	/^  accept\(\{x/;"	v	lineno:3	namespace:Promise.:t	type:number

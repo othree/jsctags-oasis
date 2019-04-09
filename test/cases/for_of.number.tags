@@ -1,7 +1,7 @@
-a	__DIR__/for_of.js	5;"	v	lineno:5	namespace:hello	type:number
-a	__DIR__/for_of.js	15;"	v	lineno:15	type:number
-b	__DIR__/for_of.js	5;"	v	lineno:5	namespace:hello	type:boolean
-b	__DIR__/for_of.js	15;"	v	lineno:15	type:boolean
-hello	__DIR__/for_of.js	11;"	v	lineno:11
-iterator	__DIR__/for_of.js	2;"	f	lineno:2	namespace:myIter.:Symbol	type:myIter.:Symbol.iterator.!ret function()
-myIter	__DIR__/for_of.js	1;"	v	lineno:1
+a	__DIR__for_of.js	5;"	v	lineno:5	namespace:hello	type:number
+a	__DIR__for_of.js	15;"	v	lineno:15	type:number
+b	__DIR__for_of.js	5;"	v	lineno:5	namespace:hello	type:boolean
+b	__DIR__for_of.js	15;"	v	lineno:15	type:boolean
+hello	__DIR__for_of.js	11;"	v	lineno:11
+iterator	__DIR__for_of.js	2;"	f	lineno:2	namespace:myIter.:Symbol	type:myIter.:Symbol.iterator.!ret function()
+myIter	__DIR__for_of.js	1;"	v	lineno:1

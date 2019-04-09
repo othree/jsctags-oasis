@@ -12,7 +12,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d96eb0-593a-11e9-b148-7bcc5bf8ebca",
@@ -31,7 +31,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d995c5-593a-11e9-b148-7bcc5bf8ebca",
@@ -49,7 +49,7 @@
         "isArg": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d995c3-593a-11e9-b148-7bcc5bf8ebca",
@@ -70,7 +70,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d995c4-593a-11e9-b148-7bcc5bf8ebca",
@@ -89,7 +89,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d995c2-593a-11e9-b148-7bcc5bf8ebca",
@@ -110,7 +110,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d995c6-593a-11e9-b148-7bcc5bf8ebca",
@@ -131,7 +131,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d995c0-593a-11e9-b148-7bcc5bf8ebca",
@@ -152,7 +152,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   },
   {
     "id": "c4d995c1-593a-11e9-b148-7bcc5bf8ebca",
@@ -170,6 +170,6 @@
         "isArg": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/blowup.js"
+    "tagfile": "__DIR__blowup.js"
   }
 ]

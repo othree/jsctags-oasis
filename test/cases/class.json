@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa160-593a-11e9-b408-3ff7f359c340",
@@ -31,7 +31,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac875-593a-11e9-b408-3ff7f359c340",
@@ -50,7 +50,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa163-593a-11e9-b408-3ff7f359c340",
@@ -71,7 +71,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa164-593a-11e9-b408-3ff7f359c340",
@@ -92,7 +92,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac876-593a-11e9-b408-3ff7f359c340",
@@ -111,7 +111,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa169-593a-11e9-b408-3ff7f359c340",
@@ -130,7 +130,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa168-593a-11e9-b408-3ff7f359c340",
@@ -149,7 +149,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa161-593a-11e9-b408-3ff7f359c340",
@@ -168,7 +168,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa162-593a-11e9-b408-3ff7f359c340",
@@ -189,7 +189,7 @@
         "type": "Point2.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa165-593a-11e9-b408-3ff7f359c340",
@@ -208,7 +208,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa166-593a-11e9-b408-3ff7f359c340",
@@ -227,7 +227,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aaa167-593a-11e9-b408-3ff7f359c340",
@@ -246,7 +246,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac870-593a-11e9-b408-3ff7f359c340",
@@ -263,7 +263,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac871-593a-11e9-b408-3ff7f359c340",
@@ -280,7 +280,7 @@
         "type": "Point3.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac873-593a-11e9-b408-3ff7f359c340",
@@ -299,7 +299,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac872-593a-11e9-b408-3ff7f359c340",
@@ -318,7 +318,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac877-593a-11e9-b408-3ff7f359c340",
@@ -335,7 +335,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac878-593a-11e9-b408-3ff7f359c340",
@@ -352,7 +352,7 @@
         "type": "Point2.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac87b-593a-11e9-b408-3ff7f359c340",
@@ -373,7 +373,7 @@
         "isArg": true
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac87c-593a-11e9-b408-3ff7f359c340",
@@ -394,7 +394,7 @@
         "isArg": true
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac87a-593a-11e9-b408-3ff7f359c340",
@@ -415,7 +415,7 @@
         "isArg": true
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac874-593a-11e9-b408-3ff7f359c340",
@@ -434,7 +434,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac879-593a-11e9-b408-3ff7f359c340",
@@ -453,7 +453,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac87d-593a-11e9-b408-3ff7f359c340",
@@ -470,7 +470,7 @@
         "type": "Point2.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac881-593a-11e9-b408-3ff7f359c340",
@@ -490,7 +490,7 @@
         "type": "Point2.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac87e-593a-11e9-b408-3ff7f359c340",
@@ -507,7 +507,7 @@
         "type": "Point3.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   },
   {
     "id": "c5aac87f-593a-11e9-b408-3ff7f359c340",
@@ -524,6 +524,6 @@
         "type": "Point4.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/class.js"
+    "tagfile": "__DIR__class.js"
   }
 ]

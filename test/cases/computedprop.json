@@ -12,7 +12,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
+    "tagfile": "__DIR__computedprop.js"
   },
   {
     "id": "c5d581f0-593a-11e9-b9b1-cfed58832313",
@@ -29,7 +29,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
+    "tagfile": "__DIR__computedprop.js"
   },
   {
     "id": "c5d5a900-593a-11e9-b9b1-cfed58832313",
@@ -48,7 +48,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
+    "tagfile": "__DIR__computedprop.js"
   },
   {
     "id": "c5d5a901-593a-11e9-b9b1-cfed58832313",
@@ -67,7 +67,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
+    "tagfile": "__DIR__computedprop.js"
   },
   {
     "id": "c5d5a902-593a-11e9-b9b1-cfed58832313",
@@ -82,7 +82,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
+    "tagfile": "__DIR__computedprop.js"
   },
   {
     "id": "c5d5a903-593a-11e9-b9b1-cfed58832313",
@@ -101,7 +101,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
+    "tagfile": "__DIR__computedprop.js"
   },
   {
     "id": "c5d5a904-593a-11e9-b9b1-cfed58832313",
@@ -120,6 +120,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/computedprop.js"
+    "tagfile": "__DIR__computedprop.js"
   }
 ]

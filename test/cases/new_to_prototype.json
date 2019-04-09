@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   },
   {
     "id": "caffd591-593a-11e9-b412-f325d82a18e5",
@@ -33,7 +33,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   },
   {
     "id": "caffd592-593a-11e9-b412-f325d82a18e5",
@@ -50,7 +50,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   },
   {
     "id": "caffd593-593a-11e9-b412-f325d82a18e5",
@@ -67,7 +67,7 @@
         "type": "A.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   },
   {
     "id": "cafffca0-593a-11e9-b412-f325d82a18e5",
@@ -86,7 +86,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   },
   {
     "id": "cafffca1-593a-11e9-b412-f325d82a18e5",
@@ -103,7 +103,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   },
   {
     "id": "cafffca2-593a-11e9-b412-f325d82a18e5",
@@ -120,7 +120,7 @@
         "type": "A.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   },
   {
     "id": "cafffca3-593a-11e9-b412-f325d82a18e5",
@@ -139,6 +139,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/new_to_prototype.js"
+    "tagfile": "__DIR__new_to_prototype.js"
   }
 ]

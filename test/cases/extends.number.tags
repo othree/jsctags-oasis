@@ -1,47 +1,47 @@
-SubEleven	__DIR__/extends.js	31;"	f	lineno:31	type:void function(bool)
-SubOne	__DIR__/extends.js	17;"	f	lineno:17	type:void function(bool)
-SubTwo	__DIR__/extends.js	24;"	f	lineno:24	type:void function(bool)
-Top	__DIR__/extends.js	10;"	f	lineno:10	type:void function()
-__extends	__DIR__/extends.js	3;"	f	lineno:3	type:void function(fn(arg: bool)
-arg	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne	type:boolean
-arg	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
-arg	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
-arg	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo	type:boolean
-arg	__DIR__/extends.js	32;"	v	lineno:32	namespace:SubEleven.prototype.constructor	type:boolean
-arg	__DIR__/extends.js	32;"	v	lineno:32	namespace:SubEleven	type:boolean
-argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubEleven	type:boolean
-argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne	type:boolean
-argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubEleven.prototype.constructor	type:boolean
-argOne	__DIR__/extends.js	18;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
-argTwo	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
-argTwo	__DIR__/extends.js	25;"	v	lineno:25	namespace:SubTwo	type:boolean
-child	__DIR__/extends.js	3;"	f	lineno:3	namespace:__extends	type:void function(bool)
-constructor	__DIR__/extends.js	17;"	f	lineno:17	namespace:SubOne.prototype	type:void function(bool)
-constructor	__DIR__/extends.js	24;"	f	lineno:24	namespace:SubTwo.prototype	type:void function(bool)
-constructor	__DIR__/extends.js	31;"	f	lineno:31	namespace:SubEleven.prototype	type:void function(bool)
-ctor	__DIR__/extends.js	5;"	f	lineno:5	namespace:__extends	type:void function()
-elf	__DIR__/extends.js	38;"	v	lineno:38	type:SubEleven
-key	__DIR__/extends.js	4;"	v	lineno:4	namespace:__extends
-methodEleven	__DIR__/extends.js	34;"	f	lineno:34	namespace:SubEleven.prototype.constructor.prototype	type:string function()
-methodEleven	__DIR__/extends.js	34;"	f	lineno:34	namespace:SubEleven.prototype	type:string function()
-methodOne	__DIR__/extends.js	20;"	f	lineno:20	namespace:SubOne.prototype	type:number function()
-methodOne	__DIR__/extends.js	20;"	f	lineno:20	namespace:SubOne.prototype.constructor.prototype	type:number function()
-methodTwo	__DIR__/extends.js	27;"	f	lineno:27	namespace:SubTwo.prototype	type:void function()
-methodTwo	__DIR__/extends.js	27;"	f	lineno:27	namespace:SubTwo.prototype.constructor.prototype	type:void function()
-one	__DIR__/extends.js	38;"	v	lineno:38	type:SubOne
-parent	__DIR__/extends.js	3;"	f	lineno:3	namespace:__extends	type:void function(bool)
-prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubTwo.prototype.constructor
-prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubEleven
-prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubTwo
-prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubOne
-prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubEleven.prototype.constructor
-prototype	__DIR__/extends.js	7;"	v	lineno:7	namespace:SubOne.prototype.constructor
-topMethod	__DIR__/extends.js	12;"	f	lineno:12	namespace:Top.prototype	type:string function()
-topStatic	__DIR__/extends.js	13;"	v	lineno:13	namespace:Top	type:number
-topStatic	__DIR__/extends.js	//;"	v	namespace:SubEleven	type:number
-topStatic	__DIR__/extends.js	//;"	v	namespace:SubTwo.prototype.constructor	type:number
-topStatic	__DIR__/extends.js	//;"	v	namespace:SubOne	type:number
-topStatic	__DIR__/extends.js	//;"	v	namespace:SubEleven.prototype.constructor	type:number
-topStatic	__DIR__/extends.js	//;"	v	namespace:SubTwo	type:number
-topStatic	__DIR__/extends.js	//;"	v	namespace:SubOne.prototype.constructor	type:number
-two	__DIR__/extends.js	38;"	v	lineno:38	type:SubTwo
+SubEleven	__DIR__extends.js	31;"	f	lineno:31	type:void function(bool)
+SubOne	__DIR__extends.js	17;"	f	lineno:17	type:void function(bool)
+SubTwo	__DIR__extends.js	24;"	f	lineno:24	type:void function(bool)
+Top	__DIR__extends.js	10;"	f	lineno:10	type:void function()
+__extends	__DIR__extends.js	3;"	f	lineno:3	type:void function(fn(arg: bool)
+arg	__DIR__extends.js	18;"	v	lineno:18	namespace:SubOne	type:boolean
+arg	__DIR__extends.js	18;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+arg	__DIR__extends.js	25;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+arg	__DIR__extends.js	25;"	v	lineno:25	namespace:SubTwo	type:boolean
+arg	__DIR__extends.js	32;"	v	lineno:32	namespace:SubEleven.prototype.constructor	type:boolean
+arg	__DIR__extends.js	32;"	v	lineno:32	namespace:SubEleven	type:boolean
+argOne	__DIR__extends.js	18;"	v	lineno:18	namespace:SubEleven	type:boolean
+argOne	__DIR__extends.js	18;"	v	lineno:18	namespace:SubOne	type:boolean
+argOne	__DIR__extends.js	18;"	v	lineno:18	namespace:SubEleven.prototype.constructor	type:boolean
+argOne	__DIR__extends.js	18;"	v	lineno:18	namespace:SubOne.prototype.constructor	type:boolean
+argTwo	__DIR__extends.js	25;"	v	lineno:25	namespace:SubTwo.prototype.constructor	type:boolean
+argTwo	__DIR__extends.js	25;"	v	lineno:25	namespace:SubTwo	type:boolean
+child	__DIR__extends.js	3;"	f	lineno:3	namespace:__extends	type:void function(bool)
+constructor	__DIR__extends.js	17;"	f	lineno:17	namespace:SubOne.prototype	type:void function(bool)
+constructor	__DIR__extends.js	24;"	f	lineno:24	namespace:SubTwo.prototype	type:void function(bool)
+constructor	__DIR__extends.js	31;"	f	lineno:31	namespace:SubEleven.prototype	type:void function(bool)
+ctor	__DIR__extends.js	5;"	f	lineno:5	namespace:__extends	type:void function()
+elf	__DIR__extends.js	38;"	v	lineno:38	type:SubEleven
+key	__DIR__extends.js	4;"	v	lineno:4	namespace:__extends
+methodEleven	__DIR__extends.js	34;"	f	lineno:34	namespace:SubEleven.prototype.constructor.prototype	type:string function()
+methodEleven	__DIR__extends.js	34;"	f	lineno:34	namespace:SubEleven.prototype	type:string function()
+methodOne	__DIR__extends.js	20;"	f	lineno:20	namespace:SubOne.prototype	type:number function()
+methodOne	__DIR__extends.js	20;"	f	lineno:20	namespace:SubOne.prototype.constructor.prototype	type:number function()
+methodTwo	__DIR__extends.js	27;"	f	lineno:27	namespace:SubTwo.prototype	type:void function()
+methodTwo	__DIR__extends.js	27;"	f	lineno:27	namespace:SubTwo.prototype.constructor.prototype	type:void function()
+one	__DIR__extends.js	38;"	v	lineno:38	type:SubOne
+parent	__DIR__extends.js	3;"	f	lineno:3	namespace:__extends	type:void function(bool)
+prototype	__DIR__extends.js	7;"	v	lineno:7	namespace:SubTwo.prototype.constructor
+prototype	__DIR__extends.js	7;"	v	lineno:7	namespace:SubEleven
+prototype	__DIR__extends.js	7;"	v	lineno:7	namespace:SubTwo
+prototype	__DIR__extends.js	7;"	v	lineno:7	namespace:SubOne
+prototype	__DIR__extends.js	7;"	v	lineno:7	namespace:SubEleven.prototype.constructor
+prototype	__DIR__extends.js	7;"	v	lineno:7	namespace:SubOne.prototype.constructor
+topMethod	__DIR__extends.js	12;"	f	lineno:12	namespace:Top.prototype	type:string function()
+topStatic	__DIR__extends.js	13;"	v	lineno:13	namespace:Top	type:number
+topStatic	__DIR__extends.js	//;"	v	namespace:SubEleven	type:number
+topStatic	__DIR__extends.js	//;"	v	namespace:SubTwo.prototype.constructor	type:number
+topStatic	__DIR__extends.js	//;"	v	namespace:SubOne	type:number
+topStatic	__DIR__extends.js	//;"	v	namespace:SubEleven.prototype.constructor	type:number
+topStatic	__DIR__extends.js	//;"	v	namespace:SubTwo	type:number
+topStatic	__DIR__extends.js	//;"	v	namespace:SubOne.prototype.constructor	type:number
+two	__DIR__extends.js	38;"	v	lineno:38	type:SubTwo

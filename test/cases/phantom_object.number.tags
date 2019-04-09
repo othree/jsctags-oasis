@@ -1,4 +1,4 @@
-c	__DIR__/phantom_object.js	9;"	v	lineno:9	namespace:otherMod	type:number
-func	__DIR__/phantom_object.js	3;"	f	lineno:3	namespace:mod	type:number function()
-mod	__DIR__/phantom_object.js	1;"	v	lineno:1
-otherMod	__DIR__/phantom_object.js	7;"	v	lineno:7
+c	__DIR__phantom_object.js	9;"	v	lineno:9	namespace:otherMod	type:number
+func	__DIR__phantom_object.js	3;"	f	lineno:3	namespace:mod	type:number function()
+mod	__DIR__phantom_object.js	1;"	v	lineno:1
+otherMod	__DIR__phantom_object.js	7;"	v	lineno:7

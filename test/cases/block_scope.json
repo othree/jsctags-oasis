@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js"
+    "tagfile": "__DIR__block_scope.js"
   },
   {
     "id": "c4ace070-593a-11e9-82a8-53c88cb9498d",
@@ -35,7 +35,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js"
+    "tagfile": "__DIR__block_scope.js"
   },
   {
     "id": "c4ace071-593a-11e9-82a8-53c88cb9498d",
@@ -56,6 +56,6 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/block_scope.js"
+    "tagfile": "__DIR__block_scope.js"
   }
 ]

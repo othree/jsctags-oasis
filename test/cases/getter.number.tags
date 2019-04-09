@@ -1,2 +1,2 @@
-foo	__DIR__/getter.js	3;"	v	lineno:3	namespace:obj	type:string
-obj	__DIR__/getter.js	1;"	v	lineno:1
+foo	__DIR__getter.js	3;"	v	lineno:3	namespace:obj	type:string
+obj	__DIR__getter.js	1;"	v	lineno:1

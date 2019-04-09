@@ -1,2 +1,2 @@
-e_which	/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js	/^var e_which/;"	v	lineno:9	type:number
-newElt	/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js	/^var newElt/;"	v	lineno:5	type:Element
+e_which	__DIR__browser.js	/^var e_which/;"	v	lineno:9	type:number
+newElt	__DIR__browser.js	/^var newElt/;"	v	lineno:5	type:Element

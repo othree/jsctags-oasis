@@ -14,7 +14,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
+    "tagfile": "__DIR__template.js"
   },
   {
     "id": "cdf4ab90-593a-11e9-8297-738b559b7b2e",
@@ -31,7 +31,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
+    "tagfile": "__DIR__template.js"
   },
   {
     "id": "cdf4ab91-593a-11e9-8297-738b559b7b2e",
@@ -52,7 +52,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
+    "tagfile": "__DIR__template.js"
   },
   {
     "id": "cdf4ab92-593a-11e9-8297-738b559b7b2e",
@@ -73,7 +73,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
+    "tagfile": "__DIR__template.js"
   },
   {
     "id": "cdf4ab93-593a-11e9-8297-738b559b7b2e",
@@ -94,6 +94,6 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/template.js"
+    "tagfile": "__DIR__template.js"
   }
 ]

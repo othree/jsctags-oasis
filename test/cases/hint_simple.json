@@ -16,6 +16,6 @@
         "isArg": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint_simple.js"
+    "tagfile": "__DIR__hint_simple.js"
   }
 ]

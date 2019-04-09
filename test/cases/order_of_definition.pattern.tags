@@ -1,5 +1,5 @@
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^foo\.bar/;"	v	lineno:15	namespace:foo
-baz	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^var baz/;"	v	lineno:9
-bug	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^var baz = \{bug/;"	f	lineno:9	namespace:baz	type:void function(baz.bug.!0)
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^var foo/;"	v	lineno:7
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js	/^  function x/;"	f	lineno:10	namespace:baz.bug	type:void function()
+bar	__DIR__order_of_definition.js	/^foo\.bar/;"	v	lineno:15	namespace:foo
+baz	__DIR__order_of_definition.js	/^var baz/;"	v	lineno:9
+bug	__DIR__order_of_definition.js	/^var baz = \{bug/;"	f	lineno:9	namespace:baz	type:void function(baz.bug.!0)
+foo	__DIR__order_of_definition.js	/^var foo/;"	v	lineno:7
+x	__DIR__order_of_definition.js	/^  function x/;"	f	lineno:10	namespace:baz.bug	type:void function()

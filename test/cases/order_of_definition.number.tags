@@ -1,5 +1,5 @@
-bar	__DIR__/order_of_definition.js	15;"	v	lineno:15	namespace:foo
-baz	__DIR__/order_of_definition.js	9;"	v	lineno:9
-bug	__DIR__/order_of_definition.js	9;"	f	lineno:9	namespace:baz	type:void function(baz.bug.!0)
-foo	__DIR__/order_of_definition.js	7;"	v	lineno:7
-x	__DIR__/order_of_definition.js	10;"	f	lineno:10	namespace:baz.bug	type:void function()
+bar	__DIR__order_of_definition.js	15;"	v	lineno:15	namespace:foo
+baz	__DIR__order_of_definition.js	9;"	v	lineno:9
+bug	__DIR__order_of_definition.js	9;"	f	lineno:9	namespace:baz	type:void function(baz.bug.!0)
+foo	__DIR__order_of_definition.js	7;"	v	lineno:7
+x	__DIR__order_of_definition.js	10;"	f	lineno:10	namespace:baz.bug	type:void function()

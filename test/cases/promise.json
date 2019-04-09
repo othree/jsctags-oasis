@@ -14,7 +14,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f67-593a-11e9-b590-fd77dd0b663a",
@@ -33,7 +33,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354851-593a-11e9-b590-fd77dd0b663a",
@@ -54,7 +54,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354850-593a-11e9-b590-fd77dd0b663a",
@@ -71,7 +71,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354852-593a-11e9-b590-fd77dd0b663a",
@@ -88,7 +88,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354853-593a-11e9-b590-fd77dd0b663a",
@@ -109,7 +109,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354854-593a-11e9-b590-fd77dd0b663a",
@@ -126,7 +126,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354855-593a-11e9-b590-fd77dd0b663a",
@@ -147,7 +147,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f6a-593a-11e9-b590-fd77dd0b663a",
@@ -168,7 +168,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f69-593a-11e9-b590-fd77dd0b663a",
@@ -187,7 +187,7 @@
         "isArg": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354856-593a-11e9-b590-fd77dd0b663a",
@@ -204,7 +204,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354857-593a-11e9-b590-fd77dd0b663a",
@@ -225,7 +225,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354858-593a-11e9-b590-fd77dd0b663a",
@@ -242,7 +242,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc354859-593a-11e9-b590-fd77dd0b663a",
@@ -263,7 +263,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc35485a-593a-11e9-b590-fd77dd0b663a",
@@ -280,7 +280,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc35485b-593a-11e9-b590-fd77dd0b663a",
@@ -301,7 +301,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc35485c-593a-11e9-b590-fd77dd0b663a",
@@ -318,7 +318,7 @@
         "type": "Promise.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f60-593a-11e9-b590-fd77dd0b663a",
@@ -339,7 +339,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc35485d-593a-11e9-b590-fd77dd0b663a",
@@ -356,7 +356,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f61-593a-11e9-b590-fd77dd0b663a",
@@ -373,7 +373,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f63-593a-11e9-b590-fd77dd0b663a",
@@ -393,7 +393,7 @@
         "isArg": true
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f62-593a-11e9-b590-fd77dd0b663a",
@@ -410,7 +410,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f66-593a-11e9-b590-fd77dd0b663a",
@@ -429,7 +429,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   },
   {
     "id": "cc356f64-593a-11e9-b590-fd77dd0b663a",
@@ -450,6 +450,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/promise.js"
+    "tagfile": "__DIR__promise.js"
   }
 ]

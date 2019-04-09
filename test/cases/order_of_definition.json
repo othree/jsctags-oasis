@@ -12,7 +12,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
+    "tagfile": "__DIR__order_of_definition.js"
   },
   {
     "id": "cbaf2861-593a-11e9-9a3a-21f7949ce6f9",
@@ -27,7 +27,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
+    "tagfile": "__DIR__order_of_definition.js"
   },
   {
     "id": "cbaf2862-593a-11e9-9a3a-21f7949ce6f9",
@@ -46,7 +46,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
+    "tagfile": "__DIR__order_of_definition.js"
   },
   {
     "id": "cbaf2863-593a-11e9-9a3a-21f7949ce6f9",
@@ -67,7 +67,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
+    "tagfile": "__DIR__order_of_definition.js"
   },
   {
     "id": "cbaf2860-593a-11e9-9a3a-21f7949ce6f9",
@@ -84,6 +84,6 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/order_of_definition.js"
+    "tagfile": "__DIR__order_of_definition.js"
   }
 ]

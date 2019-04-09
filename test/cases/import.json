@@ -15,7 +15,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/import.js"
+    "tagfile": "__DIR__import.js"
   },
   {
     "id": "c9a66010-593a-11e9-9549-ff30df2ab152",
@@ -32,6 +32,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/import.js"
+    "tagfile": "__DIR__import.js"
   }
 ]

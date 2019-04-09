@@ -14,7 +14,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
+    "tagfile": "__DIR__objectlit.js"
   },
   {
     "id": "cb56cf30-593a-11e9-9510-777d5627dd05",
@@ -29,7 +29,7 @@
         "type": "baz"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
+    "tagfile": "__DIR__objectlit.js"
   },
   {
     "id": "cb56cf31-593a-11e9-9510-777d5627dd05",
@@ -48,7 +48,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
+    "tagfile": "__DIR__objectlit.js"
   },
   {
     "id": "cb56cf32-593a-11e9-9510-777d5627dd05",
@@ -67,7 +67,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
+    "tagfile": "__DIR__objectlit.js"
   },
   {
     "id": "cb56f640-593a-11e9-9510-777d5627dd05",
@@ -81,7 +81,7 @@
         "isConstructor": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
+    "tagfile": "__DIR__objectlit.js"
   },
   {
     "id": "cb56f641-593a-11e9-9510-777d5627dd05",
@@ -100,6 +100,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/objectlit.js"
+    "tagfile": "__DIR__objectlit.js"
   }
 ]

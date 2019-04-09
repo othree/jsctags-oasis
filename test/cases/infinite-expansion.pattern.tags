@@ -1,6 +1,6 @@
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^var f/;"	f	lineno:3	type:void function(f)
-goop	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^function goop/;"	f	lineno:15	type:void function(?) function(number)
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^var f = function\(n/;"	f	lineno:3	namespace:f	type:void function(f)
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^function goop\(n/;"	v	lineno:15	namespace:goop	type:number
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^  n\.prototype/;"	v	lineno:4	namespace:f.n
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js	/^var x/;"	v	lineno:10	type:[x]
+f	__DIR__infinite-expansion.js	/^var f/;"	f	lineno:3	type:void function(f)
+goop	__DIR__infinite-expansion.js	/^function goop/;"	f	lineno:15	type:void function(?) function(number)
+n	__DIR__infinite-expansion.js	/^var f = function\(n/;"	f	lineno:3	namespace:f	type:void function(f)
+n	__DIR__infinite-expansion.js	/^function goop\(n/;"	v	lineno:15	namespace:goop	type:number
+prototype	__DIR__infinite-expansion.js	/^  n\.prototype/;"	v	lineno:4	namespace:f.n
+x	__DIR__infinite-expansion.js	/^var x/;"	v	lineno:10	type:[x]

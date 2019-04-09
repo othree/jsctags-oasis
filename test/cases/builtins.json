@@ -14,7 +14,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js"
+    "tagfile": "__DIR__builtins.js"
   },
   {
     "id": "c52aea10-593a-11e9-8b0b-9b82102f67a9",
@@ -31,7 +31,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js"
+    "tagfile": "__DIR__builtins.js"
   },
   {
     "id": "c52aea11-593a-11e9-8b0b-9b82102f67a9",
@@ -48,6 +48,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/builtins.js"
+    "tagfile": "__DIR__builtins.js"
   }
 ]

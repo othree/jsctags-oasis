@@ -1,12 +1,12 @@
-bar	__DIR__/object_create.js	1;"	v	lineno:1	namespace:base	type:number
-base	__DIR__/object_create.js	1;"	v	lineno:1
-baz	__DIR__/object_create.js	5;"	v	lineno:5	namespace:base	type:number
-empty	__DIR__/object_create.js	29;"	v	lineno:29
-extend	__DIR__/object_create.js	23;"	v	lineno:23
-foo	__DIR__/object_create.js	1;"	v	lineno:1	namespace:base	type:number
-gen1	__DIR__/object_create.js	2;"	v	lineno:2
-gen2	__DIR__/object_create.js	3;"	v	lineno:3
-kaka	__DIR__/object_create.js	7;"	v	lineno:7	namespace:gen2	type:number
-prop1	__DIR__/object_create.js	//;"	v	namespace:extend	type:string
-prop1	__DIR__/object_create.js	30;"	v	lineno:30	namespace:empty	type:string
-quux	__DIR__/object_create.js	6;"	v	lineno:6	namespace:gen1	type:number
+bar	__DIR__object_create.js	1;"	v	lineno:1	namespace:base	type:number
+base	__DIR__object_create.js	1;"	v	lineno:1
+baz	__DIR__object_create.js	5;"	v	lineno:5	namespace:base	type:number
+empty	__DIR__object_create.js	29;"	v	lineno:29
+extend	__DIR__object_create.js	23;"	v	lineno:23
+foo	__DIR__object_create.js	1;"	v	lineno:1	namespace:base	type:number
+gen1	__DIR__object_create.js	2;"	v	lineno:2
+gen2	__DIR__object_create.js	3;"	v	lineno:3
+kaka	__DIR__object_create.js	7;"	v	lineno:7	namespace:gen2	type:number
+prop1	__DIR__object_create.js	//;"	v	namespace:extend	type:string
+prop1	__DIR__object_create.js	30;"	v	lineno:30	namespace:empty	type:string
+quux	__DIR__object_create.js	6;"	v	lineno:6	namespace:gen1	type:number

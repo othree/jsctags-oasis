@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc0-593a-11e9-8106-6db4e8274f0b",
@@ -31,7 +31,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc1-593a-11e9-8106-6db4e8274f0b",
@@ -46,7 +46,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc2-593a-11e9-8106-6db4e8274f0b",
@@ -65,7 +65,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc3-593a-11e9-8106-6db4e8274f0b",
@@ -84,7 +84,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc4-593a-11e9-8106-6db4e8274f0b",
@@ -103,7 +103,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc5-593a-11e9-8106-6db4e8274f0b",
@@ -122,7 +122,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc6-593a-11e9-8106-6db4e8274f0b",
@@ -139,7 +139,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc7-593a-11e9-8106-6db4e8274f0b",
@@ -156,7 +156,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc8-593a-11e9-8106-6db4e8274f0b",
@@ -175,7 +175,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccc9-593a-11e9-8106-6db4e8274f0b",
@@ -196,7 +196,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9ccca-593a-11e9-8106-6db4e8274f0b",
@@ -213,7 +213,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9cccb-593a-11e9-8106-6db4e8274f0b",
@@ -230,7 +230,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9cccc-593a-11e9-8106-6db4e8274f0b",
@@ -249,7 +249,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   },
   {
     "id": "c7a9cccd-593a-11e9-8106-6db4e8274f0b",
@@ -266,6 +266,6 @@
         "type": "foo.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/finddef.js"
+    "tagfile": "__DIR__finddef.js"
   }
 ]

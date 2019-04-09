@@ -14,7 +14,7 @@
         "type": "Map.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/map.js"
+    "tagfile": "__DIR__map.js"
   },
   {
     "id": "ca531ad0-593a-11e9-98fb-c57644520080",
@@ -31,7 +31,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/map.js"
+    "tagfile": "__DIR__map.js"
   },
   {
     "id": "ca531ad1-593a-11e9-98fb-c57644520080",
@@ -48,6 +48,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/map.js"
+    "tagfile": "__DIR__map.js"
   }
 ]

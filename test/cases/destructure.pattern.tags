@@ -1,17 +1,17 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let \[a/;"	v	lineno:1	type:number
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let \{c/;"	v	lineno:4	type:string
-d	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let \{c, d/;"	v	lineno:4	type:boolean
-e	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e/;"	v	lineno:8	namespace:foo	type:boolean
-f	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e\], \{f/;"	v	lineno:8	namespace:foo	type:number
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo/;"	f	lineno:8	type:void function(Array[bool], ?, foo.!2, number)
-g	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e\], \{f=1\}, \{g/;"	v	lineno:8	namespace:foo	type:string
-h	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^function foo\(\[e\], \{f=1\}, \{g\}, \.\.\.h/;"	v	lineno:8	namespace:foo	type:[number]
-i	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let i/;"	v	lineno:20	type:number
-j	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^let i, j/;"	v	lineno:20	type:boolean
-l	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\(\{i, j, k: \[l/;"	v	lineno:21	type:string
-m	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\(\{i, j, k: \[l, \.\.\.m/;"	v	lineno:21	type:[string]
-n	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^var \[n/;"	v	lineno:32	type:string
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^var \[n, o/;"	v	lineno:32	type:boolean
-out	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^var out/;"	v	lineno:28
-prop	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\[out\.prop/;"	v	lineno:29	namespace:out	type:number
-prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js	/^;\[out\.prop, out\.prop2/;"	v	lineno:29	namespace:out	type:boolean
+a	__DIR__destructure.js	/^let \[a/;"	v	lineno:1	type:number
+c	__DIR__destructure.js	/^let \{c/;"	v	lineno:4	type:string
+d	__DIR__destructure.js	/^let \{c, d/;"	v	lineno:4	type:boolean
+e	__DIR__destructure.js	/^function foo\(\[e/;"	v	lineno:8	namespace:foo	type:boolean
+f	__DIR__destructure.js	/^function foo\(\[e\], \{f/;"	v	lineno:8	namespace:foo	type:number
+foo	__DIR__destructure.js	/^function foo/;"	f	lineno:8	type:void function(Array[bool], ?, foo.!2, number)
+g	__DIR__destructure.js	/^function foo\(\[e\], \{f=1\}, \{g/;"	v	lineno:8	namespace:foo	type:string
+h	__DIR__destructure.js	/^function foo\(\[e\], \{f=1\}, \{g\}, \.\.\.h/;"	v	lineno:8	namespace:foo	type:[number]
+i	__DIR__destructure.js	/^let i/;"	v	lineno:20	type:number
+j	__DIR__destructure.js	/^let i, j/;"	v	lineno:20	type:boolean
+l	__DIR__destructure.js	/^;\(\{i, j, k: \[l/;"	v	lineno:21	type:string
+m	__DIR__destructure.js	/^;\(\{i, j, k: \[l, \.\.\.m/;"	v	lineno:21	type:[string]
+n	__DIR__destructure.js	/^var \[n/;"	v	lineno:32	type:string
+o	__DIR__destructure.js	/^var \[n, o/;"	v	lineno:32	type:boolean
+out	__DIR__destructure.js	/^var out/;"	v	lineno:28
+prop	__DIR__destructure.js	/^;\[out\.prop/;"	v	lineno:29	namespace:out	type:number
+prop2	__DIR__destructure.js	/^;\[out\.prop, out\.prop2/;"	v	lineno:29	namespace:out	type:boolean

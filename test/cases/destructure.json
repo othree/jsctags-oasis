@@ -14,7 +14,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a46ab1-593a-11e9-b6fd-c114f3e410e8",
@@ -31,7 +31,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a46ab0-593a-11e9-b6fd-c114f3e410e8",
@@ -48,7 +48,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a46ab2-593a-11e9-b6fd-c114f3e410e8",
@@ -65,7 +65,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c0-593a-11e9-b6fd-c114f3e410e8",
@@ -86,7 +86,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c1-593a-11e9-b6fd-c114f3e410e8",
@@ -107,7 +107,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c2-593a-11e9-b6fd-c114f3e410e8",
@@ -128,7 +128,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c3-593a-11e9-b6fd-c114f3e410e8",
@@ -149,7 +149,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c4-593a-11e9-b6fd-c114f3e410e8",
@@ -166,7 +166,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c5-593a-11e9-b6fd-c114f3e410e8",
@@ -183,7 +183,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a4b8d2-593a-11e9-b6fd-c114f3e410e8",
@@ -200,7 +200,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a4b8d3-593a-11e9-b6fd-c114f3e410e8",
@@ -217,7 +217,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c6-593a-11e9-b6fd-c114f3e410e8",
@@ -232,7 +232,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c7-593a-11e9-b6fd-c114f3e410e8",
@@ -251,7 +251,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a491c8-593a-11e9-b6fd-c114f3e410e8",
@@ -270,7 +270,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a4b8d0-593a-11e9-b6fd-c114f3e410e8",
@@ -287,7 +287,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   },
   {
     "id": "c6a4b8d1-593a-11e9-b6fd-c114f3e410e8",
@@ -304,6 +304,6 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/destructure.js"
+    "tagfile": "__DIR__destructure.js"
   }
 ]

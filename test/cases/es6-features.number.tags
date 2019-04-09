@@ -1,13 +1,13 @@
-Foo	__DIR__/es6-features.js	1;"	f	lineno:1	type:void function(?, ?)
-a	__DIR__/es6-features.js	26;"	v	lineno:26	type:number
-b	__DIR__/es6-features.js	16;"	v	lineno:16	namespace:y	type:boolean
-b	__DIR__/es6-features.js	26;"	v	lineno:26	type:number
-e1	__DIR__/es6-features.js	30;"	v	lineno:30	type:string
-e3	__DIR__/es6-features.js	30;"	v	lineno:30	type:number
-func	__DIR__/es6-features.js	15;"	f	lineno:15	namespace:y	type:number function()
-it	__DIR__/es6-features.js	20;"	f	lineno:20	type:!0 function(?)
-method	__DIR__/es6-features.js	7;"	f	lineno:7	namespace:Foo.prototype	type:void function()
-n	__DIR__/es6-features.js	20;"	v	lineno:20	namespace:it
-prototype	__DIR__/es6-features.js	1;"	v	lineno:1	namespace:Foo
-x	__DIR__/es6-features.js	9;"	v	lineno:9	namespace:Foo.prototype	type:string
-y	__DIR__/es6-features.js	14;"	v	lineno:14
+Foo	__DIR__es6-features.js	1;"	f	lineno:1	type:void function(?, ?)
+a	__DIR__es6-features.js	26;"	v	lineno:26	type:number
+b	__DIR__es6-features.js	16;"	v	lineno:16	namespace:y	type:boolean
+b	__DIR__es6-features.js	26;"	v	lineno:26	type:number
+e1	__DIR__es6-features.js	30;"	v	lineno:30	type:string
+e3	__DIR__es6-features.js	30;"	v	lineno:30	type:number
+func	__DIR__es6-features.js	15;"	f	lineno:15	namespace:y	type:number function()
+it	__DIR__es6-features.js	20;"	f	lineno:20	type:!0 function(?)
+method	__DIR__es6-features.js	7;"	f	lineno:7	namespace:Foo.prototype	type:void function()
+n	__DIR__es6-features.js	20;"	v	lineno:20	namespace:it
+prototype	__DIR__es6-features.js	1;"	v	lineno:1	namespace:Foo
+x	__DIR__es6-features.js	9;"	v	lineno:9	namespace:Foo.prototype	type:string
+y	__DIR__es6-features.js	14;"	v	lineno:14

@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js"
+    "tagfile": "__DIR__merge.js"
   },
   {
     "id": "ca804550-593a-11e9-ad66-234c68540801",
@@ -33,7 +33,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js"
+    "tagfile": "__DIR__merge.js"
   },
   {
     "id": "ca804551-593a-11e9-ad66-234c68540801",
@@ -54,7 +54,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js"
+    "tagfile": "__DIR__merge.js"
   },
   {
     "id": "ca804552-593a-11e9-ad66-234c68540801",
@@ -75,6 +75,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/merge.js"
+    "tagfile": "__DIR__merge.js"
   }
 ]

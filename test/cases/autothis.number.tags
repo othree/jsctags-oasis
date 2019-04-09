@@ -1,4 +1,4 @@
-Bar	__DIR__/autothis.js	1;"	f	lineno:1	type:void function()
-fn2	__DIR__/autothis.js	7;"	f	lineno:7	namespace:Bar.prototype	type:void function()
-fn2	__DIR__/autothis.js	11;"	f	lineno:11	namespace:Date.prototype	type:void function()
-hallo	__DIR__/autothis.js	2;"	f	lineno:2	namespace:Bar.prototype	type:void function()
+Bar	__DIR__autothis.js	1;"	f	lineno:1	type:void function()
+fn2	__DIR__autothis.js	7;"	f	lineno:7	namespace:Bar.prototype	type:void function()
+fn2	__DIR__autothis.js	11;"	f	lineno:11	namespace:Date.prototype	type:void function()
+hallo	__DIR__autothis.js	2;"	f	lineno:2	namespace:Bar.prototype	type:void function()

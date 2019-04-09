@@ -12,7 +12,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc3d60-593a-11e9-afe9-4fe73f179030",
@@ -31,7 +31,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc3d62-593a-11e9-afe9-4fe73f179030",
@@ -50,7 +50,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc3d61-593a-11e9-afe9-4fe73f179030",
@@ -69,7 +69,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc3d64-593a-11e9-afe9-4fe73f179030",
@@ -88,7 +88,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc3d63-593a-11e9-afe9-4fe73f179030",
@@ -103,7 +103,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6471-593a-11e9-afe9-4fe73f179030",
@@ -124,7 +124,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6472-593a-11e9-afe9-4fe73f179030",
@@ -145,7 +145,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc3d65-593a-11e9-afe9-4fe73f179030",
@@ -164,7 +164,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc3d66-593a-11e9-afe9-4fe73f179030",
@@ -181,7 +181,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6470-593a-11e9-afe9-4fe73f179030",
@@ -200,7 +200,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6476-593a-11e9-afe9-4fe73f179030",
@@ -221,7 +221,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6475-593a-11e9-afe9-4fe73f179030",
@@ -238,7 +238,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6473-593a-11e9-afe9-4fe73f179030",
@@ -257,7 +257,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6474-593a-11e9-afe9-4fe73f179030",
@@ -276,7 +276,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6477-593a-11e9-afe9-4fe73f179030",
@@ -291,7 +291,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6478-593a-11e9-afe9-4fe73f179030",
@@ -310,7 +310,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6479-593a-11e9-afe9-4fe73f179030",
@@ -329,7 +329,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc647a-593a-11e9-afe9-4fe73f179030",
@@ -348,7 +348,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc647b-593a-11e9-afe9-4fe73f179030",
@@ -365,7 +365,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc647c-593a-11e9-afe9-4fe73f179030",
@@ -384,7 +384,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc647d-593a-11e9-afe9-4fe73f179030",
@@ -403,7 +403,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6481-593a-11e9-afe9-4fe73f179030",
@@ -422,7 +422,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc647e-593a-11e9-afe9-4fe73f179030",
@@ -443,7 +443,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6482-593a-11e9-afe9-4fe73f179030",
@@ -464,7 +464,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc8b80-593a-11e9-afe9-4fe73f179030",
@@ -483,7 +483,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc647f-593a-11e9-afe9-4fe73f179030",
@@ -504,7 +504,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   },
   {
     "id": "c8fc6480-593a-11e9-afe9-4fe73f179030",
@@ -523,6 +523,6 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/hint-objlit.js"
+    "tagfile": "__DIR__hint-objlit.js"
   }
 ]

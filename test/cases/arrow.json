@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
+    "tagfile": "__DIR__arrow.js"
   },
   {
     "id": "c431e410-593a-11e9-ba98-b9e5145fb62c",
@@ -35,7 +35,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
+    "tagfile": "__DIR__arrow.js"
   },
   {
     "id": "c431e411-593a-11e9-ba98-b9e5145fb62c",
@@ -56,7 +56,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
+    "tagfile": "__DIR__arrow.js"
   },
   {
     "id": "c431e412-593a-11e9-ba98-b9e5145fb62c",
@@ -73,7 +73,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
+    "tagfile": "__DIR__arrow.js"
   },
   {
     "id": "c431e413-593a-11e9-ba98-b9e5145fb62c",
@@ -90,7 +90,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
+    "tagfile": "__DIR__arrow.js"
   },
   {
     "id": "c431e415-593a-11e9-ba98-b9e5145fb62c",
@@ -109,6 +109,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/arrow.js"
+    "tagfile": "__DIR__arrow.js"
   }
 ]

@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c7791fd3-593a-11e9-8dd7-a9865f77b277",
@@ -35,7 +35,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c7791fd0-593a-11e9-8dd7-a9865f77b277",
@@ -56,7 +56,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c7791fd2-593a-11e9-8dd7-a9865f77b277",
@@ -75,7 +75,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c7791fd1-593a-11e9-8dd7-a9865f77b277",
@@ -96,7 +96,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e321-593a-11e9-8dd7-a9865f77b277",
@@ -113,7 +113,7 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e32a-593a-11e9-8dd7-a9865f77b277",
@@ -130,7 +130,7 @@
         "type": "Top"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc1a-593a-11e9-8dd7-a9865f77b277",
@@ -147,7 +147,7 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77946e4-593a-11e9-8dd7-a9865f77b277",
@@ -164,7 +164,7 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e32d-593a-11e9-8dd7-a9865f77b277",
@@ -181,7 +181,7 @@
         "type": "Top"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc11-593a-11e9-8dd7-a9865f77b277",
@@ -198,7 +198,7 @@
         "type": "Top.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c7791fd4-593a-11e9-8dd7-a9865f77b277",
@@ -215,7 +215,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77946e1-593a-11e9-8dd7-a9865f77b277",
@@ -234,7 +234,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77946e2-593a-11e9-8dd7-a9865f77b277",
@@ -253,7 +253,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77946e3-593a-11e9-8dd7-a9865f77b277",
@@ -270,7 +270,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc10-593a-11e9-8dd7-a9865f77b277",
@@ -289,7 +289,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc18-593a-11e9-8dd7-a9865f77b277",
@@ -310,7 +310,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a34-593a-11e9-8dd7-a9865f77b277",
@@ -329,7 +329,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc17-593a-11e9-8dd7-a9865f77b277",
@@ -348,7 +348,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc15-593a-11e9-8dd7-a9865f77b277",
@@ -369,7 +369,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a31-593a-11e9-8dd7-a9865f77b277",
@@ -388,7 +388,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc14-593a-11e9-8dd7-a9865f77b277",
@@ -407,7 +407,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77946e5-593a-11e9-8dd7-a9865f77b277",
@@ -426,7 +426,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc12-593a-11e9-8dd7-a9865f77b277",
@@ -445,7 +445,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc19-593a-11e9-8dd7-a9865f77b277",
@@ -462,7 +462,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a33-593a-11e9-8dd7-a9865f77b277",
@@ -478,7 +478,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e323-593a-11e9-8dd7-a9865f77b277",
@@ -494,7 +494,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc16-593a-11e9-8dd7-a9865f77b277",
@@ -510,7 +510,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a30-593a-11e9-8dd7-a9865f77b277",
@@ -526,7 +526,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e326-593a-11e9-8dd7-a9865f77b277",
@@ -542,7 +542,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e320-593a-11e9-8dd7-a9865f77b277",
@@ -561,7 +561,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc13-593a-11e9-8dd7-a9865f77b277",
@@ -577,7 +577,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e324-593a-11e9-8dd7-a9865f77b277",
@@ -596,7 +596,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e327-593a-11e9-8dd7-a9865f77b277",
@@ -615,7 +615,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e325-593a-11e9-8dd7-a9865f77b277",
@@ -636,7 +636,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e328-593a-11e9-8dd7-a9865f77b277",
@@ -657,7 +657,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779bc1b-593a-11e9-8dd7-a9865f77b277",
@@ -676,7 +676,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e322-593a-11e9-8dd7-a9865f77b277",
@@ -695,7 +695,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e329-593a-11e9-8dd7-a9865f77b277",
@@ -712,7 +712,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e32c-593a-11e9-8dd7-a9865f77b277",
@@ -731,7 +731,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a32-593a-11e9-8dd7-a9865f77b277",
@@ -752,7 +752,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a35-593a-11e9-8dd7-a9865f77b277",
@@ -773,7 +773,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e32e-593a-11e9-8dd7-a9865f77b277",
@@ -792,7 +792,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c779e32b-593a-11e9-8dd7-a9865f77b277",
@@ -811,7 +811,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a36-593a-11e9-8dd7-a9865f77b277",
@@ -828,7 +828,7 @@
         "type": "Top"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a37-593a-11e9-8dd7-a9865f77b277",
@@ -845,7 +845,7 @@
         "type": "Top"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   },
   {
     "id": "c77a0a38-593a-11e9-8dd7-a9865f77b277",
@@ -861,6 +861,6 @@
         "isConstructor": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/extends.js"
+    "tagfile": "__DIR__extends.js"
   }
 ]

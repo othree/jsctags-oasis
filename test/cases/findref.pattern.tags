@@ -1,17 +1,17 @@
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^function hello\(a/;"	v	lineno:1	namespace:hello
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^var a/;"	v	lineno:38	type:foo
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^function hello\(a, b/;"	v	lineno:1	namespace:hello
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^var b/;"	v	lineno:39	type:bar
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class bar/;"	f	lineno:31	type:void function()
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  var c/;"	v	lineno:2	namespace:hello
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class foo/;"	f	lineno:22	type:void function()
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^function hello/;"	f	lineno:1	type:void function(?, ?)
-methodA	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  methodA/;"	f	lineno:24	namespace:foo.prototype	type:void function()
-methodB	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  methodB/;"	f	lineno:27	namespace:foo.prototype	type:void function()
-methodB	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  methodB/;"	f	lineno:33	namespace:bar.prototype	type:void function()
-obj	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^var obj/;"	v	lineno:10
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class foo \{/;"	v	lineno:22	namespace:foo
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^class bar extends foo \{/;"	v	lineno:31	namespace:bar
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  x/;"	v	lineno:11	namespace:obj	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^  y/;"	v	lineno:13	namespace:obj	type:number
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js	/^obj\.z/;"	v	lineno:17	namespace:obj	type:string
+a	__DIR__findref.js	/^function hello\(a/;"	v	lineno:1	namespace:hello
+a	__DIR__findref.js	/^var a/;"	v	lineno:38	type:foo
+b	__DIR__findref.js	/^function hello\(a, b/;"	v	lineno:1	namespace:hello
+b	__DIR__findref.js	/^var b/;"	v	lineno:39	type:bar
+bar	__DIR__findref.js	/^class bar/;"	f	lineno:31	type:void function()
+c	__DIR__findref.js	/^  var c/;"	v	lineno:2	namespace:hello
+foo	__DIR__findref.js	/^class foo/;"	f	lineno:22	type:void function()
+hello	__DIR__findref.js	/^function hello/;"	f	lineno:1	type:void function(?, ?)
+methodA	__DIR__findref.js	/^  methodA/;"	f	lineno:24	namespace:foo.prototype	type:void function()
+methodB	__DIR__findref.js	/^  methodB/;"	f	lineno:27	namespace:foo.prototype	type:void function()
+methodB	__DIR__findref.js	/^  methodB/;"	f	lineno:33	namespace:bar.prototype	type:void function()
+obj	__DIR__findref.js	/^var obj/;"	v	lineno:10
+prototype	__DIR__findref.js	/^class foo \{/;"	v	lineno:22	namespace:foo
+prototype	__DIR__findref.js	/^class bar extends foo \{/;"	v	lineno:31	namespace:bar
+x	__DIR__findref.js	/^  x/;"	v	lineno:11	namespace:obj	type:number
+y	__DIR__findref.js	/^  y/;"	v	lineno:13	namespace:obj	type:number
+z	__DIR__findref.js	/^obj\.z/;"	v	lineno:17	namespace:obj	type:string

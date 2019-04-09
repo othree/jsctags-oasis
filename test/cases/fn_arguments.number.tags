@@ -1,2 +1,2 @@
-abc	__DIR__/fn_arguments.js	1;"	f	lineno:1	type:number function()
-arguments	__DIR__/fn_arguments.js	1;"	v	lineno:1	namespace:abc	type:[number]
+abc	__DIR__fn_arguments.js	1;"	f	lineno:1	type:number function()
+arguments	__DIR__fn_arguments.js	1;"	v	lineno:1	namespace:abc	type:[number]

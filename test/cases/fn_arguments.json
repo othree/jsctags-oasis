@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js"
+    "tagfile": "__DIR__fn_arguments.js"
   },
   {
     "id": "c7fccec0-593a-11e9-9dee-4311bf48ab67",
@@ -35,6 +35,6 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/fn_arguments.js"
+    "tagfile": "__DIR__fn_arguments.js"
   }
 ]

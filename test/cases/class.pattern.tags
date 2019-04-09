@@ -1,28 +1,28 @@
-Point2	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point2/;"	f	lineno:1	type:void function(number, number)
-Point3	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var Point3/;"	f	lineno:18	type:void function(number, number, number)
-Point4	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point4/;"	f	lineno:13	type:void function(number, number, number, number)
-argh	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  argh/;"	f	lineno:15	namespace:Point4.prototype	type:number function()
-foobar	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  foobar/;"	f	lineno:20	namespace:Point3.prototype	type:boolean function()
-origin	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  static origin/;"	f	lineno:10	namespace:Point2	type:Point2 function()
-p1	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p1/;"	v	lineno:23	type:Point2
-p2	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p2/;"	v	lineno:26	type:Point2
-p3	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p3/;"	v	lineno:32	type:Point3
-p4	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var p4/;"	v	lineno:37	type:Point4
-plus	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  plus/;"	f	lineno:3	namespace:Point2.prototype	type:Point2 function(+Point2)
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point2 \{/;"	v	lineno:1	namespace:Point2
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^class Point4 extends Point3 \{/;"	v	lineno:13	namespace:Point4
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^var Point3 = class extends Point2 \{/;"	v	lineno:18	namespace:Point3
-pt	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  plus\(pt/;"	v	lineno:3	namespace:Point2.prototype.plus	type:Point2
-quux	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  quux/;"	f	lineno:9	namespace:Point2.prototype	type:number function()
-u	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y, z, u\) \{ super\(x, y, z\); this\.u/;"	v	lineno:14	namespace:Point4	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point4	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2	type:number
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x/;"	v	lineno:19	namespace:Point3	type:number
-xx	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  get xx/;"	v	lineno:8	namespace:Point2.prototype	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point4	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y/;"	v	lineno:19	namespace:Point3	type:number
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y, z/;"	v	lineno:19	namespace:Point3	type:number
-z	/Users/othree/os-projects/jsctags-oasis/test/cases/class.js	/^  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:19	namespace:Point4	type:number
+Point2	__DIR__class.js	/^class Point2/;"	f	lineno:1	type:void function(number, number)
+Point3	__DIR__class.js	/^var Point3/;"	f	lineno:18	type:void function(number, number, number)
+Point4	__DIR__class.js	/^class Point4/;"	f	lineno:13	type:void function(number, number, number, number)
+argh	__DIR__class.js	/^  argh/;"	f	lineno:15	namespace:Point4.prototype	type:number function()
+foobar	__DIR__class.js	/^  foobar/;"	f	lineno:20	namespace:Point3.prototype	type:boolean function()
+origin	__DIR__class.js	/^  static origin/;"	f	lineno:10	namespace:Point2	type:Point2 function()
+p1	__DIR__class.js	/^var p1/;"	v	lineno:23	type:Point2
+p2	__DIR__class.js	/^var p2/;"	v	lineno:26	type:Point2
+p3	__DIR__class.js	/^var p3/;"	v	lineno:32	type:Point3
+p4	__DIR__class.js	/^var p4/;"	v	lineno:37	type:Point4
+plus	__DIR__class.js	/^  plus/;"	f	lineno:3	namespace:Point2.prototype	type:Point2 function(+Point2)
+prototype	__DIR__class.js	/^class Point2 \{/;"	v	lineno:1	namespace:Point2
+prototype	__DIR__class.js	/^class Point4 extends Point3 \{/;"	v	lineno:13	namespace:Point4
+prototype	__DIR__class.js	/^var Point3 = class extends Point2 \{/;"	v	lineno:18	namespace:Point3
+pt	__DIR__class.js	/^  plus\(pt/;"	v	lineno:3	namespace:Point2.prototype.plus	type:Point2
+quux	__DIR__class.js	/^  quux/;"	f	lineno:9	namespace:Point2.prototype	type:number function()
+u	__DIR__class.js	/^  constructor\(x, y, z, u\) \{ super\(x, y, z\); this\.u/;"	v	lineno:14	namespace:Point4	type:number
+x	__DIR__class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point4	type:number
+x	__DIR__class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
+x	__DIR__class.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:2	namespace:Point2	type:number
+x	__DIR__class.js	/^  constructor\(x/;"	v	lineno:19	namespace:Point3	type:number
+xx	__DIR__class.js	/^  get xx/;"	v	lineno:8	namespace:Point2.prototype	type:number
+y	__DIR__class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2.prototype.plus.pt	type:number
+y	__DIR__class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point4	type:number
+y	__DIR__class.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:2	namespace:Point2	type:number
+y	__DIR__class.js	/^  constructor\(x, y/;"	v	lineno:19	namespace:Point3	type:number
+z	__DIR__class.js	/^  constructor\(x, y, z/;"	v	lineno:19	namespace:Point3	type:number
+z	__DIR__class.js	/^  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:19	namespace:Point4	type:number

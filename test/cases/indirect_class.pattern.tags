@@ -1,7 +1,7 @@
-Ctor	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  function Ctor/;"	f	lineno:6	namespace:makeClass	type:void function()
-Mine	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^var Mine/;"	v	lineno:11
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  foo/;"	f	lineno:2	namespace:sup	type:number function()
-m	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  for \(var m/;"	v	lineno:8	namespace:makeClass
-makeClass	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^function makeClass/;"	f	lineno:5	type:void function(makeClass.!0)
-prototype	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^  Ctor\.prototype/;"	v	lineno:7	namespace:makeClass.Ctor
-sup	/Users/othree/os-projects/jsctags-oasis/test/cases/indirect_class.js	/^var sup/;"	v	lineno:1
+Ctor	__DIR__indirect_class.js	/^  function Ctor/;"	f	lineno:6	namespace:makeClass	type:void function()
+Mine	__DIR__indirect_class.js	/^var Mine/;"	v	lineno:11
+foo	__DIR__indirect_class.js	/^  foo/;"	f	lineno:2	namespace:sup	type:number function()
+m	__DIR__indirect_class.js	/^  for \(var m/;"	v	lineno:8	namespace:makeClass
+makeClass	__DIR__indirect_class.js	/^function makeClass/;"	f	lineno:5	type:void function(makeClass.!0)
+prototype	__DIR__indirect_class.js	/^  Ctor\.prototype/;"	v	lineno:7	namespace:makeClass.Ctor
+sup	__DIR__indirect_class.js	/^var sup/;"	v	lineno:1

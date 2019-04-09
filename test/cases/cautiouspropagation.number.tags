@@ -1,6 +1,6 @@
-<i>	__DIR__/cautiouspropagation.js	2;"	v	lineno:2	namespace:grabbag
-<i>	__DIR__/cautiouspropagation.js	9;"	v	lineno:9	namespace:simple	type:string
-abc	__DIR__/cautiouspropagation.js	3;"	v	lineno:3	namespace:grabbag.<i>	type:number
-grabbag	__DIR__/cautiouspropagation.js	1;"	v	lineno:1
-inner	__DIR__/cautiouspropagation.js	5;"	v	lineno:5	type:number
-simple	__DIR__/cautiouspropagation.js	8;"	v	lineno:8
+<i>	__DIR__cautiouspropagation.js	2;"	v	lineno:2	namespace:grabbag
+<i>	__DIR__cautiouspropagation.js	9;"	v	lineno:9	namespace:simple	type:string
+abc	__DIR__cautiouspropagation.js	3;"	v	lineno:3	namespace:grabbag.<i>	type:number
+grabbag	__DIR__cautiouspropagation.js	1;"	v	lineno:1
+inner	__DIR__cautiouspropagation.js	5;"	v	lineno:5	type:number
+simple	__DIR__cautiouspropagation.js	8;"	v	lineno:8

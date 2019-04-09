@@ -1,17 +1,17 @@
-a	__DIR__/destructure.js	1;"	v	lineno:1	type:number
-c	__DIR__/destructure.js	4;"	v	lineno:4	type:string
-d	__DIR__/destructure.js	4;"	v	lineno:4	type:boolean
-e	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:boolean
-f	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:number
-foo	__DIR__/destructure.js	8;"	f	lineno:8	type:void function(Array[bool], ?, foo.!2, number)
-g	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:string
-h	__DIR__/destructure.js	8;"	v	lineno:8	namespace:foo	type:[number]
-i	__DIR__/destructure.js	20;"	v	lineno:20	type:number
-j	__DIR__/destructure.js	20;"	v	lineno:20	type:boolean
-l	__DIR__/destructure.js	21;"	v	lineno:21	type:string
-m	__DIR__/destructure.js	21;"	v	lineno:21	type:[string]
-n	__DIR__/destructure.js	32;"	v	lineno:32	type:string
-o	__DIR__/destructure.js	32;"	v	lineno:32	type:boolean
-out	__DIR__/destructure.js	28;"	v	lineno:28
-prop	__DIR__/destructure.js	29;"	v	lineno:29	namespace:out	type:number
-prop2	__DIR__/destructure.js	29;"	v	lineno:29	namespace:out	type:boolean
+a	__DIR__destructure.js	1;"	v	lineno:1	type:number
+c	__DIR__destructure.js	4;"	v	lineno:4	type:string
+d	__DIR__destructure.js	4;"	v	lineno:4	type:boolean
+e	__DIR__destructure.js	8;"	v	lineno:8	namespace:foo	type:boolean
+f	__DIR__destructure.js	8;"	v	lineno:8	namespace:foo	type:number
+foo	__DIR__destructure.js	8;"	f	lineno:8	type:void function(Array[bool], ?, foo.!2, number)
+g	__DIR__destructure.js	8;"	v	lineno:8	namespace:foo	type:string
+h	__DIR__destructure.js	8;"	v	lineno:8	namespace:foo	type:[number]
+i	__DIR__destructure.js	20;"	v	lineno:20	type:number
+j	__DIR__destructure.js	20;"	v	lineno:20	type:boolean
+l	__DIR__destructure.js	21;"	v	lineno:21	type:string
+m	__DIR__destructure.js	21;"	v	lineno:21	type:[string]
+n	__DIR__destructure.js	32;"	v	lineno:32	type:string
+o	__DIR__destructure.js	32;"	v	lineno:32	type:boolean
+out	__DIR__destructure.js	28;"	v	lineno:28
+prop	__DIR__destructure.js	29;"	v	lineno:29	namespace:out	type:number
+prop2	__DIR__destructure.js	29;"	v	lineno:29	namespace:out	type:boolean

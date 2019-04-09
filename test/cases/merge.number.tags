@@ -1,4 +1,4 @@
-a	__DIR__/merge.js	1;"	v	lineno:1	namespace:sum
-sum	__DIR__/merge.js	1;"	f	lineno:1	type:number function(?)
-x	__DIR__/merge.js	6;"	v	lineno:6	namespace:sum.a	type:number
-y	__DIR__/merge.js	6;"	v	lineno:6	namespace:sum.a	type:number
+a	__DIR__merge.js	1;"	v	lineno:1	namespace:sum
+sum	__DIR__merge.js	1;"	f	lineno:1	type:number function(?)
+x	__DIR__merge.js	6;"	v	lineno:6	namespace:sum.a	type:number
+y	__DIR__merge.js	6;"	v	lineno:6	namespace:sum.a	type:number

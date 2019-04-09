@@ -1,4 +1,4 @@
-Class	__DIR__/empty_overridden_prop.js	1;"	f	lineno:1	type:void function()
-c	__DIR__/empty_overridden_prop.js	4;"	v	lineno:4	type:Class
-hello	__DIR__/empty_overridden_prop.js	2;"	v	lineno:2	namespace:Class.prototype	type:string
-hello	__DIR__/empty_overridden_prop.js	5;"	v	lineno:5	namespace:c
+Class	__DIR__empty_overridden_prop.js	1;"	f	lineno:1	type:void function()
+c	__DIR__empty_overridden_prop.js	4;"	v	lineno:4	type:Class
+hello	__DIR__empty_overridden_prop.js	2;"	v	lineno:2	namespace:Class.prototype	type:string
+hello	__DIR__empty_overridden_prop.js	5;"	v	lineno:5	namespace:c

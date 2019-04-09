@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad51-593a-11e9-9c9a-99e605906da1",
@@ -33,7 +33,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad50-593a-11e9-9c9a-99e605906da1",
@@ -52,7 +52,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad52-593a-11e9-9c9a-99e605906da1",
@@ -71,7 +71,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad53-593a-11e9-9c9a-99e605906da1",
@@ -86,7 +86,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad54-593a-11e9-9c9a-99e605906da1",
@@ -105,7 +105,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad55-593a-11e9-9c9a-99e605906da1",
@@ -124,7 +124,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad56-593a-11e9-9c9a-99e605906da1",
@@ -143,7 +143,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad57-593a-11e9-9c9a-99e605906da1",
@@ -160,7 +160,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad58-593a-11e9-9c9a-99e605906da1",
@@ -177,7 +177,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad59-593a-11e9-9c9a-99e605906da1",
@@ -196,7 +196,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad5a-593a-11e9-9c9a-99e605906da1",
@@ -215,7 +215,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad5b-593a-11e9-9c9a-99e605906da1",
@@ -232,7 +232,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad5c-593a-11e9-9c9a-99e605906da1",
@@ -249,7 +249,7 @@
         "type": "foo.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad5d-593a-11e9-9c9a-99e605906da1",
@@ -268,7 +268,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad5e-593a-11e9-9c9a-99e605906da1",
@@ -285,7 +285,7 @@
         "type": "foo.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   },
   {
     "id": "c7d4ad5f-593a-11e9-9c9a-99e605906da1",
@@ -302,6 +302,6 @@
         "type": "bar.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/findref.js"
+    "tagfile": "__DIR__findref.js"
   }
 ]

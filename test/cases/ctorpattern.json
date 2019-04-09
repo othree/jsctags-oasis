@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js"
+    "tagfile": "__DIR__ctorpattern.js"
   },
   {
     "id": "c651b6d0-593a-11e9-886c-fd8045710429",
@@ -33,6 +33,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/ctorpattern.js"
+    "tagfile": "__DIR__ctorpattern.js"
   }
 ]

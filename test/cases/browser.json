@@ -14,7 +14,7 @@
         "type": "Element.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js"
+    "tagfile": "__DIR__browser.js"
   },
   {
     "id": "c5025370-593a-11e9-b25c-b1de7486355a",
@@ -31,6 +31,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/browser.js"
+    "tagfile": "__DIR__browser.js"
   }
 ]

@@ -1,37 +1,37 @@
-<i>	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:closureMap	type:boolean
-Abc	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var Abc/;"	f	lineno:26	type:void function()
-AbcCls	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var AbcCls/;"	f	lineno:31	type:void function()
-AbcCtor	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var AbcCtor/;"	f	lineno:36	type:void function()
-NonAscïį	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function NonAscïį/;"	f	lineno:99	type:void function()
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var a/;"	v	lineno:2	type:Date
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function foo\(a/;"	v	lineno:17	namespace:foo	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bar = function\(a/;"	v	lineno:45	namespace:bar	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function takesOpt\(a/;"	v	lineno:73	namespace:takesOpt	type:number
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function functionBogus\(a/;"	v	lineno:120	namespace:functionBogus
-a	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function unionFunction\(a/;"	v	lineno:133	namespace:unionFunction	type:string
-abc	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var abc/;"	f	lineno:21	type:void function()
-again	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var again/;"	v	lineno:112	type:number
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function foo\(a, b/;"	v	lineno:17	namespace:foo	type:string
-b	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bar = function\(a, b/;"	v	lineno:45	namespace:bar	type:number
-bar	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bar/;"	f	lineno:45	type:string function(number, number)
-bogus	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var bogus/;"	v	lineno:107
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var c/;"	v	lineno:8
-closureArray	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var closureArray/;"	v	lineno:65	type:[string]
-closureMap	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var closureMap/;"	v	lineno:69
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function foo/;"	f	lineno:17	type:[number] function(number, string)
-functionBogus	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function functionBogus/;"	f	lineno:120	type:? function(?)
-inst	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var inst/;"	v	lineno:102	type:NonAscïį
-length	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function NonAscïį\(\) \{ this\.length/;"	v	lineno:99	namespace:NonAscïį	type:string
-myBitset	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var myBitset/;"	v	lineno:88	type:[bool]
-myObj	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var myObj/;"	v	lineno:93
-o	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^var o/;"	v	lineno:49
-one	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:myObj	type:boolean
-prop1	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^  prop1/;"	v	lineno:51	namespace:o	type:string
-prop2	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^  prop2/;"	f	lineno:54	namespace:o	type:number function()
-prop3	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^o\.prop3/;"	f	lineno:58	namespace:o	type:string function()
-takesOpt	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function takesOpt/;"	f	lineno:73	type:void function(number)
-two	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:myObj	type:number
-ui	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function ui/;"	f	lineno:140	type:string function()
-unionFunction	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	/^function unionFunction/;"	f	lineno:133	type:[?|number] function(string)
-x	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:c	type:number
-y	/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js	//;"	v	namespace:c	type:[string]
+<i>	__DIR__jsdoc.js	//;"	v	namespace:closureMap	type:boolean
+Abc	__DIR__jsdoc.js	/^var Abc/;"	f	lineno:26	type:void function()
+AbcCls	__DIR__jsdoc.js	/^var AbcCls/;"	f	lineno:31	type:void function()
+AbcCtor	__DIR__jsdoc.js	/^var AbcCtor/;"	f	lineno:36	type:void function()
+NonAscïį	__DIR__jsdoc.js	/^function NonAscïį/;"	f	lineno:99	type:void function()
+a	__DIR__jsdoc.js	/^var a/;"	v	lineno:2	type:Date
+a	__DIR__jsdoc.js	/^function foo\(a/;"	v	lineno:17	namespace:foo	type:number
+a	__DIR__jsdoc.js	/^var bar = function\(a/;"	v	lineno:45	namespace:bar	type:number
+a	__DIR__jsdoc.js	/^function takesOpt\(a/;"	v	lineno:73	namespace:takesOpt	type:number
+a	__DIR__jsdoc.js	/^function functionBogus\(a/;"	v	lineno:120	namespace:functionBogus
+a	__DIR__jsdoc.js	/^function unionFunction\(a/;"	v	lineno:133	namespace:unionFunction	type:string
+abc	__DIR__jsdoc.js	/^var abc/;"	f	lineno:21	type:void function()
+again	__DIR__jsdoc.js	/^var again/;"	v	lineno:112	type:number
+b	__DIR__jsdoc.js	/^function foo\(a, b/;"	v	lineno:17	namespace:foo	type:string
+b	__DIR__jsdoc.js	/^var bar = function\(a, b/;"	v	lineno:45	namespace:bar	type:number
+bar	__DIR__jsdoc.js	/^var bar/;"	f	lineno:45	type:string function(number, number)
+bogus	__DIR__jsdoc.js	/^var bogus/;"	v	lineno:107
+c	__DIR__jsdoc.js	/^var c/;"	v	lineno:8
+closureArray	__DIR__jsdoc.js	/^var closureArray/;"	v	lineno:65	type:[string]
+closureMap	__DIR__jsdoc.js	/^var closureMap/;"	v	lineno:69
+foo	__DIR__jsdoc.js	/^function foo/;"	f	lineno:17	type:[number] function(number, string)
+functionBogus	__DIR__jsdoc.js	/^function functionBogus/;"	f	lineno:120	type:? function(?)
+inst	__DIR__jsdoc.js	/^var inst/;"	v	lineno:102	type:NonAscïį
+length	__DIR__jsdoc.js	/^function NonAscïį\(\) \{ this\.length/;"	v	lineno:99	namespace:NonAscïį	type:string
+myBitset	__DIR__jsdoc.js	/^var myBitset/;"	v	lineno:88	type:[bool]
+myObj	__DIR__jsdoc.js	/^var myObj/;"	v	lineno:93
+o	__DIR__jsdoc.js	/^var o/;"	v	lineno:49
+one	__DIR__jsdoc.js	//;"	v	namespace:myObj	type:boolean
+prop1	__DIR__jsdoc.js	/^  prop1/;"	v	lineno:51	namespace:o	type:string
+prop2	__DIR__jsdoc.js	/^  prop2/;"	f	lineno:54	namespace:o	type:number function()
+prop3	__DIR__jsdoc.js	/^o\.prop3/;"	f	lineno:58	namespace:o	type:string function()
+takesOpt	__DIR__jsdoc.js	/^function takesOpt/;"	f	lineno:73	type:void function(number)
+two	__DIR__jsdoc.js	//;"	v	namespace:myObj	type:number
+ui	__DIR__jsdoc.js	/^function ui/;"	f	lineno:140	type:string function()
+unionFunction	__DIR__jsdoc.js	/^function unionFunction/;"	f	lineno:133	type:[?|number] function(string)
+x	__DIR__jsdoc.js	//;"	v	namespace:c	type:number
+y	__DIR__jsdoc.js	//;"	v	namespace:c	type:[string]

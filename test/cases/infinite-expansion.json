@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
+    "tagfile": "__DIR__infinite-expansion.js"
   },
   {
     "id": "c9fbfa20-593a-11e9-a443-1fae31e60eca",
@@ -35,7 +35,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
+    "tagfile": "__DIR__infinite-expansion.js"
   },
   {
     "id": "c9fbfa21-593a-11e9-a443-1fae31e60eca",
@@ -54,7 +54,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
+    "tagfile": "__DIR__infinite-expansion.js"
   },
   {
     "id": "c9fc2130-593a-11e9-a443-1fae31e60eca",
@@ -71,7 +71,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
+    "tagfile": "__DIR__infinite-expansion.js"
   },
   {
     "id": "c9fc2131-593a-11e9-a443-1fae31e60eca",
@@ -88,7 +88,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
+    "tagfile": "__DIR__infinite-expansion.js"
   },
   {
     "id": "c9fc2132-593a-11e9-a443-1fae31e60eca",
@@ -109,6 +109,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/infinite-expansion.js"
+    "tagfile": "__DIR__infinite-expansion.js"
   }
 ]

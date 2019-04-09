@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da300-593a-11e9-8c5b-4b00edcc0532",
@@ -31,7 +31,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da301-593a-11e9-8c5b-4b00edcc0532",
@@ -50,7 +50,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da302-593a-11e9-8c5b-4b00edcc0532",
@@ -69,7 +69,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da303-593a-11e9-8c5b-4b00edcc0532",
@@ -84,7 +84,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da304-593a-11e9-8c5b-4b00edcc0532",
@@ -103,7 +103,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da305-593a-11e9-8c5b-4b00edcc0532",
@@ -122,7 +122,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da306-593a-11e9-8c5b-4b00edcc0532",
@@ -139,7 +139,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da307-593a-11e9-8c5b-4b00edcc0532",
@@ -158,7 +158,7 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da308-593a-11e9-8c5b-4b00edcc0532",
@@ -175,7 +175,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da309-593a-11e9-8c5b-4b00edcc0532",
@@ -192,7 +192,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da30a-593a-11e9-8c5b-4b00edcc0532",
@@ -209,7 +209,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   },
   {
     "id": "c74da30b-593a-11e9-8c5b-4b00edcc0532",
@@ -226,6 +226,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/es6-features.js"
+    "tagfile": "__DIR__es6-features.js"
   }
 ]

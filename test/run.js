@@ -25,7 +25,7 @@ const test = function (t, fn) {
     return [
       {
         m: /__DIR__/g,
-        r: t.dir
+        r: t.basedir
       },
       {
         m: /\n\s+"id":\s+".+",\n/g,

@@ -1,1 +1,1 @@
-foo	/Users/othree/os-projects/jsctags-oasis/test/cases/global_this.js	/^var foo/;"	v	lineno:1	type:number
+foo	__DIR__global_this.js	/^var foo/;"	v	lineno:1	type:number

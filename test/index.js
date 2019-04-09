@@ -40,17 +40,20 @@ async.forEachLimit(
         async.apply(run, {
           cmd: format('-f - --json %s', f.name),
           filename: f.filename,
-          ext: '.json'
+          ext: '.json',
+          basedir: 'test/cases/'
         }),
         async.apply(run, {
           cmd: format('-f - --excmd=pattern %s', f.name),
           filename: f.filename,
-          ext: '.pattern.tags'
+          ext: '.pattern.tags',
+          basedir: 'test/cases/'
         }),
         async.apply(run, {
           cmd: format('-f - %s', f.name),
           filename: f.filename,
-          ext: '.number.tags'
+          ext: '.number.tags',
+          basedir: 'test/cases/'
         })
       ],
       fn
@@ -65,23 +68,27 @@ async.forEachLimit(
       async.apply(run, {
         name: '-f - --excmd=pattern -R test/cases/',
         cmd: format('-f - --excmd=pattern -R %s', 'test/cases/'),
-        ext: '.pattern.tags'
+        ext: '.pattern.tags',
+        basedir: 'test/cases/'
       }),
       async.apply(run, {
         name: '-f - --json -R test/cases/',
         cmd: format('-f - --json -R %s', 'test/cases/'),
-        ext: '.json'
+        ext: '.json',
+        basedir: 'test/cases/'
       }),
       async.apply(run, {
         name: '-f - --excmd=pattern -R test/ --exclude=...',
         cmd: format('-f - --excmd=pattern -R --exclude=test/clean.js --exclude=test/index.js --exclude=test/run.js %s', 'test/'),
-        ext: '.pattern.tags'
+        ext: '.pattern.tags',
+        basedir: 'test/cases/'
       }),
       async.apply(run, {
         name: '-f - --excmd=pattern -R',
         cwd: path.resolve('test/cases/'),
         cmd: '-f - --excmd=pattern -R',
-        ext: '.pattern.tags'
+        ext: '.pattern.tags',
+        basedir: ''
       })
     ]);
   }

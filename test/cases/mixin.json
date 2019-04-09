@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caab9b10-593a-11e9-a523-15c57f3cf20d",
@@ -31,7 +31,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caab9b11-593a-11e9-a523-15c57f3cf20d",
@@ -50,7 +50,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac1042-593a-11e9-a523-15c57f3cf20d",
@@ -67,7 +67,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac1040-593a-11e9-a523-15c57f3cf20d",
@@ -86,7 +86,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3750-593a-11e9-a523-15c57f3cf20d",
@@ -103,7 +103,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3755-593a-11e9-a523-15c57f3cf20d",
@@ -122,7 +122,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3751-593a-11e9-a523-15c57f3cf20d",
@@ -139,7 +139,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3756-593a-11e9-a523-15c57f3cf20d",
@@ -158,7 +158,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac1041-593a-11e9-a523-15c57f3cf20d",
@@ -177,7 +177,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3752-593a-11e9-a523-15c57f3cf20d",
@@ -194,7 +194,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3753-593a-11e9-a523-15c57f3cf20d",
@@ -211,7 +211,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3754-593a-11e9-a523-15c57f3cf20d",
@@ -230,7 +230,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3757-593a-11e9-a523-15c57f3cf20d",
@@ -246,7 +246,7 @@
         "isConstructor": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   },
   {
     "id": "caac3758-593a-11e9-a523-15c57f3cf20d",
@@ -262,6 +262,6 @@
         "isConstructor": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/mixin.js"
+    "tagfile": "__DIR__mixin.js"
   }
 ]

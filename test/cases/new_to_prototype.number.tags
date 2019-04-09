@@ -1,8 +1,8 @@
-A	__DIR__/new_to_prototype.js	1;"	f	lineno:1	type:void function()
-B	__DIR__/new_to_prototype.js	3;"	f	lineno:3	type:void function()
-C	__DIR__/new_to_prototype.js	6;"	f	lineno:6	type:void function()
-prop_A	__DIR__/new_to_prototype.js	2;"	v	lineno:2	namespace:A.prototype	type:number
-prop_B	__DIR__/new_to_prototype.js	5;"	v	lineno:5	namespace:B.prototype	type:number
-prop_C	__DIR__/new_to_prototype.js	8;"	v	lineno:8	namespace:C.prototype	type:number
-prototype	__DIR__/new_to_prototype.js	4;"	v	lineno:4	namespace:B
-prototype	__DIR__/new_to_prototype.js	7;"	v	lineno:7	namespace:C
+A	__DIR__new_to_prototype.js	1;"	f	lineno:1	type:void function()
+B	__DIR__new_to_prototype.js	3;"	f	lineno:3	type:void function()
+C	__DIR__new_to_prototype.js	6;"	f	lineno:6	type:void function()
+prop_A	__DIR__new_to_prototype.js	2;"	v	lineno:2	namespace:A.prototype	type:number
+prop_B	__DIR__new_to_prototype.js	5;"	v	lineno:5	namespace:B.prototype	type:number
+prop_C	__DIR__new_to_prototype.js	8;"	v	lineno:8	namespace:C.prototype	type:number
+prototype	__DIR__new_to_prototype.js	4;"	v	lineno:4	namespace:B
+prototype	__DIR__new_to_prototype.js	7;"	v	lineno:7	namespace:C

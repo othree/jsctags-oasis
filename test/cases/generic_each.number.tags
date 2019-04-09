@@ -1,6 +1,6 @@
-context	__DIR__/generic_each.js	2;"	v	lineno:2	namespace:each	type:string
-each	__DIR__/generic_each.js	2;"	f	lineno:2	type:void function(Array[number]|[each.!0.<i>], fn(n: number)
-i	__DIR__/generic_each.js	7;"	v	lineno:7	namespace:each	type:number
-iterator	__DIR__/generic_each.js	2;"	f	lineno:2	namespace:each	type:void function(each.!0.<i>)
-l	__DIR__/generic_each.js	7;"	v	lineno:7	namespace:each	type:number
-obj	__DIR__/generic_each.js	2;"	v	lineno:2	namespace:each	type:[each.!0.<i>]
+context	__DIR__generic_each.js	2;"	v	lineno:2	namespace:each	type:string
+each	__DIR__generic_each.js	2;"	f	lineno:2	type:void function(Array[number]|[each.!0.<i>], fn(n: number)
+i	__DIR__generic_each.js	7;"	v	lineno:7	namespace:each	type:number
+iterator	__DIR__generic_each.js	2;"	f	lineno:2	namespace:each	type:void function(each.!0.<i>)
+l	__DIR__generic_each.js	7;"	v	lineno:7	namespace:each	type:number
+obj	__DIR__generic_each.js	2;"	v	lineno:2	namespace:each	type:[each.!0.<i>]

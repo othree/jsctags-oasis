@@ -12,7 +12,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
+    "tagfile": "__DIR__cautiouspropagation.js"
   },
   {
     "id": "c57f72b0-593a-11e9-8fd9-b7cade4dc58f",
@@ -30,7 +30,7 @@
         "isArg": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
+    "tagfile": "__DIR__cautiouspropagation.js"
   },
   {
     "id": "c57f72b1-593a-11e9-8fd9-b7cade4dc58f",
@@ -51,7 +51,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
+    "tagfile": "__DIR__cautiouspropagation.js"
   },
   {
     "id": "c57f72b2-593a-11e9-8fd9-b7cade4dc58f",
@@ -68,7 +68,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
+    "tagfile": "__DIR__cautiouspropagation.js"
   },
   {
     "id": "c57f72b3-593a-11e9-8fd9-b7cade4dc58f",
@@ -83,7 +83,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
+    "tagfile": "__DIR__cautiouspropagation.js"
   },
   {
     "id": "c57f72b4-593a-11e9-8fd9-b7cade4dc58f",
@@ -102,6 +102,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/cautiouspropagation.js"
+    "tagfile": "__DIR__cautiouspropagation.js"
   }
 ]

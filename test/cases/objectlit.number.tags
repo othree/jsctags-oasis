@@ -1,6 +1,6 @@
-a	__DIR__/objectlit.js	6;"	v	lineno:6	namespace:foo	type:boolean
-b	__DIR__/objectlit.js	12;"	v	lineno:12	namespace:baz	type:string
-bar	__DIR__/objectlit.js	1;"	v	lineno:1	type:number
-baz	__DIR__/objectlit.js	10;"	v	lineno:10
-foo	__DIR__/objectlit.js	3;"	v	lineno:3
-method	__DIR__/objectlit.js	7;"	f	lineno:7	namespace:foo	type:string function()
+a	__DIR__objectlit.js	6;"	v	lineno:6	namespace:foo	type:boolean
+b	__DIR__objectlit.js	12;"	v	lineno:12	namespace:baz	type:string
+bar	__DIR__objectlit.js	1;"	v	lineno:1	type:number
+baz	__DIR__objectlit.js	10;"	v	lineno:10
+foo	__DIR__objectlit.js	3;"	v	lineno:3
+method	__DIR__objectlit.js	7;"	f	lineno:7	namespace:foo	type:string function()

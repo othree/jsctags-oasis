@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d1-593a-11e9-af99-93743d8e27f1",
@@ -35,7 +35,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d2-593a-11e9-af99-93743d8e27f1",
@@ -56,7 +56,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d3-593a-11e9-af99-93743d8e27f1",
@@ -77,7 +77,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d0-593a-11e9-af99-93743d8e27f1",
@@ -98,7 +98,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d4-593a-11e9-af99-93743d8e27f1",
@@ -115,7 +115,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d5-593a-11e9-af99-93743d8e27f1",
@@ -132,7 +132,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d6-593a-11e9-af99-93743d8e27f1",
@@ -153,7 +153,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d7-593a-11e9-af99-93743d8e27f1",
@@ -170,7 +170,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d8-593a-11e9-af99-93743d8e27f1",
@@ -185,7 +185,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449d9-593a-11e9-af99-93743d8e27f1",
@@ -206,7 +206,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449da-593a-11e9-af99-93743d8e27f1",
@@ -223,7 +223,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   },
   {
     "id": "c48449db-593a-11e9-af99-93743d8e27f1",
@@ -240,6 +240,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/bind.js"
+    "tagfile": "__DIR__bind.js"
   }
 ]

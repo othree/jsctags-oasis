@@ -14,7 +14,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
+    "tagfile": "__DIR__simple.js"
   },
   {
     "id": "cd41af40-593a-11e9-93d8-f9d5d0e8c1f5",
@@ -29,7 +29,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
+    "tagfile": "__DIR__simple.js"
   },
   {
     "id": "cd41d651-593a-11e9-93d8-f9d5d0e8c1f5",
@@ -46,7 +46,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
+    "tagfile": "__DIR__simple.js"
   },
   {
     "id": "cd41af41-593a-11e9-93d8-f9d5d0e8c1f5",
@@ -65,7 +65,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
+    "tagfile": "__DIR__simple.js"
   },
   {
     "id": "cd41d650-593a-11e9-93d8-f9d5d0e8c1f5",
@@ -84,6 +84,6 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/simple.js"
+    "tagfile": "__DIR__simple.js"
   }
 ]

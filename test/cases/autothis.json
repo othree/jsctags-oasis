@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
+    "tagfile": "__DIR__autothis.js"
   },
   {
     "id": "c45b3e02-593a-11e9-a5e5-3de8e58f0500",
@@ -33,7 +33,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
+    "tagfile": "__DIR__autothis.js"
   },
   {
     "id": "c45b3e03-593a-11e9-a5e5-3de8e58f0500",
@@ -54,7 +54,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
+    "tagfile": "__DIR__autothis.js"
   },
   {
     "id": "c45b16f1-593a-11e9-a5e5-3de8e58f0500",
@@ -73,6 +73,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js"
+    "tagfile": "__DIR__autothis.js"
   }
 ]

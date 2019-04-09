@@ -14,7 +14,7 @@
         "type": "Date.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca294bb0-593a-11e9-b962-3b41d3241afc",
@@ -29,7 +29,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2972c3-593a-11e9-b962-3b41d3241afc",
@@ -50,7 +50,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2972c2-593a-11e9-b962-3b41d3241afc",
@@ -67,7 +67,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2972c4-593a-11e9-b962-3b41d3241afc",
@@ -88,7 +88,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2972c5-593a-11e9-b962-3b41d3241afc",
@@ -105,7 +105,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2972c6-593a-11e9-b962-3b41d3241afc",
@@ -122,7 +122,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d0-593a-11e9-b962-3b41d3241afc",
@@ -139,7 +139,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d1-593a-11e9-b962-3b41d3241afc",
@@ -156,7 +156,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d2-593a-11e9-b962-3b41d3241afc",
@@ -173,7 +173,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d4-593a-11e9-b962-3b41d3241afc",
@@ -194,7 +194,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d3-593a-11e9-b962-3b41d3241afc",
@@ -215,7 +215,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d5-593a-11e9-b962-3b41d3241afc",
@@ -230,7 +230,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d6-593a-11e9-b962-3b41d3241afc",
@@ -249,7 +249,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d7-593a-11e9-b962-3b41d3241afc",
@@ -268,7 +268,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d8-593a-11e9-b962-3b41d3241afc",
@@ -287,7 +287,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999d9-593a-11e9-b962-3b41d3241afc",
@@ -304,7 +304,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2972c0-593a-11e9-b962-3b41d3241afc",
@@ -320,7 +320,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2972c1-593a-11e9-b962-3b41d3241afc",
@@ -336,7 +336,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29c0e4-593a-11e9-b962-3b41d3241afc",
@@ -352,7 +352,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999db-593a-11e9-b962-3b41d3241afc",
@@ -368,7 +368,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29c0e3-593a-11e9-b962-3b41d3241afc",
@@ -384,7 +384,7 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999da-593a-11e9-b962-3b41d3241afc",
@@ -399,7 +399,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29c0e0-593a-11e9-b962-3b41d3241afc",
@@ -420,7 +420,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca2999dc-593a-11e9-b962-3b41d3241afc",
@@ -437,7 +437,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29c0e1-593a-11e9-b962-3b41d3241afc",
@@ -454,7 +454,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29c0e2-593a-11e9-b962-3b41d3241afc",
@@ -469,7 +469,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29c0e5-593a-11e9-b962-3b41d3241afc",
@@ -486,7 +486,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29c0e6-593a-11e9-b962-3b41d3241afc",
@@ -505,7 +505,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f0-593a-11e9-b962-3b41d3241afc",
@@ -522,7 +522,7 @@
         "type": "NonAscïį.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f8-593a-11e9-b962-3b41d3241afc",
@@ -539,7 +539,7 @@
         "isArg": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f1-593a-11e9-b962-3b41d3241afc",
@@ -556,7 +556,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f2-593a-11e9-b962-3b41d3241afc",
@@ -573,7 +573,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f3-593a-11e9-b962-3b41d3241afc",
@@ -591,7 +591,7 @@
         "isArg": true
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f4-593a-11e9-b962-3b41d3241afc",
@@ -608,7 +608,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f5-593a-11e9-b962-3b41d3241afc",
@@ -629,7 +629,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   },
   {
     "id": "ca29e7f6-593a-11e9-b962-3b41d3241afc",
@@ -646,6 +646,6 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/jsdoc.js"
+    "tagfile": "__DIR__jsdoc.js"
   }
 ]

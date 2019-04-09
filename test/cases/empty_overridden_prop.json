@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
+    "tagfile": "__DIR__empty_overridden_prop.js"
   },
   {
     "id": "c721d811-593a-11e9-ae0e-fbed80bf77ba",
@@ -33,7 +33,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
+    "tagfile": "__DIR__empty_overridden_prop.js"
   },
   {
     "id": "c721d812-593a-11e9-ae0e-fbed80bf77ba",
@@ -50,7 +50,7 @@
         "type": "Class.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
+    "tagfile": "__DIR__empty_overridden_prop.js"
   },
   {
     "id": "c721d813-593a-11e9-ae0e-fbed80bf77ba",
@@ -69,6 +69,6 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js"
+    "tagfile": "__DIR__empty_overridden_prop.js"
   }
 ]

@@ -1,8 +1,8 @@
-Foo	__DIR__/proto.js	1;"	f	lineno:1	type:void function(bool)
-bar	__DIR__/proto.js	9;"	v	lineno:9	namespace:Foo.prototype	type:number
-makeString	__DIR__/proto.js	8;"	f	lineno:8	namespace:Foo.prototype	type:string function()
-prototype	__DIR__/proto.js	7;"	v	lineno:7	namespace:Foo
-x	__DIR__/proto.js	1;"	v	lineno:1	namespace:Foo	type:boolean
-x	__DIR__/proto.js	2;"	v	lineno:2	namespace:z	type:boolean
-y	__DIR__/proto.js	3;"	v	lineno:3	namespace:Foo	type:[number]
-z	__DIR__/proto.js	12;"	v	lineno:12	type:Foo
+Foo	__DIR__proto.js	1;"	f	lineno:1	type:void function(bool)
+bar	__DIR__proto.js	9;"	v	lineno:9	namespace:Foo.prototype	type:number
+makeString	__DIR__proto.js	8;"	f	lineno:8	namespace:Foo.prototype	type:string function()
+prototype	__DIR__proto.js	7;"	v	lineno:7	namespace:Foo
+x	__DIR__proto.js	1;"	v	lineno:1	namespace:Foo	type:boolean
+x	__DIR__proto.js	2;"	v	lineno:2	namespace:z	type:boolean
+y	__DIR__proto.js	3;"	v	lineno:3	namespace:Foo	type:[number]
+z	__DIR__proto.js	12;"	v	lineno:12	type:Foo

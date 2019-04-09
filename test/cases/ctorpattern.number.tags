@@ -1,2 +1,2 @@
-Ctor	__DIR__/ctorpattern.js	4;"	f	lineno:4	type:Ctor function()
-foo	__DIR__/ctorpattern.js	6;"	v	lineno:6	namespace:Ctor	type:number
+Ctor	__DIR__ctorpattern.js	4;"	f	lineno:4	type:Ctor function()
+foo	__DIR__ctorpattern.js	6;"	v	lineno:6	namespace:Ctor	type:number

@@ -14,7 +14,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/plus.js"
+    "tagfile": "__DIR__plus.js"
   },
   {
     "id": "cc095650-593a-11e9-951c-6fc50a356e34",
@@ -31,6 +31,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/plus.js"
+    "tagfile": "__DIR__plus.js"
   }
 ]

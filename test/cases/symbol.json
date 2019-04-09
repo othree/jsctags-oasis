@@ -12,7 +12,7 @@
         "type": "Symbol.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
+    "tagfile": "__DIR__symbol.js"
   },
   {
     "id": "cdc92ec0-593a-11e9-a1a2-310974bd8c6c",
@@ -27,7 +27,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
+    "tagfile": "__DIR__symbol.js"
   },
   {
     "id": "cdc92ec1-593a-11e9-a1a2-310974bd8c6c",
@@ -46,7 +46,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
+    "tagfile": "__DIR__symbol.js"
   },
   {
     "id": "cdc92ec3-593a-11e9-a1a2-310974bd8c6c",
@@ -65,6 +65,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/symbol.js"
+    "tagfile": "__DIR__symbol.js"
   }
 ]

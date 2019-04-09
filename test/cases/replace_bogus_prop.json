@@ -14,7 +14,7 @@
         "type": "Type.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
+    "tagfile": "__DIR__replace_bogus_prop.js"
   },
   {
     "id": "cce81d90-593a-11e9-8dc7-bfe597a2cc46",
@@ -31,7 +31,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
+    "tagfile": "__DIR__replace_bogus_prop.js"
   },
   {
     "id": "cce844a1-593a-11e9-8dc7-bfe597a2cc46",
@@ -50,6 +50,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/replace_bogus_prop.js"
+    "tagfile": "__DIR__replace_bogus_prop.js"
   }
 ]

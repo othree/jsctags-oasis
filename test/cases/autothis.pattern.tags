@@ -1,4 +1,4 @@
-Bar	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^function Bar/;"	f	lineno:1	type:void function()
-fn2	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^Bar\.prototype\.fn2/;"	f	lineno:7	namespace:Bar.prototype	type:void function()
-fn2	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^Date\.prototype\.fn2/;"	f	lineno:11	namespace:Date.prototype	type:void function()
-hallo	/Users/othree/os-projects/jsctags-oasis/test/cases/autothis.js	/^Bar\.prototype\.hallo/;"	f	lineno:2	namespace:Bar.prototype	type:void function()
+Bar	__DIR__autothis.js	/^function Bar/;"	f	lineno:1	type:void function()
+fn2	__DIR__autothis.js	/^Bar\.prototype\.fn2/;"	f	lineno:7	namespace:Bar.prototype	type:void function()
+fn2	__DIR__autothis.js	/^Date\.prototype\.fn2/;"	f	lineno:11	namespace:Date.prototype	type:void function()
+hallo	__DIR__autothis.js	/^Bar\.prototype\.hallo/;"	f	lineno:2	namespace:Bar.prototype	type:void function()

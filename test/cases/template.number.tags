@@ -1,5 +1,5 @@
-a	__DIR__/template.js	6;"	v	lineno:6	namespace:build	type:number
-b	__DIR__/template.js	6;"	v	lineno:6	namespace:build	type:string
-build	__DIR__/template.js	6;"	f	lineno:6	type:boolean function(Array[string], number, string)
-strs	__DIR__/template.js	6;"	v	lineno:6	namespace:build	type:[string]
-x	__DIR__/template.js	2;"	v	lineno:2	type:number
+a	__DIR__template.js	6;"	v	lineno:6	namespace:build	type:number
+b	__DIR__template.js	6;"	v	lineno:6	namespace:build	type:string
+build	__DIR__template.js	6;"	f	lineno:6	type:boolean function(Array[string], number, string)
+strs	__DIR__template.js	6;"	v	lineno:6	namespace:build	type:[string]
+x	__DIR__template.js	2;"	v	lineno:2	type:number

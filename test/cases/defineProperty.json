@@ -12,7 +12,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
+    "tagfile": "__DIR__defineProperty.js"
   },
   {
     "id": "c67a9b90-593a-11e9-9967-13280895166c",
@@ -31,7 +31,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
+    "tagfile": "__DIR__defineProperty.js"
   },
   {
     "id": "c67a9b91-593a-11e9-9967-13280895166c",
@@ -50,7 +50,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
+    "tagfile": "__DIR__defineProperty.js"
   },
   {
     "id": "c67a9b92-593a-11e9-9967-13280895166c",
@@ -65,7 +65,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
+    "tagfile": "__DIR__defineProperty.js"
   },
   {
     "id": "c67a9b93-593a-11e9-9967-13280895166c",
@@ -84,7 +84,7 @@
         "type": "Number.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
+    "tagfile": "__DIR__defineProperty.js"
   },
   {
     "id": "c67a9b94-593a-11e9-9967-13280895166c",
@@ -103,6 +103,6 @@
         "type": "Boolean.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/defineProperty.js"
+    "tagfile": "__DIR__defineProperty.js"
   }
 ]

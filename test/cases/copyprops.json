@@ -14,7 +14,7 @@
         "type": "Function.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js"
+    "tagfile": "__DIR__copyprops.js"
   },
   {
     "id": "c6296e50-593a-11e9-8857-7f46114dc20c",
@@ -33,7 +33,7 @@
         "type": "Object.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js"
+    "tagfile": "__DIR__copyprops.js"
   },
   {
     "id": "c6296e51-593a-11e9-8857-7f46114dc20c",
@@ -52,6 +52,6 @@
         "type": false
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/copyprops.js"
+    "tagfile": "__DIR__copyprops.js"
   }
 ]

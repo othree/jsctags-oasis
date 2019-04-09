@@ -14,7 +14,7 @@
         "type": "Array.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js"
+    "tagfile": "__DIR__array_holes.js"
   },
   {
     "id": "c4066740-593a-11e9-9eb2-97b272912265",
@@ -31,7 +31,7 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js"
+    "tagfile": "__DIR__array_holes.js"
   },
   {
     "id": "c4066741-593a-11e9-9eb2-97b272912265",
@@ -48,6 +48,6 @@
         "type": "String.prototype"
       }
     },
-    "tagfile": "/Users/othree/os-projects/jsctags-oasis/test/cases/array_holes.js"
+    "tagfile": "__DIR__array_holes.js"
   }
 ]

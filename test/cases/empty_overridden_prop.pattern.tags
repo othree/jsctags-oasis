@@ -1,4 +1,4 @@
-Class	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^function Class/;"	f	lineno:1	type:void function()
-c	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^var c/;"	v	lineno:4	type:Class
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^Class\.prototype\.hello/;"	v	lineno:2	namespace:Class.prototype	type:string
-hello	/Users/othree/os-projects/jsctags-oasis/test/cases/empty_overridden_prop.js	/^c\.hello/;"	v	lineno:5	namespace:c
+Class	__DIR__empty_overridden_prop.js	/^function Class/;"	f	lineno:1	type:void function()
+c	__DIR__empty_overridden_prop.js	/^var c/;"	v	lineno:4	type:Class
+hello	__DIR__empty_overridden_prop.js	/^Class\.prototype\.hello/;"	v	lineno:2	namespace:Class.prototype	type:string
+hello	__DIR__empty_overridden_prop.js	/^c\.hello/;"	v	lineno:5	namespace:c
