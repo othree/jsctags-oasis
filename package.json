@@ -59,7 +59,6 @@
   "devDependencies": {
     "assert-diff": "^1.2.6",
     "cli-color": "^1.2.0",
-    "codeclimate-test-reporter": "^0.5.0",
     "eslint": "^4.19.1",
     "eslint-config-xo-react": "^0.16.0",
     "eslint-config-xo-space": "^0.18.0",
