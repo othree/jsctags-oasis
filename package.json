@@ -14,8 +14,7 @@
   "license": "MIT",
   "main": "src/parser.js",
   "bin": {
-    "jsctags": "bin/jsctags",
-    "xjsctags": "bin/xjsctags"
+    "jsctags": "bin/jsctags"
   },
   "directories": {
     "lib": "src",
