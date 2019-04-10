@@ -17,7 +17,7 @@ const collection = (val, memo) => {
 };
 
 program
-  .version('0.0.1')
+  .version('0.0.6')
   .usage('[options] <file ...>')
   .option('-f <tagfile>', 'Use the name specified by tagfile for the tag file. Default is "tags"', 'tags')
   .option('-n, --excmd=number', 'Equivalent to --excmd=number.')
