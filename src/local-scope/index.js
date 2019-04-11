@@ -137,7 +137,7 @@ const postCondenseReach = function (server, options, state) {
     if (seenSpans[span]) {
       return;
     }
-  
+
     if (isNoRenameSpecifiedImport(av)) {
       return;
     }
