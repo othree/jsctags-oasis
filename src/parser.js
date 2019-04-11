@@ -160,7 +160,10 @@ Parser.prototype.fromTree = function (tree, parent) {
       return !/^!/.test(key);
     })
     .filter(key => {
-      return !!key.replace(/\s/g, '');
+      return key.replace(/\s/g, '');
+    })
+    .filter(key => {
+      return !/\s/.test(key)
     })
     .map(function (name) {
       return this.onNode(name, tree[name], parent);
