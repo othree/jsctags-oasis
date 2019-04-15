@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const program = require('commander');
+const minimist = require('minimist');
 const path = require('path');
 const glob = require('glob');
 const collect = require('collect-stream');
@@ -11,56 +11,79 @@ const fs = require('fs');
 
 const jsctags = require('../');
 
-const collection = (val, memo) => {
-  memo.push(val);
-  return memo;
-};
+const program = minimist(process.argv.slice(2), {
+  string: [
+    'f',
+    'p',
+    'exclude',
+    'excmd',
+    'map',
+    'resurce',
+    'sort',
+    'help',
+    'version'
+  ],
+  boolean: [
+    'n',
+    'N',
+    'R',
+    'json'
+  ],
+  default: {
+    f: 'tags',
+    exclude: ['node_modules/**/*'],
+    excmd: 'number',
+    map: '.js.jsx',
+    recurse: 'no',
+    sort: 'yes'
+  }
+});
 
-program
-  .version('0.0.6')
-  .usage('[options] <file ...>')
-  .option('-f <tagfile>', 'Use the name specified by tagfile for the tag file. Default is "tags"', 'tags')
-  .option('-n, --excmd=number', 'Equivalent to --excmd=number.')
-  .option('-N, --excmd=pattern', 'Equivalent to --excmd=pattern.')
-  .option('-o <tagfile>', 'Equivalent to -f tagfile.')
-  .option('-p <path>', 'Use path as the default directory for each supplied source file')
-  .option('-R, --recurse=yes', 'Equivalent to --recurse=yes.')
-  .option('--exclude <pattern>', 'Add pattern to a list of excluded files and directories.', collection, ['node_modules/**/*'])
-  .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'number')
-  .option('--json', 'Output json format.')
-  .option('--map <map>', 'Controls how file names are mapped to JavaScript language.', '.js.jsx')
-  .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
-  .option('--sort <yes|no>', 'Indicates whether the tag file should be sorted on the tag name', /^(yes|no)$/i, 'yes')
-  .parse(process.argv);
-
-if (program['excmd=number']) {
+if (program.n) {
   program.excmd = 'number';
-} else if (program['excmd=pattern']) {
+} else if (program.N) {
   program.excmd = 'pattern';
 }
 
-if (program.O && program.F === 'tags' && program.rawArgs.indexOf('-f') === -1) {
-  program.F = program.O;
-}
-
-if (program['recurse=yes']) {
+if (program.R) {
   program.recurse = 'yes';
 }
 
-if (program.recurse === 'yes' && !program.args.length) {
-  program.args.push('.');
+if (program.recurse === 'yes' && !program._.length) {
+  program._.push('.');
 }
 
-if (!program.args.length) {
+if (!program.help) {
+  console.log(`Usage: jsctags [options] <file ...>
+
+Options:
+  -V, --version        output the version number
+  -f <tagfile>         Use the name specified by tagfile for the tag file. Default is "tags" (default: "tags")
+  -n, --excmd=number   Equivalent to --excmd=number.
+  -N, --excmd=pattern  Equivalent to --excmd=pattern.
+  -o <tagfile>         Equivalent to -f tagfile.
+  -p <path>            Use path as the default directory for each supplied source file
+  -R, --recurse=yes    Equivalent to --recurse=yes.
+  --exclude <pattern>  Add pattern to a list of excluded files and directories. (default: ["node_modules/**/*"])
+  --excmd <cmd>        Determines the type of EX command used to locate tags in the source file. (default: "number")
+  --json               Output json format.
+  --map <map>          Controls how file names are mapped to JavaScript language. (default: ".js.jsx")
+  --recurse <yes|no>   Recurse  into  directories encountered in the list of supplied files. (default: "no")
+  --sort <yes|no>      Indicates whether the tag file should be sorted on the tag name (default: "yes")
+  -h, --help           output usage information`);
+  process.exit(1);
+}
+
+if (!program._.length) {
   console.log('jsctags: No files specified. Try "jsctags --help".');
   process.exit(1);
 }
 
-const outputStream = program.F === '-' ? process.stdout : fs.createWriteStream(program.F);
+const outputStream = program.f === '-' ? process.stdout : fs.createWriteStream(program.f);
 
 const dir = (function () {
-  if (program.P) {
-    return path.dirname(path.resolve(program.P));
+  if (program.p) {
+    return path.dirname(path.resolve(program.p));
   }
 
   return process.cwd();
@@ -69,7 +92,7 @@ const dir = (function () {
 const extGlob = program.map.replace(/^\./, '').replace(/\./g, ',');
 
 const file = (function () {
-  const inputs = program.args;
+  const inputs = program._;
   const files = program.recurse === 'yes' ?
     inputs.reduce((files, file) => {
       const isdir = fs.lstatSync(file).isDirectory();
@@ -183,4 +206,4 @@ const fromFiles = function () {
   );
 };
 
-(!program.args.length && !program.find ? fromStdin : fromFiles)();
+(!program._.length && !program.find ? fromStdin : fromFiles)();
