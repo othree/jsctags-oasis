@@ -19,15 +19,15 @@ const program = minimist(process.argv.slice(2), {
     'excmd',
     'map',
     'resurce',
-    'sort',
-    'help',
-    'version'
+    'sort'
   ],
   boolean: [
     'n',
     'N',
     'R',
-    'json'
+    'json',
+    'help',
+    'version'
   ],
   default: {
     f: 'tags',
@@ -53,11 +53,10 @@ if (program.recurse === 'yes' && !program._.length) {
   program._.push('.');
 }
 
-if (!program.help) {
+if (program.help) {
   console.log(`Usage: jsctags [options] <file ...>
 
 Options:
-  -V, --version        output the version number
   -f <tagfile>         Use the name specified by tagfile for the tag file. Default is "tags" (default: "tags")
   -n, --excmd=number   Equivalent to --excmd=number.
   -N, --excmd=pattern  Equivalent to --excmd=pattern.
@@ -70,7 +69,13 @@ Options:
   --map <map>          Controls how file names are mapped to JavaScript language. (default: ".js.jsx")
   --recurse <yes|no>   Recurse  into  directories encountered in the list of supplied files. (default: "no")
   --sort <yes|no>      Indicates whether the tag file should be sorted on the tag name (default: "yes")
-  -h, --help           output usage information`);
+  --help               Output usage information
+  --version            Output the version number`);
+  process.exit(1);
+}
+
+if (program.version) {
+  console.log('jsctags-oasis 0.0.6');
   process.exit(1);
 }
 
