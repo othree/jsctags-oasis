@@ -11,13 +11,24 @@ const fs = require('fs');
 
 const jsctags = require('../');
 
-const program = minimist(process.argv.slice(2), {
+const loadDefaults = files => {
+  return flatten(flatten([files]).map(file => {
+    try {
+      return fs.readFileSync(file).split(/\n/g).filter(_ => _);
+    } catch (error) {
+      return [];
+    }
+  }));
+};
+
+const minimistOptions = {
   string: [
     'f',
     'p',
     'exclude',
     'excmd',
     'map',
+    'options',
     'resurce',
     'sort'
   ],
@@ -37,7 +48,11 @@ const program = minimist(process.argv.slice(2), {
     recurse: 'no',
     sort: 'yes'
   }
-});
+};
+
+const argv = process.argv.slice(2);
+const pre = minimist(argv, minimistOptions);
+const program = pre.options ? pre : minimist([...argv, ...loadDefaults(pre.options)], minimistOptions);
 
 if (program.n) {
   program.excmd = 'number';
