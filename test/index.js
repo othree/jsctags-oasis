@@ -89,6 +89,13 @@ async.forEachLimit(
         cmd: '-f - --excmd=pattern -R',
         ext: '.pattern.tags',
         basedir: ''
+      }),
+      async.apply(run, {
+        name: '-f - --options=jsctags',
+        cwd: path.resolve('test/cases/'),
+        cmd: '-f - --excmd=pattern -R',
+        ext: '.pattern.tags',
+        basedir: ''
       })
     ]);
   }
