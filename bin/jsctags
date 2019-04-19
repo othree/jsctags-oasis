@@ -52,7 +52,7 @@ const minimistOptions = {
 
 const argv = process.argv.slice(2);
 const pre = minimist(argv, minimistOptions);
-const program = pre.options ? pre : minimist([...argv, ...loadDefaults(pre.options)], minimistOptions);
+const program = pre.options ? pre : minimist([...loadDefaults(pre.options), ...argv], minimistOptions);
 
 if (program.n) {
   program.excmd = 'number';
