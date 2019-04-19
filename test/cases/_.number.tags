@@ -89,8 +89,8 @@ a	__DIR__new_array.js	1;"	v	lineno:1	type:[string]
 a	__DIR__objectlit.js	6;"	v	lineno:6	namespace:foo	type:boolean
 a	__DIR__objnames.js	2;"	v	lineno:2	namespace:Ctor1.prototype	type:number
 a	__DIR__objnames.js	6;"	v	lineno:6	namespace:singleton	type:number
-a	__DIR__template.js	6;"	v	lineno:6	namespace:build	type:number
 a	__DIR__react.jsx	1;"	v	lineno:1	type:boolean
+a	__DIR__template.js	6;"	v	lineno:6	namespace:build	type:number
 a2	__DIR__hint_ecma5.js	29;"	v	lineno:29	type:number
 a3	__DIR__hint_ecma5.js	32;"	v	lineno:32	type:number
 a4	__DIR__hint_ecma5.js	35;"	v	lineno:35	type:number
@@ -128,9 +128,9 @@ argh	__DIR__class.js	15;"	f	lineno:15	namespace:Point4.prototype	type:number fun
 arguments	__DIR__arguments.js	1;"	v	lineno:1	type:number
 arguments	__DIR__fn_arguments.js	1;"	v	lineno:1	namespace:abc	type:[number]
 arr	__DIR__docstrings.js	57;"	v	lineno:57	type:number
+arr	__DIR__react.jsx	29;"	v	lineno:29	type:[bool]
 arr	__DIR__simple_generic.js	1;"	v	lineno:1	namespace:last	type:[number]|[string]
 arr	__DIR__simple_generic.js	6;"	v	lineno:6	namespace:map	type:[number]
-arr	__DIR__react.jsx	29;"	v	lineno:29	type:[bool]
 arr1	__DIR__hint_ecma5.js	206;"	v	lineno:206	type:[bool]
 arr2	__DIR__hint_ecma5.js	213;"	v	lineno:213	type:[number]
 b	__DIR__arrow.js	1;"	v	lineno:1	namespace:f	type:boolean
@@ -268,10 +268,10 @@ foo	__DIR__jsdoc.js	17;"	f	lineno:17	type:[number] function(number, string)
 foo	__DIR__object_create.js	1;"	v	lineno:1	namespace:base	type:number
 foo	__DIR__objectlit.js	3;"	v	lineno:3
 foo	__DIR__order_of_definition.js	7;"	v	lineno:7
+foo	__DIR__react.jsx	3;"	v	lineno:3	type:boolean
 foo	__DIR__replace_bogus_prop.js	6;"	v	lineno:6	namespace:Type.prototype	type:string
 foo	__DIR__simple.js	1;"	v	lineno:1	type:number
 foo	__DIR__simple.js	9;"	v	lineno:9	namespace:x	type:number
-foo	__DIR__react.jsx	3;"	v	lineno:3	type:boolean
 foo2	__DIR__hint_ecma5.js	119;"	v	lineno:119	namespace:base
 fooObj	__DIR__finddef.js	34;"	v	lineno:34	type:foo
 foobar	__DIR__class.js	20;"	f	lineno:20	namespace:Point3.prototype	type:boolean function()
@@ -314,8 +314,8 @@ i	__DIR__contextcomplete.js	1;"	v	lineno:1	namespace:whoAmI
 i	__DIR__destructure.js	20;"	v	lineno:20	type:number
 i	__DIR__generic_each.js	7;"	v	lineno:7	namespace:each	type:number
 i	__DIR__hint_ecma5.js	360;"	v	lineno:360	type:number
-i	__DIR__simple_generic.js	8;"	v	lineno:8	namespace:map	type:number
 i	__DIR__react.jsx	9;"	v	lineno:9	type:boolean
+i	__DIR__simple_generic.js	8;"	v	lineno:8	namespace:map	type:number
 inCase1	__DIR__hint_ecma5.js	381;"	v	lineno:381	namespace:testSwitchFlow1	type:string
 inCase2	__DIR__hint_ecma5.js	385;"	v	lineno:385	namespace:testSwitchFlow1	type:string
 inNestedIf	__DIR__hint_ecma5.js	303;"	v	lineno:303	namespace:testIfControlFlow1	type:string
@@ -446,8 +446,8 @@ out	__DIR__destructure.js	28;"	v	lineno:28
 out	__DIR__generator.js	2;"	v	lineno:2	namespace:foo	type:string
 oy	__DIR__docstrings.js	47;"	v	lineno:47	type:number
 p	__DIR__promise.js	1;"	v	lineno:1	type:Promise
-p	__DIR__super.js	12;"	v	lineno:12	type:Point3
 p	__DIR__react.jsx	16;"	v	lineno:16	type:boolean
+p	__DIR__super.js	12;"	v	lineno:12	type:Point3
 p1	__DIR__class.js	23;"	v	lineno:23	type:Point2
 p2	__DIR__class.js	26;"	v	lineno:26	type:Point2
 p2	__DIR__promise.js	12;"	v	lineno:12	type:Promise
@@ -616,13 +616,13 @@ x	__DIR__plus.js	1;"	v	lineno:1	type:number
 x	__DIR__promise.js	3;"	v	lineno:3	namespace:Promise.:t	type:number
 x	__DIR__proto.js	1;"	v	lineno:1	namespace:Foo	type:boolean
 x	__DIR__proto.js	2;"	v	lineno:2	namespace:z	type:boolean
+x	__DIR__react.jsx	23;"	v	lineno:23	type:boolean
 x	__DIR__replace_bogus_prop.js	1;"	v	lineno:1	type:Type
 x	__DIR__simple.js	6;"	v	lineno:6
 x	__DIR__super.js	8;"	v	lineno:8	namespace:Point3	type:number
 x	__DIR__super.js	18;"	v	lineno:18	namespace:pro	type:number
 x	__DIR__super.js	22;"	v	lineno:22	namespace:obj	type:string
 x	__DIR__template.js	2;"	v	lineno:2	type:number
-x	__DIR__react.jsx	23;"	v	lineno:23	type:boolean
 xx	__DIR__class.js	8;"	v	lineno:8	namespace:Point2.prototype	type:number
 xyzzy	__DIR__docstrings.js	70;"	v	lineno:70	type:boolean
 y	__DIR__array_holes.js	3;"	v	lineno:3	type:string
@@ -639,8 +639,8 @@ y	__DIR__jsdoc.js	//;"	v	namespace:c	type:[string]
 y	__DIR__merge.js	6;"	v	lineno:6	namespace:sum.a	type:number
 y	__DIR__plus.js	2;"	v	lineno:2	type:string
 y	__DIR__proto.js	3;"	v	lineno:3	namespace:Foo	type:[number]
-y	__DIR__super.js	8;"	v	lineno:8	namespace:Point3	type:number
 y	__DIR__react.jsx	25;"	v	lineno:25	type:boolean
+y	__DIR__super.js	8;"	v	lineno:8	namespace:Point3	type:number
 years	__DIR__hint_ecma5.js	201;"	v	lineno:201	type:[number]
 z	__DIR__array_holes.js	3;"	v	lineno:3	type:string
 z	__DIR__class.js	19;"	v	lineno:19	namespace:Point3	type:number
@@ -649,6 +649,6 @@ z	__DIR__findref.js	17;"	v	lineno:17	namespace:obj	type:string
 z	__DIR__hint_ecma5.js	14;"	v	lineno:14	type:number
 z	__DIR__import.js	4;"	f	lineno:4	type:void function()
 z	__DIR__proto.js	12;"	v	lineno:12	type:Foo
-z	__DIR__super.js	2;"	v	lineno:2	namespace:Point3	type:number
 z	__DIR__react.jsx	26;"	v	lineno:26	type:boolean
+z	__DIR__super.js	2;"	v	lineno:2	namespace:Point3	type:number
 ç	__DIR__react.jsx	27;"	v	lineno:27	type:boolean

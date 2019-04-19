@@ -96,6 +96,13 @@ async.forEachLimit(
         cmd: '-f - --excmd=pattern -R',
         ext: '.pattern.tags',
         basedir: ''
+      }),
+      async.apply(run, {
+        name: '-f - -L list',
+        cwd: path.resolve('test/cases/'),
+        cmd: '-f - -L list',
+        ext: '.number.tags',
+        basedir: ''
       })
     ]);
   }

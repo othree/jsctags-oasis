@@ -89,8 +89,8 @@ a	__DIR__new_array.js	/^var a/;"	v	lineno:1	type:[string]
 a	__DIR__objectlit.js	/^  a/;"	v	lineno:6	namespace:foo	type:boolean
 a	__DIR__objnames.js	/^Ctor1\.prototype = \{a/;"	v	lineno:2	namespace:Ctor1.prototype	type:number
 a	__DIR__objnames.js	/^var singleton = \{a/;"	v	lineno:6	namespace:singleton	type:number
-a	__DIR__template.js	/^function build\(strs, a/;"	v	lineno:6	namespace:build	type:number
 a	__DIR__react.jsx	/^var a/;"	v	lineno:1	type:boolean
+a	__DIR__template.js	/^function build\(strs, a/;"	v	lineno:6	namespace:build	type:number
 a2	__DIR__hint_ecma5.js	/^var a2/;"	v	lineno:29	type:number
 a3	__DIR__hint_ecma5.js	/^var a3/;"	v	lineno:32	type:number
 a4	__DIR__hint_ecma5.js	/^var a4/;"	v	lineno:35	type:number
@@ -128,9 +128,9 @@ argh	__DIR__class.js	/^  argh/;"	f	lineno:15	namespace:Point4.prototype	type:num
 arguments	__DIR__arguments.js	/^var arguments/;"	v	lineno:1	type:number
 arguments	__DIR__fn_arguments.js	/^function abc\(\) \{/;"	v	lineno:1	namespace:abc	type:[number]
 arr	__DIR__docstrings.js	/^var arr/;"	v	lineno:57	type:number
+arr	__DIR__react.jsx	/^var arr/;"	v	lineno:29	type:[bool]
 arr	__DIR__simple_generic.js	/^function last\(arr/;"	v	lineno:1	namespace:last	type:[number]|[string]
 arr	__DIR__simple_generic.js	/^function map\(arr/;"	v	lineno:6	namespace:map	type:[number]
-arr	__DIR__react.jsx	/^var arr/;"	v	lineno:29	type:[bool]
 arr1	__DIR__hint_ecma5.js	/^var arr1/;"	v	lineno:206	type:[bool]
 arr2	__DIR__hint_ecma5.js	/^var arr2/;"	v	lineno:213	type:[number]
 b	__DIR__arrow.js	/^let f = \(a, \[b/;"	v	lineno:1	namespace:f	type:boolean
@@ -268,10 +268,10 @@ foo	__DIR__jsdoc.js	/^function foo/;"	f	lineno:17	type:[number] function(number,
 foo	__DIR__object_create.js	/^var base = \{foo/;"	v	lineno:1	namespace:base	type:number
 foo	__DIR__objectlit.js	/^var foo/;"	v	lineno:3
 foo	__DIR__order_of_definition.js	/^var foo/;"	v	lineno:7
+foo	__DIR__react.jsx	/^var c = <a n:foo/;"	v	lineno:3	type:boolean
 foo	__DIR__replace_bogus_prop.js	/^Type\.prototype\.foo/;"	v	lineno:6	namespace:Type.prototype	type:string
 foo	__DIR__simple.js	/^var foo/;"	v	lineno:1	type:number
 foo	__DIR__simple.js	/^  v\.foo/;"	v	lineno:9	namespace:x	type:number
-foo	__DIR__react.jsx	/^var c = <a n:foo/;"	v	lineno:3	type:boolean
 foo2	__DIR__hint_ecma5.js	/^var base = \{foo: 10, bar: 20, foo2/;"	v	lineno:119	namespace:base
 fooObj	__DIR__finddef.js	/^var fooObj/;"	v	lineno:34	type:foo
 foobar	__DIR__class.js	/^  foobar/;"	f	lineno:20	namespace:Point3.prototype	type:boolean function()
@@ -314,8 +314,8 @@ i	__DIR__contextcomplete.js	/^function whoAmI\(a, i/;"	v	lineno:1	namespace:whoA
 i	__DIR__destructure.js	/^let i/;"	v	lineno:20	type:number
 i	__DIR__generic_each.js	/^    for \(var i/;"	v	lineno:7	namespace:each	type:number
 i	__DIR__hint_ecma5.js	/^  for \(i/;"	v	lineno:360	type:number
-i	__DIR__simple_generic.js	/^  for \(var i/;"	v	lineno:8	namespace:map	type:number
 i	__DIR__react.jsx	/^var i/;"	v	lineno:9	type:boolean
+i	__DIR__simple_generic.js	/^  for \(var i/;"	v	lineno:8	namespace:map	type:number
 inCase1	__DIR__hint_ecma5.js	/^      var inCase1/;"	v	lineno:381	namespace:testSwitchFlow1	type:string
 inCase2	__DIR__hint_ecma5.js	/^      var inCase2/;"	v	lineno:385	namespace:testSwitchFlow1	type:string
 inNestedIf	__DIR__hint_ecma5.js	/^      var inNestedIf/;"	v	lineno:303	namespace:testIfControlFlow1	type:string
@@ -446,8 +446,8 @@ out	__DIR__destructure.js	/^var out/;"	v	lineno:28
 out	__DIR__generator.js	/^  var index = 0, out/;"	v	lineno:2	namespace:foo	type:string
 oy	__DIR__docstrings.js	/^var oy/;"	v	lineno:47	type:number
 p	__DIR__promise.js	/^var p/;"	v	lineno:1	type:Promise
-p	__DIR__super.js	/^var p/;"	v	lineno:12	type:Point3
 p	__DIR__react.jsx	/^var p/;"	v	lineno:16	type:boolean
+p	__DIR__super.js	/^var p/;"	v	lineno:12	type:Point3
 p1	__DIR__class.js	/^var p1/;"	v	lineno:23	type:Point2
 p2	__DIR__class.js	/^var p2/;"	v	lineno:26	type:Point2
 p2	__DIR__promise.js	/^var p2/;"	v	lineno:12	type:Promise
@@ -616,13 +616,13 @@ x	__DIR__plus.js	/^var x/;"	v	lineno:1	type:number
 x	__DIR__promise.js	/^  accept\(\{x/;"	v	lineno:3	namespace:Promise.:t	type:number
 x	__DIR__proto.js	/^function Foo\(x/;"	v	lineno:1	namespace:Foo	type:boolean
 x	__DIR__proto.js	/^  this\.x/;"	v	lineno:2	namespace:z	type:boolean
+x	__DIR__react.jsx	/^var x/;"	v	lineno:23	type:boolean
 x	__DIR__replace_bogus_prop.js	/^var x/;"	v	lineno:1	type:Type
 x	__DIR__simple.js	/^var x/;"	v	lineno:6
 x	__DIR__super.js	/^  constructor\(x, y\) \{ this\.x/;"	v	lineno:8	namespace:Point3	type:number
 x	__DIR__super.js	/^var pro = \{x/;"	v	lineno:18	namespace:pro	type:number
 x	__DIR__super.js	/^  x/;"	v	lineno:22	namespace:obj	type:string
 x	__DIR__template.js	/^var x/;"	v	lineno:2	type:number
-x	__DIR__react.jsx	/^var x/;"	v	lineno:23	type:boolean
 xx	__DIR__class.js	/^  get xx/;"	v	lineno:8	namespace:Point2.prototype	type:number
 xyzzy	__DIR__docstrings.js	/^var xyzzy/;"	v	lineno:70	type:boolean
 y	__DIR__array_holes.js	/^var \[,, y/;"	v	lineno:3	type:string
@@ -639,8 +639,8 @@ y	__DIR__jsdoc.js	//;"	v	namespace:c	type:[string]
 y	__DIR__merge.js	/^sum\(\{x: 10, y/;"	v	lineno:6	namespace:sum.a	type:number
 y	__DIR__plus.js	/^var y/;"	v	lineno:2	type:string
 y	__DIR__proto.js	/^  this\.y/;"	v	lineno:3	namespace:Foo	type:[number]
-y	__DIR__super.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:8	namespace:Point3	type:number
 y	__DIR__react.jsx	/^var y/;"	v	lineno:25	type:boolean
+y	__DIR__super.js	/^  constructor\(x, y\) \{ this\.x = x; this\.y/;"	v	lineno:8	namespace:Point3	type:number
 years	__DIR__hint_ecma5.js	/^var years/;"	v	lineno:201	type:[number]
 z	__DIR__array_holes.js	/^var \[,, y, z/;"	v	lineno:3	type:string
 z	__DIR__class.js	/^  constructor\(x, y, z/;"	v	lineno:19	namespace:Point3	type:number
@@ -649,6 +649,6 @@ z	__DIR__findref.js	/^obj\.z/;"	v	lineno:17	namespace:obj	type:string
 z	__DIR__hint_ecma5.js	/^var z/;"	v	lineno:14	type:number
 z	__DIR__import.js	/^var z/;"	f	lineno:4	type:void function()
 z	__DIR__proto.js	/^var z/;"	v	lineno:12	type:Foo
-z	__DIR__super.js	/^  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:2	namespace:Point3	type:number
 z	__DIR__react.jsx	/^var z/;"	v	lineno:26	type:boolean
+z	__DIR__super.js	/^  constructor\(x, y, z\) \{ super\(x, y\); this\.z/;"	v	lineno:2	namespace:Point3	type:number
 ç	__DIR__react.jsx	/^var ç/;"	v	lineno:27	type:boolean
