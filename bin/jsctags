@@ -3,7 +3,7 @@
 const minimist = require('minimist');
 const path = require('path');
 const glob = require('glob');
-const collect = require('collect-stream');
+// const collect = require('collect-stream');
 const flatten = require('lodash.flatten');
 const sortBy = require('lodash.sortby');
 const async = require('async');
