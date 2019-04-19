@@ -3,7 +3,7 @@
 const minimist = require('minimist');
 const path = require('path');
 const glob = require('glob');
-// const collect = require('collect-stream');
+const collect = require('collect-stream');
 const flatten = require('lodash.flatten');
 const sortBy = require('lodash.sortby');
 const async = require('async');
@@ -25,6 +25,7 @@ const minimistOptions = {
   string: [
     'f',
     'p',
+    'L',
     'exclude',
     'excmd',
     'map',
@@ -59,6 +60,13 @@ const minimistOptions = {
 const argv = process.argv.slice(2);
 const pre = minimist(argv, minimistOptions);
 const program = pre.options ? pre : minimist([...loadDefaults(pre.options), ...argv], minimistOptions);
+
+if (program.L) {
+  if (Array.isArray(program.L)) {
+    console.error('ctags: Warning: -L option specified more than once, last value used');
+    program.L = program.L[program.L.length - 1];
+  }
+}
 
 if (program.n) {
   program.excmd = 'number';
@@ -121,7 +129,7 @@ const existingTags = (program.append && program.f !== '-') ? safeReadTags(progra
 
 const outputStream = program.f === '-' ? process.stdout : fs.createWriteStream(program.f);
 
-const dir = (function () {
+const dir = (() => {
   if (program.p) {
     return path.dirname(path.resolve(program.p));
   }
@@ -131,30 +139,45 @@ const dir = (function () {
 
 const extGlob = program.map.replace(/^\./, '').replace(/\./g, ',');
 
-const file = (function () {
+const recurseFiles = inputs => {
+  return inputs.reduce((files, file) => {
+    const isdir = fs.lstatSync(file).isDirectory();
+
+    if (isdir) {
+      const pattern = path.join(path.relative(process.cwd(), path.resolve(file)), '**/*.{' + extGlob + '}');
+
+      return files.concat(glob.sync(pattern, {
+        nosort: true,
+        silent: true,
+        ignore: program.exclude
+      }));
+    }
+
+    return files.concat(file);
+  }, []);
+};
+
+const listFiles = () => {
+  try {
+    return fs.readFileSync(program.L).split(/\n/).filter(line => line.trim());
+  } catch (error) {
+    console.error(`ctags: cannot open list file "${program.L}" : No such file or directory`);
+  }
+};
+
+const files = () => {
+  if (program.L) {
+    return listFiles();
+  }
+
   const inputs = program._;
-  const files = program.recurse === 'yes' ?
-    inputs.reduce((files, file) => {
-      const isdir = fs.lstatSync(file).isDirectory();
 
-      if (isdir) {
-        const pattern = path.join(path.relative(process.cwd(), path.resolve(file)), '**/*.{' + extGlob + '}');
+  if (program.recurse) {
+    return recurseFiles(inputs);
+  }
 
-        return files.concat(glob.sync(pattern, {
-          nosort: true,
-          silent: true,
-          ignore: program.exclude
-        }));
-      }
-
-      return files.concat(file);
-    }, []) :
-    inputs;
-
-  return files.map(file => {
-    return path.resolve(process.cwd(), file);
-  });
-})();
+  return inputs;
+};
 
 const outputTags = function (tags, options) {
   const normalizedTags = program.sort === 'yes' ? sortBy(flatten(tags), item => item.name) : flatten(tags);
@@ -203,13 +226,14 @@ const parse = function (ctx, fn) {
   });
 };
 
-const fromFiles = function () {
-  const files = Array.isArray(file) ? file : [file];
+const fromFiles = function (inputs) {
+  const files = flatten([inputs]);
   async.map(
     files,
     (file, fn) => {
-      fs.readFile(file, 'utf8', (err, content) => {
+      fs.readFile(path.resolve(process.cwd(), file), 'utf8', (err, content) => {
         if (err) {
+          console.error(`ctags: cannot open source file "${file}" : No such file or directory`);
           return fn(null, err);
         }
 
@@ -227,4 +251,19 @@ const fromFiles = function () {
   );
 };
 
-fromFiles();
+if (program.L === '-') {
+  collect(process.stdin, (err, content) => {
+    if (err) {
+      throw err;
+    }
+
+    if (Buffer.isBuffer(content)) {
+      content = content.toString();
+    }
+
+    fromFiles(content.split(/\n/).filter(line => line.trim()));
+  });
+} else {
+  fromFiles(files());
+}
+
