@@ -25,7 +25,6 @@ const minimistOptions = {
   string: [
     'f',
     'p',
-    'append',
     'exclude',
     'excmd',
     'map',
@@ -37,6 +36,7 @@ const minimistOptions = {
     'n',
     'N',
     'R',
+    'append',
     'json',
     'help',
     'version'
@@ -103,6 +103,16 @@ if (!program._.length) {
   process.exit(1);
 }
 
+const safeReadTags = file => {
+  try {
+    return fs.readFileSync(file, 'utf8').split(/\n/g).map(line => `${line}\n`);
+  } catch (error) { }
+
+  return null;
+};
+
+const existingTags = (program.append && program.f !== '-') ? safeReadTags(program.f) : null;
+
 const outputStream = program.f === '-' ? process.stdout : fs.createWriteStream(program.f);
 
 const dir = (function () {
@@ -143,7 +153,9 @@ const file = (function () {
 const outputTags = function (tags, options) {
   const normalizedTags = program.sort === 'yes' ? sortBy(flatten(tags), item => item.name) : flatten(tags);
   const ctags = flatten(jsctags.ctags(normalizedTags, options));
-  outputStream.write(ctags.join(''));
+  const resultTags = existingTags ? sortBy(existingTags.concat(ctags), line => line.split(/\t/)[0]) : ctags;
+
+  outputStream.write(resultTags.join(''));
   outputStream.end();
 };
 
@@ -161,7 +173,7 @@ const onResults = function (err, results) {
 
   const tags = results.filter(res => {
     if (res instanceof Error) {
-      console.error(err);
+      console.error(res);
       return false;
     }
 
