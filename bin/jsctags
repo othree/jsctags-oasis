@@ -185,27 +185,6 @@ const parse = function (ctx, fn) {
   });
 };
 
-const fromStdin = function () {
-  collect(process.stdin, (err, content) => {
-    if (err) {
-      throw err;
-    }
-
-    if (Buffer.isBuffer(content)) {
-      content = content.toString();
-    }
-
-    parse(
-      {
-        file,
-        dir,
-        content
-      },
-      onResults
-    );
-  });
-};
-
 const fromFiles = function () {
   const files = Array.isArray(file) ? file : [file];
   async.map(
@@ -230,4 +209,4 @@ const fromFiles = function () {
   );
 };
 
-(!program._.length && !program.find ? fromStdin : fromFiles)();
+fromFiles();
