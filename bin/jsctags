@@ -25,6 +25,7 @@ const minimistOptions = {
   string: [
     'f',
     'p',
+    'append',
     'exclude',
     'excmd',
     'map',
