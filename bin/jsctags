@@ -40,6 +40,9 @@ const minimistOptions = {
     'help',
     'version'
   ],
+  alias: {
+    o: 'f'
+  },
   default: {
     f: 'tags',
     exclude: ['node_modules/**/*'],
