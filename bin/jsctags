@@ -34,6 +34,7 @@ const minimistOptions = {
   ],
   boolean: [
     'n',
+    'u',
     'N',
     'R',
     'append',
@@ -42,6 +43,7 @@ const minimistOptions = {
     'version'
   ],
   alias: {
+    a: 'append',
     o: 'f'
   },
   default: {
@@ -62,6 +64,10 @@ if (program.n) {
   program.excmd = 'number';
 } else if (program.N) {
   program.excmd = 'pattern';
+}
+
+if (program.u) {
+  program.sort = 'no';
 }
 
 if (program.R) {
