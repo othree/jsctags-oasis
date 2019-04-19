@@ -112,7 +112,7 @@ if (program.version) {
   process.exit(1);
 }
 
-if (!program._.length) {
+if (!program._.length && !program.L) {
   console.log('jsctags: No files specified. Try "jsctags --help".');
   process.exit(1);
 }
@@ -159,9 +159,10 @@ const recurseFiles = inputs => {
 
 const listFiles = () => {
   try {
-    return fs.readFileSync(program.L).split(/\n/).filter(line => line.trim());
+    return fs.readFileSync(program.L, 'utf-8').split(/\n/).filter(line => line.trim());
   } catch (error) {
     console.error(`ctags: cannot open list file "${program.L}" : No such file or directory`);
+    process.exit(1);
   }
 };
 
@@ -180,7 +181,7 @@ const files = () => {
 };
 
 const outputTags = function (tags, options) {
-  const normalizedTags = program.sort === 'yes' ? sortBy(flatten(tags), item => item.name) : flatten(tags);
+  const normalizedTags = program.sort === 'yes' ? sortBy(flatten(tags), item => item.name + ' ' + item.tagfile) : flatten(tags);
   const ctags = flatten(jsctags.ctags(normalizedTags, options));
   const resultTags = existingTags ? sortBy(existingTags.concat(ctags), line => line.split(/\t/)[0]) : ctags;
 
