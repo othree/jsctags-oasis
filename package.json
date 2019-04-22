@@ -17,6 +17,7 @@
     "jsctags": "bin/jsctags"
   },
   "files": [
+    "bin",
     "src",
     "lib"
   ],
