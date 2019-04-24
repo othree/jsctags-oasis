@@ -51,7 +51,7 @@ const minimistOptions = {
     f: 'tags',
     exclude: ['node_modules/**/*'],
     excmd: 'number',
-    map: '.js.jsx',
+    map: '.js.jsx.cjs.mjs',
     recurse: 'no',
     sort: 'yes'
   }
