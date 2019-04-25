@@ -3,7 +3,6 @@ const isString = require('lodash.isstring');
 const includes = require('lodash.includes');
 const isUndefined = require('lodash.isundefined');
 const isObject = require('lodash.isplainobject');
-const isArray = require('lodash.isarray');
 const isFunction = require('lodash.isfunction');
 const sortBy = require('lodash.sortby');
 const without = require('lodash.without');
@@ -340,7 +339,7 @@ Parser.prototype.push = function (tag) {
 
   const span = tag.origin['!span'];
 
-  if (!isArray(this.bySpan[span])) {
+  if (!Array.isArray(this.bySpan[span])) {
     this.bySpan[span] = [];
   }
 

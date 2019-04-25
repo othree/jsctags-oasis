@@ -1,7 +1,5 @@
 // Based on DoctorJS (https://github.com/drudge/doctorjs/blob/node/jsctags/ctags/writer.js)
 
-const isArray = require('lodash.isarray');
-
 const ESCAPES = {
   '\\': '\\\\',
   '\n': '\\n',
@@ -21,7 +19,7 @@ const SPECIAL_FIELDS = {
 
 const convert = function (tags, options) {
   return tags.map(tag => {
-    if (isArray(tag)) {
+    if (Array.isArray(tag)) {
       return convert(tag, options);
     }
 
