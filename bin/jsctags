@@ -115,7 +115,7 @@ Options:
 }
 
 if (program.version) {
-  console.log('jsctags-oasis 0.0.8');
+  console.log('jsctags-oasis 0.0.9');
   process.exit(1);
 }
 
