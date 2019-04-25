@@ -22,7 +22,7 @@ program
   .option('--excmd <cmd>', 'Determines the type of EX command used to locate tags in the source file.', /^(number|pattern)$/i, 'number')
   .option('--json', 'Output JSON format.')
   .option('--map <map>', 'Controls how file names are mapped to JavaScript language.', '.js.jsx')
-  .option('--optionss <map>', 'Controls how file names are mapped to JavaScript language.', '.js.jsx')
+  .option('--optionss <file>', 'Read additional options from file.', collection, [])
   .option('--recurse <yes|no>', 'Recurse  into  directories encountered in the list of supplied files.', /^(yes|no)$/i, 'no')
   .option('--sort <yes|no>', 'Indicates whether the tag file should be sorted on the tag name', /^(yes|no)$/i, 'yes')
   .parse(process.argv);

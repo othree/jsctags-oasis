@@ -104,7 +104,7 @@ Options:
   --excmd <cmd>        Determines the type of EX command used to locate tags in the source file. (default: "number")
   --json               Output JSON format.
   --map <map>          Controls how file names are mapped to JavaScript language. (default: ".js.jsx")
-  --optionss <map>     Controls how file names are mapped to JavaScript language. (default: ".js.jsx")
+  --options <file>     Read additional options from file.
   --recurse <yes|no>   Recurse  into  directories encountered in the list of supplied files. (default: "no")
   --sort <yes|no>      Indicates whether the tag file should be sorted on the tag name (default: "yes")
   --help               Output usage information.
