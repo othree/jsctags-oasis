@@ -162,7 +162,7 @@ Parser.prototype.fromTree = function (tree, parent) {
       return key.replace(/\s/g, '');
     })
     .filter(key => {
-      return !/\s/.test(key)
+      return !/\s/.test(key);
     })
     .map(function (name) {
       return this.onNode(name, tree[name], parent);
