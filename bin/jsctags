@@ -123,9 +123,22 @@ if (!program._.length && !program.L) {
   process.exit(1);
 }
 
+const readExcludes = file => {
+  try {
+    return fs.readFileSync(file, 'utf8').split(/\n/g).filter(line => line);
+  } catch (error) {
+    console.log(`jsctags: cannot open "${file}" : No such file or directory`);
+    process.exit(1);
+  }
+};
+
+program.excludes = flatten([program.exclude]).reduce((list, current) => {
+  return list.concat((/^@/.test(current)) ? readExcludes(current.slice(1)) : current);
+}, []);
+
 const safeReadTags = file => {
   try {
-    return fs.readFileSync(file, 'utf8').split(/\n/g).map(line => `${line}\n`);
+    return fs.readFileSync(file, 'utf8').split(/\n/g).filter(line => line).map(line => `${line}\n`);
   } catch (error) { }
 
   return null;
@@ -155,7 +168,7 @@ const recurseFiles = inputs => {
       return files.concat(glob.sync(pattern, {
         nosort: true,
         silent: true,
-        ignore: program.exclude
+        ignore: program.excludes
       }));
     }
 
