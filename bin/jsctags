@@ -3,6 +3,7 @@
 const minimist = require('minimist');
 const path = require('path');
 const glob = require('glob');
+const globrex = require('globrex');
 const collect = require('collect-stream');
 const flatten = require('lodash.flatten');
 const sortBy = require('lodash.sortby');
@@ -49,7 +50,7 @@ const minimistOptions = {
   },
   default: {
     f: 'tags',
-    exclude: ['node_modules/**/*'],
+    exclude: ['node_modules/*', 'flow-typed/*'],
     excmd: 'number',
     map: '.js.jsx.cjs.mjs',
     recurse: 'no',
@@ -136,6 +137,10 @@ program.excludes = flatten([program.exclude]).reduce((list, current) => {
   return list.concat((/^@/.test(current)) ? readExcludes(current.slice(1)) : current);
 }, []);
 
+program.ignore = program.excludes.filter(exclude => {
+  return /[^*]\*$/.test(exclude);
+}).map(ignore => `${ignore}*`.replace(/^\*[^*]/, '**'));
+
 const safeReadTags = file => {
   try {
     return fs.readFileSync(file, 'utf8').split(/\n/g).filter(line => line).map(line => `${line}\n`);
@@ -168,7 +173,13 @@ const recurseFiles = inputs => {
       return files.concat(glob.sync(pattern, {
         nosort: true,
         silent: true,
-        ignore: program.excludes
+        ignore: program.ignore
+      }).filter(file => {
+        const basename = path.basename(file);
+        return !program.excludes.some(exclude => {
+          const pattern = globrex(exclude).regex;
+          return (pattern.test(file) || pattern.test(basename));
+        });
       }));
     }
 
