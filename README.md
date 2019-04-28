@@ -14,8 +14,19 @@ npm install -g jsctags-oasis
 
 ## Usage
 
+Just execute:
+
+```
+jsctags -R .
+```
+
+And it will generate `tags` file for you.
+
+For more options:
+
+
 ```sh
-Usage: help [options] <file ...>
+Usage: jsctags [options] <file ...>
 
 Options:
   -a                   Equivalent to --append
